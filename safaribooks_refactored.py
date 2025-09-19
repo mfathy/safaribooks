@@ -225,8 +225,8 @@ class SafariBooksDownloader:
     Can be used both programmatically and via CLI.
     """
     
-    LOGIN_URL = ORLY_BASE_URL + "/member/auth/login/"
-    LOGIN_ENTRY_URL = SAFARI_BASE_URL + "/login/unified/?next=/home/"
+    LOGIN_URL = API_ORIGIN_URL + "/api/web/member/auth/login/"
+    LOGIN_ENTRY_URL = SAFARI_BASE_URL + "/login/"
     API_TEMPLATE = SAFARI_BASE_URL + "/api/v1/book/{0}/"
 
     HEADERS = {
@@ -270,9 +270,13 @@ class SafariBooksDownloader:
                 cookie_key, cookie_value = morsel.split(";")[0].split("=")
                 self.session.cookies.set(cookie_key, cookie_value)
 
-    def requests_provider(self, url, is_post=False, data=None, perform_redirect=True, **kwargs):
+    def requests_provider(self, url, is_post=False, data=None, perform_redirect=True, timeout=30, **kwargs):
         """Make HTTP requests with proper error handling and cookie management."""
         try:
+            # Add timeout to all requests if not already specified
+            if 'timeout' not in kwargs:
+                kwargs['timeout'] = timeout
+            
             response = getattr(self.session, "post" if is_post else "get")(
                 url,
                 data=data,
@@ -293,79 +297,54 @@ class SafariBooksDownloader:
             return 0
 
         if response.is_redirect and perform_redirect:
-            return self.requests_provider(response.next.url, is_post, None, perform_redirect)
+            return self.requests_provider(response.next.url, is_post, None, perform_redirect, **kwargs)
 
         return response
 
     def authenticate(self, credentials: Optional[tuple] = None) -> None:
         """
-        Authenticate with Safari Books Online.
+        Authenticate with Safari Books Online using cookies.
         
         Args:
-            credentials: Tuple of (email, password). If None, loads from cookies.
+            credentials: Deprecated. Use cookie extraction tool instead.
         """
-        if not credentials:
-            if not os.path.isfile(self.cookies_file):
-                raise ValueError("No cookies file found and no credentials provided. "
-                               "Please use --cred or --login options, or ensure cookies.json exists.")
+        if credentials:
+            self.display.info("Direct login is no longer supported.", state=True)
+            self.display.info("Please use the cookie extraction tool instead.", state=True)
+            raise ValueError(
+                "Direct login is no longer supported due to changes in O'Reilly's authentication system.\n"
+                "Please use the cookie extraction tool instead:\n"
+                "1. Log into Safari Books Online in your browser\n"
+                "2. Run: python3 extract_chrome_cookies.py\n"
+                "3. Use the script without --cred or --login options"
+            )
+        
+        if not os.path.isfile(self.cookies_file):
+            raise ValueError(
+                "No cookies file found. Please extract cookies first:\n"
+                "1. Log into Safari Books Online in your browser\n"
+                "2. Run: python3 extract_chrome_cookies.py\n"
+                "3. Try again without --cred or --login options"
+            )
 
-            self.session.cookies.update(json.load(open(self.cookies_file)))
-        else:
-            self.display.info("Logging into Safari Books Online...", state=True)
-            self.do_login(*credentials)
-            json.dump(self.session.cookies.get_dict(), open(self.cookies_file, 'w'))
-
+        self.display.info("Loading authentication cookies...", state=True)
+        self.session.cookies.update(json.load(open(self.cookies_file)))
         self.check_login()
 
     def do_login(self, email: str, password: str) -> None:
-        """Perform login with email and password."""
-        response = self.requests_provider(self.LOGIN_ENTRY_URL)
-        if response == 0:
-            raise ConnectionError("Unable to reach Safari Books Online. Try again...")
-
-        next_parameter = None
-        try:
-            next_parameter = parse_qs(urlparse(response.request.url).query)["next"][0]
-        except (AttributeError, ValueError, IndexError):
-            raise ValueError("Unable to complete login on Safari Books Online. Try again...")
-
-        redirect_uri = API_ORIGIN_URL + quote_plus(next_parameter)
-
-        response = self.requests_provider(
-            self.LOGIN_URL,
-            is_post=True,
-            json={
-                "email": email,
-                "password": password,
-                "redirect_uri": redirect_uri
-            },
-            perform_redirect=False
+        """Perform login with email and password.
+        
+        Note: This method is deprecated as O'Reilly has changed their login system.
+        Please use the cookie extraction tool instead:
+        python3 extract_chrome_cookies.py
+        """
+        raise ValueError(
+            "Direct login is no longer supported due to changes in O'Reilly's authentication system.\n"
+            "Please use the cookie extraction tool instead:\n"
+            "1. Log into Safari Books Online in your browser\n"
+            "2. Run: python3 extract_chrome_cookies.py\n"
+            "3. Use the script without --cred or --login options"
         )
-
-        if response == 0:
-            raise ConnectionError("Unable to perform auth to Safari Books Online. Try again...")
-
-        if response.status_code != 200:
-            try:
-                error_page = html.fromstring(response.text)
-                errors_message = error_page.xpath("//ul[@class='errorlist']//li/text()")
-                recaptcha = error_page.xpath("//div[@class='g-recaptcha']")
-                messages = (["    `%s`" % error for error in errors_message
-                             if "password" in error or "email" in error] if len(errors_message) else []) + \
-                           (["    `ReCaptcha required (wait or do logout from the website).`"] if len(
-                               recaptcha) else [])
-                raise ValueError("Unable to perform auth login to Safari Books Online.\n" + 
-                               "Details:\n" + "%s" % "\n".join(
-                                   messages if len(messages) else ["    Unexpected error!"]))
-            except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
-                self.display.error(parsing_error)
-                raise ValueError("Login went wrong and encountered an error "
-                               "trying to parse the login details. Try again...")
-
-        self.jwt = response.json()
-        response = self.requests_provider(self.jwt["redirect_uri"])
-        if response == 0:
-            raise ConnectionError("Unable to reach Safari Books Online after login. Try again...")
 
     def check_login(self) -> None:
         """Validate that the session is still active."""

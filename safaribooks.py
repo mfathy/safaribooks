@@ -137,7 +137,7 @@ class Display:
                      .format(*self.last_request))
 
     def intro(self):
-        output = self.SH_YELLOW + (r"""
+        output = self.SH_YELLOW + ("""
        ____     ___         _
       / __/__ _/ _/__ _____(_)
      _\ \/ _ `/ _/ _ `/ __/ /
@@ -145,7 +145,7 @@ class Display:
       / _ )___  ___  / /__ ___
      / _  / _ \/ _ \/  '_/(_-<
     /____/\___/\___/_/\_\/___/
-""" if random() > 0.5 else r"""
+""" if random() > 0.5 else """
  ██████╗     ██████╗ ██╗  ██╗   ██╗██████╗
 ██╔═══██╗    ██╔══██╗██║  ╚██╗ ██╔╝╚════██╗
 ██║   ██║    ██████╔╝██║   ╚████╔╝   ▄███╔╝
@@ -964,6 +964,11 @@ class SafariBooks:
         subjects = "\n".join("<dc:subject>{0}</dc:subject>".format(escape(sub.get("name", "n/d")))
                              for sub in self.book_info.get("subjects", []))
 
+        cover_id = None
+        match = re.search(r'/(\w+)\.', self.cover)
+        if match is not None:
+            cover_id = match.group(1)
+
         return self.CONTENT_OPF.format(
             (self.book_info.get("isbn",  self.book_id)),
             escape(self.book_title),
@@ -973,7 +978,7 @@ class SafariBooks:
             ", ".join(escape(pub.get("name", "")) for pub in self.book_info.get("publishers", [])),
             escape(self.book_info.get("rights", "")),
             self.book_info.get("issued", ""),
-            self.cover,
+            f'img_{cover_id}' if cover_id else self.cover,
             "\n".join(manifest),
             "\n".join(spine),
             self.book_chapters[0]["filename"].replace(".html", ".xhtml")
@@ -1051,7 +1056,7 @@ class SafariBooks:
             os.remove(zip_file + ".zip")
 
         shutil.make_archive(zip_file, 'zip', self.BOOK_PATH)
-        os.rename(zip_file + ".zip", os.path.join(self.BOOK_PATH, self.book_id) + ".epub")
+        os.rename(zip_file + ".zip", os.path.join(self.BOOK_PATH, self.book_title) + ".epub")
 
 
 # MAIN
@@ -1095,31 +1100,25 @@ if __name__ == "__main__":
 
     args_parsed = arguments.parse_args()
     if args_parsed.cred or args_parsed.login:
-        print("WARNING: Due to recent changes on ORLY website, \n" \
-                "the `--cred` and `--login` options are temporarily disabled.\n"
-                "    Please use the `cookies.json` file to authenticate your account.\n"
-                "    See: https://github.com/lorenzodifuccia/safaribooks/issues/358")
-        arguments.exit()
-        
-        # user_email = ""
-        # pre_cred = ""
+        user_email = ""
+        pre_cred = ""
 
-        # if args_parsed.cred:
-        #     pre_cred = args_parsed.cred
+        if args_parsed.cred:
+            pre_cred = args_parsed.cred
 
-        # else:
-        #     user_email = input("Email: ")
-        #     passwd = getpass.getpass("Password: ")
-        #     pre_cred = user_email + ":" + passwd
+        else:
+            user_email = input("Email: ")
+            passwd = getpass.getpass("Password: ")
+            pre_cred = user_email + ":" + passwd
 
-        # parsed_cred = SafariBooks.parse_cred(pre_cred)
+        parsed_cred = SafariBooks.parse_cred(pre_cred)
 
-        # if not parsed_cred:
-        #     arguments.error("invalid credential: %s" % (
-        #         args_parsed.cred if args_parsed.cred else (user_email + ":*******")
-        #     ))
+        if not parsed_cred:
+            arguments.error("invalid credential: %s" % (
+                args_parsed.cred if args_parsed.cred else (user_email + ":*******")
+            ))
 
-        # args_parsed.cred = parsed_cred
+        args_parsed.cred = parsed_cred
 
     else:
         if args_parsed.no_cookies:
