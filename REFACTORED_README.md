@@ -29,6 +29,17 @@ safaribooks/
 └── REFACTORED_README.md         # This file
 ```
 
+## 🚀 Quick Start
+
+### **Setup (First Time Only)**
+```bash
+# Install dependencies
+python3 setup.py
+
+# Or manually install dependencies
+python3 -m pip install --break-system-packages requests lxml
+```
+
 ## 🔧 Usage
 
 ### **Programmatic Usage (New)**
@@ -223,6 +234,42 @@ The refactored code maintains the same license and contribution guidelines as th
 4. Add configuration management
 5. Implement async downloading capabilities
 
+## 🔧 Troubleshooting
+
+### **"ModuleNotFoundError: No module named 'requests'"**
+```bash
+# Install dependencies
+python3 -m pip install --break-system-packages requests lxml
+
+# Or use the setup script
+python3 setup.py
+```
+
+### **"Authentication issue: unable to access profile page"**
+This means your cookies are expired. You need to:
+1. Log into Safari Books Online in your browser
+2. Use the `--cred` or `--login` options to authenticate
+3. Or update your `cookies.json` file
+
+### **"externally-managed-environment" Error**
+This is a macOS Python protection. Use:
+```bash
+python3 -m pip install --break-system-packages requests lxml
+```
+
+### **Testing the Installation**
+```bash
+# Test imports
+python3 -c "from safaribooks_refactored import download_book; print('✅ Working!')"
+
+# Test CLI
+python3 safaribooks_refactored.py --help
+
+# Run comprehensive tests
+python3 test_comparison.py
+```
+
 ## 📄 License
 
 Same as the original SafariBooks project - see LICENSE.md for details.
+
