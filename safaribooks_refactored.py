@@ -42,6 +42,57 @@ PROFILE_URL = SAFARI_BASE_URL + "/profile/"
 USE_PROXY = False
 PROXIES = {"https": "https://127.0.0.1:8080"}
 
+# EPUB Templates
+CONTAINER_XML = '''<?xml version="1.0" encoding="UTF-8"?>
+<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+    <rootfiles>
+        <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
+    </rootfiles>
+</container>'''
+
+CONTENT_OPF_TEMPLATE = '''<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier id="BookId" opf:scheme="ISBN">{isbn}</dc:identifier>
+        <dc:title>{title}</dc:title>
+        <dc:creator opf:file-as="{authors}" opf:role="aut">{authors}</dc:creator>
+        <dc:description>{description}</dc:description>
+        <dc:publisher>{publisher}</dc:publisher>
+        <dc:rights>{rights}</dc:rights>
+        <dc:date>{release_date}</dc:date>
+        <dc:language>en</dc:language>
+    </metadata>
+    <manifest>
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+{manifest_items}
+    </manifest>
+    <spine toc="ncx">
+{spine_items}
+    </spine>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.xhtml"/>
+    </guide>
+</package>'''
+
+TOC_NCX_TEMPLATE = '''<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="{book_id}"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>{title}</text>
+    </docTitle>
+    <docAuthor>
+        <text>{authors}</text>
+    </docAuthor>
+    <navMap>
+{navmap}
+    </navMap>
+</ncx>'''
+
 
 class Display:
     BASE_FORMAT = logging.Formatter(
@@ -113,6 +164,11 @@ class Display:
             self.in_error = True
         self.log(error)
         output = self.SH_BG_RED + "[#]" + self.SH_DEFAULT + " %s" % error
+        self.out(output)
+
+    def warning(self, warning):
+        self.log(warning)
+        output = self.SH_BG_YELLOW + "[!]" + self.SH_DEFAULT + " %s" % warning
         self.out(output)
 
     def exit(self, error):
@@ -280,7 +336,7 @@ class SafariBooksDownloader:
             response = getattr(self.session, "post" if is_post else "get")(
                 url,
                 data=data,
-                allow_redirects=False,
+                allow_redirects=perform_redirect,
                 **kwargs
             )
 
@@ -348,7 +404,7 @@ class SafariBooksDownloader:
 
     def check_login(self) -> None:
         """Validate that the session is still active."""
-        response = self.requests_provider(PROFILE_URL, perform_redirect=False)
+        response = self.requests_provider(PROFILE_URL, perform_redirect=True)
 
         if response == 0:
             raise ConnectionError("Unable to reach Safari Books Online. Try again...")
@@ -378,6 +434,148 @@ class SafariBooksDownloader:
                 response[key] = 'n/a'
 
         return response
+
+    def extract_metadata(self, book_id: str, session: requests.Session, output_dir: str) -> Dict[str, Any]:
+        """
+        Extract comprehensive metadata for a book and save to metadata.json
+        
+        Args:
+            book_id (str): The book ID
+            session: The authenticated session object
+            output_dir (str): Directory to save metadata.json
+            
+        Returns:
+            dict: Extracted metadata with defaults for missing fields
+        """
+        self.display.info("Extracting book metadata...")
+        
+        # Get book info from API
+        book_info = self.get_book_info(book_id)
+        
+        # Extract and normalize metadata
+        metadata = {
+            "book_id": book_id,
+            "title": book_info.get("title", "Unknown Title"),
+            "authors": [author.get("name", "Unknown Author") for author in book_info.get("authors", [])],
+            "publisher": ", ".join([pub.get("name", "") for pub in book_info.get("publishers", [])]) or "Unknown Publisher",
+            "isbn": book_info.get("isbn", book_id),
+            "description": book_info.get("description", ""),
+            "subjects": [sub.get("name", "") for sub in book_info.get("subjects", [])],
+            "rights": book_info.get("rights", ""),
+            "release_date": book_info.get("issued", ""),
+            "web_url": book_info.get("web_url", ""),
+            "cover_url": book_info.get("cover", ""),
+            "cover_filename": None,
+            "extraction_date": self.display.logger.handlers[0].baseFilename if self.display.logger.handlers else "",
+            "raw_api_data": book_info  # Keep original API response for debugging
+        }
+        
+        # Download cover image if available
+        if metadata["cover_url"]:
+            cover_filename = self.download_cover_image(metadata["cover_url"], session, output_dir, book_id)
+            metadata["cover_filename"] = cover_filename
+        
+        # Save metadata to JSON file
+        metadata_file = os.path.join(output_dir, "metadata.json")
+        try:
+            with open(metadata_file, 'w', encoding='utf-8') as f:
+                json.dump(metadata, f, indent=2, ensure_ascii=False)
+            self.display.info(f"Metadata saved to: {metadata_file}")
+        except Exception as e:
+            self.display.error(f"Failed to save metadata: {e}")
+        
+        return metadata
+
+    def download_cover_image(self, cover_url: str, session: requests.Session, output_dir: str, book_id: str) -> Optional[str]:
+        """
+        Download cover image and save to Images folder
+        
+        Args:
+            cover_url (str): URL of the cover image
+            session: The authenticated session object
+            output_dir (str): Directory to save the image
+            
+        Returns:
+            str: Filename of the downloaded cover image, or None if failed
+        """
+        if not cover_url:
+            return None
+            
+        try:
+            self.display.info(f"Downloading cover image: {cover_url}")
+            
+            # Extract filename from URL
+            parsed_url = urlparse(cover_url)
+            filename = os.path.basename(parsed_url.path)
+            
+            # If no filename in URL, generate one
+            if not filename or '.' not in filename:
+                filename = f"cover_{book_id}.jpg"
+            
+            # Ensure Images directory exists
+            images_dir = os.path.join(output_dir, "Images")
+            os.makedirs(images_dir, exist_ok=True)
+            
+            # Download the image
+            response = session.get(cover_url, stream=True, timeout=30)
+            response.raise_for_status()
+            
+            # Save the image
+            cover_path = os.path.join(images_dir, filename)
+            with open(cover_path, 'wb') as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    f.write(chunk)
+            
+            self.display.info(f"Cover image saved: {cover_path}")
+            return filename
+            
+        except Exception as e:
+            self.display.error(f"Failed to download cover image: {e}")
+            return None
+
+    def load_metadata(self, output_dir: str) -> Dict[str, Any]:
+        """
+        Load metadata from metadata.json file
+        
+        Args:
+            output_dir (str): Directory containing metadata.json
+            
+        Returns:
+            dict: Metadata dictionary with defaults for missing fields
+        """
+        metadata_file = os.path.join(output_dir, "metadata.json")
+        
+        # Default metadata structure
+        default_metadata = {
+            "book_id": self.book_id,
+            "title": "Unknown Title",
+            "authors": ["Unknown Author"],
+            "publisher": "Unknown Publisher",
+            "isbn": self.book_id,
+            "description": "",
+            "subjects": [],
+            "rights": "",
+            "release_date": "",
+            "web_url": "",
+            "cover_url": "",
+            "cover_filename": None
+        }
+        
+        try:
+            if os.path.exists(metadata_file):
+                with open(metadata_file, 'r', encoding='utf-8') as f:
+                    metadata = json.load(f)
+                # Merge with defaults to ensure all fields exist
+                for key, default_value in default_metadata.items():
+                    if key not in metadata:
+                        metadata[key] = default_value
+                return metadata
+            else:
+                self.display.warning("metadata.json not found, using defaults")
+                return default_metadata
+        except Exception as e:
+            self.display.error(f"Failed to load metadata: {e}")
+            return default_metadata
 
     def get_book_chapters(self, book_id: str, page: int = 1) -> List[Dict[str, Any]]:
         """Fetch book chapters from API."""
@@ -434,6 +632,9 @@ class SafariBooksDownloader:
         clean_book_title = "".join(self.escape_dirname(book_title).split(",")[:2]) + " ({0})".format(book_id)
         book_path = os.path.join(output_dir, clean_book_title)
         
+        # Extract comprehensive metadata and save to JSON (after book directory is created)
+        metadata = self.extract_metadata(book_id, self.session, book_path)
+        
         if not os.path.isdir(book_path):
             os.makedirs(book_path)
         
@@ -451,10 +652,115 @@ class SafariBooksDownloader:
         # Download content
         self._download_content(book_id, book_info, book_chapters, oebps_path, css_path, images_path)
         
+        # Create EPUB
+        self.display.info("Creating EPUB file...", state=True)
+        self.create_epub(book_path, book_id, book_title, book_chapters, metadata)
+        
         # Save cookies
         json.dump(self.session.cookies.get_dict(), open(self.cookies_file, "w"))
         
         return book_path
+
+    def create_epub(self, book_path: str, book_id: str, book_title: str, 
+                   book_chapters: List[Dict[str, Any]], metadata: Dict[str, Any]) -> None:
+        """Create EPUB file from downloaded content."""
+        # Create mimetype file
+        open(os.path.join(book_path, "mimetype"), "w").write("application/epub+zip")
+        
+        # Create META-INF directory and container.xml
+        meta_info = os.path.join(book_path, "META-INF")
+        if not os.path.isdir(meta_info):
+            os.makedirs(meta_info)
+        
+        open(os.path.join(meta_info, "container.xml"), "wb").write(
+            CONTAINER_XML.encode("utf-8", "xmlcharrefreplace")
+        )
+        
+        # Create content.opf and toc.ncx
+        open(os.path.join(book_path, "OEBPS", "content.opf"), "wb").write(
+            self.create_content_opf(book_path, book_id, book_title, book_chapters, metadata).encode("utf-8", "xmlcharrefreplace")
+        )
+        open(os.path.join(book_path, "OEBPS", "toc.ncx"), "wb").write(
+            self.create_toc(book_path, book_id, book_title, book_chapters, metadata).encode("utf-8", "xmlcharrefreplace")
+        )
+        
+        # Create ZIP archive
+        zip_file = os.path.join(os.path.dirname(book_path), book_id)
+        if os.path.isfile(zip_file + ".zip"):
+            os.remove(zip_file + ".zip")
+        
+        shutil.make_archive(zip_file, 'zip', book_path)
+        epub_filename = os.path.join(book_path, book_title) + ".epub"
+        os.rename(zip_file + ".zip", epub_filename)
+        
+        self.display.done(epub_filename)
+
+    def create_content_opf(self, book_path: str, book_id: str, book_title: str, 
+                          book_chapters: List[Dict[str, Any]], metadata: Dict[str, Any]) -> str:
+        """Create content.opf file for EPUB."""
+        # Get CSS and images from the OEBPS directory
+        oebps_path = os.path.join(book_path, "OEBPS")
+        css_files = next(os.walk(os.path.join(oebps_path, "Styles")))[2] if os.path.exists(os.path.join(oebps_path, "Styles")) else []
+        image_files = next(os.walk(os.path.join(oebps_path, "Images")))[2] if os.path.exists(os.path.join(oebps_path, "Images")) else []
+        
+        manifest = []
+        spine = []
+        
+        # Add chapters to manifest and spine
+        for chapter in book_chapters:
+            filename = chapter["filename"].replace(".html", ".xhtml")
+            manifest.append(f'    <item id="{filename}" href="{filename}" media-type="application/xhtml+xml"/>')
+            spine.append(f'    <itemref idref="{filename}"/>')
+        
+        # Add CSS files to manifest
+        for css_file in css_files:
+            manifest.append(f'    <item id="{css_file}" href="Styles/{css_file}" media-type="text/css"/>')
+        
+        # Add image files to manifest
+        for image_file in image_files:
+            media_type = "image/jpeg" if image_file.lower().endswith(('.jpg', '.jpeg')) else "image/png"
+            manifest.append(f'    <item id="{image_file}" href="Images/{image_file}" media-type="{media_type}"/>')
+        
+        # Load metadata
+        metadata_loaded = self.load_metadata(book_path)
+        
+        return CONTENT_OPF_TEMPLATE.format(
+            isbn=metadata_loaded.get("isbn", book_id),
+            title=metadata_loaded.get("title", book_title),
+            authors=", ".join(metadata_loaded.get("authors", ["Unknown Author"])),
+            description=metadata_loaded.get("description", ""),
+            publisher=metadata_loaded.get("publisher", "Unknown Publisher"),
+            rights=metadata_loaded.get("rights", ""),
+            release_date=metadata_loaded.get("release_date", ""),
+            manifest_items="\n".join(manifest),
+            spine_items="\n".join(spine)
+        )
+
+    def create_toc(self, book_path: str, book_id: str, book_title: str, 
+                  book_chapters: List[Dict[str, Any]], metadata: Dict[str, Any]) -> str:
+        """Create toc.ncx file for EPUB."""
+        # Load metadata
+        metadata_loaded = self.load_metadata(book_path)
+        
+        # Create navigation map
+        navmap = []
+        for i, chapter in enumerate(book_chapters, 1):
+            filename = chapter["filename"].replace(".html", ".xhtml")
+            # Use 'title' field if 'label' is not available
+            chapter_title = chapter.get("label", chapter.get("title", f"Chapter {i}"))
+            navmap.append(f'''    <navPoint id="navPoint-{i}" playOrder="{i}">
+        <navLabel>
+            <text>{chapter_title}</text>
+        </navLabel>
+        <content src="{filename}"/>
+    </navPoint>''')
+        
+        return TOC_NCX_TEMPLATE.format(
+            book_id=book_id,
+            title=metadata_loaded.get("title", book_title),
+            authors=", ".join(metadata_loaded.get("authors", ["Unknown Author"])),
+            navmap="\n".join(navmap)
+        )
 
     def _download_content(self, book_id: str, book_info: Dict[str, Any], 
                          book_chapters: List[Dict[str, Any]], oebps_path: str, 
@@ -564,8 +870,15 @@ class SafariBooksDownloader:
         book_content = book_content[0]
         book_content.rewrite_links(self._link_replace)
         
+        # Add proper namespace declarations for EPUB compatibility
+        # Find the HTML element in the document tree and add the epub namespace
+        html_element = book_content.getroottree().getroot()
+        if html_element.tag == 'html':
+            html_element.set('xmlns:epub', 'http://www.idpf.org/2007/ops')
+        
         try:
-            xhtml = html.tostring(book_content, method="xml", encoding='unicode')
+            # Output the full HTML document instead of just the book content div
+            xhtml = html.tostring(html_element, method="xml", encoding='unicode')
         except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
             raise ValueError(f"Error parsing HTML: {parsing_error}")
         

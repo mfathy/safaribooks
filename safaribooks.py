@@ -112,6 +112,11 @@ class Display:
         output = self.SH_BG_RED + "[#]" + self.SH_DEFAULT + " %s" % error
         self.out(output)
 
+    def warning(self, warning):
+        self.log(warning)
+        output = self.SH_BG_YELLOW + "[!]" + self.SH_DEFAULT + " %s" % warning
+        self.out(output)
+
     def exit(self, error):
         self.error(str(error))
 
@@ -365,6 +370,10 @@ class SafariBooks:
 
         self.BOOK_PATH = os.path.join(books_dir, self.clean_book_title)
         self.display.set_output_dir(self.BOOK_PATH)
+        
+        # Extract comprehensive metadata and save to JSON
+        self.metadata = self.extract_metadata(self.book_id, self.session)
+        
         self.css_path = ""
         self.images_path = ""
         self.create_dirs()
@@ -546,6 +555,143 @@ class SafariBooks:
                 response[key] = 'n/a'
 
         return response
+
+    def extract_metadata(self, book_id, session):
+        """
+        Extract comprehensive metadata for a book and save to metadata.json
+        
+        Args:
+            book_id (str): The book ID
+            session: The authenticated session object
+            
+        Returns:
+            dict: Extracted metadata with defaults for missing fields
+        """
+        self.display.info("Extracting book metadata...")
+        
+        # Get book info from API
+        book_info = self.get_book_info()
+        
+        # Extract and normalize metadata
+        metadata = {
+            "book_id": book_id,
+            "title": book_info.get("title", "Unknown Title"),
+            "authors": [author.get("name", "Unknown Author") for author in book_info.get("authors", [])],
+            "publisher": ", ".join([pub.get("name", "") for pub in book_info.get("publishers", [])]) or "Unknown Publisher",
+            "isbn": book_info.get("isbn", book_id),
+            "description": book_info.get("description", ""),
+            "subjects": [sub.get("name", "") for sub in book_info.get("subjects", [])],
+            "rights": book_info.get("rights", ""),
+            "release_date": book_info.get("issued", ""),
+            "web_url": book_info.get("web_url", ""),
+            "cover_url": book_info.get("cover", ""),
+            "cover_filename": None,
+            "extraction_date": self.display.logger.handlers[0].baseFilename if self.display.logger.handlers else "",
+            "raw_api_data": book_info  # Keep original API response for debugging
+        }
+        
+        # Download cover image if available
+        if metadata["cover_url"]:
+            cover_filename = self.download_cover_image(metadata["cover_url"], session, book_id)
+            metadata["cover_filename"] = cover_filename
+        
+        # Save metadata to JSON file
+        metadata_file = os.path.join(self.display.output_dir, "metadata.json")
+        try:
+            with open(metadata_file, 'w', encoding='utf-8') as f:
+                json.dump(metadata, f, indent=2, ensure_ascii=False)
+            self.display.info(f"Metadata saved to: {metadata_file}")
+        except Exception as e:
+            self.display.error(f"Failed to save metadata: {e}")
+        
+        return metadata
+
+    def load_metadata(self):
+        """
+        Load metadata from metadata.json file
+        
+        Returns:
+            dict: Metadata dictionary with defaults for missing fields
+        """
+        metadata_file = os.path.join(self.display.output_dir, "metadata.json")
+        
+        # Default metadata structure
+        default_metadata = {
+            "book_id": self.book_id,
+            "title": "Unknown Title",
+            "authors": ["Unknown Author"],
+            "publisher": "Unknown Publisher",
+            "isbn": self.book_id,
+            "description": "",
+            "subjects": [],
+            "rights": "",
+            "release_date": "",
+            "web_url": "",
+            "cover_url": "",
+            "cover_filename": None
+        }
+        
+        try:
+            if os.path.exists(metadata_file):
+                with open(metadata_file, 'r', encoding='utf-8') as f:
+                    metadata = json.load(f)
+                # Merge with defaults to ensure all fields exist
+                for key, default_value in default_metadata.items():
+                    if key not in metadata:
+                        metadata[key] = default_value
+                return metadata
+            else:
+                self.display.warning("metadata.json not found, using defaults")
+                return default_metadata
+        except Exception as e:
+            self.display.error(f"Failed to load metadata: {e}")
+            return default_metadata
+
+    def download_cover_image(self, cover_url, session, book_id):
+        """
+        Download cover image and save to Images folder
+        
+        Args:
+            cover_url (str): URL of the cover image
+            session: The authenticated session object
+            
+        Returns:
+            str: Filename of the downloaded cover image, or None if failed
+        """
+        if not cover_url:
+            return None
+            
+        try:
+            self.display.info(f"Downloading cover image: {cover_url}")
+            
+            # Extract filename from URL
+            parsed_url = urlparse(cover_url)
+            filename = os.path.basename(parsed_url.path)
+            
+            # If no filename in URL, generate one
+            if not filename or '.' not in filename:
+                filename = f"cover_{book_id}.jpg"
+            
+            # Ensure Images directory exists
+            images_dir = os.path.join(self.display.output_dir, "Images")
+            os.makedirs(images_dir, exist_ok=True)
+            
+            # Download the image
+            response = session.get(cover_url, stream=True, timeout=30)
+            response.raise_for_status()
+            
+            # Save the image
+            cover_path = os.path.join(images_dir, filename)
+            with open(cover_path, 'wb') as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    f.write(chunk)
+            
+            self.display.info(f"Cover image saved: {cover_path}")
+            return filename
+            
+        except Exception as e:
+            self.display.error(f"Failed to download cover image: {e}")
+            return None
 
     def get_book_chapters(self, page=1):
         response = self.requests_provider(urljoin(self.api_url, "chapter/?page=%s" % page))
@@ -957,27 +1103,34 @@ class SafariBooks:
             manifest.append("<item id=\"style_{0:0>2}\" href=\"Styles/Style{0:0>2}.css\" "
                             "media-type=\"text/css\" />".format(i))
 
+        # Use metadata from JSON file instead of hardcoded values
+        metadata = self.load_metadata()
+        
         authors = "\n".join("<dc:creator opf:file-as=\"{0}\" opf:role=\"aut\">{0}</dc:creator>".format(
-            escape(aut.get("name", "n/d"))
-        ) for aut in self.book_info.get("authors", []))
+            escape(author)
+        ) for author in metadata.get("authors", ["Unknown Author"]))
 
-        subjects = "\n".join("<dc:subject>{0}</dc:subject>".format(escape(sub.get("name", "n/d")))
-                             for sub in self.book_info.get("subjects", []))
+        subjects = "\n".join("<dc:subject>{0}</dc:subject>".format(escape(subject))
+                             for subject in metadata.get("subjects", []))
 
+        # Handle cover image
         cover_id = None
-        match = re.search(r'/(\w+)\.', self.cover)
-        if match is not None:
-            cover_id = match.group(1)
+        if metadata.get("cover_filename"):
+            cover_id = metadata["cover_filename"].split(".")[0]
+        elif self.cover:
+            match = re.search(r'/(\w+)\.', self.cover)
+            if match is not None:
+                cover_id = match.group(1)
 
         return self.CONTENT_OPF.format(
-            (self.book_info.get("isbn",  self.book_id)),
-            escape(self.book_title),
+            metadata.get("isbn", self.book_id),
+            escape(metadata.get("title", self.book_title)),
             authors,
-            escape(self.book_info.get("description", "")),
+            escape(metadata.get("description", "")),
             subjects,
-            ", ".join(escape(pub.get("name", "")) for pub in self.book_info.get("publishers", [])),
-            escape(self.book_info.get("rights", "")),
-            self.book_info.get("issued", ""),
+            escape(metadata.get("publisher", "Unknown Publisher")),
+            escape(metadata.get("rights", "")),
+            metadata.get("release_date", ""),
             f'img_{cover_id}' if cover_id else self.cover,
             "\n".join(manifest),
             "\n".join(spine),
@@ -1024,11 +1177,15 @@ class SafariBooks:
             )
 
         navmap, _, max_depth = self.parse_toc(response)
+        
+        # Use metadata from JSON file instead of hardcoded values
+        metadata = self.load_metadata()
+        
         return self.TOC_NCX.format(
-            (self.book_info["isbn"] if self.book_info["isbn"] else self.book_id),
+            metadata.get("isbn", self.book_id),
             max_depth,
-            self.book_title,
-            ", ".join(aut.get("name", "") for aut in self.book_info.get("authors", [])),
+            metadata.get("title", self.book_title),
+            ", ".join(metadata.get("authors", ["Unknown Author"])),
             navmap
         )
 
