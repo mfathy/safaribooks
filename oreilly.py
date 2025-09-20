@@ -231,6 +231,8 @@ class OreillyDownloader:
         # EPUB data
         self.cover = None
         self.chapter_stylesheets = []
+        self.css = []
+        self.images = []
         
         # Set up session
         self._setup_session()
@@ -447,7 +449,7 @@ class OreillyDownloader:
             
             # Download CSS and images
             self._download_stylesheets()
-            self._download_images()
+            self._download_assets()
             
             return True
             
@@ -471,6 +473,14 @@ class OreillyDownloader:
                 self.display.warning(f"Failed to download chapter {chapter_num}: HTTP {response.status_code}")
                 return
             
+            # Parse HTML and extract assets
+            try:
+                root = html.fromstring(response.text, base_url=SAFARI_BASE_URL)
+                self._extract_assets(root, chapter)
+            except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
+                self.display.warning(f"Error parsing chapter {chapter_num}: {parsing_error}")
+                return
+            
             # Parse and save chapter
             chapter_html = self._parse_html(response.text, chapter_num)
             filename = f"ch{chapter_num:02d}.xhtml"
@@ -483,6 +493,59 @@ class OreillyDownloader:
             
         except Exception as e:
             self.display.warning(f"Failed to download chapter {chapter_num}: {e}")
+
+    def _extract_assets(self, root, chapter: Dict[str, Any]) -> None:
+        """Extract CSS and image URLs from chapter."""
+        # Extract CSS
+        stylesheet_links = root.xpath("//link[@rel='stylesheet']")
+        for s in stylesheet_links:
+            css_url = urljoin("https:", s.attrib["href"]) if s.attrib["href"][:2] == "//" \
+                else urljoin(SAFARI_BASE_URL, s.attrib["href"])
+            if css_url not in self.css:
+                self.css.append(css_url)
+        
+        # Extract images from chapter metadata
+        if "images" in chapter and len(chapter["images"]):
+            asset_base_url = chapter.get('asset_base_url', '')
+            api_v2_detected = 'v2' in chapter.get('content', '')
+            if api_v2_detected:
+                asset_base_url = SAFARI_BASE_URL + "/api/v2/epubs/urn:orm:book:{}/files".format(self.book_id)
+            
+            for img_url in chapter['images']:
+                if api_v2_detected:
+                    self.images.append(asset_base_url + '/' + img_url)
+                else:
+                    self.images.append(urljoin(asset_base_url, img_url))
+
+    def _process_image_urls(self, root):
+        """Process image URLs in HTML to use local paths."""
+        try:
+            # Find all img tags
+            img_tags = root.xpath('//img')
+            for img in img_tags:
+                src = img.get('src', '')
+                if src:
+                    # Extract filename from URL
+                    filename = src.split('/')[-1]
+                    # Update src to use local path
+                    img.set('src', f'Images/{filename}')
+            
+            # Also process any background-image URLs in style attributes
+            elements_with_style = root.xpath('//*[@style]')
+            for element in elements_with_style:
+                style = element.get('style', '')
+                if 'url(' in style:
+                    # Simple regex replacement for background-image URLs
+                    import re
+                    def replace_url(match):
+                        url = match.group(1)
+                        filename = url.split('/')[-1]
+                        return f'url(Images/{filename})'
+                    new_style = re.sub(r'url\(([^)]+)\)', replace_url, style)
+                    element.set('style', new_style)
+                    
+        except Exception as e:
+            self.display.warning(f"Failed to process image URLs: {e}")
 
     def _parse_html(self, html_content: str, chapter_num: int = 1) -> str:
         """Parse HTML content and convert to XHTML with proper namespaces and styling."""
@@ -497,6 +560,9 @@ class OreillyDownloader:
             
             if content_div:
                 book_content = content_div[0]
+            
+            # Process image URLs to use local paths
+            self._process_image_urls(book_content)
             
             # Ensure epub namespace is declared on the root HTML element
             html_element = book_content.getroottree().getroot()
@@ -771,9 +837,43 @@ figcaption {
                 f.write(css_content)
             
             self.display.info(f"Created stylesheet: {css_file}")
-                
+            
         except Exception as e:
             self.display.warning(f"Failed to create stylesheet: {e}")
+
+    def _download_assets(self):
+        """Download CSS and image assets."""
+        try:
+            # Download CSS files
+            if self.css:
+                self.display.info(f"Downloading book CSSs... ({len(self.css)} files)")
+                css_path = os.path.join(self.BOOK_PATH, "OEBPS", "Styles")
+                for i, css_url in enumerate(self.css):
+                    css_file = os.path.join(css_path, f"Style{i:02d}.css")
+                    if not os.path.isfile(css_file):
+                        response = self.session.get(css_url, timeout=10)
+                        if response.status_code == 200:
+                            with open(css_file, 'wb') as f:
+                                f.write(response.content)
+                            self.display.info(f"Downloaded CSS: Style{i:02d}.css")
+            
+            # Download images
+            if self.images:
+                self.display.info(f"Downloading book images... ({len(self.images)} files)")
+                images_path = os.path.join(self.BOOK_PATH, "OEBPS", "Images")
+                for image_url in self.images:
+                    image_name = image_url.split("/")[-1]
+                    image_path = os.path.join(images_path, image_name)
+                    if not os.path.isfile(image_path):
+                        response = self.session.get(image_url, timeout=10, stream=True)
+                        if response.status_code == 200:
+                            with open(image_path, 'wb') as f:
+                                for chunk in response.iter_content(1024):
+                                    f.write(chunk)
+                            self.display.info(f"Downloaded image: {image_name}")
+            
+        except Exception as e:
+            self.display.warning(f"Failed to download assets: {e}")
 
     def _download_images(self):
         """Download images referenced in the book."""
@@ -851,6 +951,20 @@ figcaption {
             for css_file in css_files:
                 css_id = css_file.replace("/", "_").replace(".", "_")
                 manifest_items.append(f'<item id="{css_id}" href="{css_file}" media-type="text/css"/>')
+            
+            # Add downloaded images to manifest
+            images_path = os.path.join(book_path, "OEBPS", "Images")
+            if os.path.exists(images_path):
+                for image_file in os.listdir(images_path):
+                    if image_file.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                        image_id = f"img_{image_file.replace('.', '_')}"
+                        if image_file.lower().endswith('.png'):
+                            media_type = "image/png"
+                        elif image_file.lower().endswith('.gif'):
+                            media_type = "image/gif"
+                        else:
+                            media_type = "image/jpeg"
+                        manifest_items.append(f'<item id="{image_id}" href="Images/{image_file}" media-type="{media_type}"/>')
             
             # Cover image will be handled separately in the template
             cover_filename = metadata.get("cover_filename", "")
