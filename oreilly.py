@@ -62,11 +62,16 @@ CONTENT_OPF_TEMPLATE = '''<?xml version="1.0" encoding="UTF-8"?>
         <dc:publisher>{publisher}</dc:publisher>
         <dc:date opf:event="publication">{release_date}</dc:date>
         <dc:rights>{rights}</dc:rights>
-        <meta name="cover" content="cover-image"/>
+        <dc:source>{web_url}</dc:source>
+        <dc:format>application/epub+zip</dc:format>
+        <dc:type>Text</dc:type>
+        <meta name="generator" content="Oreilly EPUB Generator"/>
+        <meta name="extraction-date" content="{extraction_date}"/>
+        {cover_meta}
     </metadata>
     <manifest>
         <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
-        <item id="cover-image" href="Images/{cover_filename}" media-type="image/jpeg"/>
+        {cover_manifest}
         {manifest_items}
     </manifest>
     <spine toc="ncx">
@@ -463,7 +468,7 @@ class OreillyDownloader:
                 return
             
             # Parse and save chapter
-            chapter_html = self._parse_html(response.text)
+            chapter_html = self._parse_html(response.text, chapter_num)
             filename = f"ch{chapter_num:02d}.xhtml"
             filepath = os.path.join(self.BOOK_PATH, "OEBPS", filename)
             
@@ -475,8 +480,8 @@ class OreillyDownloader:
         except Exception as e:
             self.display.warning(f"Failed to download chapter {chapter_num}: {e}")
 
-    def _parse_html(self, html_content: str) -> str:
-        """Parse HTML content and convert to XHTML with proper namespaces."""
+    def _parse_html(self, html_content: str, chapter_num: int = 1) -> str:
+        """Parse HTML content and convert to XHTML with proper namespaces and styling."""
         try:
             # Parse HTML
             book_content = html.fromstring(html_content)
@@ -497,40 +502,274 @@ class OreillyDownloader:
             # Convert to XHTML
             xhtml = html.tostring(html_element, method="xml", encoding='unicode')
             
-            # Create full XHTML document
+            # Add page break for chapters (except first chapter)
+            page_break_class = ""
+            if chapter_num > 1:
+                page_break_class = ' class="page-break"'
+            
+            # Create full XHTML document with external CSS reference
             full_xhtml = f'''<!DOCTYPE html>
 <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
 <head>
-<style type="text/css">
-body{{margin:1em;background-color:transparent!important;}}
-#sbo-rt-content *{{text-indent:0pt!important;}}
-#sbo-rt-content .bq{{margin-right:1em!important;}}
-</style>
+    <title>Chapter {chapter_num}</title>
+    <link rel="stylesheet" type="text/css" href="Styles/style.css"/>
 </head>
-<body><div id="sbo-rt-content">{xhtml}</div></body>
+<body{page_break_class}>
+    <div id="sbo-rt-content">{xhtml}</div>
+</body>
 </html>'''
             
             return full_xhtml
             
         except Exception as e:
             self.display.warning(f"Failed to parse HTML: {e}")
-            return f"<html><body><p>Error parsing content: {e}</p></body></html>"
+            return f'''<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+    <title>Chapter {chapter_num}</title>
+    <link rel="stylesheet" type="text/css" href="Styles/style.css"/>
+</head>
+<body>
+    <div id="sbo-rt-content">
+        <p>Error parsing content: {e}</p>
+    </div>
+</body>
+</html>'''
 
     def _download_stylesheets(self):
-        """Download CSS stylesheets."""
+        """Create comprehensive CSS stylesheet for EPUB."""
         try:
-            self.display.info("Downloading book CSSs... (1 files)")
-            # This is a simplified version - in practice you'd extract CSS URLs from chapters
-            css_content = """body{margin:1em;background-color:transparent!important;}
-#sbo-rt-content *{text-indent:0pt!important;}
-#sbo-rt-content .bq{margin-right:1em!important;}"""
+            self.display.info("Creating EPUB stylesheet... (1 file)")
             
-            css_file = os.path.join(self.BOOK_PATH, "OEBPS", "Styles", "Style00.css")
+            # Comprehensive CSS for Kindle readability and EPUB standards
+            css_content = """/* EPUB Stylesheet for O'Reilly Books */
+/* Optimized for Kindle and other e-readers */
+
+/* Base styles */
+body {
+    margin: 0;
+    padding: 1em;
+    background-color: transparent !important;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #333;
+    text-align: left;
+}
+
+/* Page breaks for chapters */
+.page-break {
+    page-break-before: always;
+}
+
+/* Content container */
+#sbo-rt-content {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+}
+
+#sbo-rt-content * {
+    text-indent: 0pt !important;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
+    color: #000;
+}
+
+h1 {
+    font-size: 1.8em;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.2em;
+}
+
+h3 {
+    font-size: 1.3em;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 0.8em;
+    text-align: justify;
+    orphans: 2;
+    widows: 2;
+}
+
+/* Lists */
+ul, ol {
+    margin: 0.5em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.3em;
+}
+
+/* Code and preformatted text */
+code, pre {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.9em;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+}
+
+pre {
+    display: block;
+    margin: 1em 0;
+    padding: 1em;
+    overflow-x: auto;
+    white-space: pre;
+    word-wrap: normal;
+}
+
+pre code {
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+/* Blockquotes */
+blockquote, .bq {
+    margin: 1em 2em;
+    padding: 0.5em 1em;
+    border-left: 4px solid #ccc;
+    background-color: #f9f9f9;
+    font-style: italic;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+    page-break-inside: avoid;
+}
+
+/* Links */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Emphasis */
+em, i {
+    font-style: italic;
+}
+
+strong, b {
+    font-weight: bold;
+}
+
+/* Small text */
+small {
+    font-size: 0.8em;
+}
+
+/* Horizontal rules */
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 2em 0;
+}
+
+/* Figures and captions */
+figure {
+    margin: 1em 0;
+    text-align: center;
+    page-break-inside: avoid;
+}
+
+figcaption {
+    font-size: 0.9em;
+    font-style: italic;
+    margin-top: 0.5em;
+}
+
+/* Kindle-specific optimizations */
+@media amzn-kf8 {
+    body {
+        font-size: 1.2em;
+        line-height: 1.7;
+    }
+    
+    h1 {
+        font-size: 2em;
+    }
+    
+    h2 {
+        font-size: 1.6em;
+    }
+    
+    pre, code {
+        font-size: 0.8em;
+    }
+}
+
+/* Print styles */
+@media print {
+    body {
+        font-size: 12pt;
+        line-height: 1.5;
+    }
+    
+    .page-break {
+        page-break-before: always;
+    }
+}"""
+            
+            css_file = os.path.join(self.BOOK_PATH, "OEBPS", "Styles", "style.css")
             with open(css_file, 'w', encoding='utf-8') as f:
                 f.write(css_content)
+            
+            self.display.info(f"Created stylesheet: {css_file}")
                 
         except Exception as e:
-            self.display.warning(f"Failed to download stylesheets: {e}")
+            self.display.warning(f"Failed to create stylesheet: {e}")
 
     def _download_images(self):
         """Download images referenced in the book."""
@@ -604,15 +843,12 @@ body{{margin:1em;background-color:transparent!important;}}
                 spine_items.append(f'<itemref idref="{item_id}"/>')
             
             # Add CSS files
-            css_files = ["Styles/Style00.css"]
+            css_files = ["Styles/style.css"]
             for css_file in css_files:
                 css_id = css_file.replace("/", "_").replace(".", "_")
                 manifest_items.append(f'<item id="{css_id}" href="{css_file}" media-type="text/css"/>')
             
-            # Add cover image if available
-            cover_filename = metadata.get("cover_filename", "")
-            if cover_filename:
-                manifest_items.append(f'<item id="cover-image" href="Images/{cover_filename}" media-type="image/jpeg"/>')
+            # Cover image will be handled separately in the template
             
             # Format metadata
             author = ", ".join(metadata.get("authors", ["Unknown Author"]))
@@ -620,6 +856,20 @@ body{{margin:1em;background-color:transparent!important;}}
             subject = ", ".join(metadata.get("subjects", ["General"]))
             description = metadata.get("description", "").replace("<", "&lt;").replace(">", "&gt;")
             first_chapter = "ch01.xhtml" if book_chapters else "cover.xhtml"
+            
+            # Handle cover image metadata and manifest
+            cover_meta = ""
+            cover_manifest = ""
+            if cover_filename:
+                cover_meta = '<meta name="cover" content="cover-image"/>'
+                # Determine media type based on file extension
+                if cover_filename.lower().endswith('.png'):
+                    media_type = "image/png"
+                elif cover_filename.lower().endswith('.gif'):
+                    media_type = "image/gif"
+                else:
+                    media_type = "image/jpeg"  # Default to JPEG
+                cover_manifest = f'<item id="cover-image" href="Images/{cover_filename}" media-type="{media_type}"/>'
             
             return CONTENT_OPF_TEMPLATE.format(
                 isbn=metadata.get("isbn", book_id),
@@ -631,7 +881,10 @@ body{{margin:1em;background-color:transparent!important;}}
                 publisher=escape(metadata.get("publisher", "Unknown")),
                 release_date=metadata.get("release_date", ""),
                 rights=escape(metadata.get("rights", "")),
-                cover_filename=cover_filename,
+                web_url=escape(metadata.get("web_url", "")),
+                extraction_date=metadata.get("extraction_date", ""),
+                cover_meta=cover_meta,
+                cover_manifest=cover_manifest,
                 manifest_items="\n        ".join(manifest_items),
                 spine_items="\n        ".join(spine_items),
                 first_chapter=first_chapter
