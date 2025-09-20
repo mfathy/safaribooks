@@ -460,10 +460,17 @@ class OreillyDownloader:
     def _download_chapter(self, chapter: Dict[str, Any], chapter_num: int):
         """Download a single chapter."""
         try:
-            # Use the content URL instead of the chapter URL
+            chapter_title = chapter["title"]
+            filename = f"ch{chapter_num:02d}.xhtml"
+            xhtml_file = os.path.join(self.BOOK_PATH, "OEBPS", filename)
+            
+            # Check if already downloaded
+            if os.path.isfile(xhtml_file):
+                return
+            
+            # Get chapter content
             content_url = chapter.get("content", "")
             if not content_url:
-                # Fallback to url if content is not available
                 content_url = chapter.get("url", "")
                 if not content_url:
                     return
@@ -473,23 +480,24 @@ class OreillyDownloader:
                 self.display.warning(f"Failed to download chapter {chapter_num}: HTTP {response.status_code}")
                 return
             
-            # Parse HTML and extract assets
+            # Parse HTML
             try:
                 root = html.fromstring(response.text, base_url=SAFARI_BASE_URL)
-                self._extract_assets(root, chapter)
             except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
-                self.display.warning(f"Error parsing chapter {chapter_num}: {parsing_error}")
+                self.display.warning(f"Error parsing chapter {chapter_title}: {parsing_error}")
                 return
             
+            # Extract and collect assets
+            self._extract_assets(root, chapter)
+            
             # Parse and save chapter
-            chapter_html = self._parse_html(response.text, chapter_num)
-            filename = f"ch{chapter_num:02d}.xhtml"
-            filepath = os.path.join(self.BOOK_PATH, "OEBPS", filename)
-            
-            with open(filepath, 'w', encoding='utf-8') as f:
-                f.write(chapter_html)
-            
-            self.display.info(f"Downloaded: {filename}")
+            try:
+                first_page = (chapter_num == 1)
+                page_css, xhtml = self._parse_html(root, first_page)
+                self._save_chapter(xhtml_file, page_css, xhtml)
+                self.display.info(f"Downloaded: {filename}")
+            except Exception as e:
+                self.display.warning(f"Error processing chapter {chapter_title}: {e}")
             
         except Exception as e:
             self.display.warning(f"Failed to download chapter {chapter_num}: {e}")
@@ -547,64 +555,86 @@ class OreillyDownloader:
         except Exception as e:
             self.display.warning(f"Failed to process image URLs: {e}")
 
-    def _parse_html(self, html_content: str, chapter_num: int = 1) -> str:
-        """Parse HTML content and convert to XHTML with proper namespaces and styling."""
+    def _link_replace(self, link: str) -> str:
+        """Replace links for EPUB compatibility."""
+        if link and not link.startswith("mailto"):
+            if not self._url_is_absolute(link):
+                if any(x in link for x in ["cover", "images", "graphics"]) or \
+                        self._is_image_link(link):
+                    image = link.split("/")[-1]
+                    return "Images/" + image
+                return link.replace(".html", ".xhtml")
+            else:
+                if self.book_id in link:
+                    return self._link_replace(link.split(self.book_id)[-1])
+        return link
+    
+    @staticmethod
+    def _url_is_absolute(url: str) -> bool:
+        """Check if URL is absolute."""
+        from urllib.parse import urlparse
+        return bool(urlparse(url).netloc)
+    
+    @staticmethod
+    def _is_image_link(url: str) -> bool:
+        """Check if URL points to an image."""
+        import pathlib
+        return pathlib.Path(url).suffix[1:].lower() in ["jpg", "jpeg", "png", "gif"]
+
+    def _parse_html(self, root, first_page: bool = False) -> tuple:
+        """Parse HTML content and return CSS and XHTML."""
+        book_content = root.xpath("//div[@id='sbo-rt-content']")
+        if not len(book_content):
+            raise ValueError("Book content not found")
+        
+        page_css = ""
+        stylesheets = root.xpath("//style")
+        if len(stylesheets):
+            for css in stylesheets:
+                if "data-template" in css.attrib and len(css.attrib["data-template"]):
+                    css.text = css.attrib["data-template"]
+                    del css.attrib["data-template"]
+                try:
+                    page_css += html.tostring(css, method="xml", encoding='unicode') + "\n"
+                except (html.etree.ParseError, html.etree.ParserError):
+                    pass
+        
+        book_content = book_content[0]
+        book_content.rewrite_links(self._link_replace)
+        
+        # Add proper namespace declarations for EPUB compatibility
+        # Find the HTML element in the document tree and add the epub namespace
+        html_element = book_content.getroottree().getroot()
+        if html_element.tag == 'html':
+            html_element.set('xmlns:epub', 'http://www.idpf.org/2007/ops')
+        
         try:
-            # Parse HTML
-            book_content = html.fromstring(html_content)
-            
-            # Find the main content div
-            content_div = book_content.xpath('//div[@id="sbo-rt-content"]')
-            if not content_div:
-                content_div = book_content.xpath('//div[contains(@class, "content")]')
-            
-            if content_div:
-                book_content = content_div[0]
-            
-            # Process image URLs to use local paths
-            self._process_image_urls(book_content)
-            
-            # Ensure epub namespace is declared on the root HTML element
-            html_element = book_content.getroottree().getroot()
-            if html_element.tag == 'html':
-                html_element.set('xmlns:epub', 'http://www.idpf.org/2007/ops')
-            
-            # Convert to XHTML
+            # Output the full HTML document instead of just the book content div
             xhtml = html.tostring(html_element, method="xml", encoding='unicode')
-            
-            # Add page break for chapters (except first chapter)
-            page_break_class = ""
-            if chapter_num > 1:
-                page_break_class = ' class="page-break"'
-            
-            # Create full XHTML document with external CSS reference
-            full_xhtml = f'''<!DOCTYPE html>
-<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+        except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
+            raise ValueError(f"Error parsing HTML: {parsing_error}")
+        
+        return page_css, xhtml
+
+    def _save_chapter(self, filepath: str, page_css: str, xhtml: str) -> None:
+        """Save chapter as XHTML file."""
+        base_html = """<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Chapter {chapter_num}</title>
-    <link rel="stylesheet" type="text/css" href="Styles/style.css"/>
+{0}
+<style type="text/css">
+body{{margin:1em;background-color:transparent!important;}}
+#sbo-rt-content *{{text-indent:0pt!important;}}
+#sbo-rt-content .bq{{margin-right:1em!important;}}
+</style>
 </head>
-<body{page_break_class}>
-    <div id="sbo-rt-content">{xhtml}</div>
-</body>
-</html>'''
-            
-            return full_xhtml
-            
-        except Exception as e:
-            self.display.warning(f"Failed to parse HTML: {e}")
-            return f'''<!DOCTYPE html>
-<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-    <title>Chapter {chapter_num}</title>
-    <link rel="stylesheet" type="text/css" href="Styles/style.css"/>
-</head>
-<body>
-    <div id="sbo-rt-content">
-        <p>Error parsing content: {e}</p>
-    </div>
-</body>
-</html>'''
+<body>{1}</body>
+</html>"""
+        
+        with open(filepath, "wb") as f:
+            f.write(base_html.format(page_css, xhtml).encode("utf-8", 'xmlcharrefreplace'))
+        
+        self.display.log(f"Created: {os.path.basename(filepath)}")
 
     def _download_stylesheets(self):
         """Create comprehensive CSS stylesheet for EPUB."""
