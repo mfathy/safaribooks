@@ -1,5 +1,5 @@
 """
-Authentication module for SafariBooks scraper.
+Authentication module for Oreilly scraper.
 
 This module provides authentication and session management functionality
 for interacting with O'Reilly's Safari Books Online platform.

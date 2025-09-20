@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """
-Test script to help with authentication for SafariBooks.
+Test script to help with authentication for Oreilly.
 """
 
 import os
 import sys
 import getpass
-from safaribooks_refactored import download_book, parse_cred
+from oreilly import download_book, parse_cred
 
 def test_authentication():
     """Test authentication with user input."""
-    print("SafariBooks Authentication Test")
+    print("Oreilly Authentication Test")
     print("=" * 40)
     
     # Get credentials from user

@@ -1,6 +1,6 @@
 # Authentication Module
 
-This module provides robust authentication and session management for the SafariBooks scraper.
+This module provides robust authentication and session management for the Oreilly scraper.
 
 ## Features
 

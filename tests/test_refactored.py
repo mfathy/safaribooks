@@ -10,7 +10,7 @@ import sys
 def test_syntax():
     """Test that the refactored code has valid Python syntax."""
     try:
-        with open('safaribooks_refactored.py', 'r') as f:
+        with open('oreilly.py', 'r') as f:
             source = f.read()
         
         # Parse the AST to check for syntax errors
@@ -28,7 +28,7 @@ def test_syntax():
 def test_function_signatures():
     """Test that the required functions exist with correct signatures."""
     try:
-        with open('safaribooks_refactored.py', 'r') as f:
+        with open('oreilly.py', 'r') as f:
             source = f.read()
         
         tree = ast.parse(source)
@@ -36,7 +36,7 @@ def test_function_signatures():
         # Check for download_book function
         download_book_found = False
         parse_cred_found = False
-        SafariBooksDownloader_found = False
+        OreillyDownloader_found = False
         
         for node in ast.walk(tree):
             if isinstance(node, ast.FunctionDef):
@@ -47,18 +47,18 @@ def test_function_signatures():
                     parse_cred_found = True
                     print(f"✅ Found parse_cred function")
             elif isinstance(node, ast.ClassDef):
-                if node.name == 'SafariBooksDownloader':
-                    SafariBooksDownloader_found = True
-                    print(f"✅ Found SafariBooksDownloader class")
+                if node.name == 'OreillyDownloader':
+                    OreillyDownloader_found = True
+                    print(f"✅ Found OreillyDownloader class")
         
         if not download_book_found:
             print("❌ download_book function not found")
         if not parse_cred_found:
             print("❌ parse_cred function not found")
-        if not SafariBooksDownloader_found:
-            print("❌ SafariBooksDownloader class not found")
+        if not OreillyDownloader_found:
+            print("❌ OreillyDownloader class not found")
             
-        return download_book_found and parse_cred_found and SafariBooksDownloader_found
+        return download_book_found and parse_cred_found and OreillyDownloader_found
         
     except Exception as e:
         print(f"❌ Error analyzing code: {e}")
@@ -68,7 +68,7 @@ def test_function_signatures():
 def test_imports():
     """Test that the required imports are present."""
     try:
-        with open('safaribooks_refactored.py', 'r') as f:
+        with open('oreilly.py', 'r') as f:
             source = f.read()
         
         required_imports = [
@@ -101,7 +101,7 @@ def test_imports():
 
 def main():
     """Run all tests."""
-    print("Testing refactored SafariBooks code...")
+    print("Testing refactored Oreilly code...")
     print("=" * 50)
     
     tests = [

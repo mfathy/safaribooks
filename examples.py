@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Comprehensive examples for SafariBooks usage.
+Comprehensive examples for Oreilly usage.
 
 This script consolidates all example functionality:
 - Basic download examples
@@ -24,7 +24,7 @@ def example_basic_download():
     print("=" * 50)
     
     try:
-        from safaribooks_refactored import download_book
+        from oreilly import download_book
         
         # Example book ID (replace with actual book ID)
         book_id = "9780136766803"  # Techniques of Visual Persuasion
@@ -49,7 +49,8 @@ def example_session_manager():
     print("=" * 50)
     
     try:
-        from oreilly_scraper.auth import SessionManager, InvalidCookieError, SessionExpiredError
+        from oreilly_scraper.auth import SessionManager
+        from oreilly_scraper.auth.exceptions import InvalidCookieError, SessionExpiredError
         
         # Configure logging
         logging.basicConfig(level=logging.INFO)
@@ -86,7 +87,7 @@ def example_error_handling():
     print("=" * 50)
     
     try:
-        from safaribooks_refactored import download_book
+        from oreilly import download_book
         
         # Test with invalid book ID
         invalid_book_id = "0000000000000"
@@ -109,7 +110,7 @@ def example_batch_download():
     print("=" * 50)
     
     try:
-        from safaribooks_refactored import download_book
+        from oreilly import download_book
         
         # List of book IDs to download
         book_ids = [
@@ -150,7 +151,7 @@ def example_custom_output():
     print("=" * 50)
     
     try:
-        from safaribooks_refactored import download_book
+        from oreilly import download_book
         
         # Create custom output structure
         base_output = "MyLibrary"
@@ -172,12 +173,12 @@ def example_custom_output():
 
 def main():
     """Run all examples."""
-    print("🚀 SafariBooks Usage Examples")
+    print("🚀 Oreilly Usage Examples")
     print("=" * 60)
     
     # Check if required files exist
-    if not os.path.exists("safaribooks_refactored.py"):
-        print("❌ safaribooks_refactored.py not found in current directory")
+    if not os.path.exists("oreilly.py"):
+        print("❌ oreilly.py not found in current directory")
         return
     
     if not os.path.exists("cookies.json"):

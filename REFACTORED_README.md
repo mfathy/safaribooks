@@ -1,6 +1,6 @@
-# SafariBooks Refactored
+# Oreilly Refactored
 
-This is a refactored version of the original SafariBooks scraper that extracts the core download functionality into a reusable `download_book` function while maintaining backward compatibility with the original CLI interface.
+This is a refactored version of the original Oreilly scraper that extracts the core download functionality into a reusable `download_book` function while maintaining backward compatibility with the original CLI interface.
 
 ## 🚀 Key Features
 
@@ -69,7 +69,7 @@ python3 safaribooks_refactored.py --login 1234567890123
 
 ### **Before (Monolithic)**
 ```
-SafariBooks.__init__()
+Oreilly.__init__()
 ├── Authentication
 ├── Book Info Retrieval  
 ├── Chapter Download
@@ -80,7 +80,7 @@ SafariBooks.__init__()
 
 ### **After (Modular)**
 ```
-SafariBooksDownloader
+OreillyDownloader
 ├── authenticate()
 ├── get_book_info()
 ├── get_book_chapters()
@@ -91,7 +91,7 @@ SafariBooksDownloader
     └── _download_assets()
 
 download_book() function
-└── Uses SafariBooksDownloader internally
+└── Uses OreillyDownloader internally
 ```
 
 ## 📋 API Reference
@@ -126,7 +126,7 @@ Parses credentials from string format.
 
 ### **Core Classes**
 
-#### `SafariBooksDownloader`
+#### `OreillyDownloader`
 
 Main downloader class that handles authentication and book downloading.
 
@@ -271,5 +271,5 @@ python3 test_comparison.py
 
 ## 📄 License
 
-Same as the original SafariBooks project - see LICENSE.md for details.
+Same as the original Oreilly project - see LICENSE.md for details.
 

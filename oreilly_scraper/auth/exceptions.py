@@ -6,12 +6,12 @@ authentication and session management errors.
 """
 
 
-class SafariBooksAuthError(Exception):
-    """Base exception class for all SafariBooks authentication errors."""
+class OreillyAuthError(Exception):
+    """Base exception class for all Oreilly authentication errors."""
     pass
 
 
-class InvalidCookieError(SafariBooksAuthError):
+class InvalidCookieError(OreillyAuthError):
     """
     Raised when cookies are missing, malformed, or invalid.
     
@@ -27,7 +27,7 @@ class InvalidCookieError(SafariBooksAuthError):
         self.cookie_file = cookie_file
 
 
-class AuthenticationError(SafariBooksAuthError):
+class AuthenticationError(OreillyAuthError):
     """
     Raised when authentication fails.
     
@@ -39,7 +39,7 @@ class AuthenticationError(SafariBooksAuthError):
     pass
 
 
-class SessionExpiredError(SafariBooksAuthError):
+class SessionExpiredError(OreillyAuthError):
     """
     Raised when the session has expired.
     
@@ -54,7 +54,7 @@ class SessionExpiredError(SafariBooksAuthError):
         self.session_id = session_id
 
 
-class ConfigurationError(SafariBooksAuthError):
+class ConfigurationError(OreillyAuthError):
     """
     Raised when configuration is invalid or missing.
     

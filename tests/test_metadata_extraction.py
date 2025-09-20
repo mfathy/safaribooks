@@ -6,7 +6,7 @@ Test script for metadata extraction functionality.
 import os
 import json
 import tempfile
-from safaribooks_refactored import SafariBooksDownloader
+from oreilly import OreillyDownloader
 
 def test_metadata_extraction():
     """Test the metadata extraction functionality."""
@@ -18,7 +18,7 @@ def test_metadata_extraction():
         print(f"📁 Using temporary directory: {temp_dir}")
         
         # Initialize downloader
-        downloader = SafariBooksDownloader()
+        downloader = OreillyDownloader()
         
         # Test book ID (use a known book ID)
         test_book_id = "9780136766803"

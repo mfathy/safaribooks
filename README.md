@@ -1,4 +1,4 @@
-# SafariBooks
+# Oreilly
 Download and generate *EPUB* of your favorite books from [*Safari Books Online*](https://www.safaribooksonline.com) library.  
 I'm not responsible for the use of this program, this is only for *personal* and *educational* purpose.  
 Before any usage please read the *O'Reilly*'s [Terms of Service](https://learning.oreilly.com/terms/).  
@@ -51,7 +51,7 @@ It's really simple to use, just choose a book from the library and replace in th
   * `email:password` with your own. 
 
 ```shell
-$ python3 safaribooks.py --cred "account_mail@mail.com:password01" XXXXXXXXXXXXX
+$ python3 oreilly.py --cred "account_mail@mail.com:password01" XXXXXXXXXXXXX
 ```
 
 The ID is the digits that you find in the URL of the book description page:  
@@ -60,12 +60,12 @@ Like: `https://www.safaribooksonline.com/library/view/test-driven-development-wi
   
 #### Program options:
 ```shell
-$ python3 safaribooks.py --help
-usage: safaribooks.py [--cred <EMAIL:PASS> | --login] [--no-cookies]
+$ python3 oreilly.py --help
+usage: oreilly.py [--cred <EMAIL:PASS> | --login] [--no-cookies]
                       [--kindle] [--preserve-log] [--help]
                       <BOOK ID>
 
-Download and generate an EPUB of your favorite books from Safari Books Online.
+Download and generate an EPUB of your favorite books from O'Reilly Learning.
 
 positional arguments:
   <BOOK ID>            Book digits ID that you want to download. You can find
@@ -131,7 +131,7 @@ For detailed structure, see [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md).
 
 **Alternative**: Use the refactored version with cookie authentication:
 ```shell
-$ python3 safaribooks_refactored.py XXXXXXXXXXXXX
+$ python3 oreilly.py XXXXXXXXXXXXX
 ```
 
 **Debug authentication issues**:
@@ -172,7 +172,7 @@ The examples cover:
 ### Command Line Examples:
   * ## Download [Test-Driven Development with Python, 2nd Edition](https://www.safaribooksonline.com/library/view/test-driven-development-with/9781491958698/):  
     ```shell
-    $ python3 safaribooks.py --cred "my_email@gmail.com:MyPassword1!" 9781491958698
+    $ python3 oreilly.py --cred "my_email@gmail.com:MyPassword1!" 9781491958698
 
            ____     ___         _ 
           / __/__ _/ _/__ _____(_)

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Setup script for SafariBooks Refactored.
+Setup script for Oreilly Refactored.
 
-This script helps install the required dependencies for the refactored SafariBooks code.
+This script helps install the required dependencies for the refactored Oreilly code.
 """
 
 import subprocess
@@ -11,7 +11,7 @@ import os
 
 def install_dependencies():
     """Install required dependencies."""
-    print("Installing required dependencies for SafariBooks Refactored...")
+    print("Installing required dependencies for Oreilly Refactored...")
     
     dependencies = ['requests>=2.20.0', 'lxml>=4.1.1']
     
@@ -39,7 +39,7 @@ def test_installation():
         
         # Test our refactored code
         from safaribooks_refactored import download_book, parse_cred
-        print("✅ SafariBooks refactored code imported successfully")
+        print("✅ Oreilly refactored code imported successfully")
         
         # Test parse_cred function
         result = parse_cred("test@example.com:password123")
@@ -61,13 +61,13 @@ def test_installation():
 def main():
     """Main setup function."""
     print("=" * 60)
-    print("SafariBooks Refactored Setup")
+    print("Oreilly Refactored Setup")
     print("=" * 60)
     
     # Check if we're in the right directory
     if not os.path.exists("safaribooks_refactored.py"):
         print("❌ Error: safaribooks_refactored.py not found in current directory")
-        print("Please run this script from the SafariBooks project directory")
+        print("Please run this script from the Oreilly project directory")
         return False
     
     # Install dependencies
@@ -83,7 +83,7 @@ def main():
     print("\n" + "=" * 60)
     print("🎉 Setup completed successfully!")
     print("=" * 60)
-    print("\nYou can now use SafariBooks Refactored:")
+    print("\nYou can now use Oreilly Refactored:")
     print("\n1. CLI Usage:")
     print("   python3 safaribooks_refactored.py 9780136766803")
     print("   python3 safaribooks_refactored.py --cred 'email:password' 9780136766803")

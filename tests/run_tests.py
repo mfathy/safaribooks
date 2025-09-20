@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Test runner for SafariBooks project.
+Test runner for Oreilly project.
 
 This script runs all tests in the project with proper organization:
 - Unit tests (fast, isolated)
@@ -84,8 +84,7 @@ def check_prerequisites():
     
     # Check if main files exist
     required_files = [
-        "safaribooks.py",
-        "safaribooks_refactored.py",
+        "oreilly.py",
         "cookies.json"
     ]
     
@@ -107,7 +106,7 @@ def check_prerequisites():
 
 def main():
     """Main test runner function."""
-    parser = argparse.ArgumentParser(description="Run SafariBooks tests")
+    parser = argparse.ArgumentParser(description="Run Oreilly tests")
     parser.add_argument(
         "--type", 
         choices=["unit", "integration", "examples", "all"],
@@ -127,7 +126,7 @@ def main():
     
     args = parser.parse_args()
     
-    print("🧪 SafariBooks Test Runner")
+    print("🧪 Oreilly Test Runner")
     print("=" * 50)
     
     # Check prerequisites

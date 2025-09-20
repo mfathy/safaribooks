@@ -14,8 +14,8 @@ def test_import_functionality():
     print("Testing import functionality...")
     
     try:
-        from safaribooks_refactored import download_book, parse_cred, SafariBooksDownloader
-        print("✅ Successfully imported download_book, parse_cred, and SafariBooksDownloader")
+        from oreilly import download_book, parse_cred, OreillyDownloader
+        print("✅ Successfully imported download_book, parse_cred, and OreillyDownloader")
         
         # Test parse_cred function
         result = parse_cred("test@example.com:password123")
@@ -75,7 +75,7 @@ def test_authentication_behavior():
     # Test refactored code
     print("\nTesting refactored code...")
     try:
-        from safaribooks_refactored import download_book
+        from oreilly import download_book
         
         with tempfile.TemporaryDirectory() as temp_dir:
             try:
@@ -151,8 +151,8 @@ def test_code_structure():
         # Check for key components
         checks = [
             ("download_book function", "def download_book("),
-            ("SafariBooksDownloader class", "class SafariBooksDownloader:"),
-            ("SafariBooks class", "class SafariBooks("),
+            ("OreillyDownloader class", "class OreillyDownloader:"),
+            ("Oreilly class", "class Oreilly("),
             ("parse_cred function", "def parse_cred("),
             ("CLI argument parsing", "argparse.ArgumentParser"),
             ("Main execution block", 'if __name__ == "__main__":'),
@@ -174,7 +174,7 @@ def test_code_structure():
 def main():
     """Run all tests."""
     print("=" * 60)
-    print("SafariBooks Refactored Code Validation")
+    print("Oreilly Refactored Code Validation")
     print("=" * 60)
     
     tests = [

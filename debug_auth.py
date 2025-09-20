@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Comprehensive authentication debugging script for SafariBooks.
+Comprehensive authentication debugging script for Oreilly.
 
 This script consolidates all authentication debugging functionality:
 - Test authentication with cookies
@@ -166,7 +166,7 @@ def debug_refactored_flow():
     session = requests.Session()
     session.cookies.update(cookies_data)
     
-    # Mimic the exact flow from SafariBooksDownloader.check_login
+    # Mimic the exact flow from OreillyDownloader.check_login
     try:
         print("Step 1: Testing profile access with allow_redirects=True")
         response = session.get(PROFILE_URL, allow_redirects=True, timeout=10)
@@ -186,7 +186,7 @@ def debug_refactored_flow():
 
 def main():
     """Main debugging function."""
-    print("🔍 SafariBooks Authentication Debugger")
+    print("🔍 Oreilly Authentication Debugger")
     print("=" * 60)
     
     # Run all tests

@@ -1,5 +1,5 @@
 """
-Session management for SafariBooks authentication.
+Session management for Oreilly authentication.
 
 This module provides the SessionManager class for handling authentication
 sessions with O'Reilly's Safari Books Online platform.
@@ -25,7 +25,7 @@ from .exceptions import (
 
 class SessionManager:
     """
-    Manages authentication sessions for SafariBooks scraper.
+    Manages authentication sessions for Oreilly scraper.
     
     This class handles:
     - Loading cookies from configuration

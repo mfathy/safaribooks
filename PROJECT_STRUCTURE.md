@@ -1,14 +1,13 @@
-# SafariBooks Project Structure
+# Oreilly Project Structure
 
-This document describes the organized structure of the SafariBooks project after cleanup and reorganization.
+This document describes the organized structure of the Oreilly project after cleanup and reorganization.
 
 ## 📁 Directory Structure
 
 ```
 safaribooks/
 ├── 📚 Core Scripts
-│   ├── safaribooks.py              # Original monolithic script
-│   ├── safaribooks_refactored.py   # Refactored version with improvements
+│   ├── oreilly.py                  # Main script with all functionality
 │   └── examples.py                 # Comprehensive usage examples
 │
 ├── 🔧 Utilities
@@ -69,8 +68,7 @@ safaribooks/
 ## 🎯 File Categories
 
 ### Core Scripts
-- **`safaribooks.py`**: Original monolithic script with all functionality
-- **`safaribooks_refactored.py`**: Improved version with better structure and EPUB fixes
+- **`oreilly.py`**: Main script with all functionality, combining the best of both versions
 - **`examples.py`**: Comprehensive examples for all functionality
 
 ### Utilities
@@ -126,11 +124,8 @@ python debug_auth.py
 
 ### Downloading Books
 ```bash
-# Using refactored version (recommended)
-python safaribooks_refactored.py 9780136766803
-
-# Using original version
-python safaribooks.py 9780136766803
+# Using main script
+python oreilly.py 9780136766803
 ```
 
 ## 🔄 Migration Notes

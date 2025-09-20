@@ -90,9 +90,9 @@ Book Title (9780136766803)/
 ### Programmatic Usage
 
 ```python
-from safaribooks_refactored import SafariBooksDownloader
+from safaribooks_refactored import OreillyDownloader
 
-downloader = SafariBooksDownloader()
+downloader = OreillyDownloader()
 metadata = downloader.extract_metadata("9780136766803", session, "/output/dir")
 
 # Access metadata

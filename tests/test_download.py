@@ -24,7 +24,7 @@ def test_download_book():
         
         try:
             # Import the download function
-            from safaribooks_refactored import download_book
+            from oreilly import download_book
             
             print("✅ Successfully imported download_book function")
             
@@ -105,7 +105,7 @@ def test_download_book():
 def main():
     """Main test function."""
     print("=" * 60)
-    print("Testing SafariBooks Refactored Download Function")
+    print("Testing Oreilly Refactored Download Function")
     print("=" * 60)
     
     success = test_download_book()
