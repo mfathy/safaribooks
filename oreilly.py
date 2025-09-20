@@ -283,8 +283,8 @@ class OreillyDownloader:
         self.display.info("Extracting book metadata...")
         
         try:
-            # Fetch book metadata from API
-            api_url = f"{API_ORIGIN_URL}/v1/book/{book_id}/"
+            # Fetch book metadata from API (using the correct endpoint from original)
+            api_url = f"{SAFARI_BASE_URL}/api/v1/book/{book_id}/"
             response = session.get(api_url, timeout=10)
             
             if response.status_code != 200:
@@ -396,8 +396,8 @@ class OreillyDownloader:
         try:
             self.display.info("Fetching book information...")
             
-            # Get book info from API
-            api_url = f"{API_ORIGIN_URL}/v1/book/{self.book_id}/"
+            # Get book info from API (using the correct endpoint from original)
+            api_url = f"{SAFARI_BASE_URL}/api/v1/book/{self.book_id}/"
             response = self.session.get(api_url, timeout=10)
             
             if response.status_code != 200:
@@ -411,7 +411,7 @@ class OreillyDownloader:
             self.BOOK_PATH = os.path.join(self.output_dir, f"{self.book_title} ({self.book_id})")
             
             # Get chapters
-            chapters_url = f"{API_ORIGIN_URL}/v1/book/{self.book_id}/chapters/"
+            chapters_url = f"{SAFARI_BASE_URL}/api/v1/book/{self.book_id}/chapter/?page=1"
             response = self.session.get(chapters_url, timeout=10)
             
             if response.status_code == 200:
@@ -851,9 +851,28 @@ figcaption {
             # Cover image will be handled separately in the template
             
             # Format metadata
-            author = ", ".join(metadata.get("authors", ["Unknown Author"]))
+            authors = metadata.get("authors", ["Unknown Author"])
+            if isinstance(authors, list) and authors and isinstance(authors[0], dict):
+                # Handle case where authors is a list of dicts
+                author = ", ".join([author.get("name", "Unknown Author") for author in authors])
+            else:
+                # Handle case where authors is a list of strings
+                author = ", ".join(authors) if isinstance(authors, list) else str(authors)
+            
             author_sort = author.split(",")[0].strip() if author else "Unknown Author"
-            subject = ", ".join(metadata.get("subjects", ["General"]))
+            
+            subjects = metadata.get("subjects", ["General"])
+            if isinstance(subjects, list) and subjects and isinstance(subjects[0], dict):
+                # Handle case where subjects is a list of dicts
+                subject = ", ".join([sub.get("name", "") for sub in subjects if sub.get("name")])
+            else:
+                # Handle case where subjects is a list of strings
+                subject = ", ".join(subjects) if isinstance(subjects, list) and subjects else "General"
+            
+            # Ensure we have a subject
+            if not subject.strip():
+                subject = "General"
+            
             description = metadata.get("description", "").replace("<", "&lt;").replace(">", "&gt;")
             first_chapter = "ch01.xhtml" if book_chapters else "cover.xhtml"
             
