@@ -16,6 +16,10 @@ Before any usage please read the *O'Reilly*'s [Terms of Service](https://learnin
 ## Overview:
   * [Requirements & Setup](#requirements--setup)
   * [Usage](#usage)
+  * [Project Structure](#project-structure)
+  * [Authentication Setup](#authentication-setup)
+  * [Testing](#testing)
+  * [Examples](#examples)
   * [Single Sign-On (SSO), Company, University Login](https://github.com/lorenzodifuccia/safaribooks/issues/150#issuecomment-555423085)
   * [Calibre EPUB conversion](https://github.com/lorenzodifuccia/safaribooks#calibre-epub-conversion)
   * [Example: Download *Test-Driven Development with Python, 2nd Edition*](#download-test-driven-development-with-python-2nd-edition)
@@ -107,7 +111,65 @@ In this case, I suggest you to convert the `EPUB` to `AZW3` with Calibre or to `
   
 ![Calibre IgnoreMargins](https://github.com/lorenzodifuccia/cloudflare/raw/master/Images/safaribooks/safaribooks_calibre_IgnoreMargins.png "Select Ignore margins")  
   
+## Project Structure:
+The project has been organized with a clean structure:
+
+- **Core Scripts**: `safaribooks.py` (original), `safaribooks_refactored.py` (improved)
+- **Utilities**: `debug_auth.py`, `examples.py`, `parallel.sh`
+- **Tests**: Organized in `tests/` directory with unit and integration tests
+- **Documentation**: Comprehensive guides and API documentation
+- **Configuration**: `config/` directory for settings and `cookies.json` for authentication
+
+For detailed structure, see [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md).
+
+## Authentication Setup:
+**Recommended**: Use manual cookie extraction (most reliable)
+
+1. Follow the instructions in [COOKIE_SETUP.md](COOKIE_SETUP.md)
+2. Extract cookies manually from your browser
+3. Save them in `cookies.json`
+
+**Alternative**: Use the refactored version with cookie authentication:
+```shell
+$ python3 safaribooks_refactored.py XXXXXXXXXXXXX
+```
+
+**Debug authentication issues**:
+```shell
+$ python3 debug_auth.py
+```
+
+## Testing:
+Run the comprehensive test suite:
+
+```shell
+# Run all tests
+$ python tests/run_tests.py
+
+# Run specific test types
+$ python tests/run_tests.py --type unit
+$ python tests/run_tests.py --type integration
+
+# Verbose output
+$ python tests/run_tests.py --verbose
+```
+
 ## Examples:
+Comprehensive examples are available:
+
+```shell
+# Run all examples
+$ python examples.py
+```
+
+The examples cover:
+- Basic book downloads
+- SessionManager usage  
+- Error handling
+- Batch downloads
+- Custom output directories
+
+### Command Line Examples:
   * ## Download [Test-Driven Development with Python, 2nd Edition](https://www.safaribooksonline.com/library/view/test-driven-development-with/9781491958698/):  
     ```shell
     $ python3 safaribooks.py --cred "my_email@gmail.com:MyPassword1!" 9781491958698
