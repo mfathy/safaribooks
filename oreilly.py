@@ -458,11 +458,15 @@ class OreillyDownloader:
     def _download_chapter(self, chapter: Dict[str, Any], chapter_num: int):
         """Download a single chapter."""
         try:
-            chapter_url = chapter.get("url", "")
-            if not chapter_url:
-                return
+            # Use the content URL instead of the chapter URL
+            content_url = chapter.get("content", "")
+            if not content_url:
+                # Fallback to url if content is not available
+                content_url = chapter.get("url", "")
+                if not content_url:
+                    return
             
-            response = self.session.get(chapter_url, timeout=10)
+            response = self.session.get(content_url, timeout=10)
             if response.status_code != 200:
                 self.display.warning(f"Failed to download chapter {chapter_num}: HTTP {response.status_code}")
                 return
@@ -849,6 +853,7 @@ figcaption {
                 manifest_items.append(f'<item id="{css_id}" href="{css_file}" media-type="text/css"/>')
             
             # Cover image will be handled separately in the template
+            cover_filename = metadata.get("cover_filename", "")
             
             # Format metadata
             authors = metadata.get("authors", ["Unknown Author"])
