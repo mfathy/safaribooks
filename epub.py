@@ -1,18 +1,21 @@
 #!/usr/bin/env python3
 # coding: utf-8
 """
-EPUB Generator Module for SafariBooks
+EPUB Generation Module for SafariBooks
 Handles EPUB file creation, packaging, and metadata generation
 """
 
 import os
 import shutil
+import sys
 from html import escape
-from multiprocessing import Process, Queue, Value
+from multiprocessing import Queue
 from urllib.parse import urljoin
+from config import SAFARI_BASE_URL, CONTAINER_XML, CONTENT_OPF, TOC_NCX
 
 
-class WinQueue(list):  # TODO: error while use `process` in Windows: can't pickle _thread.RLock objects
+class WinQueue(list):
+    """Windows-compatible queue implementation"""
     def put(self, el):
         self.append(el)
     
@@ -22,56 +25,6 @@ class WinQueue(list):  # TODO: error while use `process` in Windows: can't pickl
 
 class EpubGenerator:
     """Handles EPUB file generation and packaging"""
-    
-    SAFARI_BASE_URL = "https://learning.oreilly.com"
-    
-    # EPUB Templates
-    CONTAINER_XML = "<?xml version=\"1.0\"?>" \
-                    "<container version=\"1.0\" xmlns=\"urn:oasis:names:tc:opendocument:xmlns:container\">" \
-                    "<rootfiles>" \
-                    "<rootfile full-path=\"OEBPS/content.opf\" media-type=\"application/oebps-package+xml\" />" \
-                    "</rootfiles>" \
-                    "</container>"
-    
-    # Format: ID, Title, Authors, Description, Subjects, Publisher, Rights, Date, CoverId, MANIFEST, SPINE, CoverUrl
-    CONTENT_OPF = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" \
-                  "<package xmlns=\"http://www.idpf.org/2007/opf\" unique-identifier=\"bookid\" version=\"2.0\" >\n" \
-                  "<metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\" " \
-                  " xmlns:opf=\"http://www.idpf.org/2007/opf\">\n" \
-                  "<dc:title>{1}</dc:title>\n" \
-                  "{2}\n" \
-                  "<dc:description>{3}</dc:description>\n" \
-                  "{4}" \
-                  "<dc:publisher>{5}</dc:publisher>\n" \
-                  "<dc:rights>{6}</dc:rights>\n" \
-                  "<dc:language>en-US</dc:language>\n" \
-                  "<dc:date>{7}</dc:date>\n" \
-                  "<dc:identifier id=\"bookid\">{0}</dc:identifier>\n" \
-                  "<meta name=\"cover\" content=\"{8}\"/>\n" \
-                  "</metadata>\n" \
-                  "<manifest>\n" \
-                  "<item id=\"ncx\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\" />\n" \
-                  "{9}\n" \
-                  "</manifest>\n" \
-                  "<spine toc=\"ncx\">\n{10}</spine>\n" \
-                  "<guide><reference href=\"{11}\" title=\"Cover\" type=\"cover\" /></guide>\n" \
-                  "</package>"
-    
-    # Format: ID, Depth, Title, Author, NAVMAP
-    TOC_NCX = "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\" ?>\n" \
-              "<!DOCTYPE ncx PUBLIC \"-//NISO//DTD ncx 2005-1//EN\"" \
-              " \"http://www.daisy.org/z3986/2005/ncx-2005-1.dtd\">\n" \
-              "<ncx xmlns=\"http://www.daisy.org/z3986/2005/ncx/\" version=\"2005-1\">\n" \
-              "<head>\n" \
-              "<meta content=\"ID:ISBN:{0}\" name=\"dtb:uid\"/>\n" \
-              "<meta content=\"{1}\" name=\"dtb:depth\"/>\n" \
-              "<meta content=\"0\" name=\"dtb:totalPageCount\"/>\n" \
-              "<meta content=\"0\" name=\"dtb:maxPageNumber\"/>\n" \
-              "</head>\n" \
-              "<docTitle><text>{2}</text></docTitle>\n" \
-              "<docAuthor><text>{3}</text></docAuthor>\n" \
-              "<navMap>{4}</navMap>\n" \
-              "</ncx>"
     
     def __init__(self, session, display, book_info, book_chapters, book_path, css_path, images_path):
         self.session = session
@@ -125,7 +78,7 @@ class EpubGenerator:
         subjects = "\n".join("<dc:subject>{0}</dc:subject>".format(escape(sub.get("name", "n/d")))
                              for sub in self.book_info.get("subjects", []))
         
-        return self.CONTENT_OPF.format(
+        return CONTENT_OPF.format(
             (self.book_info.get("isbn", self.book_info.get("identifier", ""))),
             escape(self.book_info.get("title", "")),
             authors,
@@ -173,7 +126,6 @@ class EpubGenerator:
                               " in order to complete the `.epub` creation!")
         
         response = response.json()
-        
         if not isinstance(response, list) and len(response.keys()) == 1:
             self.display.exit(
                 self.display.api_error(response) +
@@ -182,7 +134,7 @@ class EpubGenerator:
             )
         
         navmap, _, max_depth = self.parse_toc(response)
-        return self.TOC_NCX.format(
+        return TOC_NCX.format(
             (self.book_info["isbn"] if self.book_info["isbn"] else self.book_info.get("identifier", "")),
             max_depth,
             self.book_info.get("title", ""),
@@ -225,7 +177,7 @@ class EpubGenerator:
                                   image_name)
                 self.display.images_ad_info.value = 1
         else:
-            response = self._make_request(urljoin(self.SAFARI_BASE_URL, url), stream=True)
+            response = self._make_request(urljoin(SAFARI_BASE_URL, url), stream=True)
             if response == 0:
                 self.display.error("Error trying to retrieve this image: %s\n    From: %s" % (image_name, url))
                 return
@@ -237,29 +189,15 @@ class EpubGenerator:
         self.images_done_queue.put(1)
         self.display.state(len(self.images), self.images_done_queue.qsize())
     
-    def _start_multiprocessing(self, operation, full_queue):
-        """Start multiprocessing for downloads"""
-        if len(full_queue) > 5:
-            for i in range(0, len(full_queue), 5):
-                self._start_multiprocessing(operation, full_queue[i:i + 5])
-        else:
-            process_queue = [Process(target=operation, args=(arg,)) for arg in full_queue]
-            for proc in process_queue:
-                proc.start()
-            
-            for proc in process_queue:
-                proc.join()
-    
     def collect_css(self, css_list):
         """Download all CSS files"""
         self.css = css_list
         self.display.state_status.value = -1
         
         # Initialize queue
-        import sys
         self.css_done_queue = Queue(0) if "win" not in sys.platform else WinQueue()
         
-        # "self._start_multiprocessing" seems to cause problem. Switching to mono-thread download.
+        # Single-threaded download for stability
         for css_url in self.css:
             self._thread_download_css(css_url)
     
@@ -275,17 +213,17 @@ class EpubGenerator:
         self.display.state_status.value = -1
         
         # Initialize queue
-        import sys
         self.images_done_queue = Queue(0) if "win" not in sys.platform else WinQueue()
         
-        # "self._start_multiprocessing" seems to cause problem. Switching to mono-thread download.
+        # Single-threaded download for stability
         for image_url in self.images:
             self._thread_download_images(image_url)
     
     def create_epub(self, api_url, book_id, path):
         """Create the final EPUB file"""
         # Create mimetype file
-        open(os.path.join(self.book_path, "mimetype"), "w").write("application/epub+zip")
+        with open(os.path.join(self.book_path, "mimetype"), "w") as f:
+            f.write("application/epub+zip")
         
         # Create META-INF directory
         meta_info = os.path.join(self.book_path, "META-INF")
@@ -295,19 +233,16 @@ class EpubGenerator:
             os.makedirs(meta_info)
         
         # Create container.xml
-        open(os.path.join(meta_info, "container.xml"), "wb").write(
-            self.CONTAINER_XML.encode("utf-8", "xmlcharrefreplace")
-        )
+        with open(os.path.join(meta_info, "container.xml"), "wb") as f:
+            f.write(CONTAINER_XML.encode("utf-8", "xmlcharrefreplace"))
         
         # Create content.opf
-        open(os.path.join(self.book_path, "OEBPS", "content.opf"), "wb").write(
-            self.create_content_opf().encode("utf-8", "xmlcharrefreplace")
-        )
+        with open(os.path.join(self.book_path, "OEBPS", "content.opf"), "wb") as f:
+            f.write(self.create_content_opf().encode("utf-8", "xmlcharrefreplace"))
         
         # Create toc.ncx
-        open(os.path.join(self.book_path, "OEBPS", "toc.ncx"), "wb").write(
-            self.create_toc(api_url).encode("utf-8", "xmlcharrefreplace")
-        )
+        with open(os.path.join(self.book_path, "OEBPS", "toc.ncx"), "wb") as f:
+            f.write(self.create_toc(api_url).encode("utf-8", "xmlcharrefreplace"))
         
         # Create ZIP archive
         zip_file = os.path.join(path, "Books", book_id)

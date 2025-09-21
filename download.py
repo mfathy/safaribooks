@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf-8
 """
-Book Content Downloader Module for SafariBooks
+Download Module for SafariBooks
 Handles book info retrieval, chapter downloading, and content processing
 """
 
@@ -11,18 +11,17 @@ import pathlib
 import random
 from urllib.parse import urljoin, urlparse
 from lxml import html, etree
+from config import SAFARI_BASE_URL, API_TEMPLATE
 
 
 class BookDownloader:
     """Handles downloading and processing of book content"""
     
-    SAFARI_BASE_URL = "https://learning.oreilly.com"
-    
     def __init__(self, session, display, book_id):
         self.session = session
         self.display = display
         self.book_id = book_id
-        self.api_url = f"{self.SAFARI_BASE_URL}/api/v1/book/{self.book_id}/"
+        self.api_url = API_TEMPLATE.format(book_id)
         
         # Book data
         self.book_info = {}
@@ -72,7 +71,6 @@ class BookDownloader:
             self.display.exit("API: unable to retrieve book chapters.")
         
         response = response.json()
-        
         if not isinstance(response, dict) or len(response.keys()) == 1:
             self.display.exit(self.display.api_error(response))
         
@@ -104,14 +102,13 @@ class BookDownloader:
         
         root = None
         try:
-            root = html.fromstring(response.text, base_url=self.SAFARI_BASE_URL)
+            root = html.fromstring(response.text, base_url=SAFARI_BASE_URL)
         except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
             self.display.error(parsing_error)
             self.display.exit(
                 "Crawler: error trying to parse this page: %s (%s)\n    From: %s" %
                 (self.filename, self.chapter_title, url)
             )
-        
         return root
     
     def get_default_cover(self):
@@ -125,7 +122,6 @@ class BookDownloader:
         with open(os.path.join(self.images_path, f"default_cover.{file_ext}"), 'wb') as i:
             for chunk in response.iter_content(1024):
                 i.write(chunk)
-        
         return f"default_cover.{file_ext}"
     
     @staticmethod
@@ -142,16 +138,13 @@ class BookDownloader:
         """Process and replace links in content"""
         if link and not link.startswith("mailto"):
             if not self.url_is_absolute(link):
-                if any(x in link for x in ["cover", "images", "graphics"]) or \
-                        self.is_image_link(link):
+                if any(x in link for x in ["cover", "images", "graphics"]) or self.is_image_link(link):
                     image = link.split("/")[-1]
                     return "Images/" + image
-                
                 return link.replace(".html", ".xhtml")
             else:
                 if self.book_id in link:
                     return self.link_replace(link.split(self.book_id)[-1])
-        
         return link
     
     @staticmethod
@@ -175,7 +168,6 @@ class BookDownloader:
                             "contains(lower-case(@name), 'cover') or contains(lower-case(@src), 'cover')]//img")
         if len(a):
             return a[0]
-        
         return None
     
     def parse_html(self, root, first_page=False):
@@ -197,7 +189,6 @@ class BookDownloader:
                 if chapter_css_url not in self.css:
                     self.css.append(chapter_css_url)
                     self.display.log("Crawler: found a new CSS at %s" % chapter_css_url)
-                
                 page_css += "<link href=\"Styles/Style{0:0>2}.css\" " \
                             "rel=\"stylesheet\" type=\"text/css\" />\n".format(self.css.index(chapter_css_url))
         
@@ -206,11 +197,9 @@ class BookDownloader:
             for s in stylesheet_links:
                 css_url = urljoin("https:", s.attrib["href"]) if s.attrib["href"][:2] == "//" \
                     else urljoin(self.base_url, s.attrib["href"])
-                
                 if css_url not in self.css:
                     self.css.append(css_url)
                     self.display.log("Crawler: found a new CSS at %s" % css_url)
-                
                 page_css += "<link href=\"Styles/Style{0:0>2}.css\" " \
                             "rel=\"stylesheet\" type=\"text/css\" />\n".format(self.css.index(css_url))
         
@@ -220,7 +209,6 @@ class BookDownloader:
                 if "data-template" in css.attrib and len(css.attrib["data-template"]):
                     css.text = css.attrib["data-template"]
                     del css.attrib["data-template"]
-                
                 try:
                     page_css += html.tostring(css, method="xml", encoding='unicode') + "\n"
                 except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
@@ -262,18 +250,15 @@ class BookDownloader:
                     cover_img.attrib.update({"src": is_cover.attrib["src"]})
                     cover_div.append(cover_img)
                     book_content = cover_html
-                    
                     self.cover = is_cover.attrib["src"]
             
             xhtml = html.tostring(book_content, method="xml", encoding='unicode')
-        
         except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
             self.display.error(parsing_error)
             self.display.exit(
                 "Parser: error trying to parse HTML of this page: %s (%s)" %
                 (self.filename, self.chapter_title)
             )
-        
         return page_css, xhtml
     
     def _make_request(self, url, **kwargs):
@@ -296,7 +281,6 @@ class BookDownloader:
                 return
             
             first_page = len_books == len(chapters_queue)
-            
             next_chapter = chapters_queue.pop(0)
             self.chapter_title = next_chapter["title"]
             self.filename = next_chapter["filename"]
@@ -304,7 +288,7 @@ class BookDownloader:
             asset_base_url = next_chapter['asset_base_url']
             api_v2_detected = False
             if 'v2' in next_chapter['content']:
-                asset_base_url = self.SAFARI_BASE_URL + "/api/v2/epubs/urn:orm:book:{}/files".format(self.book_id)
+                asset_base_url = SAFARI_BASE_URL + "/api/v2/epubs/urn:orm:book:{}/files".format(self.book_id)
                 api_v2_detected = True
             
             if "images" in next_chapter and len(next_chapter["images"]):
@@ -340,6 +324,6 @@ class BookDownloader:
     def save_page_html(self, contents, base_html_template):
         """Save processed HTML content to file"""
         self.filename = self.filename.replace(".html", ".xhtml")
-        open(os.path.join(self.BOOK_PATH, "OEBPS", self.filename), "wb") \
-            .write(base_html_template.format(contents[0], contents[1]).encode("utf-8", 'xmlcharrefreplace'))
+        with open(os.path.join(self.BOOK_PATH, "OEBPS", self.filename), "wb") as f:
+            f.write(base_html_template.format(contents[0], contents[1]).encode("utf-8", 'xmlcharrefreplace'))
         self.display.log("Created: %s" % self.filename)
