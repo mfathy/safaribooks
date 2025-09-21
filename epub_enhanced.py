@@ -52,6 +52,8 @@ class EnhancedEpubGenerator:
                         "<meta name=\"cover\" content=\"{8}\"/>\n" \
                         "<meta property=\"dcterms:modified\">{9}</meta>\n" \
                         "<meta name=\"generator\" content=\"SafariBooks Enhanced EPUB Generator\"/>\n" \
+                        "<meta property=\"schema:accessibilityFeature\" content=\"alternativeText\"/>\n" \
+                        "<meta property=\"schema:accessibilityFeature\" content=\"structuralNavigation\"/>\n" \
                         "</metadata>\n" \
                         "<manifest>\n" \
                         "<item id=\"ncx\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\" />\n" \
@@ -282,6 +284,26 @@ blockquote {
         # Add navigation document
         manifest.append("<item id=\"nav\" href=\"nav.xhtml\" media-type=\"application/xhtml+xml\" properties=\"nav\"/>")
         
+        # Handle cover image and cover.xhtml
+        cover_image_id = None
+        cover_xhtml_id = None
+        
+        # Find cover image
+        cover_images = [img for img in self.images if 'cover' in img.lower()]
+        if cover_images:
+            cover_img = cover_images[0]  # Use first cover image found
+            dot_split = cover_img.split(".")
+            cover_image_id = "cover-image"
+            extension = dot_split[-1]
+            media_type = "image/jpeg" if "jp" in extension else f"image/{extension}"
+            manifest.append(f"<item id=\"{cover_image_id}\" href=\"Images/{cover_img}\" media-type=\"{media_type}\" properties=\"cover-image\"/>")
+            
+            # Create cover.xhtml
+            cover_xhtml_id = "cover"
+            self._create_cover_xhtml(cover_img, is_kindle)
+            manifest.append(f"<item id=\"{cover_xhtml_id}\" href=\"cover.xhtml\" media-type=\"application/xhtml+xml\"/>")
+            spine.insert(0, f"<itemref idref=\"{cover_xhtml_id}\"/>")
+        
         for c in self.book_chapters:
             c["filename"] = c["filename"].replace(".html", ".xhtml")
             item_id = escape("".join(c["filename"].split(".")[:-1]))
@@ -291,13 +313,14 @@ blockquote {
             spine.append("<itemref idref=\"{0}\"/>".format(item_id))
         
         for i in set(self.images):
-            dot_split = i.split(".")
-            head = "img_" + escape("".join(dot_split[:-1]))
-            extension = dot_split[-1]
-            media_type = "image/jpeg" if "jp" in extension else f"image/{extension}"
-            manifest.append("<item id=\"{0}\" href=\"Images/{1}\" media-type=\"{2}\" />".format(
-                head, i, media_type
-            ))
+            if i not in cover_images:  # Don't duplicate cover image
+                dot_split = i.split(".")
+                head = "img_" + escape("".join(dot_split[:-1]))
+                extension = dot_split[-1]
+                media_type = "image/jpeg" if "jp" in extension else f"image/{extension}"
+                manifest.append("<item id=\"{0}\" href=\"Images/{1}\" media-type=\"{2}\" />".format(
+                    head, i, media_type
+                ))
         
         # Add enhanced CSS
         css_name = "kindle-style.css" if is_kindle else "standard-style.css"
@@ -314,6 +337,9 @@ blockquote {
         from datetime import datetime
         current_time = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
         
+        # Use cover image ID for metadata
+        cover_ref = cover_image_id if cover_image_id else ""
+        
         return self.EPUB3_CONTENT_OPF.format(
             (self.book_info.get("isbn", self.book_info.get("identifier", ""))),
             escape(self.book_info.get("title", "")),
@@ -323,12 +349,78 @@ blockquote {
             ", ".join(escape(pub.get("name", "")) for pub in self.book_info.get("publishers", [])),
             escape(self.book_info.get("rights", "")),
             self.book_info.get("issued", ""),
-            self.cover,
+            cover_ref,
             current_time,
             "\n".join(manifest),
             "\n".join(spine),
-            self.book_chapters[0]["filename"].replace(".html", ".xhtml")
+            "cover.xhtml" if cover_xhtml_id else self.book_chapters[0]["filename"].replace(".html", ".xhtml")
         )
+    
+    def _create_cover_xhtml(self, cover_image, is_kindle=False):
+        """Create a proper cover.xhtml file"""
+        cover_css = """
+        body {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #000;
+        }
+        .cover-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            width: 100%;
+        }
+        .cover-image {
+            max-width: 100%;
+            max-height: 100vh;
+            width: auto;
+            height: auto;
+            object-fit: contain;
+        }
+        """ if not is_kindle else """
+        body {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #000;
+            font-family: "Times New Roman", serif;
+        }
+        .cover-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            width: 100%;
+        }
+        .cover-image {
+            max-width: 100%;
+            max-height: 100vh;
+            width: auto;
+            height: auto;
+            object-fit: contain;
+        }
+        """
+        
+        cover_xhtml = f"""<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+    <title>Cover</title>
+    <style type="text/css">
+        {cover_css}
+    </style>
+</head>
+<body>
+    <div class="cover-container">
+        <img src="Images/{cover_image}" alt="Cover" class="cover-image" />
+    </div>
+</body>
+</html>"""
+        
+        with open(os.path.join(self.book_path, "OEBPS", "cover.xhtml"), "w", encoding="utf-8") as f:
+            f.write(cover_xhtml)
     
     def create_navigation_document(self):
         """Create EPUB 3.3 navigation document"""
