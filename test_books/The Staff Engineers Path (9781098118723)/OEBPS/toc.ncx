@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta content="ID:ISBN:9781098118730" name="dtb:uid"/>
+<meta content="4" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle><text>The Staff Engineer's Path</text></docTitle>
+<docAuthor><text>Tanya Reilly</text></docAuthor>
+<navMap><navPoint id="foreword" playOrder="1"><navLabel><text>Foreword</text></navLabel><content src="foreword01.xhtml#foreword"/></navPoint>
+<navPoint id="introduction" playOrder="2"><navLabel><text>Introduction</text></navLabel><content src="preface01.xhtml#introduction"/><navPoint id="two_paths" playOrder="3"><navLabel><text>Two Paths</text></navLabel><content src="preface01.xhtml#two_paths"/></navPoint>
+<navPoint id="the_pillars_of_staff_engineering" playOrder="4"><navLabel><text>The Pillars of Staff Engineering</text></navLabel><content src="preface01.xhtml#the_pillars_of_staff_engineering"/></navPoint>
+<navPoint id="part_one_big_picture" playOrder="5"><navLabel><text>Part I: The Big Picture</text></navLabel><content src="preface01.xhtml#part_one_big_picture"/></navPoint>
+<navPoint id="part_two_execution" playOrder="6"><navLabel><text>Part II: Execution</text></navLabel><content src="preface01.xhtml#part_two_execution"/></navPoint>
+<navPoint id="part_three_leveling_up" playOrder="7"><navLabel><text>Part III: Leveling Up</text></navLabel><content src="preface01.xhtml#part_three_leveling_up"/></navPoint>
+<navPoint id="_safari_books_online" playOrder="8"><navLabel><text>O’Reilly Online Learning</text></navLabel><content src="preface01.xhtml#_safari_books_online"/></navPoint>
+<navPoint id="_how_to_contact_us" playOrder="9"><navLabel><text>How to Contact Us</text></navLabel><content src="preface01.xhtml#_how_to_contact_us"/></navPoint>
+<navPoint id="_acknowledgments" playOrder="10"><navLabel><text>Acknowledgments</text></navLabel><content src="preface01.xhtml#_acknowledgments"/></navPoint>
+</navPoint>
+<navPoint id="part1" playOrder="11"><navLabel><text>I. The Big Picture</text></navLabel><content src="part01.xhtml#part1"/></navPoint>
+<navPoint id="what_would_you_say_you_do_herequestion" playOrder="12"><navLabel><text>1. What Would You Say You Do Here?</text></navLabel><content src="ch01.xhtml#what_would_you_say_you_do_herequestion"/><navPoint id="what_even_is_a_staff_engineerquestion_m" playOrder="13"><navLabel><text>What Even Is a Staff Engineer?</text></navLabel><content src="ch01.xhtml#what_even_is_a_staff_engineerquestion_m"/><navPoint id="why_do_we_need_engineers_who_can_see_th" playOrder="14"><navLabel><text>Why Do We Need Engineers Who Can See the Big Picture?</text></navLabel><content src="ch01.xhtml#why_do_we_need_engineers_who_can_see_th"/></navPoint>
+<navPoint id="why_do_we_need_engineers_who_lead_proje" playOrder="15"><navLabel><text>Why Do We Need Engineers Who Lead Projects That Cross Multiple Teams?</text></navLabel><content src="ch01.xhtml#why_do_we_need_engineers_who_lead_proje"/></navPoint>
+<navPoint id="why_do_we_need_engineers_who_are_a_good" playOrder="16"><navLabel><text>Why Do We Need Engineers Who Are a Good Influence?</text></navLabel><content src="ch01.xhtml#why_do_we_need_engineers_who_are_a_good"/></navPoint>
+</navPoint>
+<navPoint id="enough_philosophydot_whatapostrophes_my" playOrder="17"><navLabel><text>Enough Philosophy. What’s My Job?</text></navLabel><content src="ch01.xhtml#enough_philosophydot_whatapostrophes_my"/><navPoint id="youapostrophere_not_a_managercomma_but" playOrder="18"><navLabel><text>You’re Not a Manager, but You Are a Leader</text></navLabel><content src="ch01.xhtml#youapostrophere_not_a_managercomma_but"/></navPoint>
+<navPoint id="youapostrophere_in_a_quotation_marktech" playOrder="19"><navLabel><text>You’re in a “Technical” Role</text></navLabel><content src="ch01.xhtml#youapostrophere_in_a_quotation_marktech"/></navPoint>
+<navPoint id="you_aim_to_be_autonomous" playOrder="20"><navLabel><text>You Aim to Be Autonomous</text></navLabel><content src="ch01.xhtml#you_aim_to_be_autonomous"/></navPoint>
+<navPoint id="you_set_technical_direction" playOrder="21"><navLabel><text>You Set Technical Direction</text></navLabel><content src="ch01.xhtml#you_set_technical_direction"/></navPoint>
+<navPoint id="you_communicate_often_and_well" playOrder="22"><navLabel><text>You Communicate Often and Well</text></navLabel><content src="ch01.xhtml#you_communicate_often_and_well"/></navPoint>
+</navPoint>
+<navPoint id="understanding_your_role" playOrder="23"><navLabel><text>Understanding Your Role</text></navLabel><content src="ch01.xhtml#understanding_your_role"/><navPoint id="where_in_the_organization_do_you_sitque" playOrder="24"><navLabel><text>Where in the Organization Do You Sit?</text></navLabel><content src="ch01.xhtml#where_in_the_organization_do_you_sitque"/></navPoint>
+<navPoint id="whatapostrophes_your_scopequestion_mark" playOrder="25"><navLabel><text>What’s Your Scope?</text></navLabel><content src="ch01.xhtml#whatapostrophes_your_scopequestion_mark"/></navPoint>
+<navPoint id="what_shape_is_your_rolequestion_mark" playOrder="26"><navLabel><text>What Shape Is Your Role?</text></navLabel><content src="ch01.xhtml#what_shape_is_your_rolequestion_mark"/></navPoint>
+<navPoint id="whatapostrophes_your_primary_focusquest" playOrder="27"><navLabel><text>What’s Your Primary Focus?</text></navLabel><content src="ch01.xhtml#whatapostrophes_your_primary_focusquest"/></navPoint>
+</navPoint>
+<navPoint id="aligning_on_scopecomma_shapecomma_and_p" playOrder="28"><navLabel><text>Aligning on Scope, Shape, and Primary Focus</text></navLabel><content src="ch01.xhtml#aligning_on_scopecomma_shapecomma_and_p"/><navPoint id="is_that_your_jobquestion_mark" playOrder="29"><navLabel><text>Is That Your Job?</text></navLabel><content src="ch01.xhtml#is_that_your_jobquestion_mark"/></navPoint>
+</navPoint>
+<navPoint id="to_recap-id000016" playOrder="30"><navLabel><text>To Recap</text></navLabel><content src="ch01.xhtml#to_recap-id000016"/></navPoint>
+</navPoint>
+<navPoint id="three_maps" playOrder="31"><navLabel><text>2. Three Maps</text></navLabel><content src="ch02.xhtml#three_maps"/><navPoint id="uhcomma_did_anyone_bring_a_mapquestion" playOrder="32"><navLabel><text>Uh, Did Anyone Bring a Map?</text></navLabel><content src="ch02.xhtml#uhcomma_did_anyone_bring_a_mapquestion"/><navPoint id="a_locator_map_you_are_here" playOrder="33"><navLabel><text>A Locator Map: You Are Here</text></navLabel><content src="ch02.xhtml#a_locator_map_you_are_here"/></navPoint>
+<navPoint id="a_topographical_map_learning_the_terrai" playOrder="34"><navLabel><text>A Topographical Map: Learning the Terrain</text></navLabel><content src="ch02.xhtml#a_topographical_map_learning_the_terrai"/></navPoint>
+<navPoint id="a_treasure_map_x_marks_the_spot" playOrder="35"><navLabel><text>A Treasure Map: X Marks the Spot</text></navLabel><content src="ch02.xhtml#a_treasure_map_x_marks_the_spot"/></navPoint>
+<navPoint id="clearing_the_fog_of_war" playOrder="36"><navLabel><text>Clearing the Fog of War</text></navLabel><content src="ch02.xhtml#clearing_the_fog_of_war"/></navPoint>
+</navPoint>
+<navPoint id="the_locator_map_getting_perspective" playOrder="37"><navLabel><text>The Locator Map: Getting Perspective</text></navLabel><content src="ch02.xhtml#the_locator_map_getting_perspective"/><navPoint id="seeing_bigger" playOrder="38"><navLabel><text>Seeing Bigger</text></navLabel><content src="ch02.xhtml#seeing_bigger"/></navPoint>
+</navPoint>
+<navPoint id="the_topographical_map_navigating_the_te" playOrder="39"><navLabel><text>The Topographical Map: Navigating the Terrain</text></navLabel><content src="ch02.xhtml#the_topographical_map_navigating_the_te"/><navPoint id="rough_terrain" playOrder="40"><navLabel><text>Rough Terrain</text></navLabel><content src="ch02.xhtml#rough_terrain"/></navPoint>
+<navPoint id="understanding_your_organization" playOrder="41"><navLabel><text>Understanding Your Organization</text></navLabel><content src="ch02.xhtml#understanding_your_organization"/></navPoint>
+<navPoint id="what_points_of_interest_are_on_your_map" playOrder="42"><navLabel><text>What Points of Interest Are on Your Map?</text></navLabel><content src="ch02.xhtml#what_points_of_interest_are_on_your_map"/></navPoint>
+<navPoint id="keeping_your_topographic_map_up_to_date" playOrder="43"><navLabel><text>Keeping Your Topographic Map Up to Date</text></navLabel><content src="ch02.xhtml#keeping_your_topographic_map_up_to_date"/></navPoint>
+<navPoint id="if_the_terrain_is_still_difficult_to_na" playOrder="44"><navLabel><text>If the Terrain Is Still Difficult to Navigate, Be a Bridge</text></navLabel><content src="ch02.xhtml#if_the_terrain_is_still_difficult_to_na"/></navPoint>
+</navPoint>
+<navPoint id="the_treasure_map_remind_me_where_weapos" playOrder="45"><navLabel><text>The Treasure Map: Remind Me Where We’re Going?</text></navLabel><content src="ch02.xhtml#the_treasure_map_remind_me_where_weapos"/><navPoint id="chasing_shiny_things" playOrder="46"><navLabel><text>Chasing Shiny Things</text></navLabel><content src="ch02.xhtml#chasing_shiny_things"/></navPoint>
+<navPoint id="taking_a_longer_view" playOrder="47"><navLabel><text>Taking a Longer View</text></navLabel><content src="ch02.xhtml#taking_a_longer_view"/></navPoint>
+<navPoint id="if_the_treasure_map_is_still_unclearcom" playOrder="48"><navLabel><text>If the Treasure Map Is Still Unclear, It Might Be Time to Draw a New One</text></navLabel><content src="ch02.xhtml#if_the_treasure_map_is_still_unclearcom"/></navPoint>
+</navPoint>
+<navPoint id="your_personal_journey" playOrder="49"><navLabel><text>Your Personal Journey</text></navLabel><content src="ch02.xhtml#your_personal_journey"/></navPoint>
+<navPoint id="to_recap-id000036" playOrder="50"><navLabel><text>To Recap</text></navLabel><content src="ch02.xhtml#to_recap-id000036"/></navPoint>
+</navPoint>
+<navPoint id="creating_the_big_picture" playOrder="51"><navLabel><text>3. Creating the Big Picture</text></navLabel><content src="ch03.xhtml#creating_the_big_picture"/><navPoint id="the_scenario_sockmatcher_needs_a_plan" playOrder="52"><navLabel><text>The Scenario: SockMatcher Needs a Plan</text></navLabel><content src="ch03.xhtml#the_scenario_sockmatcher_needs_a_plan"/></navPoint>
+<navPoint id="whatapostrophes_a_visionquestion_mark_w" playOrder="53"><navLabel><text>What’s a Vision? What’s a Strategy?</text></navLabel><content src="ch03.xhtml#whatapostrophes_a_visionquestion_mark_w"/><navPoint id="whatapostrophes_a_technical_visionquest" playOrder="54"><navLabel><text>What’s a Technical Vision?</text></navLabel><content src="ch03.xhtml#whatapostrophes_a_technical_visionquest"/></navPoint>
+<navPoint id="whatapostrophes_a_technical_strategyque" playOrder="55"><navLabel><text>What’s a Technical Strategy?</text></navLabel><content src="ch03.xhtml#whatapostrophes_a_technical_strategyque"/></navPoint>
+<navPoint id="do_you_really_need_vision_and_strategy" playOrder="56"><navLabel><text>Do You Really Need Vision and Strategy Documents?</text></navLabel><content src="ch03.xhtml#do_you_really_need_vision_and_strategy"/></navPoint>
+</navPoint>
+<navPoint id="the_approach" playOrder="57"><navLabel><text>The Approach</text></navLabel><content src="ch03.xhtml#the_approach"/><navPoint id="embrace_the_boring_ideas" playOrder="58"><navLabel><text>Embrace the Boring Ideas</text></navLabel><content src="ch03.xhtml#embrace_the_boring_ideas"/></navPoint>
+<navPoint id="join_an_expedition_in_progress" playOrder="59"><navLabel><text>Join an Expedition in Progress</text></navLabel><content src="ch03.xhtml#join_an_expedition_in_progress"/></navPoint>
+<navPoint id="get_a_sponsor" playOrder="60"><navLabel><text>Get a Sponsor</text></navLabel><content src="ch03.xhtml#get_a_sponsor"/></navPoint>
+<navPoint id="choose_your_core_group" playOrder="61"><navLabel><text>Choose Your Core Group</text></navLabel><content src="ch03.xhtml#choose_your_core_group"/></navPoint>
+<navPoint id="set_scope" playOrder="62"><navLabel><text>Set Scope</text></navLabel><content src="ch03.xhtml#set_scope"/></navPoint>
+<navPoint id="make_sure_itapostrophes_achievable" playOrder="63"><navLabel><text>Make Sure It’s Achievable</text></navLabel><content src="ch03.xhtml#make_sure_itapostrophes_achievable"/></navPoint>
+<navPoint id="make_it_official-id000010" playOrder="64"><navLabel><text>Make It Official</text></navLabel><content src="ch03.xhtml#make_it_official-id000010"/></navPoint>
+</navPoint>
+<navPoint id="the_writing-id000015" playOrder="65"><navLabel><text>The Writing</text></navLabel><content src="ch03.xhtml#the_writing-id000015"/><navPoint id="the_writing_loop" playOrder="66"><navLabel><text>The Writing Loop</text></navLabel><content src="ch03.xhtml#the_writing_loop"/></navPoint>
+<navPoint id="make_decisions-id00009" playOrder="67"><navLabel><text>Make Decisions</text></navLabel><content src="ch03.xhtml#make_decisions-id00009"/></navPoint>
+<navPoint id="get_aligned_and_stay_aligned" playOrder="68"><navLabel><text>Get Aligned and Stay Aligned</text></navLabel><content src="ch03.xhtml#get_aligned_and_stay_aligned"/></navPoint>
+<navPoint id="create_the_final_draft" playOrder="69"><navLabel><text>Create the Final Draft</text></navLabel><content src="ch03.xhtml#create_the_final_draft"/></navPoint>
+</navPoint>
+<navPoint id="the_launch-id000014" playOrder="70"><navLabel><text>The Launch</text></navLabel><content src="ch03.xhtml#the_launch-id000014"/><navPoint id="make_it_official-id000030" playOrder="71"><navLabel><text>Make It Official</text></navLabel><content src="ch03.xhtml#make_it_official-id000030"/></navPoint>
+<navPoint id="keep_it_fresh" playOrder="72"><navLabel><text>Keep It Fresh</text></navLabel><content src="ch03.xhtml#keep_it_fresh"/></navPoint>
+</navPoint>
+<navPoint id="case_study_sockmatcher" playOrder="73"><navLabel><text>Case Study: SockMatcher</text></navLabel><content src="ch03.xhtml#case_study_sockmatcher"/><navPoint id="approach" playOrder="74"><navLabel><text>Approach</text></navLabel><content src="ch03.xhtml#approach"/></navPoint>
+<navPoint id="the_writing-id000035" playOrder="75"><navLabel><text>The Writing</text></navLabel><content src="ch03.xhtml#the_writing-id000035"/></navPoint>
+<navPoint id="the_launch-id000034" playOrder="76"><navLabel><text>The Launch</text></navLabel><content src="ch03.xhtml#the_launch-id000034"/></navPoint>
+</navPoint>
+<navPoint id="to_recap-id000046" playOrder="77"><navLabel><text>To Recap</text></navLabel><content src="ch03.xhtml#to_recap-id000046"/></navPoint>
+</navPoint>
+<navPoint id="part2" playOrder="78"><navLabel><text>II. Execution</text></navLabel><content src="part02.xhtml#part2"/></navPoint>
+<navPoint id="finite_time-id00004" playOrder="79"><navLabel><text>4. Finite Time</text></navLabel><content src="ch04.xhtml#finite_time-id00004"/><navPoint id="doing_all_the_things" playOrder="80"><navLabel><text>Doing All the Things</text></navLabel><content src="ch04.xhtml#doing_all_the_things"/></navPoint>
+<navPoint id="time" playOrder="81"><navLabel><text>Time</text></navLabel><content src="ch04.xhtml#time"/><navPoint id="finite_time-id000024" playOrder="82"><navLabel><text>Finite Time</text></navLabel><content src="ch04.xhtml#finite_time-id000024"/></navPoint>
+<navPoint id="how_busy_do_you_like_to_bequestion_mark" playOrder="83"><navLabel><text>How Busy Do You Like to Be?</text></navLabel><content src="ch04.xhtml#how_busy_do_you_like_to_bequestion_mark"/></navPoint>
+<navPoint id="projectqueuedotpopleft_parenthesisright" playOrder="84"><navLabel><text>projectqueue.pop()?</text></navLabel><content src="ch04.xhtml#projectqueuedotpopleft_parenthesisright"/></navPoint>
+</navPoint>
+<navPoint id="resource_constraints" playOrder="85"><navLabel><text>Resource Constraints</text></navLabel><content src="ch04.xhtml#resource_constraints"/><navPoint id="your_dashboard" playOrder="86"><navLabel><text>Your Dashboard</text></navLabel><content src="ch04.xhtml#your_dashboard"/></navPoint>
+<navPoint id="e_plus_twos_plus_dotdotdotquestion_mark" playOrder="87"><navLabel><text>E + 2S + ...?</text></navLabel><content src="ch04.xhtml#e_plus_twos_plus_dotdotdotquestion_mark"/></navPoint>
+<navPoint id="bin_packing" playOrder="88"><navLabel><text>Bin packing</text></navLabel><content src="ch04.xhtml#bin_packing"/></navPoint>
+</navPoint>
+<navPoint id="choosing_projects" playOrder="89"><navLabel><text>Choosing Projects</text></navLabel><content src="ch04.xhtml#choosing_projects"/><navPoint id="evaluating_a_project" playOrder="90"><navLabel><text>Evaluating a Project</text></navLabel><content src="ch04.xhtml#evaluating_a_project"/></navPoint>
+<navPoint id="what_are_you_signing_on_forquestion_mar" playOrder="91"><navLabel><text>What are you signing on for?</text></navLabel><content src="ch04.xhtml#what_are_you_signing_on_forquestion_mar"/></navPoint>
+<navPoint id="questions_to_ask_yourself_about_project" playOrder="92"><navLabel><text>Questions to Ask Yourself About Projects</text></navLabel><content src="ch04.xhtml#questions_to_ask_yourself_about_project"/></navPoint>
+<navPoint id="what_if_itapostrophes_the_wrong_project" playOrder="93"><navLabel><text>What If It’s the Wrong Project?</text></navLabel><content src="ch04.xhtml#what_if_itapostrophes_the_wrong_project"/></navPoint>
+<navPoint id="examples" playOrder="94"><navLabel><text>Examples</text></navLabel><content src="ch04.xhtml#examples"/></navPoint>
+<navPoint id="defend_your_time" playOrder="95"><navLabel><text>Defend Your Time</text></navLabel><content src="ch04.xhtml#defend_your_time"/></navPoint>
+</navPoint>
+<navPoint id="to_recap-id000052" playOrder="96"><navLabel><text>To Recap</text></navLabel><content src="ch04.xhtml#to_recap-id000052"/></navPoint>
+</navPoint>
+<navPoint id="leading_big_projects" playOrder="97"><navLabel><text>5. Leading Big Projects</text></navLabel><content src="ch05.xhtml#leading_big_projects"/><navPoint id="the_life_of_a_project" playOrder="98"><navLabel><text>The Life of a Project</text></navLabel><content src="ch05.xhtml#the_life_of_a_project"/></navPoint>
+<navPoint id="the_start_of_a_project" playOrder="99"><navLabel><text>The Start of a Project</text></navLabel><content src="ch05.xhtml#the_start_of_a_project"/><navPoint id="if_youapostrophere_feeling_overwhelmed" playOrder="100"><navLabel><text>If You’re Feeling Overwhelmed…</text></navLabel><content src="ch05.xhtml#if_youapostrophere_feeling_overwhelmed"/></navPoint>
+<navPoint id="building_context" playOrder="101"><navLabel><text>Building Context</text></navLabel><content src="ch05.xhtml#building_context"/></navPoint>
+<navPoint id="giving_your_project_structure" playOrder="102"><navLabel><text>Giving Your Project Structure</text></navLabel><content src="ch05.xhtml#giving_your_project_structure"/></navPoint>
+</navPoint>
+<navPoint id="driving_the_project" playOrder="103"><navLabel><text>Driving the Project</text></navLabel><content src="ch05.xhtml#driving_the_project"/><navPoint id="exploring" playOrder="104"><navLabel><text>Exploring</text></navLabel><content src="ch05.xhtml#exploring"/></navPoint>
+<navPoint id="clarifying" playOrder="105"><navLabel><text>Clarifying</text></navLabel><content src="ch05.xhtml#clarifying"/></navPoint>
+<navPoint id="designing" playOrder="106"><navLabel><text>Designing</text></navLabel><content src="ch05.xhtml#designing"/></navPoint>
+<navPoint id="coding" playOrder="107"><navLabel><text>Coding</text></navLabel><content src="ch05.xhtml#coding"/></navPoint>
+<navPoint id="communicating" playOrder="108"><navLabel><text>Communicating</text></navLabel><content src="ch05.xhtml#communicating"/></navPoint>
+<navPoint id="navigating" playOrder="109"><navLabel><text>Navigating</text></navLabel><content src="ch05.xhtml#navigating"/></navPoint>
+</navPoint>
+<navPoint id="to_recap-id000058" playOrder="110"><navLabel><text>To Recap</text></navLabel><content src="ch05.xhtml#to_recap-id000058"/></navPoint>
+</navPoint>
+<navPoint id="why_have_we_stoppedquestion_mark" playOrder="111"><navLabel><text>6. Why Have We Stopped?</text></navLabel><content src="ch06.xhtml#why_have_we_stoppedquestion_mark"/><navPoint id="the_project_isnapostrophet_movingem_das" playOrder="112"><navLabel><text>The Project Isn’t Moving—Should It Be?</text></navLabel><content src="ch06.xhtml#the_project_isnapostrophet_movingem_das"/><navPoint id="youapostrophere_stuck_in_traffic" playOrder="113"><navLabel><text>You’re Stuck in Traffic</text></navLabel><content src="ch06.xhtml#youapostrophere_stuck_in_traffic"/></navPoint>
+<navPoint id="blocked_by_another_team" playOrder="114"><navLabel><text>Blocked by Another Team</text></navLabel><content src="ch06.xhtml#blocked_by_another_team"/></navPoint>
+<navPoint id="blocked_by_a_decision" playOrder="115"><navLabel><text>Blocked by a Decision</text></navLabel><content src="ch06.xhtml#blocked_by_a_decision"/></navPoint>
+<navPoint id="blocked_by_a_single_dollarpercentcommer" playOrder="116"><navLabel><text>Blocked by a Single $%@$% Button Click</text></navLabel><content src="ch06.xhtml#blocked_by_a_single_dollarpercentcommer"/></navPoint>
+<navPoint id="blocked_by_a_single_person" playOrder="117"><navLabel><text>Blocked by a Single Person</text></navLabel><content src="ch06.xhtml#blocked_by_a_single_person"/></navPoint>
+<navPoint id="blocked_by_unassigned_work" playOrder="118"><navLabel><text>Blocked by Unassigned Work</text></navLabel><content src="ch06.xhtml#blocked_by_unassigned_work"/></navPoint>
+<navPoint id="blocked_by_a_huge_crowd_of_people" playOrder="119"><navLabel><text>Blocked by a Huge Crowd of People</text></navLabel><content src="ch06.xhtml#blocked_by_a_huge_crowd_of_people"/></navPoint>
+</navPoint>
+<navPoint id="youapostrophere_lost" playOrder="120"><navLabel><text>You’re Lost</text></navLabel><content src="ch06.xhtml#youapostrophere_lost"/><navPoint id="you_donapostrophet_know_where_youapostr" playOrder="121"><navLabel><text>You Don’t Know Where You’re All Going</text></navLabel><content src="ch06.xhtml#you_donapostrophet_know_where_youapostr"/></navPoint>
+<navPoint id="you_donapostrophet_know_how_to_get_ther" playOrder="122"><navLabel><text>You Don’t Know How to Get There</text></navLabel><content src="ch06.xhtml#you_donapostrophet_know_how_to_get_ther"/></navPoint>
+<navPoint id="you_donapostrophet_know_where_you_stand" playOrder="123"><navLabel><text>You Don’t Know Where You Stand</text></navLabel><content src="ch06.xhtml#you_donapostrophet_know_where_you_stand"/></navPoint>
+</navPoint>
+<navPoint id="you_have_arrived_mark" playOrder="124"><navLabel><text>You Have Arrived…Somewhere?</text></navLabel><content src="ch06.xhtml#you_have_arrived_mark"/><navPoint id="but_itapostrophes_code_completeexclamat" playOrder="125"><navLabel><text>But It’s Code Complete!</text></navLabel><content src="ch06.xhtml#but_itapostrophes_code_completeexclamat"/></navPoint>
+<navPoint id="itapostrophes_done_but_nobody_is_using" playOrder="126"><navLabel><text>It’s Done but Nobody Is Using It</text></navLabel><content src="ch06.xhtml#itapostrophes_done_but_nobody_is_using"/></navPoint>
+<navPoint id="itapostrophes_built_on_a_shaky_foundati" playOrder="127"><navLabel><text>It’s Built on a Shaky Foundation</text></navLabel><content src="ch06.xhtml#itapostrophes_built_on_a_shaky_foundati"/></navPoint>
+<navPoint id="the_project_just_stops_here" playOrder="128"><navLabel><text>The Project Just Stops Here</text></navLabel><content src="ch06.xhtml#the_project_just_stops_here"/></navPoint>
+</navPoint>
+<navPoint id="to_recap-id000063" playOrder="129"><navLabel><text>To Recap</text></navLabel><content src="ch06.xhtml#to_recap-id000063"/></navPoint>
+</navPoint>
+<navPoint id="part3" playOrder="130"><navLabel><text>III. Leveling Up</text></navLabel><content src="part03.xhtml#part3"/></navPoint>
+<navPoint id="youapostrophere_a_role_model_now_left_p" playOrder="131"><navLabel><text>7. You’re a Role Model Now (Sorry)</text></navLabel><content src="ch07.xhtml#youapostrophere_a_role_model_now_left_p"/><navPoint id="what_does_it_mean_to_do_a_good_jobquest" playOrder="132"><navLabel><text>What Does It Mean to Do a Good Job?</text></navLabel><content src="ch07.xhtml#what_does_it_mean_to_do_a_good_jobquest"/><navPoint id="but_i_donapostrophet_want_to_be_a_role" playOrder="133"><navLabel><text>But I Don’t Want to Be a Role Model!</text></navLabel><content src="ch07.xhtml#but_i_donapostrophet_want_to_be_a_role"/></navPoint>
+<navPoint id="what_does_it_mean_to_do_a_good_job_as_a" playOrder="134"><navLabel><text>What Does It Mean to Do a Good Job as a Senior Engineer?</text></navLabel><content src="ch07.xhtml#what_does_it_mean_to_do_a_good_job_as_a"/></navPoint>
+</navPoint>
+<navPoint id="be_competent" playOrder="135"><navLabel><text>Be Competent</text></navLabel><content src="ch07.xhtml#be_competent"/><navPoint id="know_things" playOrder="136"><navLabel><text>Know Things</text></navLabel><content src="ch07.xhtml#know_things"/></navPoint>
+<navPoint id="be_self-aware" playOrder="137"><navLabel><text>Be Self-Aware</text></navLabel><content src="ch07.xhtml#be_self-aware"/></navPoint>
+<navPoint id="have_high_standards" playOrder="138"><navLabel><text>Have High Standards</text></navLabel><content src="ch07.xhtml#have_high_standards"/></navPoint>
+</navPoint>
+<navPoint id="be_responsible" playOrder="139"><navLabel><text>Be Responsible</text></navLabel><content src="ch07.xhtml#be_responsible"/><navPoint id="take_ownership" playOrder="140"><navLabel><text>Take Ownership</text></navLabel><content src="ch07.xhtml#take_ownership"/></navPoint>
+<navPoint id="take_charge" playOrder="141"><navLabel><text>Take Charge</text></navLabel><content src="ch07.xhtml#take_charge"/></navPoint>
+<navPoint id="create_calm" playOrder="142"><navLabel><text>Create Calm</text></navLabel><content src="ch07.xhtml#create_calm"/></navPoint>
+</navPoint>
+<navPoint id="remember_the_goal" playOrder="143"><navLabel><text>Remember the Goal</text></navLabel><content src="ch07.xhtml#remember_the_goal"/><navPoint id="remember_thereapostrophes_a_business" playOrder="144"><navLabel><text>Remember There’s a Business</text></navLabel><content src="ch07.xhtml#remember_thereapostrophes_a_business"/></navPoint>
+<navPoint id="remember_thereapostrophes_a_user" playOrder="145"><navLabel><text>Remember There’s a User</text></navLabel><content src="ch07.xhtml#remember_thereapostrophes_a_user"/></navPoint>
+<navPoint id="remember_thereapostrophes_a_team" playOrder="146"><navLabel><text>Remember There’s a Team</text></navLabel><content src="ch07.xhtml#remember_thereapostrophes_a_team"/></navPoint>
+</navPoint>
+<navPoint id="look_ahead" playOrder="147"><navLabel><text>Look Ahead</text></navLabel><content src="ch07.xhtml#look_ahead"/><navPoint id="anticipate_what_youapostrophell_wish_yo" playOrder="148"><navLabel><text>Anticipate What You’ll Wish You’d Done</text></navLabel><content src="ch07.xhtml#anticipate_what_youapostrophell_wish_yo"/></navPoint>
+<navPoint id="expect_failure" playOrder="149"><navLabel><text>Expect Failure</text></navLabel><content src="ch07.xhtml#expect_failure"/></navPoint>
+<navPoint id="optimize_for_maintenancecomma_not_creat" playOrder="150"><navLabel><text>Optimize for Maintenance, Not Creation</text></navLabel><content src="ch07.xhtml#optimize_for_maintenancecomma_not_creat"/></navPoint>
+<navPoint id="create_future_leaders" playOrder="151"><navLabel><text>Create Future Leaders</text></navLabel><content src="ch07.xhtml#create_future_leaders"/></navPoint>
+</navPoint>
+<navPoint id="to_recap-id000066" playOrder="152"><navLabel><text>To Recap</text></navLabel><content src="ch07.xhtml#to_recap-id000066"/></navPoint>
+</navPoint>
+<navPoint id="good_influence_at_scale" playOrder="153"><navLabel><text>8. Good Influence at Scale</text></navLabel><content src="ch08.xhtml#good_influence_at_scale"/><navPoint id="good_influence" playOrder="154"><navLabel><text>Good Influence</text></navLabel><content src="ch08.xhtml#good_influence"/><navPoint id="scaling_your_good_influence" playOrder="155"><navLabel><text>Scaling Your Good Influence</text></navLabel><content src="ch08.xhtml#scaling_your_good_influence"/></navPoint>
+</navPoint>
+<navPoint id="advice" playOrder="156"><navLabel><text>Advice</text></navLabel><content src="ch08.xhtml#advice"/><navPoint id="individual_advice" playOrder="157"><navLabel><text>Individual Advice</text></navLabel><content src="ch08.xhtml#individual_advice"/></navPoint>
+<navPoint id="scaling_your_advice_to_a_group" playOrder="158"><navLabel><text>Scaling Your Advice to a Group</text></navLabel><content src="ch08.xhtml#scaling_your_advice_to_a_group"/><navPoint id="being_a_catalyst-id00001" playOrder="159"><navLabel><text>Being a Catalyst</text></navLabel><content src="ch08.xhtml#being_a_catalyst-id00001"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="teaching" playOrder="160"><navLabel><text>Teaching</text></navLabel><content src="ch08.xhtml#teaching"/><navPoint id="individual_teaching" playOrder="161"><navLabel><text>Individual Teaching</text></navLabel><content src="ch08.xhtml#individual_teaching"/></navPoint>
+<navPoint id="scaling_your_teaching_to_a_group" playOrder="162"><navLabel><text>Scaling Your Teaching to a Group</text></navLabel><content src="ch08.xhtml#scaling_your_teaching_to_a_group"/></navPoint>
+<navPoint id="being_a_catalyst-id000021" playOrder="163"><navLabel><text>Being a Catalyst</text></navLabel><content src="ch08.xhtml#being_a_catalyst-id000021"/></navPoint>
+</navPoint>
+<navPoint id="guardrails" playOrder="164"><navLabel><text>Guardrails</text></navLabel><content src="ch08.xhtml#guardrails"/><navPoint id="individual_guardrails" playOrder="165"><navLabel><text>Individual Guardrails</text></navLabel><content src="ch08.xhtml#individual_guardrails"/></navPoint>
+<navPoint id="scaling_your_guardrails_to_a_group" playOrder="166"><navLabel><text>Scaling Your Guardrails to a Group</text></navLabel><content src="ch08.xhtml#scaling_your_guardrails_to_a_group"/></navPoint>
+<navPoint id="being_a_catalyst-id000041" playOrder="167"><navLabel><text>Being a Catalyst</text></navLabel><content src="ch08.xhtml#being_a_catalyst-id000041"/></navPoint>
+</navPoint>
+<navPoint id="opportunity" playOrder="168"><navLabel><text>Opportunity</text></navLabel><content src="ch08.xhtml#opportunity"/><navPoint id="individual_opportunities" playOrder="169"><navLabel><text>Individual Opportunities</text></navLabel><content src="ch08.xhtml#individual_opportunities"/></navPoint>
+<navPoint id="scaling_your_opportunities_to_a_group" playOrder="170"><navLabel><text>Scaling Your Opportunities to a Group</text></navLabel><content src="ch08.xhtml#scaling_your_opportunities_to_a_group"/></navPoint>
+<navPoint id="being_a_catalyst-id000042" playOrder="171"><navLabel><text>Being a Catalyst</text></navLabel><content src="ch08.xhtml#being_a_catalyst-id000042"/></navPoint>
+</navPoint>
+<navPoint id="to_recap-id000067" playOrder="172"><navLabel><text>To Recap</text></navLabel><content src="ch08.xhtml#to_recap-id000067"/></navPoint>
+</navPoint>
+<navPoint id="whatapostrophes_nextquestion_mark" playOrder="173"><navLabel><text>9. What’s Next?</text></navLabel><content src="ch09.xhtml#whatapostrophes_nextquestion_mark"/><navPoint id="your_career" playOrder="174"><navLabel><text>Your Career</text></navLabel><content src="ch09.xhtml#your_career"/><navPoint id="whatapostrophes_important_to_youquestio" playOrder="175"><navLabel><text>What’s Important to You?</text></navLabel><content src="ch09.xhtml#whatapostrophes_important_to_youquestio"/></navPoint>
+<navPoint id="where_are_you_goingquestion_mark" playOrder="176"><navLabel><text>Where Are You Going?</text></navLabel><content src="ch09.xhtml#where_are_you_goingquestion_mark"/></navPoint>
+<navPoint id="what_do_you_need_to_invest_inquestion_m" playOrder="177"><navLabel><text>What Do You Need to Invest In?</text></navLabel><content src="ch09.xhtml#what_do_you_need_to_invest_inquestion_m"/></navPoint>
+</navPoint>
+<navPoint id="your_current_role" playOrder="178"><navLabel><text>Your Current Role</text></navLabel><content src="ch09.xhtml#your_current_role"/><navPoint id="five_metrics_to_keep_an_eye_on" playOrder="179"><navLabel><text>Five Metrics to Keep an Eye On</text></navLabel><content src="ch09.xhtml#five_metrics_to_keep_an_eye_on"/></navPoint>
+<navPoint id="can_you_get_what_you_want_from_your_rol" playOrder="180"><navLabel><text>Can You Get What You Want from Your Role?</text></navLabel><content src="ch09.xhtml#can_you_get_what_you_want_from_your_rol"/></navPoint>
+<navPoint id="should_you_change_jobsquestion_mark" playOrder="181"><navLabel><text>Should You Change Jobs?</text></navLabel><content src="ch09.xhtml#should_you_change_jobsquestion_mark"/></navPoint>
+</navPoint>
+<navPoint id="paths_from_here" playOrder="182"><navLabel><text>Paths from Here</text></navLabel><content src="ch09.xhtml#paths_from_here"/><navPoint id="keep_doing_what_youapostrophere_doing" playOrder="183"><navLabel><text>Keep Doing What You’re Doing</text></navLabel><content src="ch09.xhtml#keep_doing_what_youapostrophere_doing"/></navPoint>
+<navPoint id="work_toward_promotion" playOrder="184"><navLabel><text>Work Toward Promotion</text></navLabel><content src="ch09.xhtml#work_toward_promotion"/></navPoint>
+<navPoint id="work_less" playOrder="185"><navLabel><text>Work Less</text></navLabel><content src="ch09.xhtml#work_less"/></navPoint>
+<navPoint id="change_teams" playOrder="186"><navLabel><text>Change Teams</text></navLabel><content src="ch09.xhtml#change_teams"/></navPoint>
+<navPoint id="build_a_new_specialty" playOrder="187"><navLabel><text>Build a New Specialty</text></navLabel><content src="ch09.xhtml#build_a_new_specialty"/></navPoint>
+<navPoint id="explore" playOrder="188"><navLabel><text>Explore</text></navLabel><content src="ch09.xhtml#explore"/></navPoint>
+<navPoint id="take_a_management_role" playOrder="189"><navLabel><text>Take a Management Role</text></navLabel><content src="ch09.xhtml#take_a_management_role"/></navPoint>
+<navPoint id="take_on_reports_for_the_first_time" playOrder="190"><navLabel><text>Take on Reports for the First Time</text></navLabel><content src="ch09.xhtml#take_on_reports_for_the_first_time"/></navPoint>
+<navPoint id="find_or_invent_your_own_niche" playOrder="191"><navLabel><text>Find or Invent Your Own Niche</text></navLabel><content src="ch09.xhtml#find_or_invent_your_own_niche"/></navPoint>
+<navPoint id="do_the_same_job_for_a_different_employe" playOrder="192"><navLabel><text>Do the Same Job for a Different Employer</text></navLabel><content src="ch09.xhtml#do_the_same_job_for_a_different_employe"/></navPoint>
+<navPoint id="change_employers_and_go_up_a_level" playOrder="193"><navLabel><text>Change Employers and Go Up a Level</text></navLabel><content src="ch09.xhtml#change_employers_and_go_up_a_level"/></navPoint>
+<navPoint id="change_employers_and_go_down_a_level" playOrder="194"><navLabel><text>Change Employers and Go Down a Level</text></navLabel><content src="ch09.xhtml#change_employers_and_go_down_a_level"/></navPoint>
+<navPoint id="set_up_your_own_startup" playOrder="195"><navLabel><text>Set Up Your Own Startup</text></navLabel><content src="ch09.xhtml#set_up_your_own_startup"/></navPoint>
+<navPoint id="go_independent" playOrder="196"><navLabel><text>Go Independent</text></navLabel><content src="ch09.xhtml#go_independent"/></navPoint>
+<navPoint id="change_careers" playOrder="197"><navLabel><text>Change Careers</text></navLabel><content src="ch09.xhtml#change_careers"/></navPoint>
+<navPoint id="prepare_to_reset" playOrder="198"><navLabel><text>Prepare to Reset</text></navLabel><content src="ch09.xhtml#prepare_to_reset"/></navPoint>
+</navPoint>
+<navPoint id="your_choices_matter" playOrder="199"><navLabel><text>Your Choices Matter</text></navLabel><content src="ch09.xhtml#your_choices_matter"/></navPoint>
+<navPoint id="to_recap-id000068" playOrder="200"><navLabel><text>To Recap</text></navLabel><content src="ch09.xhtml#to_recap-id000068"/></navPoint>
+</navPoint>
+<navPoint id="idm45850619303008" playOrder="201"><navLabel><text>Index</text></navLabel><content src="ix01.xhtml#idm45850619303008"/></navPoint>
+<navPoint id="idm45850619302592" playOrder="202"><navLabel><text>About the Author</text></navLabel><content src="colophon01.xhtml#idm45850619302592"/></navPoint>
+</navMap>
+</ncx>

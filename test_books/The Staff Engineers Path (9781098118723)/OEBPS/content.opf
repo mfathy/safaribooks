@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0" >
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>The Staff Engineer&#x27;s Path</dc:title>
+<dc:creator opf:file-as="Tanya Reilly" opf:role="aut">Tanya Reilly</dc:creator>
+<dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;For years, companies have rewarded their most effective engineers with management positions. But treating management as the default path for an engineer with leadership ability doesn&#x27;t serve the industry well--or the engineer. The staff engineer&#x27;s path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone&#x27;s skills.&lt;/p&gt;&lt;p&gt;This in-depth book shows you how to understand your role, manage your time, master strategic thinking, and set the standard for technical work. You&#x27;ll read about how to be a leader without direct authority, how to plan ahead to make the right technical decisions, and how to make everyone around you better, while still growing as an expert in your domain.&lt;/p&gt;&lt;p&gt;By exploring the three pillars of a staff engineer&#x27;s job, Tanya Reilly, a veteran of the staff engineer track, shows you how to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Take a broad, strategic view when thinking about your work&lt;/li&gt;&lt;li&gt;Dive into practical tactics for making projects succeed&lt;/li&gt;&lt;li&gt;Determine what &quot;good engineering&quot; means in your organization&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+<dc:publisher>O&#x27;Reilly Media, Inc.</dc:publisher>
+<dc:rights></dc:rights>
+<dc:language>en-US</dc:language>
+<dc:date>2022-09-20</dc:date>
+<dc:identifier id="bookid">9781098118730</dc:identifier>
+<dc:format>application/epub+zip</dc:format>
+<meta name="cover" content=""/>
+<meta property="dcterms:modified">2025-09-26T09:51:21Z</meta>
+<meta name="generator" content="SafariBooks Enhanced EPUB Generator"/>
+<meta property="schema:accessibilityFeature" content="alternativeText"/>
+<meta property="schema:accessibilityFeature" content="structuralNavigation"/>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+<item id="dedication01" href="dedication01.xhtml" media-type="application/xhtml+xml" />
+<item id="titlepage01" href="titlepage01.xhtml" media-type="application/xhtml+xml" />
+<item id="copyright-page01" href="copyright-page01.xhtml" media-type="application/xhtml+xml" />
+<item id="foreword01" href="foreword01.xhtml" media-type="application/xhtml+xml" />
+<item id="preface01" href="preface01.xhtml" media-type="application/xhtml+xml" />
+<item id="part01" href="part01.xhtml" media-type="application/xhtml+xml" />
+<item id="ch01" href="ch01.xhtml" media-type="application/xhtml+xml" />
+<item id="ch02" href="ch02.xhtml" media-type="application/xhtml+xml" />
+<item id="ch03" href="ch03.xhtml" media-type="application/xhtml+xml" />
+<item id="part02" href="part02.xhtml" media-type="application/xhtml+xml" />
+<item id="ch04" href="ch04.xhtml" media-type="application/xhtml+xml" />
+<item id="ch05" href="ch05.xhtml" media-type="application/xhtml+xml" />
+<item id="ch06" href="ch06.xhtml" media-type="application/xhtml+xml" />
+<item id="part03" href="part03.xhtml" media-type="application/xhtml+xml" />
+<item id="ch07" href="ch07.xhtml" media-type="application/xhtml+xml" />
+<item id="ch08" href="ch08.xhtml" media-type="application/xhtml+xml" />
+<item id="ch09" href="ch09.xhtml" media-type="application/xhtml+xml" />
+<item id="ix01" href="ix01.xhtml" media-type="application/xhtml+xml" />
+<item id="colophon01" href="colophon01.xhtml" media-type="application/xhtml+xml" />
+<item id="colophon02" href="colophon02.xhtml" media-type="application/xhtml+xml" />
+<item id="main-style" href="Styles/kindle-style.css" media-type="text/css" />
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover"/>
+<itemref idref="dedication01"/>
+<itemref idref="titlepage01"/>
+<itemref idref="copyright-page01"/>
+<itemref idref="foreword01"/>
+<itemref idref="preface01"/>
+<itemref idref="part01"/>
+<itemref idref="ch01"/>
+<itemref idref="ch02"/>
+<itemref idref="ch03"/>
+<itemref idref="part02"/>
+<itemref idref="ch04"/>
+<itemref idref="ch05"/>
+<itemref idref="ch06"/>
+<itemref idref="part03"/>
+<itemref idref="ch07"/>
+<itemref idref="ch08"/>
+<itemref idref="ch09"/>
+<itemref idref="ix01"/>
+<itemref idref="colophon01"/>
+<itemref idref="colophon02"/></spine>
+<guide><reference href="cover.xhtml" title="Cover" type="cover" /></guide>
+</package>

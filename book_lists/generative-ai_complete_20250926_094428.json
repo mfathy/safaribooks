@@ -1,0 +1,1259 @@
+{
+  "topic": "generative-ai",
+  "total_books_found": 100,
+  "unique_book_ids": 100,
+  "total_count_from_api": 65906,
+  "pages_fetched": 1,
+  "api_errors": 0,
+  "page_limit_reached": false,
+  "books": [
+    {
+      "book_id": "9781098159986",
+      "title": "Financial Data Engineering",
+      "authors": [
+        "Tamer Khraisha"
+      ],
+      "isbn": "9781098159993",
+      "issued": "2024-10-09T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098159986/",
+      "archive_id": "9781098159986"
+    },
+    {
+      "book_id": "9781617296970",
+      "title": "AI-Powered Search",
+      "authors": [
+        "Trey Grainger"
+      ],
+      "isbn": "9781617296970",
+      "issued": "2025-01-20T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781617296970/",
+      "archive_id": "9781617296970"
+    },
+    {
+      "book_id": "9781098151324",
+      "title": "Learning Systems Thinking",
+      "authors": [
+        "Diana Montalion"
+      ],
+      "isbn": "9781098151331",
+      "issued": "2024-07-11T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098151324/",
+      "archive_id": "9781098151324"
+    },
+    {
+      "book_id": "9781098164553",
+      "title": "AI-Assisted Programming",
+      "authors": [
+        "Tom Taulli"
+      ],
+      "isbn": "9781098164560",
+      "issued": "2024-04-11T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098164553/",
+      "archive_id": "9781098164553"
+    },
+    {
+      "book_id": "9781803230788",
+      "title": "Mastering Spring Boot 3.0",
+      "authors": [
+        "Ahmet Meric"
+      ],
+      "isbn": "9781803230788",
+      "issued": "2024-06-28T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781803230788/",
+      "archive_id": "9781803230788"
+    },
+    {
+      "book_id": "9781836200857",
+      "title": "The Chief AI Officer's Handbook",
+      "authors": [
+        "Jarrod Anderson"
+      ],
+      "isbn": "9781836200857",
+      "issued": "2025-01-28T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781836200857/",
+      "archive_id": "9781836200857"
+    },
+    {
+      "book_id": "9780138286002",
+      "title": "AWS Certified Cloud Practitioner CLF-C02 Cert Guide, 2nd Edition",
+      "authors": [
+        "Anthony J. Sequeira"
+      ],
+      "isbn": "9780138286002",
+      "issued": "2024-07-30T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780138286002/",
+      "archive_id": "9780138286002"
+    },
+    {
+      "book_id": "9780138221539",
+      "title": "CCNA 200-301 Official Cert Guide Library, 2nd Edition",
+      "authors": [
+        "Wendell Odom",
+        "Jason Gooley",
+        "David Hucaby"
+      ],
+      "isbn": "9780138221539",
+      "issued": "2024-07-23T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780138221539/",
+      "archive_id": "9780138221539"
+    },
+    {
+      "book_id": "9780137941483",
+      "title": "AWS Certified Solutions Architect - Associate (SAA-C03) Cert Guide, 2nd Edition",
+      "authors": [
+        "Mark Wilkins"
+      ],
+      "isbn": "9780137941483",
+      "issued": "2023-06-07T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780137941483/",
+      "archive_id": "9780137941483"
+    },
+    {
+      "book_id": "0642572070052",
+      "title": "Microsoft Azure Fundamentals (AZ-900) Certification Course, 2nd Edition",
+      "authors": [
+        "Reza Salehi"
+      ],
+      "isbn": "",
+      "issued": "2024-10-10T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/0642572070052/",
+      "archive_id": "0642572070052"
+    },
+    {
+      "book_id": "9781805127826",
+      "title": "Modern JavaScript from The Beginning [Second Edition] - Second Edition",
+      "authors": [
+        "Brad Traversy"
+      ],
+      "isbn": "",
+      "issued": "2023-04-20T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781805127826/",
+      "archive_id": "9781805127826"
+    },
+    {
+      "book_id": "9781801070089",
+      "title": "PyTorch Ultimate 2024 - From Basics to Cutting-Edge",
+      "authors": [
+        "Bert Gollnick"
+      ],
+      "isbn": "",
+      "issued": "2023-09-28T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781801070089/",
+      "archive_id": "9781801070089"
+    },
+    {
+      "book_id": "9781835880562",
+      "title": "Modern HTML & CSS From The Beginning 2.0 - Second Edition",
+      "authors": [
+        "Brad Traversy"
+      ],
+      "isbn": "",
+      "issued": "2024-07-02T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781835880562/",
+      "archive_id": "9781835880562"
+    },
+    {
+      "book_id": "9781837634682",
+      "title": "Microsoft Power BI - The Complete Masterclass - 2025 EDITION",
+      "authors": [
+        "Nikolai Schuler"
+      ],
+      "isbn": "",
+      "issued": "2023-01-30T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781837634682/",
+      "archive_id": "9781837634682"
+    },
+    {
+      "book_id": "9781805125457",
+      "title": "Django 5 By Example - Fifth Edition",
+      "authors": [
+        "Antonio Melé"
+      ],
+      "isbn": "9781805125457",
+      "issued": "2024-04-30T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781805125457/",
+      "archive_id": "9781805125457"
+    },
+    {
+      "book_id": "9780138217570",
+      "title": "CCNP Enterprise Advanced Routing ENARSI 300-410 Official Cert Guide, 2nd Edition",
+      "authors": [
+        "Brad Edgeworth",
+        "Raymond Lacoste"
+      ],
+      "isbn": "9780138217570",
+      "issued": "2023-10-27T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780138217570/",
+      "archive_id": "9780138217570"
+    },
+    {
+      "book_id": "9781098153007",
+      "title": "Practical Lakehouse Architecture",
+      "authors": [
+        "Gaurav Ashok Thalpati"
+      ],
+      "isbn": "9781098153014",
+      "issued": "2024-07-31T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098153007/",
+      "archive_id": "9781098153007"
+    },
+    {
+      "book_id": "9781663721174",
+      "title": "The Staff Engineer's Path",
+      "authors": [
+        "Tanya Reilly"
+      ],
+      "isbn": "",
+      "issued": "2023-08-08T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781663721174/",
+      "archive_id": "9781663721174"
+    },
+    {
+      "book_id": "9781663728289",
+      "title": "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+      "authors": [
+        "Martin Kleppmann"
+      ],
+      "isbn": "",
+      "issued": "2021-01-29T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781663728289/",
+      "archive_id": "9781663728289"
+    },
+    {
+      "book_id": "9781633437975",
+      "title": "Spring Security in Action, Second Edition",
+      "authors": [
+        "Laurentiu Spilca"
+      ],
+      "isbn": "9781633437975",
+      "issued": "2024-06-04T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781633437975/",
+      "archive_id": "9781633437975"
+    },
+    {
+      "book_id": "9780138225568",
+      "title": "CompTIA Security+ SY0-701 Exam Cram, 7th Edition",
+      "authors": [
+        "Robert Shimonski",
+        "Martin Weiss"
+      ],
+      "isbn": "9780138225568",
+      "issued": "2024-10-01T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780138225568/",
+      "archive_id": "9780138225568"
+    },
+    {
+      "book_id": "9781394255078",
+      "title": "ISC2 CISSP Certified Information Systems Security Professional Official Practice Tests, 4th Edition",
+      "authors": [
+        "Mike Chapple",
+        "David Seidl"
+      ],
+      "isbn": "9781394255078",
+      "issued": "2024-06-12T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781394255078/",
+      "archive_id": "9781394255078"
+    },
+    {
+      "book_id": "9781835464717",
+      "title": "The Kubernetes Bible - Second Edition",
+      "authors": [
+        "Gineesh Madapparambath",
+        "Russ McKendrick"
+      ],
+      "isbn": "9781835464717",
+      "issued": "2024-11-29T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781835464717/",
+      "archive_id": "9781835464717"
+    },
+    {
+      "book_id": "9781492086888",
+      "title": "Software Architecture: The Hard Parts",
+      "authors": [
+        "Neal Ford",
+        "Mark Richards",
+        "Pramod Sadalage",
+        "Zhamak Dehghani"
+      ],
+      "isbn": "9781492086895",
+      "issued": "2021-10-25T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781492086888/",
+      "archive_id": "9781492086888"
+    },
+    {
+      "book_id": "9780135324783",
+      "title": "CCNP SPCOR 350-501 Official Cert Guide",
+      "authors": [
+        "Brad Riapolov",
+        "Mohammad Khalil"
+      ],
+      "isbn": "9780135324783",
+      "issued": "2024-12-12T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780135324783/",
+      "archive_id": "9780135324783"
+    },
+    {
+      "book_id": "9781837630004",
+      "title": "AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide",
+      "authors": [
+        "Michelle Chismon",
+        "Kate Gawron"
+      ],
+      "isbn": "9781837630004",
+      "issued": "2024-11-29T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781837630004/",
+      "archive_id": "9781837630004"
+    },
+    {
+      "book_id": "9780135956977",
+      "title": "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition",
+      "authors": [
+        "David Thomas",
+        "Andrew Hunt"
+      ],
+      "isbn": "9780135956977",
+      "issued": "2019-09-13T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780135956977/",
+      "archive_id": "9780135956977"
+    },
+    {
+      "book_id": "9781098128913",
+      "title": "How Linux Works, 3rd Edition",
+      "authors": [
+        "Brian Ward"
+      ],
+      "isbn": "9781718500402",
+      "issued": "2021-04-13T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098128913/",
+      "archive_id": "9781098128913"
+    },
+    {
+      "book_id": "9780138213497",
+      "title": "CCNA 200-301 Version 1.1 Video Course, Second Edition",
+      "authors": [
+        "Jason Gooley"
+      ],
+      "isbn": "",
+      "issued": "2024-07-26T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780138213497/",
+      "archive_id": "9780138213497"
+    },
+    {
+      "book_id": "9781098113315",
+      "title": "Learning Microsoft Azure",
+      "authors": [
+        "Jonah Carrio Andersson"
+      ],
+      "isbn": "9781098113322",
+      "issued": "2023-11-20T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098113315/",
+      "archive_id": "9781098113315"
+    },
+    {
+      "book_id": "9781098136789",
+      "title": "Natural Language Processing with Transformers, Revised Edition",
+      "authors": [
+        "Lewis Tunstall",
+        "Leandro von Werra",
+        "Thomas Wolf"
+      ],
+      "isbn": "9781098136796",
+      "issued": "2022-05-26T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098136789/",
+      "archive_id": "9781098136789"
+    },
+    {
+      "book_id": "9780138203139",
+      "title": "CCNP and CCIE Enterprise Core ENCOR 350-401, 2nd Edition",
+      "authors": [
+        "Brad Edgeworth / Brad Riapolov / Vinit Jain"
+      ],
+      "isbn": "",
+      "issued": "2023-10-26T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780138203139/",
+      "archive_id": "9780138203139"
+    },
+    {
+      "book_id": "9781492090625",
+      "title": "Mastering API Architecture",
+      "authors": [
+        "James Gough",
+        "Daniel Bryant",
+        "Matthew Auburn"
+      ],
+      "isbn": "9781492090632",
+      "issued": "2022-10-18T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781492090625/",
+      "archive_id": "9781492090625"
+    },
+    {
+      "book_id": "9781098141776",
+      "title": "Head First C#, 5th Edition",
+      "authors": [
+        "Andrew Stellman",
+        "Jennifer Greene"
+      ],
+      "isbn": "9781098141783",
+      "issued": "2024-07-09T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098141776/",
+      "archive_id": "9781098141776"
+    },
+    {
+      "book_id": "9781836200918",
+      "title": "RAG-Driven Generative AI",
+      "authors": [
+        "Denis Rothman"
+      ],
+      "isbn": "9781836200918",
+      "issued": "2024-09-30T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781836200918/",
+      "archive_id": "9781836200918"
+    },
+    {
+      "book_id": "9798341620063",
+      "title": "Math for Programming",
+      "authors": [
+        "Ronald T. Kneusel"
+      ],
+      "isbn": "9781718503588",
+      "issued": "2025-04-22T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9798341620063/",
+      "archive_id": "9798341620063"
+    },
+    {
+      "book_id": "9781633436886",
+      "title": "Go in Practice, Second Edition",
+      "authors": [
+        "Matt Farina",
+        "Matt Butcher",
+        "Nathan Kozyra"
+      ],
+      "isbn": "9781633436886",
+      "issued": "2025-02-17T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781633436886/",
+      "archive_id": "9781633436886"
+    },
+    {
+      "book_id": "9781835461556",
+      "title": "Django 5 for the Impatient - Second Edition",
+      "authors": [
+        "Daniel Correa",
+        "Greg Lim"
+      ],
+      "isbn": "9781835461556",
+      "issued": "2024-09-27T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781835461556/",
+      "archive_id": "9781835461556"
+    },
+    {
+      "book_id": "9781492032632",
+      "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition",
+      "authors": [
+        "Aurélien Géron"
+      ],
+      "isbn": "9781492032649",
+      "issued": "2019-09-30T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781492032632/",
+      "archive_id": "9781492032632"
+    },
+    {
+      "book_id": "9781098155421",
+      "title": "Think Python, 3rd Edition",
+      "authors": [
+        "Allen Downey"
+      ],
+      "isbn": "9781098155438",
+      "issued": "2024-05-28T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098155421/",
+      "archive_id": "9781098155421"
+    },
+    {
+      "book_id": "9781119901099",
+      "title": "Interaction Design, 6th Edition",
+      "authors": [
+        "Yvonne Rogers",
+        "Helen Sharp",
+        "Jennifer Preece"
+      ],
+      "isbn": "9781119901099",
+      "issued": "2023-04-04T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781119901099/",
+      "archive_id": "9781119901099"
+    },
+    {
+      "book_id": "9781098107628",
+      "title": "Essential Math for AI",
+      "authors": [
+        "Hala Nelson"
+      ],
+      "isbn": "9781098107635",
+      "issued": "2023-01-05T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098107628/",
+      "archive_id": "9781098107628"
+    },
+    {
+      "book_id": "9781098131814",
+      "title": "Docker: Up & Running, 3rd Edition",
+      "authors": [
+        "Sean P. Kane",
+        "Karl Matthias"
+      ],
+      "isbn": "9781098131821",
+      "issued": "2023-04-13T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098131814/",
+      "archive_id": "9781098131814"
+    },
+    {
+      "book_id": "9780138308667",
+      "title": "Programming: Principles and Practice Using C++, 3rd Edition",
+      "authors": [
+        "Bjarne Stroustrup"
+      ],
+      "isbn": "9780138308667",
+      "issued": "2024-04-29T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780138308667/",
+      "archive_id": "9780138308667"
+    },
+    {
+      "book_id": "9781633437364",
+      "title": "Software Testing with Generative AI",
+      "authors": [
+        "Mark Winteringham"
+      ],
+      "isbn": "9781633437364",
+      "issued": "2024-12-19T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781633437364/",
+      "archive_id": "9781633437364"
+    },
+    {
+      "book_id": "9781098158354",
+      "title": "Programming C# 12",
+      "authors": [
+        "Ian Griffiths"
+      ],
+      "isbn": "9781098158361",
+      "issued": "2024-06-07T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098158354/",
+      "archive_id": "9781098158354"
+    },
+    {
+      "book_id": "9781835887905",
+      "title": "Unlocking Data with Generative AI and RAG",
+      "authors": [
+        "Keith Bourne"
+      ],
+      "isbn": "9781835887905",
+      "issued": "2024-09-27T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781835887905/",
+      "archive_id": "9781835887905"
+    },
+    {
+      "book_id": "9780135384800",
+      "title": "Quick Start Guide to Large Language Models (LLMs): ChatGPT, Llama, Embeddings, Fine-Tuning, and Multimodal AI",
+      "authors": [
+        "Sinan Ozdemir"
+      ],
+      "isbn": "",
+      "issued": "2024-09-05T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780135384800/",
+      "archive_id": "9780135384800"
+    },
+    {
+      "book_id": "9781633436336",
+      "title": "The Quick Python Book, Fourth Edition",
+      "authors": [
+        "Naomi Ceder"
+      ],
+      "isbn": "9781633436336",
+      "issued": "2025-03-03T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781633436336/",
+      "archive_id": "9781633436336"
+    },
+    {
+      "book_id": "9781633437555",
+      "title": "CSS in Depth, Second Edition",
+      "authors": [
+        "Keith Grant"
+      ],
+      "isbn": "9781633437555",
+      "issued": "2024-09-29T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781633437555/",
+      "archive_id": "9781633437555"
+    },
+    {
+      "book_id": "9780137929313",
+      "title": "Linux Fundamentals, 2nd Edition",
+      "authors": [
+        "Sander van Vugt"
+      ],
+      "isbn": "",
+      "issued": "2022-06-27T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780137929313/",
+      "archive_id": "9780137929313"
+    },
+    {
+      "book_id": "9780137903245",
+      "title": "The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science (Video Collection)",
+      "authors": [
+        "Jon Krohn"
+      ],
+      "isbn": "",
+      "issued": "2022-03-22T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780137903245/",
+      "archive_id": "9780137903245"
+    },
+    {
+      "book_id": "9780135339503",
+      "title": "Ultimate Go: Advanced Concepts",
+      "authors": [
+        "William Kennedy"
+      ],
+      "isbn": "",
+      "issued": "2024-03-28T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780135339503/",
+      "archive_id": "9780135339503"
+    },
+    {
+      "book_id": "9780135375129",
+      "title": "Certified Kubernetes Administrator (CKA), 4th Edition",
+      "authors": [
+        "Sander van Vugt"
+      ],
+      "isbn": "",
+      "issued": "2025-02-18T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780135375129/",
+      "archive_id": "9780135375129"
+    },
+    {
+      "book_id": "9780135367919",
+      "title": "CompTIA Network+ N10-009 Cert Guide, 2nd Edition",
+      "authors": [
+        "Anthony Sequeira"
+      ],
+      "isbn": "9780135367919",
+      "issued": "2024-12-16T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780135367919/",
+      "archive_id": "9780135367919"
+    },
+    {
+      "book_id": "9781633438750",
+      "title": "Machine Learning System Design",
+      "authors": [
+        "Arseny Kravchenko",
+        "Valerii Babushkin"
+      ],
+      "isbn": "9781633438750",
+      "issued": "2025-02-06T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781633438750/",
+      "archive_id": "9781633438750"
+    },
+    {
+      "book_id": "9798341623798",
+      "title": "Radar Trends to Watch: March 2025",
+      "authors": [
+        "Mike Loukides"
+      ],
+      "isbn": "9798341623781",
+      "issued": "2025-03-04T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9798341623798/",
+      "archive_id": "9798341623798"
+    },
+    {
+      "book_id": "9780136875185",
+      "title": "C++20 Fundamentals with Paul Deitel",
+      "authors": [
+        "Paul J. Deitel"
+      ],
+      "isbn": "",
+      "issued": "2024-06-04T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780136875185/",
+      "archive_id": "9780136875185"
+    },
+    {
+      "book_id": "9781492057604",
+      "title": "Learning SQL, 3rd Edition",
+      "authors": [
+        "Alan Beaulieu"
+      ],
+      "isbn": "9781492057611",
+      "issued": "2020-03-13T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781492057604/",
+      "archive_id": "9781492057604"
+    },
+    {
+      "book_id": "9781837022670",
+      "title": "Master Data Structures and Algorithms Interviews - Ace Leetcode & Blind 75+",
+      "authors": [
+        "Shubham Sarda"
+      ],
+      "isbn": "",
+      "issued": "2025-01-24T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781837022670/",
+      "archive_id": "9781837022670"
+    },
+    {
+      "book_id": "9781119944461",
+      "title": "Official Google Cloud Certified Professional Machine Learning Engineer Study Guide",
+      "authors": [
+        "Mona Mona",
+        "Pratap Ramamurthy"
+      ],
+      "isbn": "9781119944461",
+      "issued": "2023-11-21T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781119944461/",
+      "archive_id": "9781119944461"
+    },
+    {
+      "book_id": "9780135404522",
+      "title": "Core Java for the Impatient, 4th Edition",
+      "authors": [
+        "Cay S. Horstmann"
+      ],
+      "isbn": "9780135404522",
+      "issued": "2024-11-22T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780135404522/",
+      "archive_id": "9780135404522"
+    },
+    {
+      "book_id": "9781835889640",
+      "title": "CI/CD Design Patterns",
+      "authors": [
+        "Garima Bajpai",
+        "Michel Schildmeijer",
+        "Muktesh Mishra",
+        "Pawel Piwosz"
+      ],
+      "isbn": "9781835889640",
+      "issued": "2024-12-13T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781835889640/",
+      "archive_id": "9781835889640"
+    },
+    {
+      "book_id": "9781394268436",
+      "title": "Hands-On AI Trading with Python, QuantConnect, and AWS",
+      "authors": [
+        "Jiri Pik",
+        "Ernest P. Chan",
+        "Jared Broad",
+        "Philip Sun",
+        "Vivek Singh"
+      ],
+      "isbn": "9781394268436",
+      "issued": "2025-01-29T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781394268436/",
+      "archive_id": "9781394268436"
+    },
+    {
+      "book_id": "9780135349700",
+      "title": "Certified Kubernetes Application Developer (CKAD), 4th Edition",
+      "authors": [
+        "Sander van Vugt"
+      ],
+      "isbn": "",
+      "issued": "2024-08-15T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780135349700/",
+      "archive_id": "9780135349700"
+    },
+    {
+      "book_id": "9781491952016",
+      "title": "JavaScript: The Definitive Guide, 7th Edition",
+      "authors": [
+        "David Flanagan"
+      ],
+      "isbn": "9781491952023",
+      "issued": "2020-05-14T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781491952016/",
+      "archive_id": "9781491952016"
+    },
+    {
+      "book_id": "9781394235636",
+      "title": "AWS Certified Cloud Practitioner Study Guide With 500 Practice Test Questions, 2nd Edition",
+      "authors": [
+        "Ben Piper",
+        "David Clinton"
+      ],
+      "isbn": "9781394235636",
+      "issued": "2023-12-12T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781394235636/",
+      "archive_id": "9781394235636"
+    },
+    {
+      "book_id": "9781633438231",
+      "title": "Learn Rust in a Month of Lunches",
+      "authors": [
+        "David MacLeod"
+      ],
+      "isbn": "9781633438231",
+      "issued": "2024-04-02T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781633438231/",
+      "archive_id": "9781633438231"
+    },
+    {
+      "book_id": "9781098163532",
+      "title": "Building Resilient Distributed Systems",
+      "authors": [
+        "Sam Newman"
+      ],
+      "isbn": "9781098163549",
+      "issued": "2026-09-25T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098163532/",
+      "archive_id": "9781098163532"
+    },
+    {
+      "book_id": "9781098140533",
+      "title": "Communication Patterns",
+      "authors": [
+        "Jacqui Read"
+      ],
+      "isbn": "9781098140540",
+      "issued": "2023-10-09T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098140533/",
+      "archive_id": "9781098140533"
+    },
+    {
+      "book_id": "9781098147938",
+      "title": "Head First JavaScript Programming, 2nd Edition",
+      "authors": [
+        "Eric Freeman",
+        "Elisabeth Robson"
+      ],
+      "isbn": "9781098147945",
+      "issued": "2024-08-21T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098147938/",
+      "archive_id": "9781098147938"
+    },
+    {
+      "book_id": "9781098140632",
+      "title": "Building Multi-Tenant SaaS Architectures",
+      "authors": [
+        "Tod Golding"
+      ],
+      "isbn": "9781098140649",
+      "issued": "2024-04-24T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098140632/",
+      "archive_id": "9781098140632"
+    },
+    {
+      "book_id": "9781098157234",
+      "title": "Team Topologies",
+      "authors": [
+        "Matthew Skelton",
+        "Manuel Pais"
+      ],
+      "isbn": "9781942788812",
+      "issued": "2023-12-19T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098157234/",
+      "archive_id": "9781098157234"
+    },
+    {
+      "book_id": "9781098170066",
+      "title": "AWS Certified Data Engineer Associate Study Guide",
+      "authors": [
+        "Sakti Mishra",
+        "Dylan Qu",
+        "Anusha Challa"
+      ],
+      "isbn": "9781098170073",
+      "issued": "2025-08-29T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098170066/",
+      "archive_id": "9781098170066"
+    },
+    {
+      "book_id": "9781098147433",
+      "title": "C# 12 in a Nutshell",
+      "authors": [
+        "Joseph Albahari"
+      ],
+      "isbn": "9781098147440",
+      "issued": "2023-11-14T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098147433/",
+      "archive_id": "9781098147433"
+    },
+    {
+      "book_id": "9781394152100",
+      "title": "Leadership Theory, 2nd Edition",
+      "authors": [
+        "John P. Dugan"
+      ],
+      "isbn": "9781394152100",
+      "issued": "2024-04-30T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781394152100/",
+      "archive_id": "9781394152100"
+    },
+    {
+      "book_id": "9781098100124",
+      "title": "Learning Domain-Driven Design",
+      "authors": [
+        "Vlad Khononov"
+      ],
+      "isbn": "9781098100131",
+      "issued": "2021-10-08T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098100124/",
+      "archive_id": "9781098100124"
+    },
+    {
+      "book_id": "9781633436466",
+      "title": "Learn Generative AI with PyTorch",
+      "authors": [
+        "MARK LIU"
+      ],
+      "isbn": "9781633436466",
+      "issued": "2025-01-05T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781633436466/",
+      "archive_id": "9781633436466"
+    },
+    {
+      "book_id": "9781098151850",
+      "title": "Facilitating Software Architecture",
+      "authors": [
+        "Andrew Harmel-Law"
+      ],
+      "isbn": "9781098151867",
+      "issued": "2024-11-08T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098151850/",
+      "archive_id": "9781098151850"
+    },
+    {
+      "book_id": "9781119909378",
+      "title": "(ISC)2 CCSP Certified Cloud Security Professional Official Study Guide, 3rd Edition",
+      "authors": [
+        "Mike Chapple",
+        "David Seidl"
+      ],
+      "isbn": "9781119909378",
+      "issued": "2022-10-04T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781119909378/",
+      "archive_id": "9781119909378"
+    },
+    {
+      "book_id": "9781098145187",
+      "title": "Efficient Node.js",
+      "authors": [
+        "Samer Buna"
+      ],
+      "isbn": "9781098145194",
+      "issued": "2025-01-15T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098145187/",
+      "archive_id": "9781098145187"
+    },
+    {
+      "book_id": "9781617299445",
+      "title": "Natural Language Processing in Action, Second Edition",
+      "authors": [
+        "Cole Howard",
+        "Maria Dyshel",
+        "Hobson Lane",
+        "Hannes Hapke"
+      ],
+      "isbn": "9781617299445",
+      "issued": "2025-02-02T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781617299445/",
+      "archive_id": "9781617299445"
+    },
+    {
+      "book_id": "9781836643159",
+      "title": "Building Autonomous AI Agents with LangGraph",
+      "authors": [
+        "Paulo Dichone"
+      ],
+      "isbn": "",
+      "issued": "2024-08-08T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781836643159/",
+      "archive_id": "9781836643159"
+    },
+    {
+      "book_id": "9781836204299",
+      "title": "CompTIA Network+ (N10-009) Crash Course",
+      "authors": [
+        "Kevin Wallace"
+      ],
+      "isbn": "",
+      "issued": "2024-10-31T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781836204299/",
+      "archive_id": "9781836204299"
+    },
+    {
+      "book_id": "9780138221287",
+      "title": "CCNP and CCIE Security Core SCOR 350-701 Official Cert Guide, 2nd Edition",
+      "authors": [
+        "Omar Santos"
+      ],
+      "isbn": "9780138221287",
+      "issued": "2023-12-04T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780138221287/",
+      "archive_id": "9780138221287"
+    },
+    {
+      "book_id": "9780138194796",
+      "title": "Java SE 17 Developer (1Z0-829)",
+      "authors": [
+        "Simon Roberts"
+      ],
+      "isbn": "",
+      "issued": "2023-07-14T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780138194796/",
+      "archive_id": "9780138194796"
+    },
+    {
+      "book_id": "9781098133900",
+      "title": "Learning Git",
+      "authors": [
+        "Anna Skoulikari"
+      ],
+      "isbn": "9781098133917",
+      "issued": "2023-05-16T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098133900/",
+      "archive_id": "9781098133900"
+    },
+    {
+      "book_id": "9781633436855",
+      "title": "Snowflake Data Engineering",
+      "authors": [
+        "Maja Ferle"
+      ],
+      "isbn": "9781633436855",
+      "issued": "2024-12-06T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781633436855/",
+      "archive_id": "9781633436855"
+    },
+    {
+      "book_id": "9781098138707",
+      "title": "Fluent React",
+      "authors": [
+        "Tejas Kumar"
+      ],
+      "isbn": "9781098138714",
+      "issued": "2024-02-14T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098138707/",
+      "archive_id": "9781098138707"
+    },
+    {
+      "book_id": "9781617299599",
+      "title": "100 Go Mistakes and How to Avoid Them",
+      "authors": [
+        "Teiva Harsanyi"
+      ],
+      "isbn": "9781617299599",
+      "issued": "2022-09-15T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781617299599/",
+      "archive_id": "9781617299599"
+    },
+    {
+      "book_id": "9781804615508",
+      "title": "DevOps Complete Course",
+      "authors": [
+        "Valaxy Technologies"
+      ],
+      "isbn": "",
+      "issued": "2022-09-27T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781804615508/",
+      "archive_id": "9781804615508"
+    },
+    {
+      "book_id": "9780135395646",
+      "title": "Certified Ethical Hacker (CEH), 4th Edition",
+      "authors": [
+        "Omar Santos / Nick Garner"
+      ],
+      "isbn": "",
+      "issued": "2024-11-07T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780135395646/",
+      "archive_id": "9780135395646"
+    },
+    {
+      "book_id": "9781835888940",
+      "title": "CompTIA Security+ (SY0-701) Full Training Guide",
+      "authors": [
+        "Alexander Oni"
+      ],
+      "isbn": "",
+      "issued": "2024-02-19T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781835888940/",
+      "archive_id": "9781835888940"
+    },
+    {
+      "book_id": "9781098165406",
+      "title": "Modern Concurrency in Java",
+      "authors": [
+        "A N M Bazlur Rahman"
+      ],
+      "isbn": "9781098165413",
+      "issued": "2025-09-23T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098165406/",
+      "archive_id": "9781098165406"
+    },
+    {
+      "book_id": "9781098156077",
+      "title": "Python Polars: The Definitive Guide",
+      "authors": [
+        "Jeroen Janssens",
+        "Thijs Nieuwdorp"
+      ],
+      "isbn": "9781098156084",
+      "issued": "2025-02-20T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781098156077/",
+      "archive_id": "9781098156077"
+    },
+    {
+      "book_id": "9781617298691",
+      "title": "Spring Start Here",
+      "authors": [
+        "Laurentiu Spilca"
+      ],
+      "isbn": "9781617298691",
+      "issued": "2021-10-01T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781617298691/",
+      "archive_id": "9781617298691"
+    },
+    {
+      "book_id": "9781788622394",
+      "title": "Data Analysis with Pandas and Python",
+      "authors": [
+        "Boris Paskhaver"
+      ],
+      "isbn": "",
+      "issued": "2024-02-12T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781788622394/",
+      "archive_id": "9781788622394"
+    },
+    {
+      "book_id": "9780138069155",
+      "title": "CompTIA A+ Core 1 (220-1101) and Core 2 (220-1102) (Video Collection)",
+      "authors": [
+        "Dave Prowse"
+      ],
+      "isbn": "",
+      "issued": "2022-12-13T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9780138069155/",
+      "archive_id": "9780138069155"
+    },
+    {
+      "book_id": "9781837637959",
+      "title": "Modern Full-Stack React Projects",
+      "authors": [
+        "Daniel Bugl"
+      ],
+      "isbn": "9781837637959",
+      "issued": "2024-06-07T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781837637959/",
+      "archive_id": "9781837637959"
+    },
+    {
+      "book_id": "9781492082781",
+      "title": "Software Engineering at Google",
+      "authors": [
+        "Titus Winters",
+        "Tom Manshreck",
+        "Hyrum Wright"
+      ],
+      "isbn": "9781492082798",
+      "issued": "2020-03-03T00:00:00Z",
+      "url": "https://www.safaribooksonline.com/api/v1/book/9781492082781/",
+      "archive_id": "9781492082781"
+    }
+  ],
+  "book_ids": [
+    "9780138221287",
+    "9781801070089",
+    "9781098140533",
+    "9781098165406",
+    "9781617299445",
+    "9781788622394",
+    "9781492032632",
+    "9798341620063",
+    "9780135349700",
+    "9780138225568",
+    "9781098140632",
+    "9781394255078",
+    "9781633438750",
+    "9781633437364",
+    "9781492090625",
+    "9781617296970",
+    "9781492082781",
+    "9781835887905",
+    "9781098159986",
+    "9781098100124",
+    "9781491952016",
+    "9781617299599",
+    "9780135395646",
+    "9781394268436",
+    "9781098131814",
+    "9780135324783",
+    "9781098163532",
+    "9781492057604",
+    "9781098113315",
+    "9781835889640",
+    "9781098153007",
+    "9781098157234",
+    "9781098141776",
+    "9781098147433",
+    "9780138308667",
+    "9781837634682",
+    "9780135384800",
+    "9781394152100",
+    "9781633438231",
+    "9780138194796",
+    "9780136875185",
+    "9780135404522",
+    "9781836204299",
+    "9798341623798",
+    "9781804615508",
+    "9781835880562",
+    "9781805127826",
+    "9781098151324",
+    "9780135339503",
+    "9781633436336",
+    "9781805125457",
+    "9781119944461",
+    "9780135956977",
+    "9781098145187",
+    "9781835888940",
+    "9781119909378",
+    "9780138203139",
+    "9780137929313",
+    "9781837022670",
+    "9780135367919",
+    "9781663728289",
+    "9781098164553",
+    "9781119901099",
+    "9781633436855",
+    "9780138286002",
+    "9781098158354",
+    "9781098138707",
+    "9781633436886",
+    "9780138221539",
+    "9781492086888",
+    "9781617298691",
+    "9781803230788",
+    "9781394235636",
+    "9781098151850",
+    "0642572070052",
+    "9781633437555",
+    "9780138213497",
+    "9780137941483",
+    "9780135375129",
+    "9780138069155",
+    "9781837637959",
+    "9781098107628",
+    "9780138217570",
+    "9781837630004",
+    "9781098147938",
+    "9781633437975",
+    "9780137903245",
+    "9781098133900",
+    "9781098170066",
+    "9781835461556",
+    "9781098156077",
+    "9781836200918",
+    "9781835464717",
+    "9781836200857",
+    "9781098155421",
+    "9781633436466",
+    "9781836643159",
+    "9781663721174",
+    "9781098128913",
+    "9781098136789"
+  ],
+  "fetched_at": "2025-09-26T09:44:28.127437",
+  "api_endpoint": "https://learning.oreilly.com/api/v2/search/"
+}

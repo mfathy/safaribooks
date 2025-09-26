@@ -1,0 +1,87 @@
+
+/* Kindle-optimized styles */
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin: 1em;
+    color: #000;
+    background: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    page-break-before: always;
+    page-break-after: avoid;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+
+p {
+    margin: 0.5em 0;
+    text-align: justify;
+    orphans: 2;
+    widows: 2;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+    page-break-inside: avoid;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    page-break-inside: avoid;
+}
+
+table, th, td {
+    border: 1px solid #000;
+}
+
+th, td {
+    padding: 0.5em;
+    text-align: left;
+}
+
+pre, code {
+    font-family: "Courier New", monospace;
+    font-size: 0.9em;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    page-break-inside: avoid;
+}
+
+blockquote {
+    margin: 1em 2em;
+    font-style: italic;
+    page-break-inside: avoid;
+}
+
+/* Page breaks */
+.page-break {
+    page-break-before: always;
+}
+
+.no-break {
+    page-break-inside: avoid;
+}
+
+/* Cover page */
+.cover-page {
+    text-align: center;
+    page-break-after: always;
+}
+
+.cover-page img {
+    max-height: 80vh;
+    width: auto;
+}
