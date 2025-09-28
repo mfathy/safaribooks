@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # coding: utf-8
 """
-EPUB Generation Module for SafariBooks
-Handles EPUB file creation, packaging, and metadata generation
+Legacy EPUB Generation Module for SafariBooks
+Handles EPUB 2.0 file creation, packaging, and metadata generation
 """
 
 import os
@@ -23,8 +23,8 @@ class WinQueue(list):
         return self.__len__()
 
 
-class EpubGenerator:
-    """Handles EPUB file generation and packaging"""
+class LegacyEpubGenerator:
+    """Handles legacy EPUB 2.0 file generation and packaging"""
     
     def __init__(self, session, display, book_info, book_chapters, book_path, css_path, images_path):
         self.session = session
@@ -110,7 +110,7 @@ class EpubGenerator:
                  )
             
             if cc["children"]:
-                sr, c, mx = EpubGenerator.parse_toc(cc["children"], c, mx)
+                sr, c, mx = LegacyEpubGenerator.parse_toc(cc["children"], c, mx)
                 r += sr
             
             r += "</navPoint>\n"

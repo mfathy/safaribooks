@@ -14,7 +14,7 @@ from html import escape
 from display import Display
 from auth import AuthManager
 from download import BookDownloader
-from epub import EpubGenerator
+from epub_legacy import LegacyEpubGenerator
 from epub_enhanced import EnhancedEpubGenerator
 from config import PATH, SAFARI_BASE_URL, BASE_01_HTML, KINDLE_HTML, BASE_02_HTML
 
@@ -59,7 +59,7 @@ class SafariBooks:
         self._setup_book_paths()
         
         # Step 5: Initialize EPUB generators
-        self.epub_generator = EpubGenerator(
+        self.epub_generator = LegacyEpubGenerator(
             self.session, self.display, self.book_info, self.book_chapters,
             self.book_downloader.BOOK_PATH, self.book_downloader.css_path, 
             self.book_downloader.images_path
