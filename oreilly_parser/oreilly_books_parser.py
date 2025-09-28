@@ -1,384 +1,205 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Enhanced O'Reilly Books Parser
-Fetches all book topics and extracts book IDs from each topic
-
-@author: Enhanced by SafariBooks Team
-@original: Raleigh Littles
+O'Reilly Learning Books Parser
+Updated to work with current O'Reilly Learning API structure
 """
 
-import os
-import sys
-import json
-import csv
+import requests
 import re
+import json
 import time
-import argparse
-from urllib.parse import urljoin, urlparse, parse_qs
-from lxml import html, etree
-from typing import List, Dict, Set, Optional, Tuple
-
-# Import our modular components
-from auth import AuthManager
-from display import Display
-from config import SAFARI_BASE_URL, HEADERS
+import os
+from urllib.parse import urljoin, urlparse
 
 
-class OReillyBooksParser:
-    """Enhanced O'Reilly Books Parser with topic discovery and book ID extraction"""
-    
-    def __init__(self, use_auth=True, output_dir="book_lists"):
-        self.use_auth = use_auth
-        self.output_dir = output_dir
-        self.session = None
-        self.display = Display("oreilly_parser.log", os.path.dirname(os.path.realpath(__file__)))
-        
-        # Create output directory
-        os.makedirs(self.output_dir, exist_ok=True)
-        
-        # Initialize authentication if requested
-        if self.use_auth:
-            self.auth_manager = AuthManager(self.display)
-            # Initialize session and authenticate
-            self.auth_manager.initialize_session()
-            self.session = self.auth_manager.session
-        else:
-            import requests
-            self.session = requests.Session()
-            self.session.headers.update(HEADERS)
-    
-    def discover_topics(self) -> List[Dict[str, str]]:
-        """Discover all available topics/categories from O'Reilly Learning"""
-        self.display.info("Discovering available topics...")
-        
-        topics = []
-        
-        # Main topics page
-        topics_url = f"{SAFARI_BASE_URL}/topics/"
-        
+def load_cookies():
+    """Load cookies from the cookies.json file if it exists"""
+    cookies_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'cookies.json')
+    if os.path.exists(cookies_file):
         try:
-            response = self.session.get(topics_url)
-            if response.status_code != 200:
-                self.display.error(f"Failed to fetch topics page: {response.status_code}")
-                return topics
-            
-            # Parse the topics page
-            tree = html.fromstring(response.content)
-            
-            # Look for topic links in various possible locations
-            topic_selectors = [
-                '//a[contains(@href, "/search/topics/")]',
-                '//a[contains(@href, "/topics/")]',
-                '//div[contains(@class, "topic")]//a',
-                '//li[contains(@class, "topic")]//a'
-            ]
-            
-            found_topics = set()
-            
-            for selector in topic_selectors:
-                links = tree.xpath(selector)
-                for link in links:
-                    href = link.get('href', '')
-                    title = link.text_content().strip() if link.text_content() else ''
-                    
-                    if href and '/topics/' in href:
-                        # Extract topic slug from URL
-                        topic_slug = href.split('/topics/')[-1].split('?')[0].split('/')[0]
-                        if topic_slug and topic_slug not in found_topics:
-                            found_topics.add(topic_slug)
-                            topics.append({
-                                'slug': topic_slug,
-                                'title': title or topic_slug.replace('-', ' ').title(),
-                                'url': urljoin(SAFARI_BASE_URL, href)
-                            })
-            
-            # Add some known popular topics if discovery didn't find them
-            known_topics = {
-                'programming-languages': 'Programming Languages',
-                'software-development': 'Software Development',
-                'web-mobile': 'Web & Mobile',
-                'data-science': 'Data Science',
-                'business': 'Business',
-                'career-development': 'Career Development',
-                'security': 'Security',
-                'cloud-computing': 'Cloud Computing',
-                'artificial-intelligence': 'Artificial Intelligence',
-                'devops': 'DevOps'
-            }
-            
-            existing_slugs = {topic['slug'] for topic in topics}
-            for slug, title in known_topics.items():
-                if slug not in existing_slugs:
-                    topics.append({
-                        'slug': slug,
-                        'title': title,
-                        'url': f"{SAFARI_BASE_URL}/search/topics/{slug}"
-                    })
-            
-            self.display.info(f"Discovered {len(topics)} topics")
-            return topics
-            
-        except Exception as e:
-            self.display.error(f"Error discovering topics: {e}")
-            return topics
-    
-    def extract_book_ids_from_page(self, page_content: str) -> Set[str]:
-        """Extract book IDs from a single page"""
-        book_ids = set()
-        
-        # Multiple regex patterns to catch different URL formats
-        patterns = [
-            r'/library/view/[^/]+/(\d{10,13})/',  # Standard library view URLs
-            r'/library/cover/(\d{10,13})',        # Cover image URLs
-            r'/api/v1/book/(\d{10,13})/',         # API URLs
-            r'book/(\d{10,13})/',                 # Generic book URLs
-            r'isbn[=:](\d{10,13})',               # ISBN patterns
-        ]
-        
-        for pattern in patterns:
-            matches = re.findall(pattern, page_content)
-            book_ids.update(matches)
-        
-        return book_ids
-    
-    def get_books_for_topic(self, topic: Dict[str, str], max_pages: int = 100) -> List[Dict[str, str]]:
-        """Get all book IDs for a specific topic using the API"""
-        topic_slug = topic['slug']
-        
-        self.display.info(f"Fetching books for topic: {topic['title']} ({topic_slug})")
-        
-        all_books = []
-        page = 1
-        
-        while page <= max_pages:
-            try:
-                # Use the search API endpoint
-                api_url = f"{SAFARI_BASE_URL}/api/v1/search/?topic={topic_slug}&page={page}"
-                
-                response = self.session.get(api_url)
-                if response.status_code != 200:
-                    if page == 1:
-                        self.display.error(f"Failed to fetch topic API: {response.status_code}")
-                    break
-                
-                # Parse JSON response
-                data = response.json()
-                results = data.get('results', [])
-                
-                if not results:
-                    # No more results, we've reached the end
-                    break
-                
-                # Extract book information from API response
-                for book in results:
-                    book_id = book.get('archive_id') or book.get('isbn')
-                    if book_id:
-                        all_books.append({
-                            'id': book_id,
-                            'topic': topic_slug,
-                            'topic_title': topic['title'],
-                            'title': book.get('title', 'Unknown Title'),
-                            'authors': ', '.join([author.get('name', '') for author in book.get('authors', [])]),
-                            'isbn': book.get('isbn', ''),
-                            'issued': book.get('issued', ''),
-                            'url': f"{SAFARI_BASE_URL}/library/view/book/{book_id}/"
-                        })
-                
-                self.display.info(f"  Page {page}: Found {len(results)} books")
-                
-                # Rate limiting
-                time.sleep(0.5)
-                page += 1
-                
-            except Exception as e:
-                self.display.error(f"Error fetching page {page} for topic {topic_slug}: {e}")
-                break
-        
-        self.display.info(f"Total books found for {topic['title']}: {len(all_books)}")
-        return all_books
-    
-    def save_results(self, all_books: List[Dict[str, str]], topics: List[Dict[str, str]], 
-                    output_format: str = 'json'):
-        """Save results in specified format"""
-        
-        if output_format == 'json':
-            # Save complete data as JSON
-            output_data = {
-                'topics': topics,
-                'books': all_books,
-                'summary': {
-                    'total_topics': len(topics),
-                    'total_books': len(all_books),
-                    'books_per_topic': {topic['slug']: len([b for b in all_books if b['topic'] == topic['slug']]) 
-                                      for topic in topics}
-                }
-            }
-            
-            json_file = os.path.join(self.output_dir, 'oreilly_books_complete.json')
-            with open(json_file, 'w', encoding='utf-8') as f:
-                json.dump(output_data, f, indent=2, ensure_ascii=False)
-            
-            self.display.info(f"Complete data saved to: {json_file}")
-        
-        elif output_format == 'csv':
-            # Save books as CSV
-            csv_file = os.path.join(self.output_dir, 'oreilly_books.csv')
-            with open(csv_file, 'w', newline='', encoding='utf-8') as f:
-                writer = csv.DictWriter(f, fieldnames=['id', 'topic', 'topic_title', 'title', 'authors', 'isbn', 'issued', 'url'])
-                writer.writeheader()
-                writer.writerows(all_books)
-            
-            self.display.info(f"Books data saved to: {csv_file}")
-        
-        # Always save individual topic files
-        for topic in topics:
-            topic_books = [book for book in all_books if book['topic'] == topic['slug']]
-            
-            # Save as TXT (book IDs only)
-            txt_file = os.path.join(self.output_dir, f"{topic['slug']}.txt")
-            with open(txt_file, 'w', encoding='utf-8') as f:
-                f.write('\n'.join([book['id'] for book in topic_books]))
-            
-            # Save as JSON (with metadata)
-            json_file = os.path.join(self.output_dir, f"{topic['slug']}.json")
-            with open(json_file, 'w', encoding='utf-8') as f:
-                json.dump({
-                    'topic': topic,
-                    'books': topic_books,
-                    'count': len(topic_books)
-                }, f, indent=2, ensure_ascii=False)
-        
-        # Save summary
-        summary_file = os.path.join(self.output_dir, 'summary.txt')
-        with open(summary_file, 'w', encoding='utf-8') as f:
-            f.write("O'Reilly Books Parser Results\n")
-            f.write("=" * 40 + "\n\n")
-            f.write(f"Total Topics: {len(topics)}\n")
-            f.write(f"Total Books: {len(all_books)}\n\n")
-            f.write("Books per Topic:\n")
-            f.write("-" * 20 + "\n")
-            
-            for topic in topics:
-                topic_count = len([b for b in all_books if b['topic'] == topic['slug']])
-                f.write(f"{topic['title']}: {topic_count} books\n")
-        
-        self.display.info(f"Summary saved to: {summary_file}")
-    
-    def parse_all_books(self, max_pages_per_topic: int = 100, 
-                       output_format: str = 'json') -> Dict[str, any]:
-        """Main method to parse all books from all topics"""
-        
-        self.display.info("Starting O'Reilly Books Parser...")
-        self.display.info(f"Output directory: {self.output_dir}")
-        self.display.info(f"Max pages per topic: {max_pages_per_topic}")
-        
-        # Discover topics
-        topics = self.discover_topics()
-        if not topics:
-            self.display.error("No topics discovered. Exiting.")
-            return {}
-        
-        # Fetch books for each topic
-        all_books = []
-        for i, topic in enumerate(topics, 1):
-            self.display.info(f"Processing topic {i}/{len(topics)}: {topic['title']}")
-            
-            try:
-                topic_books = self.get_books_for_topic(topic, max_pages_per_topic)
-                all_books.extend(topic_books)
-                
-                # Save intermediate results
-                if i % 5 == 0:  # Save every 5 topics
-                    self.save_results(all_books, topics[:i], output_format)
-                
-            except Exception as e:
-                self.display.error(f"Error processing topic {topic['slug']}: {e}")
-                continue
-        
-        # Save final results
-        self.save_results(all_books, topics, output_format)
-        
-        # Display final summary
-        self.display.info("=" * 50)
-        self.display.info("PARSING COMPLETE")
-        self.display.info("=" * 50)
-        self.display.info(f"Total Topics Processed: {len(topics)}")
-        self.display.info(f"Total Books Found: {len(all_books)}")
-        self.display.info(f"Output Directory: {self.output_dir}")
-        
-        return {
-            'topics': topics,
-            'books': all_books,
-            'total_topics': len(topics),
-            'total_books': len(all_books)
+            with open(cookies_file, 'r') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError):
+            print("Warning: Could not load cookies from cookies.json")
+    return {}
+
+
+def retrieve_page_contents(url, headers=None, cookies=None):
+    """Retrieve page contents with proper error handling and authentication"""
+    if headers is None:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Accept-Encoding': 'gzip, deflate',
+            'Connection': 'keep-alive',
+            'Referer': 'https://learning.oreilly.com/',
         }
+    
+    try:
+        session = requests.Session()
+        if cookies:
+            session.cookies.update(cookies)
+        
+        r = session.get(url, headers=headers, timeout=30)
+        if r.status_code < 400:
+            return r.text
+        else:
+            print(f"URL {url} returned status code: {r.status_code}")
+            return None
+    except requests.RequestException as e:
+        print(f"Error retrieving {url}: {e}")
+        return None
+
+
+def search_oreilly_learning_api(skill_name, skill_url, cookies=None):
+    """Search O'Reilly Learning API for books in a specific skill category"""
+    print(f"Searching for books in skill: {skill_name}")
+    
+    # Try to get content from the skill page
+    content = retrieve_page_contents(skill_url, cookies=cookies)
+    if not content:
+        print(f"Failed to retrieve content for {skill_name}")
+        return []
+    
+    # Look for book IDs in various patterns
+    book_ids = set()
+    
+    # Pattern 1: Look for library/view URLs
+    library_pattern = r'/library/view/[^/]+/(\d+)/'
+    library_matches = re.findall(library_pattern, content)
+    for match in library_matches:
+        if match.isdigit() and len(match) >= 8:
+            book_ids.add(match)
+    
+    # Pattern 2: Look for API responses with book data
+    api_pattern = r'"id":\s*(\d+)'
+    api_matches = re.findall(api_pattern, content)
+    for match in api_matches:
+        if match.isdigit() and len(match) >= 8:
+            book_ids.add(match)
+    
+    # Pattern 3: Look for book URLs in JSON data
+    json_pattern = r'"url":\s*"[^"]*/(\d+)/'
+    json_matches = re.findall(json_pattern, content)
+    for match in json_matches:
+        if match.isdigit() and len(match) >= 8:
+            book_ids.add(match)
+    
+    # Pattern 4: Look for ISBN patterns
+    isbn_pattern = r'"isbn":\s*"(\d+)"'
+    isbn_matches = re.findall(isbn_pattern, content)
+    for match in isbn_matches:
+        if match.isdigit() and len(match) >= 8:
+            book_ids.add(match)
+    
+    # Try to find and call API endpoints directly
+    api_endpoints = [
+        f"https://api.oreilly.com/api/v1/search?q={skill_name.replace(' ', '+')}",
+        f"https://learning.oreilly.com/api/v1/search?q={skill_name.replace(' ', '+')}",
+        f"https://api.oreilly.com/api/v1/books?topic={skill_name.lower().replace(' ', '-')}",
+    ]
+    
+    for api_url in api_endpoints:
+        print(f"Trying API endpoint: {api_url}")
+        api_content = retrieve_page_contents(api_url, cookies=cookies)
+        if api_content:
+            try:
+                api_data = json.loads(api_content)
+                # Recursively search for book IDs in the API response
+                def find_book_ids(obj):
+                    ids = []
+                    if isinstance(obj, dict):
+                        for key, value in obj.items():
+                            if key in ['id', 'book_id', 'isbn', 'isbn13'] and isinstance(value, (str, int)):
+                                if str(value).isdigit() and len(str(value)) >= 8:
+                                    ids.append(str(value))
+                            elif isinstance(value, (dict, list)):
+                                ids.extend(find_book_ids(value))
+                    elif isinstance(obj, list):
+                        for item in obj:
+                            ids.extend(find_book_ids(item))
+                    return ids
+                
+                api_book_ids = find_book_ids(api_data)
+                book_ids.update(api_book_ids)
+                print(f"Found {len(api_book_ids)} book IDs from API")
+            except json.JSONDecodeError:
+                print("API response is not valid JSON")
+    
+    return list(book_ids)
+
+
+def write_id_list_to_txt_file(id_list, filename):
+    """Write book IDs to a text file"""
+    if not id_list:
+        print(f"No book IDs found for {filename}")
+        return
+    
+    with open(f"{filename}.txt", 'w') as txt_file_handler:
+        txt_file_handler.write("\n".join([str(book_id) for book_id in id_list]))
+    
+    print(f"Wrote {len(id_list)} book IDs to {filename}.txt")
 
 
 def main():
-    """Main function with command line interface"""
-    parser = argparse.ArgumentParser(
-        description="Enhanced O'Reilly Books Parser - Fetch all book topics and IDs",
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  python3 oreilly_books_parser.py                    # Parse all topics with authentication
-  python3 oreilly_books_parser.py --no-auth          # Parse without authentication
-  python3 oreilly_books_parser.py --max-pages 50     # Limit to 50 pages per topic
-  python3 oreilly_books_parser.py --format csv       # Output as CSV format
-  python3 oreilly_books_parser.py --output my_books  # Custom output directory
-        """
-    )
+    """Main function to parse O'Reilly Learning books"""
+    print("O'Reilly Learning Books Parser")
+    print("=" * 40)
     
-    parser.add_argument(
-        '--no-auth', dest='use_auth', action='store_false',
-        help='Run without authentication (may have limited access)'
-    )
-    parser.add_argument(
-        '--max-pages', type=int, default=100,
-        help='Maximum pages to fetch per topic (default: 100)'
-    )
-    parser.add_argument(
-        '--format', choices=['json', 'csv', 'txt'], default='json',
-        help='Output format (default: json)'
-    )
-    parser.add_argument(
-        '--output', default='book_lists',
-        help='Output directory (default: book_lists)'
-    )
-    parser.add_argument(
-        '--topics', nargs='+',
-        help='Specific topics to parse (e.g., programming-languages software-development)'
-    )
+    # Load cookies for authentication
+    cookies = load_cookies()
+    if cookies:
+        print("Loaded authentication cookies")
+    else:
+        print("No authentication cookies found - some content may not be accessible")
     
-    args = parser.parse_args()
+    # Define skills to search for
+    skills = [
+        {'name': 'Python', 'url': 'https://learning.oreilly.com/search/skills/python/'},
+        {'name': 'JavaScript', 'url': 'https://learning.oreilly.com/search/skills/javascript/'},
+        {'name': 'Java', 'url': 'https://learning.oreilly.com/search/skills/java/'},
+        {'name': 'Machine Learning', 'url': 'https://learning.oreilly.com/search/skills/machine-learning/'},
+        {'name': 'Data Science', 'url': 'https://learning.oreilly.com/search/skills/data-science/'},
+        {'name': 'Cloud Computing', 'url': 'https://learning.oreilly.com/search/skills/cloud-computing/'},
+        {'name': 'Security', 'url': 'https://learning.oreilly.com/search/skills/security/'},
+        {'name': 'DevOps', 'url': 'https://learning.oreilly.com/search/skills/devops/'},
+        {'name': 'AWS', 'url': 'https://learning.oreilly.com/search/skills/amazon-web-services-aws/'},
+        {'name': 'Docker', 'url': 'https://learning.oreilly.com/search/skills/docker/'},
+    ]
     
-    try:
-        # Initialize parser
-        books_parser = OReillyBooksParser(
-            use_auth=args.use_auth,
-            output_dir=args.output
-        )
+    print(f"Processing {len(skills)} skills...")
+    
+    all_book_ids = set()
+    
+    # Process each skill
+    for skill in skills:
+        skill_name = skill['name'].lower().replace(' ', '-').replace('&', 'and')
+        skill_url = skill['url']
         
-        # Parse books
-        results = books_parser.parse_all_books(
-            max_pages_per_topic=args.max_pages,
-            output_format=args.format
-        )
+        print(f"\nProcessing skill: {skill['name']}")
+        print(f"URL: {skill_url}")
         
-        if results:
-            print(f"\n✅ Successfully parsed {results['total_books']} books from {results['total_topics']} topics!")
-            print(f"📁 Results saved to: {args.output}/")
+        # Search for books in this skill
+        book_ids = search_oreilly_learning_api(skill['name'], skill_url, cookies)
+        
+        if book_ids:
+            print(f"Found {len(book_ids)} book IDs for {skill['name']}")
+            write_id_list_to_txt_file(book_ids, skill_name)
+            all_book_ids.update(book_ids)
         else:
-            print("❌ No results found.")
-            sys.exit(1)
-            
-    except KeyboardInterrupt:
-        print("\n⚠️  Parsing interrupted by user.")
-        sys.exit(1)
-    except Exception as e:
-        print(f"❌ Error: {e}")
-        sys.exit(1)
+            print(f"No book IDs found for {skill['name']}")
+        
+        # Add a small delay to be respectful to the server
+        time.sleep(2)
+    
+    # Write all unique book IDs to a master file
+    if all_book_ids:
+        write_id_list_to_txt_file(list(all_book_ids), 'all-books')
+        print(f"\nTotal unique book IDs found: {len(all_book_ids)}")
+    
+    print("\nParsing completed!")
 
 
 if __name__ == '__main__':
