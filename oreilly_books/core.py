@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf-8
 """
-SafariBooks - Main Controller
+OreillyBooks - Main Controller
 Orchestrates the book downloading process using modular components
 """
 
@@ -11,15 +11,18 @@ import argparse
 from html import escape
 
 # Import our modular components
-from display import Display
-from auth import AuthManager
-from download import BookDownloader
-from epub_legacy import LegacyEpubGenerator
-from epub_enhanced import EnhancedEpubGenerator
+from .display import Display
+from .auth import AuthManager
+from .download import BookDownloader
+from .epub_legacy import LegacyEpubGenerator
+from .epub_enhanced import EnhancedEpubGenerator
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config import PATH, SAFARI_BASE_URL, BASE_01_HTML, KINDLE_HTML, BASE_02_HTML
 
 
-class SafariBooks:
+class OreillyBooks:
     """Main controller class that orchestrates the entire process"""
     
     def __init__(self, args):
@@ -79,68 +82,36 @@ class SafariBooks:
         self.display.info("Generating EPUB file...")
         self._generate_epub()
         
-        # Step 8: Save cookies and cleanup
-        if not self.args.no_cookies:
-            self.auth_manager.save_cookies()
-        
-        # Step 9: Finalize
         self.display.info("EPUB generation completed successfully!")
-        self.display.unregister()
-        
-        if not self.display.in_error and not self.args.log:
-            os.remove(self.display.log_file)
     
     def _setup_book_paths(self):
-        """Set up book directory structure and paths"""
-        self.book_downloader.book_title = self.book_info["title"]
-        self.book_downloader.base_url = self.book_info["web_url"]
+        """Set up directory structure for the book"""
+        # Create book directory
+        book_title = self._escape_dirname(self.book_info.get("title", "Unknown Book"))
+        book_id = self.args.bookid
+        self.book_downloader.BOOK_PATH = os.path.join(PATH, "Books", f"{book_title} ({book_id})")
         
-        clean_book_title = "".join(self._escape_dirname(self.book_info["title"]).split(",")[:2]) \
-                          + " ({0})".format(self.args.bookid)
+        # Create subdirectories
+        os.makedirs(self.book_downloader.BOOK_PATH, exist_ok=True)
+        os.makedirs(os.path.join(self.book_downloader.BOOK_PATH, "OEBPS"), exist_ok=True)
+        os.makedirs(os.path.join(self.book_downloader.BOOK_PATH, "OEBPS", "Images"), exist_ok=True)
+        os.makedirs(os.path.join(self.book_downloader.BOOK_PATH, "OEBPS", "Styles"), exist_ok=True)
         
-        books_dir = os.path.join(PATH, "Books")
-        if not os.path.isdir(books_dir):
-            os.mkdir(books_dir)
+        # Set paths
+        self.book_downloader.css_path = os.path.join(self.book_downloader.BOOK_PATH, "OEBPS", "Styles")
+        self.book_downloader.images_path = os.path.join(self.book_downloader.BOOK_PATH, "OEBPS", "Images")
         
-        self.book_downloader.BOOK_PATH = os.path.join(books_dir, clean_book_title)
-        self.display.set_output_dir(self.book_downloader.BOOK_PATH)
-        
-        self._create_directories()
-    
-    def _create_directories(self):
-        """Create necessary directories for the book"""
-        if os.path.isdir(self.book_downloader.BOOK_PATH):
-            self.display.log("Book directory already exists: %s" % self.book_downloader.BOOK_PATH)
-        else:
-            os.makedirs(self.book_downloader.BOOK_PATH)
-        
-        oebps = os.path.join(self.book_downloader.BOOK_PATH, "OEBPS")
-        if not os.path.isdir(oebps):
-            self.display.book_ad_info = True
-            os.makedirs(oebps)
-        
-        self.book_downloader.css_path = os.path.join(oebps, "Styles")
-        if os.path.isdir(self.book_downloader.css_path):
-            self.display.log("CSSs directory already exists: %s" % self.book_downloader.css_path)
-        else:
-            os.makedirs(self.book_downloader.css_path)
-            self.display.css_ad_info.value = 1
-        
-        self.book_downloader.images_path = os.path.join(oebps, "Images")
-        if os.path.isdir(self.book_downloader.images_path):
-            self.display.log("Images directory already exists: %s" % self.book_downloader.images_path)
-        else:
-            os.makedirs(self.book_downloader.images_path)
-            self.display.images_ad_info.value = 1
+        self.display.info("Output directory:")
+        self.display.info(f"    {self.book_downloader.BOOK_PATH}")
     
     def _download_book_content(self):
-        """Download all book content including chapters, CSS, and images"""
+        """Download all book content (chapters, CSS, images)"""
+        # Prepare for chapter download
         chapters_queue = self.book_chapters[:]
         
         if len(self.book_chapters) > sys.getrecursionlimit():
             sys.setrecursionlimit(len(self.book_chapters))
         
-        # Prepare HTML template
         base_html = BASE_01_HTML + (KINDLE_HTML if not self.args.kindle else "") + BASE_02_HTML
         
         self.display.info("Downloading book contents... (%s chapters)" % len(self.book_chapters), state=True)
@@ -216,79 +187,15 @@ class SafariBooks:
     def _escape_dirname(dirname, clean_space=False):
         """Escape directory name for filesystem compatibility"""
         if ":" in dirname:
-            if dirname.index(":") > 15:
-                dirname = dirname.split(":")[0]
-            elif "win" in sys.platform:
+            if "win" in sys.platform:
                 dirname = dirname.replace(":", ",")
+            else:
+                dirname = dirname.split(":")[0]
+        elif "win" in sys.platform:
+            dirname = dirname.replace(":", ",")
         
         for ch in ['~', '#', '%', '&', '*', '{', '}', '\\', '<', '>', '?', '/', '`', '\'', '"', '|', '+', ':']:
             if ch in dirname:
                 dirname = dirname.replace(ch, "_")
         
         return dirname if not clean_space else dirname.replace(" ", "")
-
-
-def main():
-    """Main entry point"""
-    arguments = argparse.ArgumentParser(prog="safaribooks.py",
-                                        description="Download and generate an EPUB of your favorite books"
-                                                    " from Safari Books Online.",
-                                        add_help=False,
-                                        allow_abbrev=False)
-    
-    login_arg_group = arguments.add_mutually_exclusive_group()
-    login_arg_group.add_argument(
-        "--cred", metavar="<EMAIL:PASS>", default=False,
-        help="Credentials used to perform the auth login on Safari Books Online."
-             " Es. ` --cred \"account_mail@mail.com:password01\" `."
-    )
-    login_arg_group.add_argument(
-        "--login", action='store_true',
-        help="Prompt for credentials used to perform the auth login on Safari Books Online."
-    )
-    
-    arguments.add_argument(
-        "--no-cookies", dest="no_cookies", action='store_true',
-        help="Prevent your session data to be saved into `cookies.json` file."
-    )
-    arguments.add_argument(
-        "--kindle", dest="kindle", action='store_true',
-        help="Generate Kindle-optimized EPUB with enhanced formatting."
-    )
-    arguments.add_argument(
-        "--enhanced", dest="enhanced", action='store_true',
-        help="Generate enhanced EPUB 3.3 with improved metadata and formatting."
-    )
-    arguments.add_argument(
-        "--dual", dest="dual", action='store_true',
-        help="Generate both standard and Kindle-optimized EPUB files."
-    )
-    arguments.add_argument(
-        "--preserve-log", dest="log", action='store_true', help="Leave the `info_XXXXXXXXXXXXX.log`"
-                                                                " file even if there isn't any error."
-    )
-    arguments.add_argument("--help", action="help", default=argparse.SUPPRESS, help='Show this help message.')
-    arguments.add_argument(
-        "bookid", metavar='<BOOK ID>',
-        help="Book digits ID that you want to download. You can find it in the URL (X-es):"
-             f" `{SAFARI_BASE_URL}/library/view/book-name/XXXXXXXXXXXXX/`"
-    )
-    
-    args_parsed = arguments.parse_args()
-    
-    if args_parsed.cred or args_parsed.login:
-        print("WARNING: Due to recent changes on ORLY website, \n" \
-                "the `--cred` and `--login` options are temporarily disabled.\n"
-                "    Please use the `cookies.json` file to authenticate your account.\n"
-                "    See: https://github.com/lorenzodifuccia/safaribooks/issues/358")
-        arguments.exit()
-    else:
-        if args_parsed.no_cookies:
-            arguments.error("invalid option: `--no-cookies` is valid only if you use the `--cred` option")
-    
-    SafariBooks(args_parsed)
-    sys.exit(0)
-
-
-if __name__ == "__main__":
-    main()
