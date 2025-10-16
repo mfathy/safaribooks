@@ -30,6 +30,10 @@ class AuthManager:
         self.session = requests.Session()
         self.session.headers.update(HEADERS)
         self.jwt = {}
+        
+        # Configure default timeout for all requests (connect timeout, read timeout)
+        # This prevents hanging on slow/unresponsive servers
+        self.default_timeout = (10, 30)  # 10s connect, 30s read
     
     def handle_cookie_update(self, set_cookie_headers):
         """Handle cookie updates from response headers"""
@@ -41,6 +45,10 @@ class AuthManager:
     def requests_provider(self, url, is_post=False, data=None, perform_redirect=True, **kwargs):
         """Make HTTP requests with proper error handling and cookie management"""
         try:
+            # Add timeout if not specified
+            if 'timeout' not in kwargs:
+                kwargs['timeout'] = self.default_timeout
+            
             response = getattr(self.session, "post" if is_post else "get")(
                 url, data=data, allow_redirects=False, **kwargs
             )

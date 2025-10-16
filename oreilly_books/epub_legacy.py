@@ -8,11 +8,10 @@ Handles EPUB 2.0 file creation, packaging, and metadata generation
 import os
 import shutil
 import sys
+import requests
 from html import escape
 from multiprocessing import Queue
 from urllib.parse import urljoin
-import sys
-import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config import SAFARI_BASE_URL, CONTAINER_XML, CONTENT_OPF, TOC_NCX
 
@@ -175,9 +174,10 @@ class LegacyEpubGenerator:
         self.display.state(len(self.css), self.css_done_queue.qsize())
     
     def _thread_download_images(self, url):
-        """Download image file in thread"""
+        """Download image file with retry logic for reliability"""
         image_name = url.split("/")[-1]
         image_path = os.path.join(self.images_path, image_name)
+        
         if os.path.isfile(image_path):
             if not self.display.images_ad_info.value and url not in self.images[:self.images.index(url)]:
                 self.display.info(("File `%s` already exists.\n"
@@ -187,14 +187,32 @@ class LegacyEpubGenerator:
                                   image_name)
                 self.display.images_ad_info.value = 1
         else:
-            response = self._make_request(urljoin(SAFARI_BASE_URL, url), stream=True)
-            if response == 0:
-                self.display.error("Error trying to retrieve this image: %s\n    From: %s" % (image_name, url))
-                return
-            
-            with open(image_path, 'wb') as img:
-                for chunk in response.iter_content(1024):
-                    img.write(chunk)
+            # Retry logic for failed downloads (max 3 attempts)
+            max_retries = 3
+            for attempt in range(max_retries):
+                try:
+                    response = self._make_request(urljoin(SAFARI_BASE_URL, url), stream=True)
+                    if response == 0:
+                        if attempt < max_retries - 1:
+                            self.display.log(f"Retry {attempt + 1}/{max_retries} for image: {image_name}")
+                            continue
+                        else:
+                            self.display.error("Error trying to retrieve this image: %s\n    From: %s" % (image_name, url))
+                            break
+                    
+                    with open(image_path, 'wb') as img:
+                        for chunk in response.iter_content(1024):
+                            img.write(chunk)
+                    
+                    # Success - break retry loop
+                    break
+                    
+                except Exception as e:
+                    if attempt < max_retries - 1:
+                        self.display.log(f"Error downloading image (attempt {attempt + 1}/{max_retries}): {e}")
+                        continue
+                    else:
+                        self.display.error(f"Failed to download image {image_name} after {max_retries} attempts: {e}")
         
         self.images_done_queue.put(1)
         self.display.state(len(self.images), self.images_done_queue.qsize())
@@ -263,12 +281,19 @@ class LegacyEpubGenerator:
         os.rename(zip_file + ".zip", os.path.join(self.book_path, book_id) + ".epub")
     
     def _make_request(self, url, **kwargs):
-        """Make HTTP request using the session"""
+        """Make HTTP request using the session with timeout"""
         try:
+            # Add timeout to prevent hanging (10s connect, 30s read)
+            if 'timeout' not in kwargs:
+                kwargs['timeout'] = (10, 30)
+            
             if 'stream' in kwargs and kwargs['stream']:
                 return self.session.get(url, stream=True, **{k: v for k, v in kwargs.items() if k != 'stream'})
             else:
                 return self.session.get(url, **{k: v for k, v in kwargs.items() if k != 'stream'})
+        except requests.exceptions.Timeout:
+            self.display.error(f"Request timeout: {url}")
+            return 0
         except Exception as e:
             self.display.error(f"Request error: {e}")
             return 0

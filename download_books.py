@@ -131,11 +131,34 @@ class BookDownloader:
         return skill_books
     
     def _sanitize_skill_name(self, skill_name: str) -> str:
-        """Sanitize skill name for use as directory name"""
+        """Sanitize skill name for use as directory name and convert to PascalCase with spaces"""
+        # First remove invalid characters
         sanitized = skill_name.strip()
         for char in ['/', '\\', ':', '*', '?', '"', '<', '>', '|']:
-            sanitized = sanitized.replace(char, '_')
-        return sanitized
+            sanitized = sanitized.replace(char, ' ')
+        
+        # Convert to PascalCase with spaces
+        # Split by common separators
+        words = sanitized.replace('_', ' ').replace('-', ' ').split()
+        
+        # Capitalize each word properly
+        pascal_words = []
+        for word in words:
+            # Handle special cases like "AI", "ML", "API", etc.
+            if word.upper() in ['AI', 'ML', 'API', 'UI', 'UX', 'SQL', 'CSS', 'HTML', 'JS', 'AWS', 'GCP']:
+                pascal_words.append(word.upper())
+            # Handle &, and, etc.
+            elif word.lower() in ['&', 'and', 'or', 'of', 'the', 'in', 'on', 'at', 'to', 'for']:
+                # Keep conjunctions and prepositions lowercase unless first word
+                if len(pascal_words) == 0:
+                    pascal_words.append(word.capitalize())
+                else:
+                    pascal_words.append(word.lower())
+            else:
+                # Regular word - capitalize first letter
+                pascal_words.append(word.capitalize())
+        
+        return ' '.join(pascal_words)
     
     def _get_skill_directory(self, skill_name: str) -> Path:
         """Get the directory path for a skill"""
