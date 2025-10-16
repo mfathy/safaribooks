@@ -118,23 +118,51 @@ body {
     background: #fff;
 }
 
+/* Headers with proper alignment and page breaks */
 h1, h2, h3, h4, h5, h6 {
-    page-break-before: always;
     page-break-after: avoid;
-    margin-top: 1em;
-    margin-bottom: 0.5em;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
     font-weight: bold;
+    text-align: left;
+    line-height: 1.3;
 }
 
-h1 { font-size: 1.8em; }
+/* Chapter headers (h1) should have page break before */
+h1 { 
+    font-size: 1.8em;
+    page-break-before: always;
+    margin-top: 0;
+    padding-top: 1em;
+}
+
 h2 { font-size: 1.5em; }
 h3 { font-size: 1.3em; }
+h4 { font-size: 1.1em; }
+h5 { font-size: 1em; font-style: italic; }
+h6 { font-size: 0.9em; font-style: italic; }
 
+/* Primary text (paragraphs) with proper alignment */
 p {
-    margin: 0.5em 0;
+    margin: 0.6em 0;
     text-align: justify;
+    text-indent: 0;
     orphans: 2;
     widows: 2;
+    line-height: 1.6;
+}
+
+/* First paragraph after header - no indent */
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
+    text-indent: 0;
+}
+
+/* Secondary text (smaller, italics, etc.) */
+.secondary, .subtitle, .author {
+    text-align: center;
+    font-style: italic;
+    margin: 0.5em 0;
+    color: #555;
 }
 
 img {
@@ -159,6 +187,12 @@ table, th, td {
 th, td {
     padding: 0.5em;
     text-align: left;
+    vertical-align: top;
+}
+
+th {
+    font-weight: bold;
+    background-color: #f0f0f0;
 }
 
 pre, code {
@@ -167,21 +201,50 @@ pre, code {
     white-space: pre-wrap;
     word-wrap: break-word;
     page-break-inside: avoid;
+    background: #f5f5f5;
+    padding: 0.3em 0.5em;
+}
+
+pre {
+    margin: 1em 0;
+    padding: 0.8em;
+    border: 1px solid #ddd;
 }
 
 blockquote {
     margin: 1em 2em;
+    padding-left: 1em;
+    border-left: 3px solid #ccc;
     font-style: italic;
     page-break-inside: avoid;
 }
 
-/* Page breaks */
-.page-break {
+/* Lists */
+ul, ol {
+    margin: 0.5em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin: 0.3em 0;
+}
+
+/* Page breaks - improved */
+.page-break, .pagebreak {
     page-break-before: always;
+    margin: 0;
+    padding: 0;
+    height: 0;
 }
 
 .no-break {
     page-break-inside: avoid;
+}
+
+/* Avoid breaking after headers */
+h1, h2, h3, h4, h5, h6 {
+    break-after: avoid-page;
+    page-break-after: avoid;
 }
 
 /* Cover page */
@@ -191,8 +254,23 @@ blockquote {
 }
 
 .cover-page img {
-    max-height: 80vh;
+    max-height: 90vh;
+    max-width: 100%;
     width: auto;
+    height: auto;
+}
+
+/* Section breaks */
+.section-break {
+    text-align: center;
+    margin: 2em 0;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1.5em 0;
+    page-break-after: avoid;
 }
 """
     
@@ -208,20 +286,50 @@ body {
     background: #fff;
 }
 
+/* Headers with proper alignment and page breaks */
 h1, h2, h3, h4, h5, h6 {
     margin-top: 1.5em;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.6em;
     font-weight: bold;
     color: #000;
+    text-align: left;
+    line-height: 1.3;
+    page-break-after: avoid;
 }
 
-h1 { font-size: 2em; }
+/* Chapter headers (h1) with page break */
+h1 { 
+    font-size: 2em;
+    page-break-before: always;
+    margin-top: 0;
+    padding-top: 1em;
+}
+
 h2 { font-size: 1.6em; }
 h3 { font-size: 1.3em; }
+h4 { font-size: 1.15em; }
+h5 { font-size: 1em; font-style: italic; }
+h6 { font-size: 0.95em; font-style: italic; }
 
+/* Primary text (paragraphs) with proper alignment */
 p {
     margin: 0.8em 0;
     text-align: left;
+    text-indent: 0;
+    line-height: 1.6;
+}
+
+/* First paragraph after header - no indent */
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
+    text-indent: 0;
+}
+
+/* Secondary text (smaller, italics, etc.) */
+.secondary, .subtitle, .author {
+    text-align: center;
+    font-style: italic;
+    margin: 0.5em 0;
+    color: #666;
 }
 
 img {
@@ -229,25 +337,41 @@ img {
     height: auto;
     display: block;
     margin: 1em auto;
+    page-break-inside: avoid;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
     margin: 1em 0;
+    page-break-inside: avoid;
 }
 
 th, td {
     padding: 0.5em;
     border: 1px solid #ddd;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    font-weight: bold;
+    background-color: #f8f8f8;
 }
 
 pre, code {
     font-family: "Monaco", "Consolas", monospace;
     font-size: 0.9em;
     background: #f5f5f5;
-    padding: 0.5em;
+    padding: 0.3em 0.5em;
     border-radius: 3px;
+}
+
+pre {
+    margin: 1em 0;
+    padding: 0.8em;
+    border: 1px solid #e0e0e0;
+    overflow-x: auto;
 }
 
 blockquote {
@@ -255,6 +379,61 @@ blockquote {
     font-style: italic;
     border-left: 3px solid #ccc;
     padding-left: 1em;
+    page-break-inside: avoid;
+}
+
+/* Lists */
+ul, ol {
+    margin: 0.5em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin: 0.3em 0;
+}
+
+/* Page breaks - improved */
+.page-break, .pagebreak {
+    page-break-before: always;
+    margin: 0;
+    padding: 0;
+    height: 0;
+}
+
+.no-break {
+    page-break-inside: avoid;
+}
+
+/* Avoid breaking after headers */
+h1, h2, h3, h4, h5, h6 {
+    break-after: avoid-page;
+    page-break-after: avoid;
+}
+
+/* Cover page */
+.cover-page {
+    text-align: center;
+    page-break-after: always;
+}
+
+.cover-page img {
+    max-height: 90vh;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+/* Section breaks */
+.section-break {
+    text-align: center;
+    margin: 2em 0;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 1.5em 0;
+    page-break-after: avoid;
 }
 """
     
@@ -462,18 +641,25 @@ blockquote {
     
     @staticmethod
     def parse_toc(l, c=0, mx=0):
-        """Parse table of contents structure"""
+        """Parse table of contents structure with proper chapter anchors"""
         r = ""
         for cc in l:
             c += 1
             if int(cc["depth"]) > mx:
                 mx = int(cc["depth"])
             
+            # Build href with fragment identifier for chapter start
+            href = cc["href"].replace(".html", ".xhtml").split("/")[-1]
+            
+            # If there's a fragment (anchor), include it in the href
+            if cc.get("fragment") and len(cc["fragment"]) > 0:
+                href = f"{href}#{cc['fragment']}"
+            
             r += "<navPoint id=\"{0}\" playOrder=\"{1}\">" \
                  "<navLabel><text>{2}</text></navLabel>" \
                  "<content src=\"{3}\"/>".format(
                     cc["fragment"] if len(cc["fragment"]) else cc["id"], c,
-                    escape(cc["label"]), cc["href"].replace(".html", ".xhtml").split("/")[-1]
+                    escape(cc["label"]), href
                  )
             
             if cc["children"]:

@@ -115,17 +115,49 @@ class BookDownloader:
         return root
     
     def get_default_cover(self):
-        """Download default cover image"""
-        response = self._make_request(self.book_info["cover"], stream=True)
-        if response == 0:
-            self.display.error("Error trying to retrieve the cover: %s" % self.book_info["cover"])
+        """Download default cover image, trying high-res first"""
+        cover_url = self.book_info.get("cover", "")
+        
+        if not cover_url:
             return False
         
-        file_ext = response.headers["Content-Type"].split("/")[-1]
-        with open(os.path.join(self.images_path, f"default_cover.{file_ext}"), 'wb') as i:
-            for chunk in response.iter_content(1024):
-                i.write(chunk)
-        return f"default_cover.{file_ext}"
+        # Try to get high-resolution version by modifying URL
+        # O'Reilly covers often have size parameters or specific patterns
+        high_res_urls = [
+            cover_url.replace("w=200", "w=800"),  # Increase width
+            cover_url.replace("w=250", "w=800"),
+            cover_url.replace("w=300", "w=800"),
+            cover_url.replace("/small/", "/large/"),
+            cover_url.replace("/thumb/", "/large/"),
+            cover_url.replace("/medium/", "/large/"),
+            cover_url + "?width=800",  # Add width parameter
+            cover_url  # Original as fallback
+        ]
+        
+        # Try each URL until one works
+        for url in high_res_urls:
+            response = self._make_request(url, stream=True)
+            if response != 0:
+                try:
+                    file_ext = response.headers.get("Content-Type", "image/jpeg").split("/")[-1]
+                    if file_ext not in ["jpeg", "jpg", "png", "gif", "webp"]:
+                        file_ext = "jpeg"
+                    
+                    cover_path = os.path.join(self.images_path, f"default_cover.{file_ext}")
+                    with open(cover_path, 'wb') as i:
+                        for chunk in response.iter_content(1024):
+                            i.write(chunk)
+                    
+                    # Check if we got a reasonable file size (at least 10KB)
+                    if os.path.getsize(cover_path) > 10000:
+                        self.display.info(f"Downloaded high-res cover: {os.path.getsize(cover_path) // 1024}KB")
+                        return f"default_cover.{file_ext}"
+                except Exception as e:
+                    self.display.debug(f"Failed to download from {url}: {e}")
+                    continue
+        
+        self.display.error("Error trying to retrieve the cover: %s" % cover_url)
+        return False
     
     @staticmethod
     def url_is_absolute(url):

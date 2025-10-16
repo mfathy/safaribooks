@@ -98,18 +98,25 @@ class LegacyEpubGenerator:
     
     @staticmethod
     def parse_toc(l, c=0, mx=0):
-        """Parse table of contents structure"""
+        """Parse table of contents structure with proper chapter anchors"""
         r = ""
         for cc in l:
             c += 1
             if int(cc["depth"]) > mx:
                 mx = int(cc["depth"])
             
+            # Build href with fragment identifier for chapter start
+            href = cc["href"].replace(".html", ".xhtml").split("/")[-1]
+            
+            # If there's a fragment (anchor), include it in the href
+            if cc.get("fragment") and len(cc["fragment"]) > 0:
+                href = f"{href}#{cc['fragment']}"
+            
             r += "<navPoint id=\"{0}\" playOrder=\"{1}\">" \
                  "<navLabel><text>{2}</text></navLabel>" \
                  "<content src=\"{3}\"/>".format(
                     cc["fragment"] if len(cc["fragment"]) else cc["id"], c,
-                    escape(cc["label"]), cc["href"].replace(".html", ".xhtml").split("/")[-1]
+                    escape(cc["label"]), href
                  )
             
             if cc["children"]:
