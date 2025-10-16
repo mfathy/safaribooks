@@ -32,7 +32,11 @@ class Display:
         self.path = path
         self.output_dir = ""
         self.output_dir_set = False
-        self.log_file = os.path.join(path, log_file)
+        
+        # Ensure logs directory exists
+        log_path = os.path.join(path, "logs", log_file)
+        os.makedirs(os.path.dirname(log_path), exist_ok=True)
+        self.log_file = log_path
 
         self.logger = logging.getLogger("SafariBooks")
         self.logger.setLevel(logging.INFO)

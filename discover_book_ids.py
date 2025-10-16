@@ -56,7 +56,7 @@ class BookIDDiscoverer:
             'discovery_delay': 2,
             'resume': True,
             'skills_file': 'my_favorite_skills.txt',
-            'progress_file': 'discovery_progress.json',
+            'progress_file': 'output/discovery_progress.json',
             'verbose': False,
             'retry_failed': True,
             'max_retries': 3,
@@ -120,6 +120,8 @@ class BookIDDiscoverer:
                 'failed': self.failed_skills,
                 'timestamp': time.time()
             }
+            # Ensure output directory exists
+            os.makedirs(os.path.dirname(progress_file), exist_ok=True)
             with open(progress_file, 'w') as f:
                 json.dump(progress, f, indent=2)
         except Exception as e:

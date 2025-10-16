@@ -105,6 +105,8 @@ class ProgressTracker:
         self.data["session"]["last_update"] = datetime.now().isoformat()
         
         try:
+            # Ensure directory exists
+            os.makedirs(os.path.dirname(self.progress_file), exist_ok=True)
             with open(self.progress_file, 'w') as f:
                 json.dump(self.data, f, indent=2)
         except Exception as e:
