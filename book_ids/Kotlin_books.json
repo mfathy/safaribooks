@@ -1,0 +1,2667 @@
+{
+  "skill_name": "kotlin",
+  "discovery_timestamp": 1759707441.8589475,
+  "total_books": 380,
+  "books": [
+    {
+      "title": "Kotlin in Action, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299605/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299605/",
+      "isbn": "9781617299605",
+      "format": "book"
+    },
+    {
+      "title": "Software Architecture with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835461860/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835461860/",
+      "isbn": "9781835461860",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin from Scratch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098182526/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098182526/",
+      "isbn": "9781718503526",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Kotlin for Android 14",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837631711/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837631711/",
+      "isbn": "9781837631711",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Design Patterns and Best Practices - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805127765/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805127765/",
+      "isbn": "9781805127765",
+      "format": "book"
+    },
+    {
+      "title": "Thriving in Android Development Using Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837631292/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837631292/",
+      "isbn": "9781837631292",
+      "format": "book"
+    },
+    {
+      "title": "How to Build Android Apps with Kotlin - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837634934/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837634934/",
+      "isbn": "9781837634934",
+      "format": "book"
+    },
+    {
+      "title": "From Objects to Functions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650455/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650455/",
+      "isbn": "9781680508451",
+      "format": "book"
+    },
+    {
+      "title": "Java to Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492082262/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492082262/",
+      "isbn": "9781492082279",
+      "format": "book"
+    },
+    {
+      "title": "Kickstart Modern Android Development with Jetpack and Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801811071/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801811071/",
+      "isbn": "9781801811071",
+      "format": "book"
+    },
+    {
+      "title": "Programming Android with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492062998/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492062998/",
+      "isbn": "9781492063001",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Programming: The Big Nerd Ranch Guide, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136870494/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136870494/",
+      "isbn": "9780136870494",
+      "format": "book"
+    },
+    {
+      "title": "Frontend Development with JavaFX and Kotlin: Build State-of-the-Art Kotlin GUI Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297179/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297179/",
+      "isbn": "9781484297179",
+      "format": "book"
+    },
+    {
+      "title": "Functional Programming in Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297168/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297168/",
+      "isbn": "9781617297168",
+      "format": "book"
+    },
+    {
+      "title": "Pro Kotlin Web Apps from Scratch: Building Production-Ready Web Apps Without a Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290576/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290576/",
+      "isbn": "9781484290576",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Design Patterns and Best Practices - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801815727/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801815727/",
+      "isbn": "9781801815727",
+      "format": "book"
+    },
+    {
+      "title": "Head First Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491996683/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491996683/",
+      "isbn": "9781491996690",
+      "format": "book"
+    },
+    {
+      "title": "Simplifying Application Development with Kotlin Multiplatform Mobile",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801812580/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801812580/",
+      "isbn": "9781801812580",
+      "format": "book"
+    },
+    {
+      "title": "Pro Android with Kotlin: Developing Modern Mobile Apps with Kotlin and Jetpack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287453/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287453/",
+      "isbn": "9781484287453",
+      "format": "book"
+    },
+    {
+      "title": "Programming Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507287/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507287/",
+      "isbn": "9781680507294",
+      "format": "book"
+    },
+    {
+      "title": "Programming DSLs in Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508253/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508253/",
+      "isbn": "9781680508253",
+      "format": "book"
+    },
+    {
+      "title": "Simplifying Android Development with Coroutines and Flows",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801816243/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801816243/",
+      "isbn": "9781801816243",
+      "format": "book"
+    },
+    {
+      "title": "Android Studio Arctic Fox Essentials - Kotlin Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247458/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247458/",
+      "isbn": "9781803247458",
+      "format": "book"
+    },
+    {
+      "title": "Android Programming with Kotlin for Beginners",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789615401/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789615401/",
+      "isbn": "9781789615401",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Mastery: A Comprehensive Guide for Java Developers and New Programmers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868816185/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868816185/",
+      "isbn": "9798868816185",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin and Android Development featuring Jetpack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508673/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508673/",
+      "isbn": "9781680508680",
+      "format": "book"
+    },
+    {
+      "title": "How to Build Android Applications with Kotlin - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835882764/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835882764/",
+      "isbn": "9781835882764",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492046660/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492046660/",
+      "isbn": "9781492046639",
+      "format": "book"
+    },
+    {
+      "title": "Numerical Methods Using Kotlin: For Data Science, Analysis, and Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288269/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288269/",
+      "isbn": "9781484288269",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Kotlin: Build Applications with Better Code, Productivity, and Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286982/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286982/",
+      "isbn": "9781484286982",
+      "format": "book"
+    },
+    {
+      "title": "How to Build Android Apps with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838984113/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838984113/",
+      "isbn": "9781838984113",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617293290/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617293290/",
+      "isbn": "9781617293290",
+      "format": "book"
+    },
+    {
+      "title": "The Joy of Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295362/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295362/",
+      "isbn": "9781617295362",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838555726/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838555726/",
+      "isbn": "9781838555726",
+      "format": "book"
+    },
+    {
+      "title": "Learning Concurrency in Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788627160/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788627160/",
+      "isbn": "9781788627160",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Object-Oriented Programming with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789617726/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789617726/",
+      "isbn": "9781789617726",
+      "format": "book"
+    },
+    {
+      "title": "Learn to Program with Kotlin: From the Basics to Projects with Text and Image Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268155/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268155/",
+      "isbn": "9781484268155",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin for Android App Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134854281/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134854281/",
+      "isbn": "9780134854281",
+      "format": "book"
+    },
+    {
+      "title": "Learn Kotlin for Android Development: The Next Generation Language for Modern Android Apps Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244678/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244678/",
+      "isbn": "9781484244678",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Data Structures and Algorithms with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994019/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994019/",
+      "isbn": "9781788994019",
+      "format": "book"
+    },
+    {
+      "title": "Android Studio 4.1 Development Essentials – Kotlin Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801815987/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801815987/",
+      "isbn": "9781801815987",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin for Enterprise Applications using Java EE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788997270/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788997270/",
+      "isbn": "9781788997270",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Programming: The Big Nerd Ranch Guide, First Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135165188/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135165188/",
+      "isbn": "9780135165188",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Quick Start Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789344189/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789344189/",
+      "isbn": "9781789344189",
+      "format": "book"
+    },
+    {
+      "title": "Android Studio 4.0 Development Essentials - Kotlin Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800560437/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800560437/",
+      "isbn": "9781800560437",
+      "format": "book"
+    },
+    {
+      "title": "Mastering High Performance with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996648/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996648/",
+      "isbn": "9781788996648",
+      "format": "book"
+    },
+    {
+      "title": "Programming Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126367/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126367/",
+      "isbn": "9781787126367",
+      "format": "book"
+    },
+    {
+      "title": "Reactive Programming in Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788473026/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788473026/",
+      "isbn": "9781788473026",
+      "format": "book"
+    },
+    {
+      "title": "Functional Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788476485/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788476485/",
+      "isbn": "9781788476485",
+      "format": "book"
+    },
+    {
+      "title": "Android Studio 3.6 Development Essentials - Kotlin Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800567665/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800567665/",
+      "isbn": "9781800567665",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Programming By Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474542/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474542/",
+      "isbn": "9781788474542",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Design Patterns with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788998017/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788998017/",
+      "isbn": "9781788998017",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Standard Library Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837668/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837668/",
+      "isbn": "9781788837668",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Microservices with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788471459/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788471459/",
+      "isbn": "9781788471459",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Serverless Applications with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788993708/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788993708/",
+      "isbn": "9781788993708",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Blueprints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390804/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390804/",
+      "isbn": "9781788390804",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Programming Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472142/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472142/",
+      "isbn": "9781788472142",
+      "format": "book"
+    },
+    {
+      "title": "Android Development with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787123687/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787123687/",
+      "isbn": "9781787123687",
+      "format": "book"
+    },
+    {
+      "title": "Learn Android Studio 3 with Kotlin: Efficient Android App Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484239070/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484239070/",
+      "isbn": "9781484239070",
+      "format": "book"
+    },
+    {
+      "title": "Pro Android with Kotlin: Developing Modern Mobile Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238202/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238202/",
+      "isbn": "9781484238202",
+      "format": "book"
+    },
+    {
+      "title": "Learn Kotlin Programming - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789802351/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789802351/",
+      "isbn": "9781789802351",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Android Development with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788473699/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788473699/",
+      "isbn": "9781788473699",
+      "format": "book"
+    },
+    {
+      "title": "Building Applications with Spring 5 and Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788394802/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788394802/",
+      "isbn": "9781788394802",
+      "format": "book"
+    },
+    {
+      "title": "Pro Spring 6 with Kotlin: An In-depth Guide to Using Kotlin APIs in Spring Framework 6",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295571/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295571/",
+      "isbn": "9781484295571",
+      "format": "book"
+    },
+    {
+      "title": "Android Studio 4.2 Development Essentials - Kotlin Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803231549/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803231549/",
+      "isbn": "9781803231549",
+      "format": "book"
+    },
+    {
+      "title": "10 Spring Boot with Kotlin, Native Image, and GraphQL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298813/chapter/Text/10.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298813/chapter/Text/10.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Spring Boot with Kotlin, Scala, and Groovy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287927/chapter/html/447991_2_En_19_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287927/chapter/html/447991_2_En_19_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pro Spring Boot 3 with Kotlin: In-Depth Guide to Best Practices for Cloud-Native and Microservices Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868811319/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868811319/",
+      "isbn": "9798868811319",
+      "format": "book"
+    },
+    {
+      "title": "Interop with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491952689/chapter/ch37.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491952689/chapter/ch37.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Spring and Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251362/chapter/html/336364_2_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251362/chapter/html/336364_2_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using RxJava for Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789950151/chapter/c89d4367-7c3d-41a9-8430-7d9a7a2d7a2a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789950151/chapter/c89d4367-7c3d-41a9-8430-7d9a7a2d7a2a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Interfacing with Kotlin and Swift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258811/chapter/html/494415_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258811/chapter/html/494415_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Commit with Changes to a Project in the Kotlin Programming Language",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806102631/chapter/img-f2.11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806102631/chapter/img-f2.11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B. Kotlin Cheat Sheet",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492047179/chapter/app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492047179/chapter/app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin language support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788838382/chapter/a2dd1d44-4e16-4d38-8a67-fcba891a064b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788838382/chapter/a2dd1d44-4e16-4d38-8a67-fcba891a064b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "REST call in Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390415/chapter/201cdd0c-953d-498c-b578-c0050da9d486.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390415/chapter/201cdd0c-953d-498c-b578-c0050da9d486.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Basics and Spring Data Redis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624398/chapter/4286f9d7-1fe5-49c7-9201-49f9c9bdddf6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624398/chapter/4286f9d7-1fe5-49c7-9201-49f9c9bdddf6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Spring Boot with Groovy, Scala, and Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484229316/chapter/A447991_1_En_17_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484229316/chapter/A447991_1_En_17_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using RxJava for Kotlin New",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787120426/chapter/42947483-7be8-4693-a7e4-2527ad9f180b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787120426/chapter/42947483-7be8-4693-a7e4-2527ad9f180b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Writing Espresso Tests with Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484243152/chapter/html/469090_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484243152/chapter/html/469090_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Procedural programming in Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127944/chapter/1c1b44c3-d1ed-4445-978d-ce11e57af4b8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127944/chapter/1c1b44c3-d1ed-4445-978d-ce11e57af4b8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Main characteristics of Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789534757/chapter/e2b5f165-fcef-451d-97f8-7f78da0598f1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789534757/chapter/e2b5f165-fcef-451d-97f8-7f78da0598f1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building tests for Kotlin components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787128316/chapter/8d66ae4a-3f41-4ad4-afad-9d9436afd2ff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787128316/chapter/8d66ae4a-3f41-4ad4-afad-9d9436afd2ff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring Boot: Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076971/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076971/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Emerging Programming Languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492082590/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492082590/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "There's more...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956504/chapter/620efb60-6f89-4368-b9e9-6b1a3383c77c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956504/chapter/620efb60-6f89-4368-b9e9-6b1a3383c77c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Downloading and installing IntelliJ",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783551606/chapter/f790c84e-96f6-45bb-b728-3ac8f277057f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783551606/chapter/f790c84e-96f6-45bb-b728-3ac8f277057f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing an Android application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956870/chapter/0c7aba25-fdf5-4d76-9058-c1a51b7ecd0d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956870/chapter/0c7aba25-fdf5-4d76-9058-c1a51b7ecd0d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623797/chapter/5b87c6b1-2df2-4ca0-8be8-2b606813fc47.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623797/chapter/5b87c6b1-2df2-4ca0-8be8-2b606813fc47.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other books in O’Reilly’s Head First series",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492091646/chapter/preface01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492091646/chapter/preface01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B18320_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234588/chapter/B18320_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234588/chapter/B18320_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Starting a Flutter plugin package",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996082/chapter/9a276a25-2881-4ec7-8f80-ed0ba650290a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996082/chapter/9a276a25-2881-4ec7-8f80-ed0ba650290a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android UI Development with Jetpack Compose",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801812160/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801812160/",
+      "isbn": "9781801812160",
+      "format": "book"
+    },
+    {
+      "title": "Modern Android 13 Development Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803235578/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803235578/",
+      "isbn": "9781803235578",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805129264/chapter/Section0002.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805129264/chapter/Section0002.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Flutter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507621/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507621/",
+      "isbn": "9781680507638",
+      "format": "book"
+    },
+    {
+      "title": "Head First Android Development, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076513/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076513/",
+      "isbn": "9781492076520",
+      "format": "book"
+    },
+    {
+      "title": "Programming Scala, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492077886/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492077886/",
+      "isbn": "9781492077893",
+      "format": "book"
+    },
+    {
+      "title": "Other languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788997379/chapter/6019fc0e-5ce9-4997-b563-c6eb8eaca70c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788997379/chapter/6019fc0e-5ce9-4997-b563-c6eb8eaca70c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Gradle configuration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341799/chapter/4033358c-db5f-4448-a74b-eb51b64ac6aa.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341799/chapter/4033358c-db5f-4448-a74b-eb51b64ac6aa.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836968/chapter/fd085100-3569-4501-b90f-41426fd24e50.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836968/chapter/fd085100-3569-4501-b90f-41426fd24e50.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android UI Development with Jetpack Compose - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837634255/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837634255/",
+      "isbn": "9781837634255",
+      "format": "book"
+    },
+    {
+      "title": "To get the most out of this book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994590/chapter/a5c652d9-8cbe-471b-ac4e-eef13ec8e14d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994590/chapter/a5c652d9-8cbe-471b-ac4e-eef13ec8e14d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build tools – Maven and Gradle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838824983/chapter/7c6ad9d3-89e6-4fac-93a3-1d4320ab7ecf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838824983/chapter/7c6ad9d3-89e6-4fac-93a3-1d4320ab7ecf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Spring Native and Other Goodies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286401/chapter/html/315511_6_En_16_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286401/chapter/html/315511_6_En_16_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Powerful Command-Line Applications in Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509311/chapter/f_0130.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509311/chapter/f_0130.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Who’s This Book For",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650424/chapter/f_0008.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650424/chapter/f_0008.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Scala 3: A Functional and Object-Oriented Java Language",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274224/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274224/",
+      "isbn": "9781484274224",
+      "format": "book"
+    },
+    {
+      "title": "Who this book is for",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838647773/chapter/9eb9932d-9187-41e3-90e0-453137ad2522.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838647773/chapter/9eb9932d-9187-41e3-90e0-453137ad2522.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Swift's evolution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788625241/chapter/964fe089-25f6-427e-abef-f875942ce0c1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788625241/chapter/964fe089-25f6-427e-abef-f875942ce0c1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Vert.x in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295621/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295621/",
+      "isbn": "9781617295621",
+      "format": "book"
+    },
+    {
+      "title": "Beginning App Development with Flutter: Create Cross-Platform Mobile Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251812/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251812/",
+      "isbn": "9781484251812",
+      "format": "book"
+    },
+    {
+      "title": "Spring Boot 3.0 Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835089491/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835089491/",
+      "isbn": "9781835089491",
+      "format": "book"
+    },
+    {
+      "title": "What you need for this book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467041/chapter/040b79fb-7bc4-4b53-b5e5-47dd75723cc5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467041/chapter/040b79fb-7bc4-4b53-b5e5-47dd75723cc5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rust Brain Teasers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509564/chapter/f_0038.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509564/chapter/f_0038.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Web Development with Clojure, Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508833/chapter/f_0109.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508833/chapter/f_0109.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Spring Boot Quick Start",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292945/chapter/html/340891_3_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292945/chapter/html/340891_3_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Flutter App Development : How to Write for iOS and Android at Once",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804854/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804854/",
+      "isbn": "9798868804854",
+      "format": "book"
+    },
+    {
+      "title": "R2DBC Revealed: Reactive Relational Database Connectivity for Java and JVM Programmers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484269893/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484269893/",
+      "isbn": "9781484269893",
+      "format": "book"
+    },
+    {
+      "title": "The Ethereum client API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789954111/chapter/cf67a6af-e6a3-4d40-b88c-d90439ec372a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789954111/chapter/cf67a6af-e6a3-4d40-b88c-d90439ec372a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Help Your Boss Help You",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508871/chapter/f_0078.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508871/chapter/f_0078.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Your First Spring Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286371/chapter/html/323805_2_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286371/chapter/html/323805_2_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android Programming for Beginners – Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800563438/chapter/B16773_FM_ePub_RK.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800563438/chapter/B16773_FM_ePub_RK.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": ".NET MAUI Cross-Platform Application Development - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835080597/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835080597/",
+      "isbn": "9781835080597",
+      "format": "book"
+    },
+    {
+      "title": "A Common-Sense Guide to Data Structures and Algorithms in Python, Volume 1",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650776/chapter/f_0226.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650776/chapter/f_0226.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Native applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789537505/chapter/822105c0-4131-4089-893d-7a88cffbd79d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789537505/chapter/822105c0-4131-4089-893d-7a88cffbd79d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "jOOQ Masterclass",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800566897/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800566897/",
+      "isbn": "9781800566897",
+      "format": "book"
+    },
+    {
+      "title": "HealthCheck message",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788997829/chapter/3b4a93b4-53b5-490b-b4c6-9881ab157724.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788997829/chapter/3b4a93b4-53b5-490b-b4c6-9881ab157724.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Concurrent Data Processing in Elixir",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508956/chapter/f_0051.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508956/chapter/f_0051.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kick-starting applications using the Quarkus online application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838821470/chapter/26fc1db5-5b92-4d97-be39-b7cbc62c31ab.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838821470/chapter/26fc1db5-5b92-4d97-be39-b7cbc62c31ab.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pythonic Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509199/chapter/f_0118.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509199/chapter/f_0118.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Portable Python Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509526/chapter/f_0109.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509526/chapter/f_0109.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Getting to Know More of the Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275724/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275724/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Program Management for Open Source Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509939/chapter/f_0085.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509939/chapter/f_0085.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Serverless Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623445/chapter/8fc308e9-c9f8-47e4-ad9d-198c7a4cd900.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623445/chapter/8fc308e9-c9f8-47e4-ad9d-198c7a4cd900.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651421/chapter/f_0008.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651421/chapter/f_0008.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying to the Google Kubernetes Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284951/chapter/3145aee2-27c6-40ea-b9eb-79611c618742.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284951/chapter/3145aee2-27c6-40ea-b9eb-79611c618742.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker and serverless",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835268/chapter/0d87c4c9-160b-48cc-bb61-56c41312f005.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835268/chapter/0d87c4c9-160b-48cc-bb61-56c41312f005.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Common-Sense Guide to Data Structures and Algorithms in JavaScript, Volume 1",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651131/chapter/f_0226.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651131/chapter/f_0226.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Go Brain Teasers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509144/chapter/f_0039.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509144/chapter/f_0039.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pandas Brain Teasers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509113/chapter/f_0038.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509113/chapter/f_0038.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Different forms of mobile applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788999762/chapter/15f117d8-64a9-46c4-877a-bd5a2247d5e7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788999762/chapter/15f117d8-64a9-46c4-877a-bd5a2247d5e7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating SimpleLayout",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788475051/chapter/305487d8-f0a5-49a5-86c8-7d7c57b45651.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788475051/chapter/305487d8-f0a5-49a5-86c8-7d7c57b45651.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Case study on R3 Corda",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788473040/chapter/8e8b1e55-634f-4ae3-a556-1656a468e8a0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788473040/chapter/8e8b1e55-634f-4ae3-a556-1656a468e8a0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Where to from Here?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098111748/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098111748/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Agile Web Development with Rails 6",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507522/chapter/f_0131.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507522/chapter/f_0131.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Java Language and Ecosystem Recap",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244760/chapter/html/454149_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244760/chapter/html/454149_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Text Processing with JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650806/chapter/f_0003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650806/chapter/f_0003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. User Interface and User Experience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293287/chapter/html/517087_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293287/chapter/html/517087_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting things up",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992749/chapter/baf24b14-2445-4120-b054-106e4c6a5d88.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992749/chapter/baf24b14-2445-4120-b054-106e4c6a5d88.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Fixing Your Scrum",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507447/chapter/f_0117.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507447/chapter/f_0117.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming WebAssembly with Rust",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506846/chapter/f_0028.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506846/chapter/f_0028.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. OpenCV on the JavaVM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234655/chapter/html/459821_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234655/chapter/html/459821_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Decompiling and Disassembling Android Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484269145/chapter/html/509502_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484269145/chapter/html/509502_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is Rust and why should you care?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838828103/chapter/8e65d834-0c24-4a60-82ad-2307aa1a94a2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838828103/chapter/8e65d834-0c24-4a60-82ad-2307aa1a94a2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Estimation Without Guessing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507409/chapter/f_0103.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507409/chapter/f_0103.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern Systems Programming with Scala Native",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507485/chapter/f_0096.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507485/chapter/f_0096.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Design X-Rays",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505795/chapter/f_0070.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505795/chapter/f_0070.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Problems with polyglot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789131895/chapter/5cc86805-3746-4b53-ad32-1fbca18871a9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789131895/chapter/5cc86805-3746-4b53-ad32-1fbca18871a9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Flutter for Beginners",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837630387/chapter/B19529_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837630387/chapter/B19529_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Recap of Secure Development Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484216828/chapter/html/273312_2_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484216828/chapter/html/273312_2_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Effective Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805125532/chapter/B21625_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805125532/chapter/B21625_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19 The functional journey ahead",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296208/chapter/OEBPS/Text/ch19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296208/chapter/OEBPS/Text/ch19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering the Java Virtual Machine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835467961/chapter/B22030_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835467961/chapter/B22030_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing State in Flutter Pragmatically",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801070775/chapter/B17142_FM_Final_SB_epub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801070775/chapter/B17142_FM_Final_SB_epub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Clients for a Custom Binderized HAL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134096377/chapter/ch12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134096377/chapter/ch12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Big-Oh notation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281394/chapter/6c027321-932d-47db-8cae-ff6d538872c2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281394/chapter/6c027321-932d-47db-8cae-ff6d538872c2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 The “Rewrote It in X” pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436282/chapter/OEBPS/Text/09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436282/chapter/OEBPS/Text/09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Competing with Unicorns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507669/chapter/f_0096.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507669/chapter/f_0096.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud-Native Development and Migration to Jakarta EE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837639625/chapter/B19794_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837639625/chapter/B19794_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Domain-Driven Design with Golang",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804613450/chapter/B19042_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804613450/chapter/B19042_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deno Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800205666/chapter/B16380_FM_Final_JM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800205666/chapter/B16380_FM_Final_JM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring in Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805126638/chapter/B20912_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805126638/chapter/B20912_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Using TensorFlow Lite in Android Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492078180/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492078180/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Using AI in the Enterprise! Creating a Text Summarizer for Slack Messages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801167/chapter/html/607613_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801167/chapter/html/607613_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Jakarta EE and the Spring Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484256428/chapter/html/493447_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484256428/chapter/html/493447_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PostgreSQL as a component of a software solution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789535464/chapter/e53b6dc4-8f3e-4758-b37b-440586824635.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789535464/chapter/e53b6dc4-8f3e-4758-b37b-440586824635.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding the technical requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788478656/chapter/6b8f70e7-bc5a-4bc9-ae17-f967570fbc42.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788478656/chapter/6b8f70e7-bc5a-4bc9-ae17-f967570fbc42.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using a web interface for Spring Initializr",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127562/chapter/24071f5f-c346-492e-b86e-c6d63dcf6736.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127562/chapter/24071f5f-c346-492e-b86e-c6d63dcf6736.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cross-Platform UIs with Flutter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801810494/chapter/B17815_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801810494/chapter/B17815_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Enhancements from Java 9 Through Java 17",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484279632/chapter/html/323910_4_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484279632/chapter/html/323910_4_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Ruby 3.3",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650684/chapter/f_0275.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650684/chapter/f_0275.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Java 9 Additions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491973165/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491973165/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Create a New Worker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651452/chapter/f_0018.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651452/chapter/f_0018.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Creating a Hello World App",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119550822/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119550822/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. What Else Can You Do with Rust?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255995/chapter/html/484794_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255995/chapter/html/484794_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Gradle_Overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800562660/chapter/Gradle_Overview.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800562660/chapter/Gradle_Overview.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Week 8: Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484241974/chapter/html/473338_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484241974/chapter/html/473338_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Using a Technology Radar",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151850/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151850/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Introducing Java for Android Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266465/chapter/html/499629_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266465/chapter/html/499629_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build Websites with Hugo",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507904/chapter/f_0078.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507904/chapter/f_0078.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507706/chapter/f_0139.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507706/chapter/f_0139.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Flutter for Beginners Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800565999/chapter/B16942_FM_Final_SS_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800565999/chapter/B16942_FM_Final_SS_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other types of blockchain programmers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788627856/chapter/a0f5ae9c-f445-46a5-a985-b9980d8fb51d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788627856/chapter/a0f5ae9c-f445-46a5-a985-b9980d8fb51d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to do it...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788295963/chapter/3735f671-c9d8-41b5-90ed-e4f2422e2720.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788295963/chapter/3735f671-c9d8-41b5-90ed-e4f2422e2720.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B15339_02_ePub_SW",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839217647/chapter/B15339_02_ePub_SW.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839217647/chapter/B15339_02_ePub_SW.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Computer Vision Apps with ML Kit on Android",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098101732/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098101732/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build Location-Based Projects for iOS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508000/chapter/f_0063.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508000/chapter/f_0063.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "iOS 15 Programming for Beginners",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801811248/chapter/B17469_FM_Final_VK_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801811248/chapter/B17469_FM_Final_VK_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Common-Sense Guide to Data Structures and Algorithms, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508048/chapter/f_0226.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508048/chapter/f_0226.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. A Short History of Async Support in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492075325/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492075325/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Scala Language",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484231081/chapter/A456960_1_En_1_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484231081/chapter/A456960_1_En_1_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "SwiftUI Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234458/chapter/B17962_FM_Final_VK_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234458/chapter/B17962_FM_Final_VK_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Become an Effective Software Engineering Manager",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507867/chapter/f_0119.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507867/chapter/f_0119.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-Time Phoenix",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507744/chapter/f_0112.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507744/chapter/f_0112.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Full-Stack Web Development with TypeScript 5",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835885581/chapter/B22111_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835885581/chapter/B22111_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering iOS 14 Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838822842/chapter/B14717_FM_Final_ASB_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838822842/chapter/B14717_FM_Final_ASB_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How microservices talk to each other",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789957051/chapter/7561bb0b-8fef-4a2e-bca9-4442b2e00dc9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789957051/chapter/7561bb0b-8fef-4a2e-bca9-4442b2e00dc9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Technical Blogging, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507126/chapter/f_0016.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507126/chapter/f_0016.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Smartphone Application Software Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394172221/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394172221/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Java 9 Enhancements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484219751/chapter/A323910_3_En_2_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484219751/chapter/A323910_3_En_2_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Implementing consumer-driven contract testing for mobile clients",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437241/chapter/Text/chapter-5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437241/chapter/Text/chapter-5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern full-stack web development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788476317/chapter/36212f7a-826b-44b1-8564-7666a7b27bc4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788476317/chapter/36212f7a-826b-44b1-8564-7666a7b27bc4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Android Accessibility Model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258149/chapter/html/486920_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258149/chapter/html/486920_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Design and Build Great Web APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508123/chapter/f_0134.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508123/chapter/f_0134.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Introducing Spring Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484250525/chapter/html/310331_2_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484250525/chapter/html/310331_2_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Customizing configuration files",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788475433/chapter/de430260-059f-42f0-86bb-5f4669559bee.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788475433/chapter/de430260-059f-42f0-86bb-5f4669559bee.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Event-Driven Microservices Architecture in .NET 7",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803232782/chapter/B17973_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803232782/chapter/B17973_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Security and Careers—Application Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284206173/chapter/xhtml/9781284236361_CH15_02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284206173/chapter/xhtml/9781284236361_CH15_02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Angular Follows Common and Familiar Enterprise Patterns and Conventions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492030294/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492030294/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Implementing Mobile Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836644934/chapter/11_001.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836644934/chapter/11_001.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Genetic Algorithms in Elixir",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508291/chapter/f_0103.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508291/chapter/f_0103.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating Your First Flutter App",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803245430/chapter/Text/Chapter_02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803245430/chapter/Text/Chapter_02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting started",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463784/chapter/110d3def-ed13-4018-815f-e531f2f81b1a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463784/chapter/110d3def-ed13-4018-815f-e531f2f81b1a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Starting the first project: Sub' Hunter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788839150/chapter/ch01s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788839150/chapter/ch01s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Venkat_Subramaniam",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138740/chapter/Text/Venkat_Subramaniam.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138740/chapter/Text/Venkat_Subramaniam.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Welcome to Quarkus",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484260326/chapter/html/493703_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484260326/chapter/html/493703_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Running Automated Tests with Azure Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394165889/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394165889/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The monolithic architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468390/chapter/a4255308-64b6-4cc7-b4ee-d9131dabf9af.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468390/chapter/a4255308-64b6-4cc7-b4ee-d9131dabf9af.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Developing a pragmatic learning strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299742/chapter/OEBPS/Text/ch01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299742/chapter/OEBPS/Text/ch01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. WebAssembly and Other Languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492089834/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492089834/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Introducing .NET MAUI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439405/chapter/OEBPS/Text/01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439405/chapter/OEBPS/Text/01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Security Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804618851/chapter/B19178_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804618851/chapter/B19178_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "23.6 IoT from the Developer’s Perspective",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836647355/chapter/23_006.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836647355/chapter/23_006.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18 Creating Mobile Applications with JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836642237/chapter/18_001.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836642237/chapter/18_001.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python in Comparison with Other Languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801071109/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801071109/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. NEO Blockchain and Smart Contracts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484248478/chapter/html/475651_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484248478/chapter/html/475651_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Traits as interfaces",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295270/chapter/OEBPS/Text/12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295270/chapter/OEBPS/Text/12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Know the Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249826/chapter/html/479501_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249826/chapter/html/479501_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Functional Exception Handling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098109912/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098109912/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Why React Native?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805127307/chapter/Chapter_15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805127307/chapter/Chapter_15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. OAuth for Native Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164874/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164874/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Mobile Solutions Architecture (Phase H) Resource Base",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274040/chapter/html/506675_1_En_19_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274040/chapter/html/506675_1_En_19_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Preparing Your Development Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484237786/chapter/html/463938_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484237786/chapter/html/463938_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modernization Using AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806117154/chapter/Text/05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806117154/chapter/Text/05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. SOFTWARE TOOLS TO SUPPORT DIGITAL SOLUTION DELIVERY",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780177137/chapter/html/27_ch12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780177137/chapter/html/27_ch12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: March 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098170820/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098170820/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 The Role of Semantic Hybrid Multi-Model Multi-Platform (SHM3P) Databases for IoT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786307644/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786307644/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Using ChatGPT for Code Generation in Computer Programs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295298/chapter/html/605328_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295298/chapter/html/605328_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Packaging app for various platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111294070/chapter/content/9783111293196_025429.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111294070/chapter/content/9783111293196_025429.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Toward the Workspaces Where New Curiosities Take You",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286807/chapter/html/532400_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286807/chapter/html/532400_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Setting up a Local Development Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484256664/chapter/html/300017_2_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484256664/chapter/html/300017_2_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Putting Raku to Use in a Real-World Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262580/chapter/html/462588_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262580/chapter/html/462588_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Host Platform Interoperability with Java and JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838825485/chapter/B14502_09_Final_RK.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838825485/chapter/B14502_09_Final_RK.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting Up the Environment and Tools – Backend",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805122463/chapter/Text/Chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805122463/chapter/Text/Chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Peeking into SwiftUI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255162/chapter/html/487240_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255162/chapter/html/487240_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Viva Learning for Administrators",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484285909/chapter/html/518337_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484285909/chapter/html/518337_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. What to Learn",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297957/chapter/html/606766_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297957/chapter/html/606766_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 API gateway and circuit breakers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298424/chapter/OEBPS/Text/09.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298424/chapter/OEBPS/Text/09.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Visiting .NET MAUI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835465912/chapter/Text/Chapter_18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835465912/chapter/Text/Chapter_18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Selecting a Deep Learning Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491995075/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491995075/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Native Bridging in React Native",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244548/chapter/html/346704_2_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244548/chapter/html/346704_2_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Java Virtual Machine and Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048299/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048299/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Welcome to jOOQ",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274316/chapter/html/500754_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274316/chapter/html/500754_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. More About Type Hints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056348/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056348/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Building Native Images with GraalVM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813009/chapter/html/625177_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813009/chapter/html/625177_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Activities and Layouts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484231562/chapter/html/457413_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484231562/chapter/html/457413_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Method – constraint solvers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992879/chapter/ch02s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992879/chapter/ch02s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Mobile Back End",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484250679/chapter/html/472721_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484250679/chapter/html/472721_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with gRPC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801079310/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801079310/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Authentication and Authorization Using Azure Active Directory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282519/chapter/html/523943_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282519/chapter/html/523943_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Building a Decentralized Data Team",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098130718/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098130718/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Records and Record Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837633944/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837633944/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Data Storage Design Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098165826/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098165826/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Are we there yet?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297441/chapter/OEBPS/Text/12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297441/chapter/OEBPS/Text/12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Evolving a Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836208570/chapter/Text/Chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836208570/chapter/Text/Chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "OAuth 2.0 and OIDC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801810845/chapter/B17727_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801810845/chapter/B17727_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Backend: What’s Underwater",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289693/chapter/html/531518_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289693/chapter/html/531518_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Specification Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491923283/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491923283/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B12346_01_Final_JC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805864/chapter/B12346_01_Final_JC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805864/chapter/B12346_01_Final_JC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Where to go from here",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436626/chapter/Text/chapter-12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436626/chapter/Text/chapter-12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Telemetry Management with Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076438/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076438/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "SwiftUI Concurrency with async await",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805121732/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805121732/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Web Security for Developers: Real Threats, Practical Defense",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098122683/chapter/xhtml/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098122683/chapter/xhtml/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. What Is MongoDB?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295502/chapter/html/523701_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295502/chapter/html/523701_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Preparing for Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098109998/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098109998/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Learning functional programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617291838/chapter/OEBPS/Text/01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617291838/chapter/OEBPS/Text/01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Introducing C# and .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298028/chapter/OEBPS/Text/01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298028/chapter/OEBPS/Text/01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Injecting failure into the JVM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297755/chapter/OEBPS/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297755/chapter/OEBPS/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Source Code Observability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492073918/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492073918/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Designing a Chat Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146887/chapter/ch19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146887/chapter/ch19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3.4 Deploying Keras Models to Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837025879/chapter/xhtml/xhtml-0-29.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837025879/chapter/xhtml/xhtml-0-29.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Architect Your Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098120344/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098120344/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Advanced AWS Lambda",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492041047/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492041047/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 THE FUTURE OF ANDROID MALWARE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168575/chapter/xhtml/ch12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168575/chapter/xhtml/ch12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. GitHub Copilot Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803697/chapter/html/611044_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803697/chapter/html/611044_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. The UX Design Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295762/chapter/html/535870_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295762/chapter/html/535870_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Understanding Spring Boot and Spring MVC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298691/chapter/Text/ch07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298691/chapter/Text/ch07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Introducing functional programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299827/chapter/OEBPS/Text/Ch-01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299827/chapter/OEBPS/Text/Ch-01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The World of Vaadin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271797/chapter/html/506498_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271797/chapter/html/506498_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Observing operations from the REST angle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438149/chapter/Text/chapter-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438149/chapter/Text/chapter-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Tools, Frameworks, and Libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281420/chapter/html/525090_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281420/chapter/html/525090_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 The Jobs Driving the Future of Work",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119839293/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119839293/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Spring Batch 101",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484237243/chapter/html/215885_2_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484237243/chapter/html/215885_2_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. How to Choose the Platform for Your Mobile App?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484294765/chapter/html/533477_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484294765/chapter/html/533477_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Serverless and OpenWhisk Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492046158/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492046158/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Schemas and Data Contracts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622180/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622180/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Given a Scenario, Implement Security in the Early Stages of the Systems Life Cycle and Throughout Subsequent Stages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836640974/chapter/Text/07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836640974/chapter/Text/07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Rust’s basic building blocks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437463/chapter/OEBPS/Text/chapter-2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437463/chapter/OEBPS/Text/chapter-2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 The Dynamics of Disintermediation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786304032/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786304032/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Cross-Platform Mobile Apps Using Xamarin.Forms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788478120/chapter/Text/building_cross-platform_mobile_apps_using_xamarin.forms.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788478120/chapter/Text/building_cross-platform_mobile_apps_using_xamarin.forms.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130515/chapter/ch04s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130515/chapter/ch04s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Large language model applications: Building an interactive experience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437203/chapter/Text/chapter-8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437203/chapter/Text/chapter-8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Building with Modern Spring, Java, and PostgreSQL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289921/chapter/html/511062_1_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289921/chapter/html/511062_1_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Lifetimes, ownership, and borrowing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294556/chapter/Text/04.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294556/chapter/Text/04.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Functional Programming Techniques: Functional Interfaces, Streams, and Parallel Collections",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492072577/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492072577/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting Started: Diving In",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491974049/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491974049/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 F# Syntax Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439535/chapter/OEBPS/Text/03.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439535/chapter/OEBPS/Text/03.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Fine-Grained Access Through Attribute-Based Encryption for Fog Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394174614/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394174614/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. AI, LLMs, and Jakarta EE: The Next Frontier",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813962/chapter/html/531256_2_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813962/chapter/html/531256_2_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21 Technologies for the 21st Century",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492090298/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492090298/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enterprise Blockchain",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803241067/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803241067/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Software Design and Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805431/chapter/html/627148_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805431/chapter/html/627148_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Native Compiled Java Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801072977/chapter/Text/Chapter_23.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801072977/chapter/Text/Chapter_23.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a Set of Cooperating Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128694/chapter/Text/Chapter_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128694/chapter/Text/Chapter_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Work Analysis-based Job Descriptions: The Secret to Finding the Right Startup Talent at the Right Time",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040017647/chapter/ch2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040017647/chapter/ch2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Testing LDAP Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800023/chapter/html/319409_2_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800023/chapter/html/319409_2_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rupa Ch, Divya Midhun Chakkarvarthy Web-Based Knowledge Management Distributed Application for Medical Certificates Using Blockchain Technology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110722932/chapter/content/9783110722642_012159.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110722932/chapter/content/9783110722642_012159.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Technical Stabilization of Legacy Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341640108/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341640108/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Planning a Migration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492047834/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492047834/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Building RESTful APIs with Spring Boot (Java)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803093/chapter/html/617304_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803093/chapter/html/617304_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Platform Usage Tips",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098171292/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098171292/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Distributed Ledger Technology in the Construction Industry Using Corda",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119824473/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119824473/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Cross-Platform Mobile Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800568105/chapter/Text/Chapter_21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800568105/chapter/Text/Chapter_21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. A Modern Language",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098145521/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098145521/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Path to Cloud Native Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098102135/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098102135/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Software Development, Testing, and Maintenance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169961/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169961/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Practical Applications of C# and .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801077361/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801077361/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Mobile and Desktop Apps Using .NET MAUI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837637133/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837637133/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Using Azure Applied AI Services for Common Scenarios",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108038/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108038/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Communicating with MongoDB",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436077/chapter/OEBPS/Text/chapter-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436077/chapter/OEBPS/Text/chapter-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Learning any developer skill",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438071/chapter/OEBPS/Text/04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438071/chapter/OEBPS/Text/04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Modern Web Development Using .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835881224/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835881224/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21 Running serverless functions in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297984/chapter/Text/21.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297984/chapter/Text/21.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Good Influence at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098118723/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098118723/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Reflection, code generation, and advanced Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436886/chapter/Text/chapter-13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436886/chapter/Text/chapter-13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Mobile Apps Powered by WordPress",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491990070/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491990070/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mobile Accessibility: Designing for Touch and Voice Interfaces",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835888223/chapter/Text/08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835888223/chapter/Text/08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding JIT Compilation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492039259/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492039259/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Career Advice and the Path Forward",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098102920/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098102920/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Extending the Bank Statements Analyzer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491967164/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491967164/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24 Implementing Generative AI Use Cases with ChatGPT for the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213054/chapter/c24.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213054/chapter/c24.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Technology Trends for 2022",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492096757/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492096757/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Deploying your game to players’ devices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299339/chapter/OEBPS/Text/C013.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299339/chapter/OEBPS/Text/C013.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Shazam for Food: Developing Android Apps with TensorFlow Lite and ML Kit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492034858/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492034858/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 WebAssembly interface for refactoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299018/chapter/Text/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299018/chapter/Text/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Object-Oriented Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801077262/chapter/Text/Chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801077262/chapter/Text/Chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Misusing Data Structures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138320997/chapter/ch07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138320997/chapter/ch07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Technology in Supply Chain Management and Logistics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128162811/chapter/xhtml/chp004.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128162811/chapter/xhtml/chp004.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Make code modular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298936/chapter/OEBPS/Text/Ch-08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298936/chapter/OEBPS/Text/Ch-08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Loosely coupled software architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438156/chapter/OEBPS/Text/12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438156/chapter/OEBPS/Text/12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Modern Language",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056263/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056263/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Executing SQL queries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437258/chapter/Text/chapter-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437258/chapter/Text/chapter-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Intro, Test-Driving a Java Application, and Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137574834/chapter/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137574834/chapter/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Working with the JIT Compiler",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056102/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056102/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Tools and Skills for .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837635207/chapter/Text/Chaoter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837635207/chapter/Text/Chaoter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Analyzing Android Malware Samples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789610789/chapter/535fdf74-8187-4fcd-aff5-d8a03d0ae51f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789610789/chapter/535fdf74-8187-4fcd-aff5-d8a03d0ae51f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Functions, Objects, and Beyond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258330/chapter/html/485799_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258330/chapter/html/485799_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Synchronous APIs for concurrency",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299896/chapter/Text/chapter-6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299896/chapter/Text/chapter-6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Software Development Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800573/chapter/html/604381_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800573/chapter/html/604381_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Software Efficiency Matters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098105709/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098105709/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Apps and Services with .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801813433/chapter/Text/Chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801813433/chapter/Text/Chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 From examples to executable specifications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297533/chapter/OEBPS/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297533/chapter/OEBPS/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 A CHERRY-PICKED REVIEW OF PROGRAMMING LANGUAGES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098141363/chapter/xhtml/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098141363/chapter/xhtml/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. How to Model Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492034018/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492034018/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Cloud Application Clients",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098116897/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098116897/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mining GitHub: Inspecting Software Collaboration Habits, Building Interest Graphs, and More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491973547/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491973547/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Spring Projects: Batch, Integration, XD, and More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484228081/chapter/A315511_5_En_18_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484228081/chapter/A315511_5_En_18_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Mining GitHub: Inspecting Software Collaboration Habits, Building Interest Graphs, and More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449368180/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449368180/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Learn Python Basics on Windows",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801464/chapter/html/492721_2_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801464/chapter/html/492721_2_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

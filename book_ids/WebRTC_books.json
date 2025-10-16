@@ -1,0 +1,623 @@
+{
+  "skill_name": "webrtc",
+  "discovery_timestamp": 1759715103.5962396,
+  "total_books": 88,
+  "books": [
+    {
+      "title": "Programming WebRTC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651100/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651100/",
+      "isbn": "9781680509038",
+      "format": "book"
+    },
+    {
+      "title": "Real-Time Communication with WebRTC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449371869/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449371869/",
+      "isbn": "9781449371876",
+      "format": "book"
+    },
+    {
+      "title": "Learning WebRTC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783983667/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783983667/",
+      "isbn": "9781783983667",
+      "format": "book"
+    },
+    {
+      "title": "WebRTC Integrator's Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783981267/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783981267/",
+      "isbn": "9781783981267",
+      "format": "book"
+    },
+    {
+      "title": "WebRTC concepts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785889134/chapter/0f528a95-d177-4541-8c53-6d24c00923e8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785889134/chapter/0f528a95-d177-4541-8c53-6d24c00923e8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "History of WebRTC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293969/chapter/6701e6dc-82bc-4651-a204-dfca29357119.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293969/chapter/6701e6dc-82bc-4651-a204-dfca29357119.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "New frontiers of VoIP encryption (WebRTC, WebSockets, DTLS)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784398880/chapter/ch04s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784398880/chapter/ch04s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "WebRTC applications using PeerJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125919/chapter/ch26s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125919/chapter/ch26s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing WebRTC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783985692/chapter/ch07s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783985692/chapter/ch07s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding Real-Time Communications with WebRTC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118421444/chapter/c28-anchor-8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118421444/chapter/c28-anchor-8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JavaScript with Promises",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491930779/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491930779/",
+      "isbn": "9781491930779",
+      "format": "book"
+    },
+    {
+      "title": "Setting up recordrtc",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788626613/chapter/59c06aa9-0b57-4882-a3ce-0dda2f3642bc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788626613/chapter/59c06aa9-0b57-4882-a3ce-0dda2f3642bc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Key Concepts And Terms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284206173/chapter/xhtml/9781284236361_CH14_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284206173/chapter/xhtml/9781284236361_CH14_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Media Interaction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457172489/chapter/advanced_media_interaction.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457172489/chapter/advanced_media_interaction.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Streaming audio",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880865/chapter/ch07s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880865/chapter/ch07s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hacking Exposed Unified Communications & VoIP Security Secrets & Solutions, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071798761/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071798761/",
+      "isbn": "9780071798778",
+      "format": "book"
+    },
+    {
+      "title": "AI Processing and Automatic Editing for Real-Time Video",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098167585/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098167585/",
+      "isbn": "9781098167578",
+      "format": "book"
+    },
+    {
+      "title": "Modern APIs require HTTPS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125421/chapter/7f5d48cf-0aba-4640-8f24-da9799278ce9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125421/chapter/7f5d48cf-0aba-4640-8f24-da9799278ce9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding Crosswalk browser",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785286056/chapter/22afc03c-a76d-4d1d-92f9-a3b530afa0c6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785286056/chapter/22afc03c-a76d-4d1d-92f9-a3b530afa0c6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787285965/chapter/4a5c9938-19bd-470e-87ad-667d9882fc1a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787285965/chapter/4a5c9938-19bd-470e-87ad-667d9882fc1a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a Screen Capturer with NW.js: Enhancement, Tooling, and Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788295697/chapter/51587225-9287-49a9-a2d6-1e4091ad7654.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788295697/chapter/51587225-9287-49a9-a2d6-1e4091ad7654.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Server-Driven Web Apps with htmx",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651193/chapter/f_0083.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651193/chapter/f_0083.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785283079/chapter/pr05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785283079/chapter/pr05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 A Novel Live Streaming Platform Using Cloud Front Technology: Proof of Concept for Real Time Concerts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000465280/chapter/html/ch17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000465280/chapter/html/ch17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern Asynchronous JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509267/chapter/f_0003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509267/chapter/f_0003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern Front-End Development for Rails",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508758/chapter/f_0003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508758/chapter/f_0003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Common-Sense Guide to Data Structures and Algorithms in JavaScript, Volume 1",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651131/chapter/f_0226.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651131/chapter/f_0226.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enabling Secure Real-time Protocol",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785280610/chapter/ch13s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785280610/chapter/ch13s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern Front-End Development for Rails, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509977/chapter/f_0003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509977/chapter/f_0003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Text Processing with JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650806/chapter/f_0003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650806/chapter/f_0003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuring the Qt build",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789952063/chapter/4d31f8df-e0ba-49df-b7a6-e2eb2eafa72e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789952063/chapter/4d31f8df-e0ba-49df-b7a6-e2eb2eafa72e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "I. System Design Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146887/chapter/part01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146887/chapter/part01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Teams and Virtual Machines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098133030/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098133030/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is OpenCV.js?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789533576/chapter/68e90017-fb0f-4211-848c-003f25ec4e97.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789533576/chapter/68e90017-fb0f-4211-848c-003f25ec4e97.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Familienangehörige spielerisch zusammenführen - Systemkonzept",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110435580/chapter/xhtml/Ch84.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110435580/chapter/xhtml/Ch84.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Enhancing User Experience with JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782161844/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782161844/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Implementing a Dialogflow Voice Agent in Your Website or App Using the SDK",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270141/chapter/html/506047_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270141/chapter/html/506047_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Multimedia Packet Capture and Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290019/chapter/html/531859_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290019/chapter/html/531859_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Abbreviations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128036006/chapter/xhtml/List_of_Abbreviations.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128036006/chapter/xhtml/List_of_Abbreviations.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Integrating with Other Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449332679/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449332679/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Other Browser Mechanisms of Note",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593273880/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593273880/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Processing webcam images in real time from the notebook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783284818/chapter/ch03s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783284818/chapter/ch03s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "27. Asterisk: A Future for Telephony",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449332433/chapter/ch27.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449332433/chapter/ch27.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Screen to Screen Selling: How to Increase Sales, Productivity, and Customer Experience with the Latest Technology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071848183/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071848183/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Native Side of the Web",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491912546/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491912546/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Streamlit Power Users",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248226/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248226/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Modern Web Integration Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265284/chapter/html/499768_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265284/chapter/html/499768_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Technologies and Architectures for Future IP Television Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119397915/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119397915/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. All About Hybrid Mobile Apps and Ionic Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293112/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293112/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Interaction Flow Modeling Language",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128001080/chapter/XHTML/B9780128001080180014/B9780128001080180014.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128001080/chapter/XHTML/B9780128001080180014/B9780128001080180014.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Open-Source Tools, Platforms, and Environment for Building Metaverse",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394272198/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394272198/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-Time Updates with SignalR",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805129936/chapter/Text/Chapter_14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805129936/chapter/Text/Chapter_14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Microsoft Teams Client-Side Troubleshooting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286227/chapter/html/522996_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286227/chapter/html/522996_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Running TypeScript in a Browser",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484232491/chapter/A323824_2_En_6_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484232491/chapter/A323824_2_En_6_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Delivering Effective Social Customer Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118662670/chapter/18_index.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118662670/chapter/18_index.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Building a Salesforce-Powered Call Center",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270745/chapter/html/511413_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270745/chapter/html/511413_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What’s Next for PWAs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491961643/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491961643/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Browser Hacker's Handbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118662090/chapter/12_chapter05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118662090/chapter/12_chapter05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 CoRePooL—Corpus for Resource-Poor Languages: Badaga Speech Corpus",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213580/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213580/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Install and Configure Apps on a Session Host",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280638/chapter/html/523068_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280638/chapter/html/523068_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Web Browser Forensics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801938/chapter/html/605352_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801938/chapter/html/605352_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Future Fictions Around the Principles of Interaction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042761/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042761/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Media over Network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394239627/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394239627/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. AI and Collaboration: Building Bridges, Not Walls",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138293703/chapter/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138293703/chapter/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Foundations of AI and ML in Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394305223/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394305223/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Horizon Computer GPO Settings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272619/chapter/html/498755_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272619/chapter/html/498755_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Accessing Cloud PCs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836206712/chapter/Text/Chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836206712/chapter/Text/Chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of acronyms and abbreviations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110681208/chapter/content/glossary.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110681208/chapter/content/glossary.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Architectures for Streaming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151607/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151607/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Getting From Here to There: A Roadmap",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484220474/chapter/A416110_1_En_15_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484220474/chapter/A416110_1_En_15_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Security Protocol for Multimedia Streaming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119555643/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119555643/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Networking and Multiplayer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813993/chapter/html/633558_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813993/chapter/html/633558_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Essential Guide to Telecommunications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134507811/chapter/ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134507811/chapter/ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Modern Web APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244487/chapter/html/470914_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244487/chapter/html/470914_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 A Short History of the Internet",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394262410/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394262410/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Unleashed Skype for Business",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134289274/chapter/ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134289274/chapter/ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. A Hall of Mirrors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274743/chapter/html/514009_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274743/chapter/html/514009_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Enhanced Framework for Energy Conservation and Overcoming Security Threats for Software-Defined Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000511987/chapter/html/ch19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000511987/chapter/html/ch19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Configuring and Managing Chromebooks via Policy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484237663/chapter/html/461300_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484237663/chapter/html/461300_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Digital Twin Technology: Necessity of the Future in Education and Beyond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213597/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213597/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Browsing with Chrome",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134382319/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134382319/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Past, Present, and Future of JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449343545/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449343545/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 MAPPING CODE TO ATTACK SURFACE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341655140/chapter/xhtml/ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341655140/chapter/xhtml/ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Working with the Cordova APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133521832/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133521832/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Digital Forensics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119262381/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119262381/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 The strategic innovation system – multi-case analyses in high-tech companies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000917864/chapter/xhtml/ch06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000917864/chapter/xhtml/ch06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. The Trouble with Distributed Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098119058/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098119058/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JavaScript in Web Browsers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491952016/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491952016/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

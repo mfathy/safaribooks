@@ -1,0 +1,4347 @@
+{
+  "skill_name": "kubernetes",
+  "discovery_timestamp": 1759707565.6484613,
+  "total_books": 620,
+  "books": [
+    {
+      "title": "The Kubernetes Book - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835880302/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835880302/",
+      "isbn": "9781835880302",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes: Up and Running, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098110192/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098110192/",
+      "isbn": "9781098110208",
+      "format": "book"
+    },
+    {
+      "title": "The Kubernetes Bible - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835464717/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835464717/",
+      "isbn": "9781835464717",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes for Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297175/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297175/",
+      "isbn": "9781617297175",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes – An Enterprise Guide - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835086957/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835086957/",
+      "isbn": "9781835086957",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Patterns, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098131678/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098131678/",
+      "isbn": "9781098131685",
+      "format": "book"
+    },
+    {
+      "title": "Platform Engineering on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299322/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299322/",
+      "isbn": "9781617299322",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617293726/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617293726/",
+      "isbn": "9781617293726",
+      "format": "book"
+    },
+    {
+      "title": "Implementing GitOps with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835884225/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835884225/",
+      "isbn": "9781835884225",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Elastic Kubernetes Service on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803231211/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803231211/",
+      "isbn": "9781803231211",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Best Practices, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142155/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142155/",
+      "isbn": "9781098142162",
+      "format": "book"
+    },
+    {
+      "title": "Acing the Certified Kubernetes Administrator Exam",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439092/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439092/",
+      "isbn": "9781633439092",
+      "format": "book"
+    },
+    {
+      "title": "The Book of Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098141394/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098141394/",
+      "isbn": "9781718502642",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Everywhere: Managing Professional Kubernetes Clusters and Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137944040/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137944040/",
+      "isbn": "9780137944040",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native DevOps with Kubernetes, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098116811/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098116811/",
+      "isbn": "9781098116828",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Kubernetes - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804611395/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804611395/",
+      "isbn": "9781804611395",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Programming with Go: Programming Kubernetes Clients and Operators Using Go and the Kubernetes API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290262/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290262/",
+      "isbn": "9781484290262",
+      "format": "book"
+    },
+    {
+      "title": "Core Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297557/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297557/",
+      "isbn": "9781617297557",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Cookbook, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142230/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142230/",
+      "isbn": "9781098142247",
+      "format": "book"
+    },
+    {
+      "title": "The Kubernetes Book - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805806639/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805806639/",
+      "isbn": "9781805806639",
+      "format": "book"
+    },
+    {
+      "title": "Deploy Container Applications Using Kubernetes: Implementations with microk8s and AWS EKS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292778/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292778/",
+      "isbn": "9781484292778",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Fundamentals: A Step-by-Step Development and Interview Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297292/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297292/",
+      "isbn": "9781484297292",
+      "format": "book"
+    },
+    {
+      "title": "Learn Kubernetes in a Month of Lunches",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297984/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297984/",
+      "isbn": "9781617297984",
+      "format": "book"
+    },
+    {
+      "title": "The Kubernetes Bible",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838827694/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838827694/",
+      "isbn": "9781838827694",
+      "format": "book"
+    },
+    {
+      "title": "Hacking Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492081722/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492081722/",
+      "isbn": "9781492081739",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Secrets Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298912/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298912/",
+      "isbn": "9781617298912",
+      "format": "book"
+    },
+    {
+      "title": "Quick Start Kubernetes - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836208655/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836208655/",
+      "isbn": "9781836208655",
+      "format": "book"
+    },
+    {
+      "title": "The Kubernetes Operator Framework Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803232850/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803232850/",
+      "isbn": "9781803232850",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Anti-Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835460689/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835460689/",
+      "isbn": "9781835460689",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Security and Observability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098107093/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098107093/",
+      "isbn": "9781098107109",
+      "format": "book"
+    },
+    {
+      "title": "What Is Crossplane?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146306/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146306/",
+      "isbn": "9781098146290",
+      "format": "book"
+    },
+    {
+      "title": "Certified Kubernetes Administrator (CKA) Exam Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803238265/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803238265/",
+      "isbn": "9781803238265",
+      "format": "book"
+    },
+    {
+      "title": "Cluster API and Declarative Kubernetes Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098126865/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098126865/",
+      "isbn": "9781098126858",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Operators",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048039/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048039/",
+      "isbn": "9781492048046",
+      "format": "book"
+    },
+    {
+      "title": "Programming Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492047094/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492047094/",
+      "isbn": "9781492047100",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Secrets Handbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805123224/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805123224/",
+      "isbn": "9781805123224",
+      "format": "book"
+    },
+    {
+      "title": "Hands-on Kubernetes on Azure - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801079945/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801079945/",
+      "isbn": "9781801079945",
+      "format": "book"
+    },
+    {
+      "title": "Learn Kubernetes Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839216503/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839216503/",
+      "isbn": "9781839216503",
+      "format": "book"
+    },
+    {
+      "title": "Extending Kubernetes: Elevate Kubernetes with Extension Patterns, Operators, and Plugins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270950/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270950/",
+      "isbn": "9781484270950",
+      "format": "book"
+    },
+    {
+      "title": "Leveraging Kustomize for Kubernetes Manifests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098117078/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098117078/",
+      "isbn": "9781098117061",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes: Up and Running, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492046523/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492046523/",
+      "isbn": "9781492046486",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes in Production Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800202450/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800202450/",
+      "isbn": "9781800202450",
+      "format": "book"
+    },
+    {
+      "title": "Managing Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492033905/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492033905/",
+      "isbn": "9781492033912",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492050278/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492050278/",
+      "isbn": "9781492050230",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Autoscaling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836643838/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836643838/",
+      "isbn": "9781836643838",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Platform Development with Kubernetes: Enabling Data Management, the Internet of Things, Blockchain, and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484256114/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484256114/",
+      "isbn": "9781484256114",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056461/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056461/",
+      "isbn": "9781492056478",
+      "format": "book"
+    },
+    {
+      "title": "Modern App Deployment with Azure Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135442494/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135442494/",
+      "isbn": "9780135442494",
+      "format": "book"
+    },
+    {
+      "title": "Road to Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438200/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438200/",
+      "isbn": "9781633438200",
+      "format": "book"
+    },
+    {
+      "title": "Certified Kubernetes Administrator Study Companion : Preparing for the Linux Foundation's CKA Exam",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815133/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815133/",
+      "isbn": "9798868815133",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Native Development: Develop, Build, Deploy, and Run Applications on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484279427/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484279427/",
+      "isbn": "9781484279427",
+      "format": "book"
+    },
+    {
+      "title": "Learning Kubernetes Security - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835886380/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835886380/",
+      "isbn": "9781835886380",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Recipes: A Practical Guide for Container Orchestration and Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813252/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813252/",
+      "isbn": "9798868813252",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native DevOps with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492040750/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492040750/",
+      "isbn": "9781492040712",
+      "format": "book"
+    },
+    {
+      "title": "Container Storage and Data Protection for Applications on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098127022/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098127022/",
+      "isbn": "9781098127015",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes – An Enterprise Guide - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803230030/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803230030/",
+      "isbn": "9781803230030",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Kubernetes - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839211256/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839211256/",
+      "isbn": "9781839211256",
+      "format": "book"
+    },
+    {
+      "title": "Knative Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492061182/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492061182/",
+      "isbn": "9781492061199",
+      "format": "book"
+    },
+    {
+      "title": "The Kubernetes Workshop",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838820756/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838820756/",
+      "isbn": "9781838820756",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491979679/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491979679/",
+      "isbn": "9781491979631",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes: Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491935668/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491935668/",
+      "isbn": "9781491935675",
+      "format": "book"
+    },
+    {
+      "title": "Pro Google Kubernetes Engine: Network, Security, Monitoring, and Automation Configuration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262436/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262436/",
+      "isbn": "9781484262436",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Kubernetes on Windows",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838821562/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838821562/",
+      "isbn": "9781838821562",
+      "format": "book"
+    },
+    {
+      "title": "Extending Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057406/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057406/",
+      "isbn": "9781492057390",
+      "format": "book"
+    },
+    {
+      "title": "kubectl: Command-Line Kubernetes in a Nutshell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800561878/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800561878/",
+      "isbn": "9781800561878",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Kubernetes - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788999786/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788999786/",
+      "isbn": "9781788999786",
+      "format": "book"
+    },
+    {
+      "title": "Azure Arc Enabled Kubernetes for Multicloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098102647/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098102647/",
+      "isbn": "9781098102630",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390071/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390071/",
+      "isbn": "9781788390071",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Cookbook, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837606/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837606/",
+      "isbn": "9781788837606",
+      "format": "book"
+    },
+    {
+      "title": "The Complete Kubernetes Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838647346/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838647346/",
+      "isbn": "9781838647346",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Kubernetes on Azure - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800209671/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800209671/",
+      "isbn": "9781800209671",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes in the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043270/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043270/",
+      "isbn": "9781492043263",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes for Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834759/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834759/",
+      "isbn": "9781788834759",
+      "format": "book"
+    },
+    {
+      "title": "Overcoming Infrastructure Obstacles When Deploying Production-Ready Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492092438/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492092438/",
+      "isbn": "9781492092421",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Kubernetes on Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536102/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536102/",
+      "isbn": "9781789536102",
+      "format": "book"
+    },
+    {
+      "title": "Managing Kubernetes Performance at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492053552/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492053552/",
+      "isbn": "9781492053545",
+      "format": "book"
+    },
+    {
+      "title": "Production Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492092292/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492092292/",
+      "isbn": "9781492092308",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786461001/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786461001/",
+      "isbn": "9781786461001",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes for Serverless Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788620376/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788620376/",
+      "isbn": "9781788620376",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Management Design Patterns: With Docker, CoreOS Linux, and Other Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484225981/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484225981/",
+      "isbn": "9781484225981",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048718/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048718/",
+      "isbn": "9781491931875",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes for Java Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491998571/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491998571/",
+      "isbn": "9781491973288",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Azure Kubernetes Service: A Practical Guide to Container Orchestration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255193/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255193/",
+      "isbn": "9781484255193",
+      "format": "book"
+    },
+    {
+      "title": "Quick Start Kubernetes - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837026210/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837026210/",
+      "isbn": "9781837026210",
+      "format": "book"
+    },
+    {
+      "title": "Networking and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492081647/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492081647/",
+      "isbn": "9781492081654",
+      "format": "book"
+    },
+    {
+      "title": "The KCNA Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835080399/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835080399/",
+      "isbn": "9781835080399",
+      "format": "book"
+    },
+    {
+      "title": "Becoming KCNA Certified",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804613399/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804613399/",
+      "isbn": "9781804613399",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492039075/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492039075/",
+      "isbn": "9781492039068",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838823078/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838823078/",
+      "isbn": "9781838823078",
+      "format": "book"
+    },
+    {
+      "title": "Learning Helm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492083641/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492083641/",
+      "isbn": "9781492083658",
+      "format": "book"
+    },
+    {
+      "title": "Managing Kubernetes Resources Using Helm - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803242897/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803242897/",
+      "isbn": "9781803242897",
+      "format": "book"
+    },
+    {
+      "title": "Argo CD: Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098141998/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098141998/",
+      "isbn": "9781098142001",
+      "format": "book"
+    },
+    {
+      "title": "Building Serverless Applications on Knative",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142063/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142063/",
+      "isbn": "9781098142070",
+      "format": "book"
+    },
+    {
+      "title": "Kubeflow for Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492050117/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492050117/",
+      "isbn": "9781492050124",
+      "format": "book"
+    },
+    {
+      "title": "Kubeflow Operations Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492053262/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492053262/",
+      "isbn": "9781492053279",
+      "format": "book"
+    },
+    {
+      "title": "Knative in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296642/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296642/",
+      "isbn": "9781617296642",
+      "format": "book"
+    },
+    {
+      "title": "Learn Helm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839214295/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839214295/",
+      "isbn": "9781839214295",
+      "format": "book"
+    },
+    {
+      "title": "IoT Edge Computing with MicroK8s",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803230634/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803230634/",
+      "isbn": "9781803230634",
+      "format": "book"
+    },
+    {
+      "title": "GitOps and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297274/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297274/",
+      "isbn": "9781617297274",
+      "format": "book"
+    },
+    {
+      "title": "DevSecOps in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098101787/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098101787/",
+      "isbn": "9781098101770",
+      "format": "book"
+    },
+    {
+      "title": "Keras to Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119564836/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119564836/",
+      "isbn": "9781119564836",
+      "format": "book"
+    },
+    {
+      "title": "Big Data on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835462140/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835462140/",
+      "isbn": "9781835462140",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803241807/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803241807/",
+      "isbn": "9781803241807",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098171919/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098171919/",
+      "isbn": "9781098171926",
+      "format": "book"
+    },
+    {
+      "title": "Serverless Architectures with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838983277/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838983277/",
+      "isbn": "9781838983277",
+      "format": "book"
+    },
+    {
+      "title": "DevOps with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788396646/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788396646/",
+      "isbn": "9781788396646",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Microservices with Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484219072/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484219072/",
+      "isbn": "9781484219072",
+      "format": "book"
+    },
+    {
+      "title": "Ansible for Kubernetes by Example: Automate Your Kubernetes Cluster with Ansible",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292853/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292853/",
+      "isbn": "9781484292853",
+      "format": "book"
+    },
+    {
+      "title": "Zero Trust Architecture in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098138646/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098138646/",
+      "isbn": "9781098138639",
+      "format": "book"
+    },
+    {
+      "title": "Edge Computing Systems with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800568594/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800568594/",
+      "isbn": "9781800568594",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes and Docker - An Enterprise Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839213403/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839213403/",
+      "isbn": "9781839213403",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Microservices with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805468/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805468/",
+      "isbn": "9781789805468",
+      "format": "book"
+    },
+    {
+      "title": "Docker and Kubernetes for Java Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468390/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468390/",
+      "isbn": "9781786468390",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Design Patterns and Extensions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789619270/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789619270/",
+      "isbn": "9781789619270",
+      "format": "book"
+    },
+    {
+      "title": "Managing Cloud Native Data on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098111380/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098111380/",
+      "isbn": "9781098111397",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Native Microservices with Quarkus and MicroProfile",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298653/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298653/",
+      "isbn": "9781617298653",
+      "format": "book"
+    },
+    {
+      "title": "Bootstrapping Microservices with Docker, Kubernetes, and Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297212/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297212/",
+      "isbn": "9781617297212",
+      "format": "book"
+    },
+    {
+      "title": "Scalable Kubernetes Infrastructure for AI Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341608191/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341608191/",
+      "isbn": "9798341608184",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes for Generative AI Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836209935/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836209935/",
+      "isbn": "9781836209935",
+      "format": "book"
+    },
+    {
+      "title": "Hybrid Cloud Apps with OpenShift and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492083801/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492083801/",
+      "isbn": "9781492083818",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes - A Complete DevOps Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838828042/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838828042/",
+      "isbn": "9781838828042",
+      "format": "book"
+    },
+    {
+      "title": "DevOps with Kubernetes - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789533996/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789533996/",
+      "isbn": "9781789533996",
+      "format": "book"
+    },
+    {
+      "title": "End-to-End Automation with Kubernetes and Crossplane",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801811545/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801811545/",
+      "isbn": "9781801811545",
+      "format": "book"
+    },
+    {
+      "title": "DevOps: Puppet, Docker, and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788297615/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788297615/",
+      "isbn": "9781788297615",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Rails with Docker, Kubernetes and ECS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484224151/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484224151/",
+      "isbn": "9781484224151",
+      "format": "book"
+    },
+    {
+      "title": "50 Kubernetes Concepts Every DevOps Engineer Should Know",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804611470/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804611470/",
+      "isbn": "9781804611470",
+      "format": "book"
+    },
+    {
+      "title": "Practical Debugging at Scale: Cloud Native Debugging in Kubernetes and Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290422/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290422/",
+      "isbn": "9781484290422",
+      "format": "book"
+    },
+    {
+      "title": "Pro Java Microservices with Quarkus and Kubernetes: A Hands-on Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271704/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271704/",
+      "isbn": "9781484271704",
+      "format": "book"
+    },
+    {
+      "title": "Azure Kubernetes Services with Microservices: Understanding Its Patterns and Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484278093/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484278093/",
+      "isbn": "9781484278093",
+      "format": "book"
+    },
+    {
+      "title": "SQL Server on Kubernetes: Designing and Building a Modern Data Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271926/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271926/",
+      "isbn": "9781484271926",
+      "format": "book"
+    },
+    {
+      "title": "Swarm v. Fleet v. Kubernetes v. Mesos",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492028819/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492028819/",
+      "isbn": "9781492028796",
+      "format": "book"
+    },
+    {
+      "title": "Managing Kubernetes Clusters with Google Kubernetes Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838555276/chapter/fb9d6fa9-66e2-458b-a10a-c6f5daa3f2a7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838555276/chapter/fb9d6fa9-66e2-458b-a10a-c6f5daa3f2a7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Traefik API Gateway for Microservices: With Java and Python Microservices Deployed in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263761/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263761/",
+      "isbn": "9781484263761",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Application Developer: Develop Microservices and Design a Software Solution on the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280324/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280324/",
+      "isbn": "9781484280324",
+      "format": "book"
+    },
+    {
+      "title": "Docker Containers: Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134136639/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134136639/",
+      "isbn": "9780134136639",
+      "format": "book"
+    },
+    {
+      "title": "Pro DevOps with Google Cloud Platform: With Docker, Jenkins, and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238974/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238974/",
+      "isbn": "9781484238974",
+      "format": "book"
+    },
+    {
+      "title": "Pro SQL Server on Linux: Including Container-Based Deployment with Docker and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484241288/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484241288/",
+      "isbn": "9781484241288",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native Integration with Apache Camel: Building Agile and Scalable Integrations for Kubernetes Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272114/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272114/",
+      "isbn": "9781484272114",
+      "format": "book"
+    },
+    {
+      "title": "Practical Oracle Cloud Infrastructure: Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255063/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255063/",
+      "isbn": "9781484255063",
+      "format": "book"
+    },
+    {
+      "title": "Azure Arc-Enabled Kubernetes and Servers: Extending Hyperscale Cloud Management to Your Datacenter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484277683/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484277683/",
+      "isbn": "9781484277683",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Kubernetes on the Google Cloud Platform: A Guide to Automating Application Deployment, Scaling, and Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254912/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254912/",
+      "isbn": "9781484254912",
+      "format": "book"
+    },
+    {
+      "title": "Pro Microservices in .NET 6: With Examples Using ASP.NET Core 6, MassTransit, and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484278338/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484278338/",
+      "isbn": "9781484278338",
+      "format": "book"
+    },
+    {
+      "title": "Deploy Machine Learning Models to Production: With Flask, Streamlit, Docker, and Kubernetes on Google Cloud Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265468/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265468/",
+      "isbn": "9781484265468",
+      "format": "book"
+    },
+    {
+      "title": "10. EKS (Kubernetes) SaaS: Architecture Patterns and Strategies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098140632/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098140632/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Containers and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098131135/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098131135/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pro Cloud Native Java EE Apps: DevOps with MicroProfile, Jakarta EE 10 APIs, and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289006/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289006/",
+      "isbn": "9781484289006",
+      "format": "book"
+    },
+    {
+      "title": "8 Working with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439689/chapter/OEBPS/Text/08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439689/chapter/OEBPS/Text/08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Container Orchestration Infrastructure Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805122500/chapter/Text/Chapter_06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805122500/chapter/Text/Chapter_06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Getting inputs from containers and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437470/chapter/Text/chapter-4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437470/chapter/Text/chapter-4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pro Cloud-Native Java EE Apps: DevOps with MicroProfile, Jakarta EE 11 APIs, and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813962/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813962/",
+      "isbn": "9798868813962",
+      "format": "book"
+    },
+    {
+      "title": "Enabling IBM Cloud Pak for Multicloud Management to Connect Kubernetes Clusters Using IBM Secure Gateway",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459165/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459165/",
+      "isbn": "9780738459165",
+      "format": "book"
+    },
+    {
+      "title": "10. Administering Kafka Connect on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098126520/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098126520/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B. MySQL on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492080503/chapter/app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492080503/chapter/app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Deploying microservice APIs with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298417/chapter/OEBPS/Text/14.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298417/chapter/OEBPS/Text/14.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. jsPolicy and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098139179/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098139179/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Understanding Container Engine for Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137902835/chapter/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137902835/chapter/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Securing compute resources in Azure: Azure Bastion, Kubernetes, and Azure App Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438811/chapter/OEBPS/Text/04.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438811/chapter/OEBPS/Text/04.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Writing a Kubernetes Operator to Run EVM-Compatible Blockchains",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296660/chapter/html/533099_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296660/chapter/html/533099_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native Applications with Docker and Kubernetes: Design and Build Cloud Architecture and Applications with Microservices, EMQ, and Multi-Site Configurations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288764/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288764/",
+      "isbn": "9781484288764",
+      "format": "book"
+    },
+    {
+      "title": "Container Orchestration: Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057680/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057680/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Dataproc on Google Kubernetes Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098157692/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098157692/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Deploying Mission-Critical Spark Applications on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274521/chapter/html/505711_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274521/chapter/html/505711_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Understanding orchestration: Docker Swarm and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297052/chapter/OEBPS/Text/12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297052/chapter/OEBPS/Text/12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Architecting Azure Kubernetes solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839215865/chapter/B15432_14_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839215865/chapter/B15432_14_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Create a Google Kubernetes Engine Cluster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508376/chapter/f_0085.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508376/chapter/f_0085.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Java Microservices and Containers in the Cloud: With Spring Boot, Kafka, PostgreSQL, Kubernetes, Helm, Terraform and AWS EKS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805554/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805554/",
+      "isbn": "9798868805554",
+      "format": "book"
+    },
+    {
+      "title": "A. Space Beaver Case Study: Actors, Kubernetes, and More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098118792/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098118792/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Azure Kubernetes Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484299722/chapter/html/489078_2_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484299722/chapter/html/489078_2_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Driving logs with Docker and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298356/chapter/OEBPS/Text/08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298356/chapter/OEBPS/Text/08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Managing Kubernetes Workloads in Hybrid or Multi-cloud Data Centers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484294802/chapter/html/515902_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484294802/chapter/html/515902_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Containerizing Java Applications with Azure Kubernetes Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282519/chapter/html/523943_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282519/chapter/html/523943_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Google Cloud Kubernetes Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492092889/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492092889/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B. Setting Up a Kubernetes Cluster on Google Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492053187/chapter/app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492053187/chapter/app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Running a log collector on each Kubernetes node",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838554491/chapter/932b695b-2e22-48d0-ab38-4935b1dce0ea.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838554491/chapter/932b695b-2e22-48d0-ab38-4935b1dce0ea.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Cloud Native Development with MicroProfile, Jakarta EE, and Kubernetes: Java DevOps for Building and Deploying Microservices-based Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288320/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288320/",
+      "isbn": "9781484288320",
+      "format": "book"
+    },
+    {
+      "title": "9 Serving models with Kubernetes and Kubeflow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296819/chapter/OEBPS/Text/09.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296819/chapter/OEBPS/Text/09.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Support for Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838550912/chapter/e3652c97-f8ce-418c-9be5-bea1be9884aa.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838550912/chapter/e3652c97-f8ce-418c-9be5-bea1be9884aa.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Deploying a microservice to Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297922/chapter/OEBPS/Text/Ch-03.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297922/chapter/OEBPS/Text/Ch-03.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. A Kubernetes Application Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098103354/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098103354/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Computing environment built on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439573/chapter/OEBPS/Text/03.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439573/chapter/OEBPS/Text/03.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Azure Kubernetes Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789614503/chapter/ed033dd6-85ff-4d18-9ed5-027756c18114.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789614503/chapter/ed033dd6-85ff-4d18-9ed5-027756c18114.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. SQL Server 2022 on Linux, Containers, and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288948/chapter/html/525217_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288948/chapter/html/525217_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Submit, Orchestrate, and Monitor Jobs on a Kubernetes Cluster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288856/chapter/html/526498_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288856/chapter/html/526498_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Kubernetes: The Grand Orchestrator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492090953/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492090953/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Under the hood of Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297755/chapter/OEBPS/Text/12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297755/chapter/OEBPS/Text/12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. A Kubernetes-Based Software Development Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098102135/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098102135/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Kubernetes Is the Operating System of the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142100/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142100/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Kubernetes and OpenShift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835882405/chapter/text/ch003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835882405/chapter/text/ch003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying GitLab using Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789531282/chapter/6dd9666a-443d-4aab-8bef-4cdd1a91c4dc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789531282/chapter/6dd9666a-443d-4aab-8bef-4cdd1a91c4dc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing Prometheus in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789612349/chapter/9247dc99-2ce6-4bd6-b89a-7c3d8b49a16c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789612349/chapter/9247dc99-2ce6-4bd6-b89a-7c3d8b49a16c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Working with Azure Kubernetes Service (AKS)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805805052/chapter/text/ch005.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805805052/chapter/text/ch005.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. OS, Docker, and Kubernetes Tuning for GPU-based Environments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341627772/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341627772/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Orchestration Using Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839211898/chapter/abcbf266-c469-4d84-ad4f-abd321a64b53.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839211898/chapter/abcbf266-c469-4d84-ad4f-abd321a64b53.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Deploying the Microservice Docker Container to Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282908/chapter/html/521980_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282908/chapter/html/521980_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying with Pulumi on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835467527/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835467527/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying to the Google Kubernetes Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284951/chapter/3145aee2-27c6-40ea-b9eb-79611c618742.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284951/chapter/3145aee2-27c6-40ea-b9eb-79611c618742.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Kubernetes: A primer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438460/chapter/Text/chapter-15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438460/chapter/Text/chapter-15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Our Microservices to Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805801276/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805801276/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Development on Your Desktop",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835465202/chapter/Text/Chapter_17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835465202/chapter/Text/Chapter_17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Kubernetes Event-Driven Autoscaler (KEDA)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814860/chapter/html/635543_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814860/chapter/html/635543_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Microservices Organization with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836642015/chapter/Text/Chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836642015/chapter/Text/Chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Azure Kubernetes Services: Container Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265314/chapter/html/437067_2_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265314/chapter/html/437067_2_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Building a Microservice Using .NET and Azure Kubernetes Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290040/chapter/html/533300_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290040/chapter/html/533300_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes and orchestration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789612080/chapter/c6a45844-965c-4e1e-8425-225265ce2019.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789612080/chapter/c6a45844-965c-4e1e-8425-225265ce2019.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20. It’s OK if You’re Not Running Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076728/chapter/ch20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076728/chapter/ch20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Be a Good Kubernetes Citizen",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810589/chapter/html/616949_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810589/chapter/html/616949_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "45. Containers and Google Kubernetes Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244708/chapter/html/463852_1_En_45_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244708/chapter/html/463852_1_En_45_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuration and deployment in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642730/chapter/d9aa2884-056c-461a-b431-8b37b7468842.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642730/chapter/d9aa2884-056c-461a-b431-8b37b7468842.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Speaking Kubernetes and Other Strange-Sounding Names",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098103729/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098103729/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992329/chapter/09bb3a9f-7a59-49e7-acfd-233b502aadaf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992329/chapter/09bb3a9f-7a59-49e7-acfd-233b502aadaf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Getting Up to Speed with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484269985/chapter/html/503252_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484269985/chapter/html/503252_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying the application to Google Cloud with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838824983/chapter/96732599-e2a9-4696-809b-3b0bfbdea7bc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838824983/chapter/96732599-e2a9-4696-809b-3b0bfbdea7bc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a Kubernetes Horizontal Pod Autoscaler",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838823818/chapter/21abe18b-cb00-4686-9aa1-47aa9b6ff793.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838823818/chapter/21abe18b-cb00-4686-9aa1-47aa9b6ff793.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Robust Infrastructure with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788477321/chapter/5d093a43-720f-4ea8-aac0-b64b13f96d12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788477321/chapter/5d093a43-720f-4ea8-aac0-b64b13f96d12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787280540/chapter/d38f8f0b-2180-465e-8272-35a0a440fc08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787280540/chapter/d38f8f0b-2180-465e-8272-35a0a440fc08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Google Kubernetes Engine (GKE)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838647438/chapter/073edc00-9bf4-4610-afad-3195b7098f06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838647438/chapter/073edc00-9bf4-4610-afad-3195b7098f06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying to Kubernetes with ansible-container",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789807462/chapter/728ac7d3-e319-4348-81aa-a1d64d723485.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789807462/chapter/728ac7d3-e319-4348-81aa-a1d64d723485.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. A Kubernetes Primer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280850/chapter/html/505695_2_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280850/chapter/html/505695_2_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Quarkus applications on a Kubernetes-native platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838821470/chapter/aefd21ae-8cee-4f25-9976-8b5dea5b340f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838821470/chapter/aefd21ae-8cee-4f25-9976-8b5dea5b340f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Terraform for Docker and Kubernetes Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804616420/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804616420/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A note on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789617375/chapter/52f73962-415f-475c-b5c6-a67156f48137.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789617375/chapter/52f73962-415f-475c-b5c6-a67156f48137.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Deploy Containerized Applications with Google Kubernetes Engine (GKE)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264706/chapter/html/496339_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264706/chapter/html/496339_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with Azure Kubernetes Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130966/chapter/cdf95886-bacf-4e2e-b50f-bd5369de1bb8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130966/chapter/cdf95886-bacf-4e2e-b50f-bd5369de1bb8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Microservices at Scale with Docker and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038290/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038290/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes metrics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788831031/chapter/6632765f-03bd-4a37-8ffe-787a07a1e4e1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788831031/chapter/6632765f-03bd-4a37-8ffe-787a07a1e4e1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Google Kubernetes Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834308/chapter/3174e367-4bd6-4ba2-adac-34bb7e1f4487.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834308/chapter/3174e367-4bd6-4ba2-adac-34bb7e1f4487.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Containers – Docker, Kubernetes, and Mesos",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783554393/chapter/a7bb65cb-de49-4cb4-90fc-24be874a4bd2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783554393/chapter/a7bb65cb-de49-4cb4-90fc-24be874a4bd2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Deploying OpenWhisk with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492046158/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492046158/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Auto-scaling Nodes of a Kubernetes Cluster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838647513/chapter/bea457c7-c852-42f2-ae24-c19535d0a92f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838647513/chapter/bea457c7-c852-42f2-ae24-c19535d0a92f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes Networking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492036845/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492036845/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes for container orchestration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788839563/chapter/b2c9cfc8-f5d5-4ede-99ce-168423941994.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788839563/chapter/b2c9cfc8-f5d5-4ede-99ce-168423941994.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying your service on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788479509/chapter/afc45390-323f-475d-bf6a-fb5c1370fcac.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788479509/chapter/afc45390-323f-475d-bf6a-fb5c1370fcac.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Container orchestration with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992992/chapter/73cdc63b-f364-4c38-be22-7420bb9e04c0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992992/chapter/73cdc63b-f364-4c38-be22-7420bb9e04c0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Scaling with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788830751/chapter/f2385750-e856-484f-8e43-48f6fcfad8f1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788830751/chapter/f2385750-e856-484f-8e43-48f6fcfad8f1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Serving on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789957211/chapter/b9cd769e-8bd9-4e7d-8432-90277951c7cf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789957211/chapter/b9cd769e-8bd9-4e7d-8432-90277951c7cf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Docker Enterprise Edition/Mirantis Kubernetes Engine Installation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281178/chapter/html/519734_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281178/chapter/html/519734_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes in the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/20201229PAIML/chapter/chapter-26.html",
+      "url": "https://learning.oreilly.com/api/v1/book/20201229PAIML/chapter/chapter-26.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Deploy Containerized Applications with Azure Kubernetes Service (AKS)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257531/chapter/html/489078_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257531/chapter/html/489078_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes cluster mode",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994613/chapter/cfe2368c-dab6-49bd-bfbc-5a4e44f0e71e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994613/chapter/cfe2368c-dab6-49bd-bfbc-5a4e44f0e71e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Lab 6: Deploying and Running Azure Kubernetes Service (AKS)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264379/chapter/html/502710_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264379/chapter/html/502710_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a basic Kubernetes cluster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888960/chapter/feb78b30-7ed6-49f3-a7b9-68a5dbe932af.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888960/chapter/feb78b30-7ed6-49f3-a7b9-68a5dbe932af.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462749/chapter/Text/901ac3fa-5bb0-4589-a301-ef92e6d5e68e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462749/chapter/Text/901ac3fa-5bb0-4589-a301-ef92e6d5e68e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a local Kubernetes cluster with Minikube",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838643546/chapter/c241a4c7-19f6-4ec0-80ba-6c4fc7d09eba.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838643546/chapter/c241a4c7-19f6-4ec0-80ba-6c4fc7d09eba.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Running Kubernetes locally via Minikube",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788475433/chapter/9dbe4ec4-2ca2-4ab8-baf8-86d491ba0b52.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788475433/chapter/9dbe4ec4-2ca2-4ab8-baf8-86d491ba0b52.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managed Kubernetes service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136203/chapter/606880be-5066-4dcc-a8a9-594fa38c00bc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136203/chapter/606880be-5066-4dcc-a8a9-594fa38c00bc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Deploying Pulsar on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484278390/chapter/html/513731_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484278390/chapter/html/513731_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Wasm and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274965/chapter/html/520626_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274965/chapter/html/520626_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Container Registry and Kubernetes clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789340624/chapter/58e3ed90-8c00-4b93-be13-8b5eaadcac88.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789340624/chapter/58e3ed90-8c00-4b93-be13-8b5eaadcac88.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hosting Azure Functions containers in Kubernetes with KEDA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789951226/chapter/cdcc2978-0f7e-4564-a482-fcdb060e8682.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789951226/chapter/cdcc2978-0f7e-4564-a482-fcdb060e8682.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating or deploying a Kubernetes cluster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789340990/chapter/9075571c-1a5d-481d-890d-bff6eb355dd2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789340990/chapter/9075571c-1a5d-481d-890d-bff6eb355dd2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Kubernetes with Juju",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623513/chapter/a7357a88-f3aa-45e9-a354-2146757d5e4e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623513/chapter/a7357a88-f3aa-45e9-a354-2146757d5e4e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying to Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472678/chapter/e3c2ffd4-56fe-4b11-b752-3b86c52cbe9b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472678/chapter/e3c2ffd4-56fe-4b11-b752-3b86c52cbe9b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Object, Block, and Streaming Storage with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492074281/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492074281/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes blue/green deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789612073/chapter/e3353701-718e-4b37-8ae9-fce0d4d1526c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789612073/chapter/e3353701-718e-4b37-8ae9-fce0d4d1526c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes on OpenStack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624510/chapter/c86451e6-56cb-4949-8c7c-367e5ba01444.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624510/chapter/c86451e6-56cb-4949-8c7c-367e5ba01444.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up a Kubernetes cluster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788626866/chapter/9cf027fc-851e-480b-a2c0-b37de159afc4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788626866/chapter/9cf027fc-851e-480b-a2c0-b37de159afc4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes solution from VMware",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789802160/chapter/ac660671-f3ee-4723-8c68-41f8230872cf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789802160/chapter/ac660671-f3ee-4723-8c68-41f8230872cf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying a container to Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880087/chapter/2ec2bee6-c03f-4cc6-ae6a-2cf3477d2e08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880087/chapter/2ec2bee6-c03f-4cc6-ae6a-2cf3477d2e08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up the Kubernetes CLI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341171/chapter/745059bd-99af-4cbe-a03b-5ab8fb0db5ce.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341171/chapter/745059bd-99af-4cbe-a03b-5ab8fb0db5ce.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Azure Kubernetes Service (AKS)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788833936/chapter/e3ab36e4-c608-4b46-88d2-3b09e9f25938.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788833936/chapter/e3ab36e4-c608-4b46-88d2-3b09e9f25938.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying the Hello World app on k8s",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788479745/chapter/d7c1e492-d163-4586-a041-a2c0511e130d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788479745/chapter/d7c1e492-d163-4586-a041-a2c0511e130d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127562/chapter/da456117-0b95-4a6d-b336-784b20cba27e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127562/chapter/da456117-0b95-4a6d-b336-784b20cba27e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up a Pachyderm and Kubernetes cluster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785882104/chapter/04a086a8-3d56-4444-bbfd-35d65e7eeeff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785882104/chapter/04a086a8-3d56-4444-bbfd-35d65e7eeeff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hosting a Node.js application on Kubernetes Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788291996/chapter/23948ab9-e442-4d31-bfb0-80fa6dc281f0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788291996/chapter/23948ab9-e442-4d31-bfb0-80fa6dc281f0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes – container orchestration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787124349/chapter/f0a31546-1a34-4b74-a6e5-0cf063bccc7f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787124349/chapter/f0a31546-1a34-4b74-a6e5-0cf063bccc7f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kickstarting Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788476317/chapter/d40b29fa-22c6-481c-b3cf-8a6db7833dee.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788476317/chapter/d40b29fa-22c6-481c-b3cf-8a6db7833dee.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploy Microservices at Scale with Docker and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042228/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042228/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Integrating with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492062646/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492062646/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Running TensorFlow containers on an Azure Kubernetes Cluster (AKS)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789131956/chapter/b6a91865-660d-4915-813a-c28f076a6829.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789131956/chapter/b6a91865-660d-4915-813a-c28f076a6829.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes and other Docker tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789616606/chapter/7091e366-0eb8-44c2-9aed-36065a480929.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789616606/chapter/7091e366-0eb8-44c2-9aed-36065a480929.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes in OpenStack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786465535/chapter/a5c68f30-19e3-48a3-a12c-525a17563f01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786465535/chapter/a5c68f30-19e3-48a3-a12c-525a17563f01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Hyperledger Fabric 1.3 to a Kubernetes environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789132243/chapter/3702b213-b5f1-4100-b1a0-ad4e74a70db6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789132243/chapter/3702b213-b5f1-4100-b1a0-ad4e74a70db6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Microservice Applications in Kubernetes Using Jenkins Pipeline 2.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788394925/chapter/94315418-a302-4846-a875-d003bc24fcda.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788394925/chapter/94315418-a302-4846-a875-d003bc24fcda.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530889/chapter/67f043cf-be14-411d-b364-029b9fb3c092.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530889/chapter/67f043cf-be14-411d-b364-029b9fb3c092.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Managing Docker Containers with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783552344/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783552344/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. SQL Server on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254196/chapter/html/479130_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254196/chapter/html/479130_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying the EFK stack on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789613476/chapter/e5a4a1e5-f777-4129-971c-1663791f94fc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789613476/chapter/e5a4a1e5-f777-4129-971c-1663791f94fc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Orchestrating containers with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789951295/chapter/b55a24c6-bda7-4489-b8af-543b90bb7982.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789951295/chapter/b55a24c6-bda7-4489-b8af-543b90bb7982.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Deploying Microservices on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469434/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469434/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes installation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838552183/chapter/95ea928b-530c-4c29-9f56-205c3069f86c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838552183/chapter/95ea928b-530c-4c29-9f56-205c3069f86c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Azure Container Services with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789538519/chapter/3d758280-60d0-4040-a909-c6296aab8e3f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789538519/chapter/3d758280-60d0-4040-a909-c6296aab8e3f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Deploying and Managing Services with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787122123/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787122123/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789804539/chapter/3df0b447-3b5f-467c-b229-dd3824998115.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789804539/chapter/3df0b447-3b5f-467c-b229-dd3824998115.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker Swarm and Kubernetes - Clustering Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466877/chapter/4e6a965e-c4bf-491d-9f60-c013269350c9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466877/chapter/4e6a965e-c4bf-491d-9f60-c013269350c9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Dockerized microservices on K8s",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297540/chapter/OEBPS/Text/11.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297540/chapter/OEBPS/Text/11.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What Is KubeVirt?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098133429/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098133429/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "GitOps Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492097464/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492097464/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing Distributed Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156343/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156343/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Application Performance Management (APM) in the Digital Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128040812/chapter/XHTML/B9780128040188180015/ind_indexK.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128040812/chapter/XHTML/B9780128040188180015/ind_indexK.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Another Book You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800564640/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800564640/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "There's more...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789803303/chapter/c465277b-2a77-4908-838b-dfc23053d806.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789803303/chapter/c465277b-2a77-4908-838b-dfc23053d806.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Linkerd: Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142308/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142308/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Leveraging Tekton for Cloud Native CI/CD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098110123/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098110123/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Security Observability with eBPF",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492096719/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492096719/",
+      "isbn": "9781492096702",
+      "format": "book"
+    },
+    {
+      "title": "Practical Cloud Native Security with Falco",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098118563/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098118563/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "gRPC: Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492058328/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492058328/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788295413/chapter/e35975ff-42a8-4c24-9102-830a40f7404c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788295413/chapter/e35975ff-42a8-4c24-9102-830a40f7404c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Operating OpenShift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106386/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106386/",
+      "isbn": "9781098106393",
+      "format": "book"
+    },
+    {
+      "title": "Management tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788397391/chapter/3828f00d-b10d-417a-8bfb-8a0ee1f054e2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788397391/chapter/3828f00d-b10d-417a-8bfb-8a0ee1f054e2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Competitive container orchestration mechanism",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888304/chapter/ch08s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888304/chapter/ch08s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Who is using Go?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281394/chapter/c19a9be1-c956-4983-848b-9e47bea924c0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281394/chapter/c19a9be1-c956-4983-848b-9e47bea924c0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploy Containers on AWS: With EC2, ECS, and EKS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251010/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251010/",
+      "isbn": "9781484251010",
+      "format": "book"
+    },
+    {
+      "title": "Dynamically orchestrated",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624060/chapter/d06777ec-64ee-4036-8df2-88340e4fef70.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624060/chapter/d06777ec-64ee-4036-8df2-88340e4fef70.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Bootstrapping Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438569/chapter/OEBPS/Text/title.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438569/chapter/OEBPS/Text/title.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native Data Security with OAuth",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164874/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164874/",
+      "isbn": "9781098164881",
+      "format": "book"
+    },
+    {
+      "title": "5. Container Management with Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108458/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108458/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136159/chapter/d3ea589c-df10-4845-8107-438c0a770190.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136159/chapter/d3ea589c-df10-4845-8107-438c0a770190.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C. Installing Minikube & Kubectl",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492077282/chapter/app03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492077282/chapter/app03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build an Orchestrator in Go (From Scratch)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299759/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299759/",
+      "isbn": "9781617299759",
+      "format": "book"
+    },
+    {
+      "title": "Building CI/CD Systems Using Tekton",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801078214/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801078214/",
+      "isbn": "9781801078214",
+      "format": "book"
+    },
+    {
+      "title": "Docker for Rails Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506730/chapter/f_0087.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506730/chapter/f_0087.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Book You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138054/chapter/e4f6a7c3-86b3-433d-94af-f1deee267259.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138054/chapter/e4f6a7c3-86b3-433d-94af-f1deee267259.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker on Google Container Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785281655/chapter/b3652a5f-8559-4b1f-b590-bef4c893001c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785281655/chapter/b3652a5f-8559-4b1f-b590-bef4c893001c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Common Errors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106133/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106133/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the IBM Block Storage CSI Driver in a Red Hat OpenShift Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459677/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459677/",
+      "isbn": "9780738459677",
+      "format": "book"
+    },
+    {
+      "title": "5 Hunting in clouds",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439474/chapter/OEBPS/Text/05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439474/chapter/OEBPS/Text/05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Building an IDP with Cloud-native Tools – Core Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837638055/chapter/text/ch007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837638055/chapter/text/ch007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other API Gateways",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838643577/chapter/808564f6-3999-411d-850f-12d56e30dd1c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838643577/chapter/808564f6-3999-411d-850f-12d56e30dd1c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Distributed Machine Learning Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299025/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299025/",
+      "isbn": "9781617299025",
+      "format": "book"
+    },
+    {
+      "title": "Kubeless architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623445/chapter/1a3e4e32-65c8-4cd4-8e03-e8f2d55fa0f4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623445/chapter/1a3e4e32-65c8-4cd4-8e03-e8f2d55fa0f4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788622592/chapter/59cef92a-94dd-4707-8ac1-69d9be5b4a10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788622592/chapter/59cef92a-94dd-4707-8ac1-69d9be5b4a10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Publish your Data Analysis to the Web - the PixieApp Tool",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789950069/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789950069/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying with Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788392570/chapter/bdef8145-aa39-4c10-9757-2f32c0e4941f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788392570/chapter/bdef8145-aa39-4c10-9757-2f32c0e4941f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modernize Applications with Apache Kafka",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098143381/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098143381/",
+      "isbn": "9781098143374",
+      "format": "book"
+    },
+    {
+      "title": "Cassandra: The Definitive Guide, (Revised) Third Edition, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492097136/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492097136/",
+      "isbn": "9781492097143",
+      "format": "book"
+    },
+    {
+      "title": "Server-side service discovery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468888/chapter/e2105925-3d20-4634-a7e5-05fa08e9562b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468888/chapter/e2105925-3d20-4634-a7e5-05fa08e9562b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reactive Systems in Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492091714/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492091714/",
+      "isbn": "9781492091721",
+      "format": "book"
+    },
+    {
+      "title": "10. Cloud Run and Knative Serving",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057086/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057086/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cilium: Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622982/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622982/",
+      "isbn": "9798341622999",
+      "format": "book"
+    },
+    {
+      "title": "Similar projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469755/chapter/ch01s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469755/chapter/ch01s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Microservices/containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468659/chapter/5e508e1f-316d-44dd-80ed-dbfe92494a63.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468659/chapter/5e508e1f-316d-44dd-80ed-dbfe92494a63.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Ansible Workshop",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836205036/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836205036/",
+      "isbn": "9781836205036",
+      "format": "book"
+    },
+    {
+      "title": "How to do it...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642884/chapter/6291b370-9edd-4a49-90b2-380661101cca.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642884/chapter/6291b370-9edd-4a49-90b2-380661101cca.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Key Terms and Industry Jargon",
+      "id": "https://www.safaribooksonline.com/api/v1/book/20200406PAIML/chapter/chap13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/20200406PAIML/chapter/chap13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Box: Case Study",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491984291/chapter/app03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491984291/chapter/app03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Technical Reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492067580/chapter/xhtml/technical.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492067580/chapter/xhtml/technical.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring Cloud Data Flow: Native Cloud Orchestration Services for Microservice Applications on Modern Runtimes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484212394/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484212394/",
+      "isbn": "9781484212394",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Istio",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043775/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043775/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying SAP Software in Red Hat OpenShift on IBM Power Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459585/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459585/",
+      "isbn": "9780738459585",
+      "format": "book"
+    },
+    {
+      "title": "Security as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098127459/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098127459/",
+      "isbn": "9781098127466",
+      "format": "book"
+    },
+    {
+      "title": "Maintainability of multiple instances",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125384/chapter/e33dd45a-43cc-466b-aef1-58c8acf1fdad.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125384/chapter/e33dd45a-43cc-466b-aef1-58c8acf1fdad.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Expanding the Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651223/chapter/f_0066.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651223/chapter/f_0066.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Cloud-Native DevOps Architectural Overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804076/chapter/html/615932_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804076/chapter/html/615932_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using cluster managers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888359/chapter/6287ff0d-3dfb-497e-af3a-7ffb88fc62df.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888359/chapter/6287ff0d-3dfb-497e-af3a-7ffb88fc62df.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B11641_08_Final_AM_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536058/chapter/B11641_08_Final_AM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536058/chapter/B11641_08_Final_AM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cisco Cloud Infrastructure: Application, Security, and Data Center Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137690442/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137690442/",
+      "isbn": "9780137690442",
+      "format": "book"
+    },
+    {
+      "title": "16. Containerization and Virtualization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272268/chapter/html/511610_1_En_16_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272268/chapter/html/511610_1_En_16_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Linux Docker extension",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466297/chapter/348cd2dd-7810-4ac4-b825-c60647f9b61d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466297/chapter/348cd2dd-7810-4ac4-b825-c60647f9b61d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Service deployment platform pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787287495/chapter/45fae41c-b1c5-43a5-ba1d-7dfdf76f8930.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787287495/chapter/45fae41c-b1c5-43a5-ba1d-7dfdf76f8930.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The OpenShift Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249857/chapter/html/478307_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249857/chapter/html/478307_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Integrating ACI with Virtualization and Container Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288382/chapter/html/518597_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288382/chapter/html/518597_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Distributing the Application Layer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142643/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142643/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting Up Service Deployments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836207337/chapter/Text/Chapter_08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836207337/chapter/Text/Chapter_08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuration management across applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130485/chapter/8ad5c9ef-b33a-4226-a668-1a41114914c2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130485/chapter/8ad5c9ef-b33a-4226-a668-1a41114914c2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Workload Protection – Containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272923/chapter/html/508755_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272923/chapter/html/508755_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Deploying for Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492084013/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492084013/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Containerization, Orchestration, and Deployments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146887/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146887/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Containers in AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803238951/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803238951/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DevOps Paradox",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133639/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133639/",
+      "isbn": "9781789133639",
+      "format": "book"
+    },
+    {
+      "title": "OpenShift in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294839/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294839/",
+      "isbn": "9781617294839",
+      "format": "book"
+    },
+    {
+      "title": "gRPC Go for Professionals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837638840/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837638840/",
+      "isbn": "9781837638840",
+      "format": "book"
+    },
+    {
+      "title": "Patterns of Distributed Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138222246/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138222246/",
+      "isbn": "9780138222246",
+      "format": "book"
+    },
+    {
+      "title": "6. Using Containers for Distributed Builds",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484229132/chapter/A429849_1_En_6_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484229132/chapter/A429849_1_En_6_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Simplifying Service Management with Consul",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800202627/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800202627/",
+      "isbn": "9781800202627",
+      "format": "book"
+    },
+    {
+      "title": "7. Plan and Expand",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098144852/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098144852/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Container Orchestration Engines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284254891/chapter/xhtml/9781284254884_CH12_05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284254891/chapter/xhtml/9781284254884_CH12_05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Recommended Reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137586721/chapter/xhtml/fileP70010164280000000000000000011EC.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137586721/chapter/xhtml/fileP70010164280000000000000000011EC.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Istio",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492073963/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492073963/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Modern Developer Experience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169701/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169701/",
+      "isbn": "9781098169695",
+      "format": "book"
+    },
+    {
+      "title": "16. Running Azure Functions in Containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271223/chapter/html/510166_1_En_16_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271223/chapter/html/510166_1_En_16_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Terraform: Up and Running, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098116736/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098116736/",
+      "isbn": "9781098116743",
+      "format": "book"
+    },
+    {
+      "title": "7. Looking at Schedulers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463142/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463142/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud-based deployments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789959208/chapter/b82155b0-4110-4e27-b51f-6e2028b09393.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789959208/chapter/b82155b0-4110-4e27-b51f-6e2028b09393.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Containers at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098131814/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098131814/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multiprocessing in Rust",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530667/chapter/116682ed-0e12-484d-b3f2-2ea655dce9ab.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530667/chapter/116682ed-0e12-484d-b3f2-2ea655dce9ab.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Podman for DevOps - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835886625/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835886625/",
+      "isbn": "9781835886625",
+      "format": "book"
+    },
+    {
+      "title": "8. Cluster for a Web Application Hosting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484279519/chapter/html/512749_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484279519/chapter/html/512749_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Orchestration and deployment strategies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783286836/chapter/e9047002-3287-43ef-b3d8-ef73547c2396.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783286836/chapter/e9047002-3287-43ef-b3d8-ef73547c2396.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Spring Boot App on AWS EKS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286739/chapter/html/524191_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286739/chapter/html/524191_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Akka in Action, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299216/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299216/",
+      "isbn": "9781617299216",
+      "format": "book"
+    },
+    {
+      "title": "Learning OpenTelemetry",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098147174/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098147174/",
+      "isbn": "9781098147181",
+      "format": "book"
+    },
+    {
+      "title": "Quarkus in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438958/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438958/",
+      "isbn": "9781633438958",
+      "format": "book"
+    },
+    {
+      "title": "Technical requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788991063/chapter/24fddc3b-9f59-4d1f-b6d8-7c8583f67da8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788991063/chapter/24fddc3b-9f59-4d1f-b6d8-7c8583f67da8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IBM FlashSystem for VMware vSphere with Tanzu Basic Edition An IBM Validated Solution Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459790/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459790/",
+      "isbn": "9780738459790",
+      "format": "book"
+    },
+    {
+      "title": "List of figures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398616233/chapter/content/05_loi01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398616233/chapter/content/05_loi01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring Cloud Data Flow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126992/chapter/061b7c54-753f-4a86-8b9d-47b4232a6b2b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126992/chapter/061b7c54-753f-4a86-8b9d-47b4232a6b2b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Running EAP 7 on the Cloud Using OpenShift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463630/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463630/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Building a Microservices Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492075448/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492075448/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring Microservices in Action, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296956/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296956/",
+      "isbn": "9781617296956",
+      "format": "book"
+    },
+    {
+      "title": "9. Planning a Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098179830/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098179830/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Deployment and Scaling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492052319/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492052319/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Final notes: Container-native Vert.x",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295621/chapter/OEBPS/Text/13.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295621/chapter/OEBPS/Text/13.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AWS architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789537222/chapter/4b084b00-ec3a-4941-8e61-060cab575343.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789537222/chapter/4b084b00-ec3a-4941-8e61-060cab575343.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring Boot 3 Recipes: A Problem-Solution Approach for Java Microservices and Cloud-Native Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801136/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801136/",
+      "isbn": "9798868801136",
+      "format": "book"
+    },
+    {
+      "title": "8. Portraying Cilium Use Cases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812583/chapter/html/637001_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812583/chapter/html/637001_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Container as a Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789134612/chapter/47aebb69-91e5-4375-bf84-8bb0ecd8cbe6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789134612/chapter/47aebb69-91e5-4375-bf84-8bb0ecd8cbe6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cluster management solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127555/chapter/ch28s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127555/chapter/ch28s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Building Native Images with GraalVM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813009/chapter/html/625177_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813009/chapter/html/625177_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installation and Getting Started",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491988770/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491988770/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Algorithmic Trading Systems and Strategies: A New Approach: Design, Build, and Maintain an Effective Strategy Search Mechanism",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803574/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803574/",
+      "isbn": "9798868803574",
+      "format": "book"
+    },
+    {
+      "title": "Container Orchestration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234243/chapter/Text/Chapter_18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234243/chapter/Text/Chapter_18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "High Performance Spark, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098145842/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098145842/",
+      "isbn": "9781098145859",
+      "format": "book"
+    },
+    {
+      "title": "Alternative methods",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789807219/chapter/5aa4f16d-90ee-44be-b601-7f6e0282f859.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789807219/chapter/5aa4f16d-90ee-44be-b601-7f6e0282f859.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Migrate Software Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272527/chapter/html/513834_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272527/chapter/html/513834_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Container Security, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341627697/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341627697/",
+      "isbn": "9798341627703",
+      "format": "book"
+    },
+    {
+      "title": "8. Preparing for Production Deployments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484278154/chapter/html/463857_2_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484278154/chapter/html/463857_2_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076322/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076322/",
+      "isbn": "9781492076339",
+      "format": "book"
+    },
+    {
+      "title": "How to Use IBM Cloud Object Storage When Building and Operating Cloud Native Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738457048/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738457048/",
+      "isbn": "9780738457048",
+      "format": "book"
+    },
+    {
+      "title": "Docker for stateful applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462923/chapter/7dca08ae-043a-4af6-a681-464e80b16afe.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462923/chapter/7dca08ae-043a-4af6-a681-464e80b16afe.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Machine Learning in Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394220618/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394220618/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "32 Containers and Ubuntu",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134985497/chapter/ch32.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134985497/chapter/ch32.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring Cloud-Native Applications: Lead Agile Operations Confidently Using Open Source Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268889/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268889/",
+      "isbn": "9781484268889",
+      "format": "book"
+    },
+    {
+      "title": "About the Editors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492081487/chapter/afterword02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492081487/chapter/afterword02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multi-Prem Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098110970/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098110970/",
+      "isbn": "9781098110963",
+      "format": "book"
+    },
+    {
+      "title": "Programming PyTorch for Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045342/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045342/",
+      "isbn": "9781492045359",
+      "format": "book"
+    },
+    {
+      "title": "Modern Data Protection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492094043/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492094043/",
+      "isbn": "9781492094050",
+      "format": "book"
+    },
+    {
+      "title": "Creating a Fargate Cluster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789959567/chapter/df682f9a-3601-4c58-9c78-969fdbb6b33a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789959567/chapter/df682f9a-3601-4c58-9c78-969fdbb6b33a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Related publications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0783442119/chapter/8358bibl.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/0783442119/chapter/8358bibl.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is gcloud?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836654/chapter/1f686db4-e6ad-4a00-bc67-2d926ce10c4e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836654/chapter/1f686db4-e6ad-4a00-bc67-2d926ce10c4e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multi-Cloud Handbook for Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804618707/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804618707/",
+      "isbn": "9781804618707",
+      "format": "book"
+    },
+    {
+      "title": "IBM Cloud Private Application Developer's Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738457628/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738457628/",
+      "isbn": "9780738457628",
+      "format": "book"
+    },
+    {
+      "title": "Virtualization versus containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789613377/chapter/661d8068-c1ac-4cd3-8867-97f249dbaef1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789613377/chapter/661d8068-c1ac-4cd3-8867-97f249dbaef1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Python for DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835081167/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835081167/",
+      "isbn": "9781835081167",
+      "format": "book"
+    },
+    {
+      "title": "Docker: Up & Running, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492036722/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492036722/",
+      "isbn": "9781492036739",
+      "format": "book"
+    },
+    {
+      "title": "Ballerina: A Language for Network-Distributed Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492061168/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492061168/",
+      "isbn": "9781492061151",
+      "format": "book"
+    },
+    {
+      "title": "Stay Sharp in Cloud and DevOps – Join 44,000+ Subscribers of CloudPro",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836203513/chapter/Section0004.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836203513/chapter/Section0004.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Computing Demystified for Aspiring Professionals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803243313/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803243313/",
+      "isbn": "9781803243313",
+      "format": "book"
+    },
+    {
+      "title": "AI Agents: The Definitive Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0642572247775/",
+      "url": "https://learning.oreilly.com/api/v1/book/0642572247775/",
+      "isbn": "9798341666931",
+      "format": "book"
+    },
+    {
+      "title": "Apache Pulsar Versus Apache Kafka",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076551/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076551/",
+      "isbn": "9781492076544",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Istio Service Mesh for Microservices, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492052630/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492052630/",
+      "isbn": "9781492052630",
+      "format": "book"
+    },
+    {
+      "title": "Python Microservices Development - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801076302/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801076302/",
+      "isbn": "9781801076302",
+      "format": "book"
+    },
+    {
+      "title": "Distributed Systems Observability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492033431/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492033431/",
+      "isbn": "9781492033424",
+      "format": "book"
+    },
+    {
+      "title": "IBM Cloud Private System Administrator's Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738457635/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738457635/",
+      "isbn": "9780738457635",
+      "format": "book"
+    },
+    {
+      "title": "Exploring the deployment options",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789347531/chapter/e34f0462-963b-49c7-93b2-fbd9faa7a81f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789347531/chapter/e34f0462-963b-49c7-93b2-fbd9faa7a81f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native Automation with Google Cloud Build",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801816700/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801816700/",
+      "isbn": "9781801816700",
+      "format": "book"
+    },
+    {
+      "title": "What Are Microservices?, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492074946/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492074946/",
+      "isbn": "9781492074939",
+      "format": "book"
+    },
+    {
+      "title": "The existing case of lambda parameters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133271/chapter/fa039018-a4cd-44c5-abe1-0ff7df4c6ff2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133271/chapter/fa039018-a4cd-44c5-abe1-0ff7df4c6ff2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying to OpenShift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491957158/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491957158/",
+      "isbn": "9781491957165",
+      "format": "book"
+    },
+    {
+      "title": "Streaming Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038085/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038085/",
+      "isbn": "9781492038092",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration vs. Continuous Delivery vs. Continuous Deployment, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492088943/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492088943/",
+      "isbn": "9781492088936",
+      "format": "book"
+    },
+    {
+      "title": "What Is Cloud Native?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492055136/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492055136/",
+      "isbn": "9781492055129",
+      "format": "book"
+    },
+    {
+      "title": "Acronyms Lexicon",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803249841/chapter/Text/AcronymLexicon.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803249841/chapter/Text/AcronymLexicon.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A specialized tool for working with Containers - Ansible Container",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788394512/chapter/e372a3e7-dd10-446a-9f0d-91244162b1d3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788394512/chapter/e372a3e7-dd10-446a-9f0d-91244162b1d3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Chaos Engineering from Beginning to End",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492050995/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492050995/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Development with Go: Cloud-Native Programming using Golang with Linux and Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287316/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287316/",
+      "isbn": "9781484287316",
+      "format": "book"
+    },
+    {
+      "title": "4. The Future of Enterprise AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341621381/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341621381/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Your API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836205371/chapter/Text/Chapter_09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836205371/chapter/Text/Chapter_09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Engineering on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247595/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247595/",
+      "isbn": "9781803247595",
+      "format": "book"
+    },
+    {
+      "title": "25. Containers and Serverless",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288207/chapter/html/531503_1_En_25_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288207/chapter/html/531503_1_En_25_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Container security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788832687/chapter/710d45ff-ade8-4f57-9c01-ea32f7b5d8d4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788832687/chapter/710d45ff-ade8-4f57-9c01-ea32f7b5d8d4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. How to Manage Your Apps by Using Orchestration Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174583/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174583/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud-Native Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838554590/chapter/27377621-3532-4513-8045-caa00285fdda.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838554590/chapter/27377621-3532-4513-8045-caa00285fdda.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "59. DevSecOps: Continuous Security Has Come to Stay",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098101381/chapter/ch59.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098101381/chapter/ch59.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. PostgreSQL on Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868808173/chapter/html/626217_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868808173/chapter/html/626217_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Analytics Using Splunk 9.x",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803249414/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803249414/",
+      "isbn": "9781803249414",
+      "format": "book"
+    },
+    {
+      "title": "8. Designing Next-Gen Enterprise Software Systems with Cloud-Native Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289488/chapter/html/528071_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289488/chapter/html/528071_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Additional Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492094388/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492094388/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DevOps with OpenShift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491975954/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491975954/",
+      "isbn": "9781491976616",
+      "format": "book"
+    },
+    {
+      "title": "Automated Machine Learning with Microsoft Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800565319/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800565319/",
+      "isbn": "9781800565319",
+      "format": "book"
+    },
+    {
+      "title": "6. Building Containerized Solutions on Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098173487/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098173487/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "BPF Performance Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136588870/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136588870/",
+      "isbn": "9780136588870",
+      "format": "book"
+    },
+    {
+      "title": "18. Exploring deployment constraints: Understanding the ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295522/chapter/OEBPS/Text/18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295522/chapter/OEBPS/Text/18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Docker Compose to manage services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788295826/chapter/1f4e8abe-8182-49ef-a36c-e631ba30267b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788295826/chapter/1f4e8abe-8182-49ef-a36c-e631ba30267b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Serving",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789132212/chapter/e3c8e4ee-75fb-4ec7-9ca6-751cdb0870aa.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789132212/chapter/e3c8e4ee-75fb-4ec7-9ca6-751cdb0870aa.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Life on the Edge",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142858/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142858/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuring Superset and Using SQL Lab",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992244/chapter/d07245e3-65d6-46b6-ab2f-879e3dd8c49d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992244/chapter/d07245e3-65d6-46b6-ab2f-879e3dd8c49d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Scenarios where Docker is especially useful for Dynamics 365 Business Central sandboxes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789951257/chapter/14388c11-6a35-47a1-8962-aa2657dbc281.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789951257/chapter/14388c11-6a35-47a1-8962-aa2657dbc281.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "SQL Server 2022 Administration Inside Out",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137899845/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137899845/",
+      "isbn": "9780137899845",
+      "format": "book"
+    },
+    {
+      "title": "Big data clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996341/chapter/89270e88-1b9c-46f1-999e-35416ab14acd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996341/chapter/89270e88-1b9c-46f1-999e-35416ab14acd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Using the Cobra CLI Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509311/chapter/f_0075.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509311/chapter/f_0075.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Model Serving Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156008/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156008/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Go Fundamentals: Gopher Guides",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137918416/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137918416/",
+      "isbn": "9780137918416",
+      "format": "book"
+    },
+    {
+      "title": "14. MySQL in the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492085911/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492085911/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learning VMware Workstation for Windows: Implementing and Managing VMware’s Desktop Hypervisor Solution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484299692/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484299692/",
+      "isbn": "9781484299692",
+      "format": "book"
+    },
+    {
+      "title": "A. Abbreviations and Acronyms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098153816/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098153816/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Launching and deploying Spark programs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789616729/chapter/4dbd31d2-c1d0-4421-806d-8c331d904222.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789616729/chapter/4dbd31d2-c1d0-4421-806d-8c331d904222.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker in the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042525/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042525/",
+      "isbn": "9781492042525",
+      "format": "book"
+    },
+    {
+      "title": "9 Cloud, DevSecOps, and Software Supply Chain Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394221202/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394221202/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Free versus paid",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789534344/chapter/443d0668-2a21-4a59-b675-5f53ade85943.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789534344/chapter/443d0668-2a21-4a59-b675-5f53ade85943.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing Microservices Architecture on Microsoft Azure with Open Source Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136819295/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136819295/",
+      "isbn": "9780136819295",
+      "format": "book"
+    },
+    {
+      "title": "8. Deploying and Running Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238585/chapter/html/461146_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238585/chapter/html/461146_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adopting DevOps and Cloud Native Culture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492083177/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492083177/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Container Orchestration Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810800/chapter/html/623266_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810800/chapter/html/623266_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Helpful Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492027140/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492027140/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Linux DevOps: Building a Linux Lab for Modern Software Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484283189/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484283189/",
+      "isbn": "9781484283189",
+      "format": "book"
+    },
+    {
+      "title": "10. Containers and Orchestration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257197/chapter/html/486188_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257197/chapter/html/486188_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Container Network Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056690/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056690/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Coding infrastructure and managing deployments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437616/chapter/OEBPS/Text/07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437616/chapter/OEBPS/Text/07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "80. The Yin and Yang of Big Data Scalability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492062400/chapter/ch80.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492062400/chapter/ch80.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Deciding on Digital Architectural Frameworks and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296578/chapter/html/606825_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296578/chapter/html/606825_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitor containers with OMS Log Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469090/chapter/2a5dd2a4-9c47-46d5-a50d-3b991a9116fc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469090/chapter/2a5dd2a4-9c47-46d5-a50d-3b991a9116fc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Containers in Cisco IOS-XE, IOS-XR, and NX-OS: Orchestration and Operation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135783085/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135783085/",
+      "isbn": "9780135783085",
+      "format": "book"
+    },
+    {
+      "title": "Wireshark for Network Forensics: An Essential Guide for IT and Cloud Professionals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290019/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290019/",
+      "isbn": "9781484290019",
+      "format": "book"
+    },
+    {
+      "title": "Implementation Guide for IBM Elastic Storage System 5000",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459226/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459226/",
+      "isbn": "9780738459226",
+      "format": "book"
+    },
+    {
+      "title": "2. Foundations Are Important",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098178000/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098178000/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "An Insiders Guide to Cloud Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137935819/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137935819/",
+      "isbn": "9780137935819",
+      "format": "book"
+    },
+    {
+      "title": "9. Setting Up Flink for Streaming Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491974285/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491974285/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Open Source in the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492041986/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492041986/",
+      "isbn": "9781492041979",
+      "format": "book"
+    },
+    {
+      "title": "Practical Spring Cloud Function: Developing Cloud-Native Functions for Multi-Cloud and Hybrid-Cloud Environments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289136/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289136/",
+      "isbn": "9781484289136",
+      "format": "book"
+    },
+    {
+      "title": "Google container engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288591/chapter/8f1a1e13-90e7-4857-b616-686463e804c1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288591/chapter/8f1a1e13-90e7-4857-b616-686463e804c1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Windows Server 2019 Inside Out",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135492222/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135492222/",
+      "isbn": "9780135492222",
+      "format": "book"
+    },
+    {
+      "title": "Serverless Apps on Cloudflare",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651452/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651452/",
+      "isbn": "9798888650714",
+      "format": "book"
+    },
+    {
+      "title": "16 Containerization in cloud computing for OS-level virtualization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000821451/chapter/xhtml/chapter16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000821451/chapter/xhtml/chapter16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Microsoft SQL Server 2019",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838826215/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838826215/",
+      "isbn": "9781838826215",
+      "format": "book"
+    },
+    {
+      "title": "Windows Containers for IT Pros: Transitioning Existing Applications to Containers for On-premises, Cloud, or Hybrid",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266861/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266861/",
+      "isbn": "9781484266861",
+      "format": "book"
+    },
+    {
+      "title": "5. Testing, Deploying, and Scaling Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812675/chapter/html/639857_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812675/chapter/html/639857_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B12346_Backmatters_Final_JC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805864/chapter/B12346_Backmatters_Final_JC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805864/chapter/B12346_Backmatters_Final_JC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Design X-Rays",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505795/chapter/f_0079.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505795/chapter/f_0079.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Containerized infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788296403/chapter/b2eac7a3-b724-4a6a-b585-403dbdcc2ded.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788296403/chapter/b2eac7a3-b724-4a6a-b585-403dbdcc2ded.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine learning and the IoT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298599/chapter/9b6df3ea-d3c0-49d0-af65-20afb5c148ba.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298599/chapter/9b6df3ea-d3c0-49d0-af65-20afb5c148ba.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learn Windows Subsystem for Linux: A Practical Guide for Developers and IT Professionals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484260388/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484260388/",
+      "isbn": "9781484260388",
+      "format": "book"
+    },
+    {
+      "title": "9 Data Convergence for High-Performance Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000485172/chapter/html/ch21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000485172/chapter/html/ch21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. The Impact of Containers on Networking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464859/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464859/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Providing Application Runtime Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150341/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150341/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Strategy 1: Create a Unified Infrastructure Control Plane",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492091547/chapter/afterword01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492091547/chapter/afterword01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Comprehensive platform and tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788399234/chapter/9332752f-9fa0-40aa-b7ec-2c4e0e20698e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788399234/chapter/9332752f-9fa0-40aa-b7ec-2c4e0e20698e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Orchestrating, clustering, and managing containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491965221/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491965221/",
+      "isbn": "9781491965221",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Microservices: A Hands-on Approach to Microservice Infrastructure and Tooling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484228869/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484228869/",
+      "isbn": "9781484228869",
+      "format": "book"
+    },
+    {
+      "title": "Running ESXi on a Raspberry Pi: Installing VMware ESXi on Raspberry Pi 4 to run Linux virtual machines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274651/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274651/",
+      "isbn": "9781484274651",
+      "format": "book"
+    },
+    {
+      "title": "Linux Administration: A Beginner's Guide, Eighth Edition, 8th Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260441710/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260441710/",
+      "isbn": "9781260441710",
+      "format": "book"
+    },
+    {
+      "title": "Scale only what needs to scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788291200/chapter/468fa60e-ee2c-4896-849f-7f71a9169236.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788291200/chapter/468fa60e-ee2c-4896-849f-7f71a9169236.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Infrastructure Security Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289365/chapter/html/529802_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289365/chapter/html/529802_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Open Source Ate Software: Understand the Open Source Movement and So Much More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238943/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238943/",
+      "isbn": "9781484238943",
+      "format": "book"
+    },
+    {
+      "title": "Setting Up a TensorFlow Lab",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800200883/chapter/Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800200883/chapter/Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Enterprise React: Become an Effective React Developer in Your Team",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484269756/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484269756/",
+      "isbn": "9781484269756",
+      "format": "book"
+    },
+    {
+      "title": "Languages and system evolution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789804072/chapter/77dd958f-cd0a-47dc-a4b9-b2f2522c9d82.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789804072/chapter/77dd958f-cd0a-47dc-a4b9-b2f2522c9d82.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-on Azure Cognitive Services: Applying AI and Machine Learning for Richer Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272497/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272497/",
+      "isbn": "9781484272497",
+      "format": "book"
+    },
+    {
+      "title": "9. Deploying Java in the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098149338/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098149338/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Deploying to Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492083283/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492083283/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker in Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617292729/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617292729/",
+      "isbn": "9781617292729",
+      "format": "book"
+    },
+    {
+      "title": "Putting Your Reactive Toolbox to Work",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492077336/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492077336/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Book’s Tech Stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651575/chapter/f_0015.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651575/chapter/f_0015.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Independent deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788629775/chapter/ff15115a-29f0-440f-a44e-e2884a1e6d89.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788629775/chapter/ff15115a-29f0-440f-a44e-e2884a1e6d89.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B22384_TOC_for_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835883501/chapter/B22384_TOC_for_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835883501/chapter/B22384_TOC_for_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B21720_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835460474/chapter/B21720_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835460474/chapter/B21720_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DevSecOps for .NET Core: Securing Modern Software Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258507/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258507/",
+      "isbn": "9781484258507",
+      "format": "book"
+    },
+    {
+      "title": "Microsoft Azure Security Center, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137343461/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137343461/",
+      "isbn": "9780137343461",
+      "format": "book"
+    },
+    {
+      "title": "7. Deployment and Scaling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295113/chapter/html/603470_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295113/chapter/html/603470_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Containerization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835824/chapter/81c79eef-369a-4a2d-9b05-ceb6dd9f76fb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835824/chapter/81c79eef-369a-4a2d-9b05-ceb6dd9f76fb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Various approaches to deployment automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808896/chapter/2ba0070a-9ed2-4cab-99de-66d7ccfbaaf9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808896/chapter/2ba0070a-9ed2-4cab-99de-66d7ccfbaaf9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "32. Other VMware Products",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802089/chapter/html/609351_1_En_32_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802089/chapter/html/609351_1_En_32_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Azure API Management: A Practical Approach to Designing and Implementing an API-Centric Enterprise Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280119/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280119/",
+      "isbn": "9781484280119",
+      "format": "book"
+    },
+    {
+      "title": "Implementing DevSecOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804616734/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804616734/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "MongoDB Topology Design: Scalability, Security, and Compliance on a Global Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258170/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258170/",
+      "isbn": "9781484258170",
+      "format": "book"
+    },
+    {
+      "title": "3. Orchestration and Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789532401/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789532401/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Open Source Ate Software: Understand the Open Source Movement and So Much More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268001/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268001/",
+      "isbn": "9781484268001",
+      "format": "book"
+    },
+    {
+      "title": "13. Spring Cloud with Spring Boot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292945/chapter/html/340891_3_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292945/chapter/html/340891_3_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Microservices with Node.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838985936/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838985936/",
+      "isbn": "9781838985936",
+      "format": "book"
+    },
+    {
+      "title": "3. Dedicated Game Servers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289105/chapter/html/523409_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289105/chapter/html/523409_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Modernizing with hybrid cloud and multicloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801077972/chapter/B17153_03_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801077972/chapter/B17153_03_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Running Java in containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298875/chapter/OEBPS/Text/12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298875/chapter/OEBPS/Text/12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Other Ways to Leverage Copilot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164645/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164645/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Job Interview Questions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098136574/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098136574/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Terraform in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296895/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296895/",
+      "isbn": "9781617296895",
+      "format": "book"
+    },
+    {
+      "title": "8. eBPF for Networking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098135119/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098135119/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learning VMware Workstation Pro for Windows: Volume 2: Implementing and Managing VMware’s Desktop Hypervisor Solution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868808647/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868808647/",
+      "isbn": "9798868808647",
+      "format": "book"
+    },
+    {
+      "title": "13. Ansible and Containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098109141/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098109141/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing CI/CD Using Azure Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804612491/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804612491/",
+      "isbn": "9781804612491",
+      "format": "book"
+    },
+    {
+      "title": "Configuration Specifics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492029496/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492029496/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "LLMs in Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437203/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437203/",
+      "isbn": "9781633437203",
+      "format": "book"
+    },
+    {
+      "title": "Pro Windows Subsystem for Linux (WSL): Powerful Tools and Practices for Cross-Platform Development and Collaboration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268735/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268735/",
+      "isbn": "9781484268735",
+      "format": "book"
+    },
+    {
+      "title": "SQL Server Big Data Clusters: Data Virtualization, Data Lake, and AI Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484259856/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484259856/",
+      "isbn": "9781484259856",
+      "format": "book"
+    },
+    {
+      "title": "5. Running in Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492052753/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492052753/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cisco Certified DevNet Professional DEVCOR 350-901 Official Cert Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137370337/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137370337/",
+      "isbn": "9780137370337",
+      "format": "book"
+    },
+    {
+      "title": "2. Big Data Cluster Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251102/chapter/html/480532_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251102/chapter/html/480532_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Orchestration, Clustering, and Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491915752/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491915752/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Alternate strategies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468550/chapter/ch10s09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468550/chapter/ch10s09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deployment Platforms, Infrastructure, and Continuous Delivery of Java Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491986011/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491986011/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Protecting Compute Resources (Servers and Containers)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836204879/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836204879/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Service Fabric as an orchestrator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121140/chapter/511fd404-2ed8-4ac0-a0ba-b0788202fd2f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121140/chapter/511fd404-2ed8-4ac0-a0ba-b0788202fd2f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "SQL Server 2019 Administration: Inside Out",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135561034/chapter/ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135561034/chapter/ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Cloud Computing and Edge Cloud Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289280/chapter/html/532121_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289280/chapter/html/532121_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern Systems Programming with Scala Native",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507485/chapter/f_0093.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507485/chapter/f_0093.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building and deploying containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121638/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121638/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Scalable AI Infrastructure and Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801587/chapter/html/609555_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801587/chapter/html/609555_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789950229/chapter/48e7bb91-4a59-4c0b-9d83-15ccc28dc91b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789950229/chapter/48e7bb91-4a59-4c0b-9d83-15ccc28dc91b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multicloud Infrastructure Orchestration and Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492050407/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492050407/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Microservices Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788470049/chapter/be5c3e42-0b11-4def-9b38-bca7a932ae54.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788470049/chapter/be5c3e42-0b11-4def-9b38-bca7a932ae54.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Application Deployment and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137500031/chapter/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137500031/chapter/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Red Hat Hybrid Cloud Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264348/chapter/html/498969_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264348/chapter/html/498969_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying to the cloud with Docker compose",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788626859/chapter/b81b9c2f-ccee-4d48-8306-ec150e6eef47.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788626859/chapter/b81b9c2f-ccee-4d48-8306-ec150e6eef47.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kafka Streams in a nutshell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788997829/chapter/6ce7622e-601d-4eff-9b56-4c7608c0bc6c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788997829/chapter/6ce7622e-601d-4eff-9b56-4c7608c0bc6c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Contrasting Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492041795/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492041795/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AWS Observability Handbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804616710/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804616710/",
+      "isbn": "9781804616710",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Go - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838559335/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838559335/",
+      "isbn": "9781838559335",
+      "format": "book"
+    },
+    {
+      "title": "Serverless as a Game Changer: How to Get the Most Out of the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137392674/chapter/pref01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137392674/chapter/pref01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Grokking Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298257/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298257/",
+      "isbn": "9781617298257",
+      "format": "book"
+    },
+    {
+      "title": "Service instance per container",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474030/chapter/1f1a0f1f-9dcf-435a-a68b-e061adc7cde3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474030/chapter/1f1a0f1f-9dcf-435a-a68b-e061adc7cde3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Deploying Your Aspire-Based System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815218/chapter/html/641668_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815218/chapter/html/641668_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Productionizing Your AI Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800209848/chapter/B15967_12_Final_SMP.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800209848/chapter/B15967_12_Final_SMP.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spark-based model deployment for large-scale dataset",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788479042/chapter/288e7028-eff4-4895-8711-f015deeff8f8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788479042/chapter/288e7028-eff4-4895-8711-f015deeff8f8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Microsoft Azure Service Fabric, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781509307135/chapter/xhtml/bm01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781509307135/chapter/xhtml/bm01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Networking and orchestration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472906/chapter/ch10s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472906/chapter/ch10s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker Swarm Mode",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787289703/chapter/c1831306-1c08-42f0-a313-ad977c1971f5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787289703/chapter/c1831306-1c08-42f0-a313-ad977c1971f5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Greenplum",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492058137/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492058137/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "FinOps for the Container World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492054610/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492054610/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Azure Chaos Studio and Azure Load Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815454/chapter/html/521227_2_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815454/chapter/html/521227_2_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. GCP Core Compute and Data Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098154752/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098154752/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Cloud-Native and Data-Centric Approaches",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868816949/chapter/html/657802_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868816949/chapter/html/657802_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Go by Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299896/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299896/",
+      "isbn": "9781617299896",
+      "format": "book"
+    },
+    {
+      "title": "Simplifying Automation with AWX and Ansible",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956481/chapter/c6764383-9e6b-4534-8cc8-8cad610c6ac7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956481/chapter/c6764383-9e6b-4534-8cc8-8cad610c6ac7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Using more nonfile emitting techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298141/chapter/OEBPS/Text/13.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298141/chapter/OEBPS/Text/13.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Apache Kafka in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437593/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437593/",
+      "isbn": "9781633437593",
+      "format": "book"
+    },
+    {
+      "title": "4. Oracle IaaS—Cloud-Native Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138029777/chapter/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138029777/chapter/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Single-Node Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491983638/chapter/part01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491983638/chapter/part01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using ansible-container run",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789951547/chapter/c6b52195-cd8c-4f8b-95a3-edef4485efb3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789951547/chapter/c6b52195-cd8c-4f8b-95a3-edef4485efb3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Building Clusters as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098114664/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098114664/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Ansible Container",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789532937/chapter/53dd625b-abca-4acb-89a4-7ff3b4102b60.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789532937/chapter/53dd625b-abca-4acb-89a4-7ff3b4102b60.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The cloud native runtimes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787129313/chapter/ad394abf-f565-4be7-a71a-fb7eba02da21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787129313/chapter/ad394abf-f565-4be7-a71a-fb7eba02da21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker Containers for Network Engineers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234618/chapter/Text/Chapter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234618/chapter/Text/Chapter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Azure Container Ecosystem: Azure Container Registry, Azure Container Instances, and Azure Container Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293003/chapter/html/536931_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293003/chapter/html/536931_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Release It! Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680504552/chapter/f_0103.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680504552/chapter/f_0103.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JBoss Fuse architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788296199/chapter/a7a0b652-6d7b-416d-83d0-06285aaa094a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788296199/chapter/a7a0b652-6d7b-416d-83d0-06285aaa094a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Maintaining and deprecating documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272176/chapter/html/505277_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272176/chapter/html/505277_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Welcome to the Jungle: Adidas Cloud Native Transformation Case Study",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048893/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048893/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Azure Compute Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098167813/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098167813/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other_Books_You_May_Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789343625/chapter/Text/other_books_you_may_enjoy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789343625/chapter/Text/other_books_you_may_enjoy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Azure Chaos Studio (Preview) and Azure Load Testing (Preview)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287040/chapter/html/521227_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287040/chapter/html/521227_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Infrastructure as Code, Patterns and Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298295/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298295/",
+      "isbn": "9781617298295",
+      "format": "book"
+    },
+    {
+      "title": "10.3 JSON in Bash",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806024872/chapter/10_003.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806024872/chapter/10_003.html",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

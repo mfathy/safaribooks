@@ -1,0 +1,4242 @@
+{
+  "skill_name": "documentation",
+  "discovery_timestamp": 1759704257.1065373,
+  "total_books": 605,
+  "books": [
+    {
+      "title": "Crafting Docs for Success: An End-to-End Approach to Developer Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295946/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295946/",
+      "isbn": "9781484295946",
+      "format": "book"
+    },
+    {
+      "title": "Living Documentation: Continuous Knowledge Sharing by Design, First Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134689418/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134689418/",
+      "isbn": "9780134689418",
+      "format": "book"
+    },
+    {
+      "title": "Hyperdocumentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786306449/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786306449/",
+      "isbn": "9781786306449",
+      "format": "book"
+    },
+    {
+      "title": "Technical Documentation and Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439861608/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439861608/",
+      "isbn": "9781351833035",
+      "format": "book"
+    },
+    {
+      "title": "Engineering Documentation Control / Configuration Management Standards Manual",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119479031/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119479031/",
+      "isbn": "9781119479031",
+      "format": "book"
+    },
+    {
+      "title": "Managing the Documentation Maze: Answers to Questions You Didn't Even Know to Ask",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470467084/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470467084/",
+      "isbn": "9780470467084",
+      "format": "book"
+    },
+    {
+      "title": "Information Development: Managing Your Documentation Projects, Portfolio, and People",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471777113/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471777113/",
+      "isbn": "9780471777113",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Securities Lending Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780273734970/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780273734970/",
+      "isbn": "9780273776444",
+      "format": "book"
+    },
+    {
+      "title": "Export/Import Procedures and Documentation, 5th Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814434758/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814434758/",
+      "isbn": "9780814434758",
+      "format": "book"
+    },
+    {
+      "title": "Export/Import Procedures and Documentation, 4th Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814415504/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814415504/",
+      "isbn": "9780814415511",
+      "format": "book"
+    },
+    {
+      "title": "The Definitive Guide to PCI DSS Version 4: Documentation, Compliance, and Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292884/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292884/",
+      "isbn": "9781484292884",
+      "format": "book"
+    },
+    {
+      "title": "Communicating Design: Developing Web Site Documentation for Design and Planning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321392353/",
+      "url": "https://learning.oreilly.com/api/v1/book/0321392353/",
+      "isbn": "0321392353",
+      "format": "book"
+    },
+    {
+      "title": "Internal Control Audit and Compliance: Documentation and Testing Under the New COSO Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118996218/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118996218/",
+      "isbn": "9781118996218",
+      "format": "book"
+    },
+    {
+      "title": "Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780131385399/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780131385399/",
+      "isbn": "9780131385399",
+      "format": "book"
+    },
+    {
+      "title": "Private Equity Operational Due Diligence: Tools to Evaluate Liquidity, Valuation, and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118113905/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118113905/",
+      "isbn": "9781118113905",
+      "format": "book"
+    },
+    {
+      "title": "Shari'ah Non-compliance Risk Management and Legal Documentations in Islamic Finance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118796863/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118796863/",
+      "isbn": "9781118796863",
+      "format": "book"
+    },
+    {
+      "title": "Modular Web Design: Creating Reusable Components for User Experience Design and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321638311/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321638311/",
+      "isbn": "9780321638311",
+      "format": "book"
+    },
+    {
+      "title": "Advanced ASP.NET Core 8 Security: Move Beyond ASP.NET Documentation and Learn Real Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804946/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804946/",
+      "isbn": "9798868804946",
+      "format": "book"
+    },
+    {
+      "title": "Documentation, Documentation, and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735623231/chapter/ch21s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735623231/chapter/ch21s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. The Infinite Time Suck of Documentation (and Yes, Roadmaps Are Documentation)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098119720/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098119720/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "xs:documentation — Human-targeted documentation.",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596002521/chapter/re16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596002521/chapter/re16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Box and Rust documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438231/chapter/OEBPS/Text/13.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438231/chapter/OEBPS/Text/13.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the Android Developer Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137645794/chapter/ch08s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137645794/chapter/ch08s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Documentation and Technical Writing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098162269/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098162269/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Tangible Direction over Stale Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098159368/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098159368/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Writing technical documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438071/chapter/OEBPS/Text/05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438071/chapter/OEBPS/Text/05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805121800/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805121800/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exercise 55. How to Read Documentation (Featuring pandas)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138270711/chapter/ch55.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138270711/chapter/ch55.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tests as Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651483/chapter/f_0095.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651483/chapter/f_0095.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Asset Management and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098127237/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098127237/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Programming and Documentation Conventions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098130992/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098130992/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B Using Java’s Documentation Comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260463569/chapter/appb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260463569/chapter/appb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Automated Creation of Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176129/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176129/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation and Guides",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651070/chapter/f_0262.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651070/chapter/f_0262.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Preparing and hosting API documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296284/chapter/Text/ch08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296284/chapter/Text/ch08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Technical Communication and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394234493/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394234493/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Living documentation and release evidence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297533/chapter/OEBPS/Text/16.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297533/chapter/OEBPS/Text/16.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Creating UX Design Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803246/chapter/html/613165_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803246/chapter/html/613165_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Phase 4. Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296826/chapter/OEBPS/Text/p4.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296826/chapter/OEBPS/Text/p4.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "API Documentation and Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804617908/chapter/Text/Chapter_02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804617908/chapter/Text/Chapter_02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. A Good Name Is the Best Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098133108/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098133108/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20. Two Stable Pieces of Handbook Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138187651/chapter/ch20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138187651/chapter/ch20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating Command Completion and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509311/chapter/f_0084.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509311/chapter/f_0084.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Importance of test documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624060/chapter/6d85e713-5287-41ea-bd83-36217b4d7593.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624060/chapter/6d85e713-5287-41ea-bd83-36217b4d7593.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "V. Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098134938/chapter/part05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098134938/chapter/part05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "D: Documentation Forms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136788133/chapter/appd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136788133/chapter/appd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Authoring and maintaining documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299919/chapter/OEBPS/Text/08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299919/chapter/OEBPS/Text/08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Requirements Documentation and Tracing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284261219/chapter/xhtml/9781284261257_CH07_06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284261219/chapter/xhtml/9781284261257_CH07_06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. FIPS and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801259/chapter/html/529441_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801259/chapter/html/529441_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Notifications and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837675/chapter/60dc62c2-8492-49bc-97c8-97af1f027adf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837675/chapter/60dc62c2-8492-49bc-97c8-97af1f027adf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "36. Give Data Products a Frontend with Latent Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492062400/chapter/ch36.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492062400/chapter/ch36.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating Your API Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508123/chapter/f_0061.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508123/chapter/f_0061.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Documentation and Reporting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254103/chapter/html/332298_2_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254103/chapter/html/332298_2_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Deal Execution: Legal Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119697107/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119697107/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation – How to Use Sphinx and reStructuredText",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207721/chapter/Text/Chapter_9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207721/chapter/Text/Chapter_9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "28. Documentation and Written Communication",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136500018/chapter/ch28.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136500018/chapter/ch28.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Write One-Sentence Documentation Comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491952689/chapter/ch95.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491952689/chapter/ch95.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.6.4 Java Documentation Comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781299445253/chapter/chapter-41.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781299445253/chapter/chapter-41.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Get to Know Vim’s Built-in Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501629/chapter/f_0011.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501629/chapter/f_0011.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Finding documentation, help, and updates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789531619/chapter/224bd1bd-b359-40be-b947-8d78bb3b2174.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789531619/chapter/224bd1bd-b359-40be-b947-8d78bb3b2174.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.5.10 Java API Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133813036/chapter/ch02lev2sec23.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133813036/chapter/ch02lev2sec23.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring Apple’s Swift Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135264843/chapter/ch02s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135264843/chapter/ch02s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 AU-C 230 Audit Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394152704/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394152704/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838649005/chapter/8922273f-e405-48e1-8da7-0bc6ebed6c60.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838649005/chapter/8922273f-e405-48e1-8da7-0bc6ebed6c60.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Design and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491913529/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491913529/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Obtaining Information, Documentation, and Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284236613/chapter/xhtml/9781284248814_CH05_04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284236613/chapter/xhtml/9781284248814_CH05_04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming and Documentation Conventions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492037248/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492037248/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Aspects of clean documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789957648/chapter/055f43dd-0a7b-46df-9d94-3060d2049749.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789957648/chapter/055f43dd-0a7b-46df-9d94-3060d2049749.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 DOCUMENTATION AND GOOD API PRACTICE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492071211/chapter/xhtml/ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492071211/chapter/xhtml/ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Evaluation, Documentation & Reflection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680458268/chapter/xhtml/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680458268/chapter/xhtml/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Portals across domains: A data analysis task and documentation canvas for data-driven model-based systems engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040261415/chapter/xhtml/ch41.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040261415/chapter/xhtml/ch41.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284206173/chapter/xhtml/9781284236361_CH12_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284206173/chapter/xhtml/9781284236361_CH12_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Documentation, Error Handling, Debugging, and Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263242/chapter/html/340896_4_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263242/chapter/html/340896_4_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding, Testing, and Documentation: the Virtuous Cycle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801076302/chapter/Text/Chapter_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801076302/chapter/Text/Chapter_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Do Docs Better: Integrating Documentation into the Engineering Workflow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491978856/chapter/ch19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491978856/chapter/ch19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Step 5: Create Project Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506129/chapter/f_0131.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506129/chapter/f_0131.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. The Documentation Interlude",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449355722/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449355722/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation website",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789950847/chapter/730b48db-e3e6-42a4-b9d5-1f3f27dd9f1c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789950847/chapter/730b48db-e3e6-42a4-b9d5-1f3f27dd9f1c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Organization and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437777/chapter/Text/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437777/chapter/Text/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Implementing Endpoints and Generating Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815768/chapter/html/641381_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815768/chapter/html/641381_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Type Hints and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174392/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174392/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. The Importance of Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265406/chapter/html/318276_2_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265406/chapter/html/318276_2_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing Documentation and Property-Based Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642655/chapter/b471e869-4481-46b9-a798-85ab88428929.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642655/chapter/b471e869-4481-46b9-a798-85ab88428929.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Generating Documentation with phpDocumentor",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868807794/chapter/html/555356_7_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868807794/chapter/html/555356_7_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Documentation and deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295874/chapter/OEBPS/Text/11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295874/chapter/OEBPS/Text/11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Trying out the Swagger documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789613476/chapter/5c39a0b4-7f66-4d53-9ca6-29c7d634d854.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789613476/chapter/5c39a0b4-7f66-4d53-9ca6-29c7d634d854.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10.7 OpenAPI Specification: Documentation with Swagger",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806108435/chapter/10_007.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806108435/chapter/10_007.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9.14 Documentation of a RESTful API with OpenAPI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806112296/chapter/09_014.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806112296/chapter/09_014.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "23.4 Documentation Comments with Javadoc",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806118434/chapter/23_004.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806118434/chapter/23_004.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9.2 The Online Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806102471/chapter/09_002.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806102471/chapter/09_002.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Building a documentation site",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298882/chapter/Text/Ch04.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298882/chapter/Text/Ch04.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Crafting Exceptional Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802423/chapter/html/607274_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802423/chapter/html/607274_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exposing API documentation using the MicroProfile OpenAPI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642884/chapter/91c00160-2309-4569-b73c-ceec82a857d9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642884/chapter/91c00160-2309-4569-b73c-ceec82a857d9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "94. Read the Documentation—Then Reread It",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076728/chapter/ch94.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076728/chapter/ch94.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Sphinx to produce the documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789531367/chapter/9df27243-dc60-47c7-9f56-df452de12030.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789531367/chapter/9df27243-dc60-47c7-9f56-df452de12030.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Analyzing documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838556877/chapter/2fecc9d6-c088-4f7c-a6f0-a68987bf2f35.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838556877/chapter/2fecc9d6-c088-4f7c-a6f0-a68987bf2f35.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The WCAG documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787120556/chapter/1e155b41-44e7-4f40-8fb7-257a5be6fd06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787120556/chapter/1e155b41-44e7-4f40-8fb7-257a5be6fd06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788470711/chapter/9baf5cec-3fff-4b77-b2ac-d0630c2a7c84.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788470711/chapter/9baf5cec-3fff-4b77-b2ac-d0630c2a7c84.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "07 Roles, responsibilities and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398618671/chapter/content/17_chapter07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398618671/chapter/content/17_chapter07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating documentation generation with sphinx",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789535365/chapter/0872b2e1-66a9-44a6-a1ed-51bd36f1cbc6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789535365/chapter/0872b2e1-66a9-44a6-a1ed-51bd36f1cbc6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Policies, procedures, and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788625821/chapter/fcd90a99-9113-4208-a23f-682b013d3bcb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788625821/chapter/fcd90a99-9113-4208-a23f-682b013d3bcb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation 444",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789356066496/chapter/chapter-328.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789356066496/chapter/chapter-328.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Locating the essential Odoo documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536898/chapter/20e35ec5-bea6-4694-ba83-ed8889419e38.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536898/chapter/20e35ec5-bea6-4694-ba83-ed8889419e38.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation and results verification",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341768/chapter/5052dbea-eec0-40ba-8d6e-70a7842b7fb7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341768/chapter/5052dbea-eec0-40ba-8d6e-70a7842b7fb7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation and Reporting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133226/chapter/54a9a30f-3a45-4af8-b7ea-b9909e372f39.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133226/chapter/54a9a30f-3a45-4af8-b7ea-b9909e372f39.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Read the documentation first!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785889134/chapter/b0a7ba4c-7a32-4b8f-a99e-b7fe8e4f692a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785889134/chapter/b0a7ba4c-7a32-4b8f-a99e-b7fe8e4f692a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "API and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788832502/chapter/7f323180-5abb-428d-89b7-d40a0472e6e0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788832502/chapter/7f323180-5abb-428d-89b7-d40a0472e6e0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing your documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530667/chapter/eb7d8e15-fbe1-4d9f-9e7e-535206c56a59.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530667/chapter/eb7d8e15-fbe1-4d9f-9e7e-535206c56a59.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation saves lives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788629300/chapter/e6c9d009-0a4d-46ad-87a0-25681f13470c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788629300/chapter/e6c9d009-0a4d-46ad-87a0-25681f13470c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Writing a Marketing Website from Proposal to Documentation: Realty",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000963601/chapter/xhtml/Ch013.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000963601/chapter/xhtml/Ch013.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting help and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788627917/chapter/a1a3afb7-9ee8-4407-9d60-7ddf57342087.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788627917/chapter/a1a3afb7-9ee8-4407-9d60-7ddf57342087.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Documentation and Understanding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491965962/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491965962/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Documentation and Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244982/chapter/html/474034_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244982/chapter/html/474034_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Downloading the documentation file – doc13_ed.pdf",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787286702/chapter/ff9c9be1-7607-439c-9be5-9c8a0001f0a3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787286702/chapter/ff9c9be1-7607-439c-9be5-9c8a0001f0a3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tests, Documentation, and Benchmarks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838828103/chapter/56fd3ad8-ea77-4c4c-bc69-d1efec524076.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838828103/chapter/56fd3ad8-ea77-4c4c-bc69-d1efec524076.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Elicitation and documentation of business requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398610132/chapter/content/11_chapter05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398610132/chapter/content/11_chapter05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130966/chapter/8c18ccb2-5896-4561-9b9d-88c364c7091f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130966/chapter/8c18ccb2-5896-4561-9b9d-88c364c7091f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Phase 3: Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780429831485/chapter/chapter-121.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780429831485/chapter/chapter-121.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working software over comprehensive documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836968/chapter/71fae28e-db8f-4741-afc6-4d6a434eed47.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836968/chapter/71fae28e-db8f-4741-afc6-4d6a434eed47.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Support, reviews, and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789532012/chapter/e48c9a36-e379-409e-8577-5e8bf366a02b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789532012/chapter/e48c9a36-e379-409e-8577-5e8bf366a02b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Different types of documentation available in Linux",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789344875/chapter/60f3a27a-d76e-40e4-ae2a-bb018333be87.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789344875/chapter/60f3a27a-d76e-40e4-ae2a-bb018333be87.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating and viewing documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789346572/chapter/91b62092-0f76-4fb5-bf68-a6d66f93ff47.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789346572/chapter/91b62092-0f76-4fb5-bf68-a6d66f93ff47.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Design Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121799/chapter/db45d2b7-3ffe-4fa4-823d-69f2a93f4b2b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121799/chapter/db45d2b7-3ffe-4fa4-823d-69f2a93f4b2b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using official documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789348262/chapter/04167c7e-25da-4ac9-8123-0d03f9e29546.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789348262/chapter/04167c7e-25da-4ac9-8123-0d03f9e29546.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Improving psql and database documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838988821/chapter/0700c19a-3338-4a1f-a104-9410ecb43ffd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838988821/chapter/0700c19a-3338-4a1f-a104-9410ecb43ffd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "In-editor documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838556518/chapter/8004f84f-4882-4a0c-84ff-d7e73b63fb75.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838556518/chapter/8004f84f-4882-4a0c-84ff-d7e73b63fb75.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "API documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788999892/chapter/320456db-10d0-441f-8bd4-771cc6502a15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788999892/chapter/320456db-10d0-441f-8bd4-771cc6502a15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Swift Documentation and Installing Swift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800562158/chapter/Text/Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800562158/chapter/Text/Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Documentation Pillar",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491926772/chapter/part05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491926772/chapter/part05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enforcing documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788399487/chapter/00eb9b53-6ad9-4781-bd07-c6685986c466.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788399487/chapter/00eb9b53-6ad9-4781-bd07-c6685986c466.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding documentation to the package",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996082/chapter/bff65a79-2300-4753-9770-a3d6ab38ca83.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996082/chapter/bff65a79-2300-4753-9770-a3d6ab38ca83.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating Documentation with ExDoc",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491956847/chapter/app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491956847/chapter/app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "D. Documentation Forms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133122282/chapter/app04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133122282/chapter/app04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Documentation and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785889196/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785889196/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Package Documentation and Vignettes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789612998/chapter/dfeecd86-45c5-473a-86b3-e98fcb920d74.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789612998/chapter/dfeecd86-45c5-473a-86b3-e98fcb920d74.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Component documentation (.auradoc)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956719/chapter/92447c3f-9e56-4172-b727-e5ec4c6ab35b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956719/chapter/92447c3f-9e56-4172-b727-e5ec4c6ab35b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The docs.rs documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390637/chapter/cf7c3cb8-9e14-40db-aae6-32965d9661b0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390637/chapter/cf7c3cb8-9e14-40db-aae6-32965d9661b0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "G Tender Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000703658/chapter/chapter-140.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000703658/chapter/chapter-140.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Reporting and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785286124/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785286124/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation of communication",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474030/chapter/2744ad36-8102-4b2b-b5e2-04352e83b4b1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474030/chapter/2744ad36-8102-4b2b-b5e2-04352e83b4b1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing documentation to implement changes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133936/chapter/d16a3b80-a6ca-43e6-8871-8386e9486ea0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133936/chapter/d16a3b80-a6ca-43e6-8871-8386e9486ea0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The SuperTest documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788395540/chapter/2719ad04-bf08-4ae7-b466-816738db9539.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788395540/chapter/2719ad04-bf08-4ae7-b466-816738db9539.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation and evidence collection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788625005/chapter/a01498ab-32e6-4975-8349-33b62d4816f9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788625005/chapter/a01498ab-32e6-4975-8349-33b62d4816f9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Jenkins plugin documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130485/chapter/699b8922-201c-48ee-9a83-97d126b776b2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130485/chapter/699b8922-201c-48ee-9a83-97d126b776b2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Asset Management and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491960370/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491960370/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Need of Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788830751/chapter/2a2fca3a-92c2-4e16-a592-ed3e4b82606c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788830751/chapter/2a2fca3a-92c2-4e16-a592-ed3e4b82606c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Technical Communication and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119092940/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119092940/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Accessing the fastlane documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788398510/chapter/906a6d6c-32bc-415c-aa5d-991906a2c8da.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788398510/chapter/906a6d6c-32bc-415c-aa5d-991906a2c8da.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation macro",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785883323/chapter/7e96f3d8-aadd-45fc-bcb2-ce70437b1f29.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785883323/chapter/7e96f3d8-aadd-45fc-bcb2-ce70437b1f29.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Matplotlib website and online documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788625173/chapter/020b46ed-bda3-417b-9a52-f0b29db4c8ed.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788625173/chapter/020b46ed-bda3-417b-9a52-f0b29db4c8ed.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Gap handling and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788470360/chapter/24aedede-7015-4fdc-8cfa-60c1a5275caa.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788470360/chapter/24aedede-7015-4fdc-8cfa-60c1a5275caa.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Consulting global pipeline libraries documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838643546/chapter/a7a7d992-d32c-4d3e-8656-a97f78617125.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838643546/chapter/a7a7d992-d32c-4d3e-8656-a97f78617125.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Navigating the documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834759/chapter/23df087c-5906-4fc9-89e4-df86214bff52.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834759/chapter/23df087c-5906-4fc9-89e4-df86214bff52.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Requirements Documentation and ABAP Exercise Programs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484228371/chapter/A447555_1_En_31_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484228371/chapter/A447555_1_En_31_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to provide good documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789613377/chapter/2006c53a-e9f2-4e51-b424-ef65b235491a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789613377/chapter/2006c53a-e9f2-4e51-b424-ef65b235491a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Qt documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788399999/chapter/1852e3fe-4dca-4be3-b583-1142d1f9b5af.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788399999/chapter/1852e3fe-4dca-4be3-b583-1142d1f9b5af.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Swagger documentation and OpenAPI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837866/chapter/9acd0b16-641c-40bf-9fa1-1da36be9873e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837866/chapter/9acd0b16-641c-40bf-9fa1-1da36be9873e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Training and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398602953/chapter/content/17_chapter11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398602953/chapter/content/17_chapter11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Diagnostics, Smart Editing, and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484277928/chapter/html/509925_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484277928/chapter/html/509925_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24. Schemas and Generated Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484240724/chapter/html/468476_1_En_24_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484240724/chapter/html/468476_1_En_24_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Library documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788993869/chapter/70104497-e489-485c-9403-9a74a0f8e152.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788993869/chapter/70104497-e489-485c-9403-9a74a0f8e152.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Official documentation of JavaFX",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293822/chapter/3d0e2f57-676a-4322-9d25-b1656a2934e8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293822/chapter/3d0e2f57-676a-4322-9d25-b1656a2934e8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Understanding the Set: Documentation and Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780429807596/chapter/xhtml/Ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780429807596/chapter/xhtml/Ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Providing documentation of Power BI and SSAS data models to BI and business teams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788290142/chapter/5b5c2c94-f65c-460d-a71c-d7a69f41923c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788290142/chapter/5b5c2c94-f65c-460d-a71c-d7a69f41923c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Versioning and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298599/chapter/2522f0d7-65cd-4d84-964c-ce8910c40a13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298599/chapter/2522f0d7-65cd-4d84-964c-ce8910c40a13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Online documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466143/chapter/323970ee-a9fe-4740-8e9f-bb8442b75b0e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466143/chapter/323970ee-a9fe-4740-8e9f-bb8442b75b0e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "International Quality Documentation Standards and Awards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134741062/chapter/xhtml/fileP7001014064000000000000000002737.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134741062/chapter/xhtml/fileP7001014064000000000000000002737.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "BuckleScript documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789340785/chapter/d5c62aa7-ea7f-4f2f-8f57-a7e45478e4ad.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789340785/chapter/d5c62aa7-ea7f-4f2f-8f57-a7e45478e4ad.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Oracle documentation on Actions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464712/chapter/ch09s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464712/chapter/ch09s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation with PlatyPS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788838986/chapter/29e8a796-595f-4324-9202-095b080bdd03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788838986/chapter/29e8a796-595f-4324-9202-095b080bdd03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The attempted solution - Deprecation, warnings, and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126909/chapter/4a2a2529-3839-4696-943d-78422df58587.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126909/chapter/4a2a2529-3839-4696-943d-78422df58587.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "D. GNU Free Documentation License",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134000206/chapter/app04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134000206/chapter/app04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing the documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472678/chapter/cd24bd23-92a3-4bcd-b21b-42627afaa901.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472678/chapter/cd24bd23-92a3-4bcd-b21b-42627afaa901.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Poor source code documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788292481/chapter/020d8d91-4b32-43fe-8cc5-2a0d0556bc28.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788292481/chapter/020d8d91-4b32-43fe-8cc5-2a0d0556bc28.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Auto Documentation in Data Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782176565/chapter/ch06s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782176565/chapter/ch06s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Review application documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789612073/chapter/1d5668ac-182e-4007-9448-55f13e0a6187.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789612073/chapter/1d5668ac-182e-4007-9448-55f13e0a6187.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Self-documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787287440/chapter/2442ad1a-4c1c-45fc-89d0-81eaaa95b9a2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787287440/chapter/2442ad1a-4c1c-45fc-89d0-81eaaa95b9a2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Executable documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836111/chapter/8179300f-ab0c-4bc9-aede-e2ef7639f248.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836111/chapter/8179300f-ab0c-4bc9-aede-e2ef7639f248.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Documentation: Read the Manual",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449372644/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449372644/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14.8. Generating Documentation with scaladoc",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449340292/chapter/ch14s09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449340292/chapter/ch14s09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Internal documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298704/chapter/ch19s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298704/chapter/ch19s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Crime Scene Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781317435389/chapter/xhtml/Ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781317435389/chapter/xhtml/Ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CommonMark documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341171/chapter/12de1f3e-7f44-46c7-825b-66c238a846f2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341171/chapter/12de1f3e-7f44-46c7-825b-66c238a846f2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation and Reproducibility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629604855/chapter/spjmpmktdat/html/p0h1hilc3n9o01n1pfyvgz0pyps6.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629604855/chapter/spjmpmktdat/html/p0h1hilc3n9o01n1pfyvgz0pyps6.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced documentation tips",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788292740/chapter/d5cee0a6-4c9d-4a7c-8c4c-d390a5117185.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788292740/chapter/d5cee0a6-4c9d-4a7c-8c4c-d390a5117185.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AWS documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293723/chapter/4f913da2-b758-4ace-9f5a-f309b4c8c4b7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293723/chapter/4f913da2-b758-4ace-9f5a-f309b4c8c4b7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "MongoDB documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789617870/chapter/2b097529-c383-4b9e-a61e-dc29b12a7492.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789617870/chapter/2b097529-c383-4b9e-a61e-dc29b12a7492.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Filtering an API from Swagger's documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127562/chapter/297a4d56-3eb0-44f3-a454-39d36e17e84a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127562/chapter/297a4d56-3eb0-44f3-a454-39d36e17e84a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developer documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785881114/chapter/6821c5bc-e852-4118-8537-8ce1089f463f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785881114/chapter/6821c5bc-e852-4118-8537-8ce1089f463f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating documentation using Cargo",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785884306/chapter/63faff3b-e8a4-4283-9171-90e84ada6c62.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785884306/chapter/63faff3b-e8a4-4283-9171-90e84ada6c62.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Stories as documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835015/chapter/74e9dc59-f549-4b0f-a7d2-3044c691c1bb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835015/chapter/74e9dc59-f549-4b0f-a7d2-3044c691c1bb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Naming conventions for documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782173830/chapter/ch10s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782173830/chapter/ch10s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Aiding the documentation effort",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788299671/chapter/bf211f86-5fff-41b3-a494-085d0504d3f3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788299671/chapter/bf211f86-5fff-41b3-a494-085d0504d3f3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Gathering resources and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789342055/chapter/3872a15a-975b-4ea2-a06a-dec6e970a9fb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789342055/chapter/3872a15a-975b-4ea2-a06a-dec6e970a9fb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Swagger 2.0 JSON documentation with API Gateway extensions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788993708/chapter/da004f22-3c59-410d-b614-438f0104c376.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788993708/chapter/da004f22-3c59-410d-b614-438f0104c376.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Downloading API documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127944/chapter/ca4ba9bb-5739-472b-a3fd-5123f0b4ec2f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127944/chapter/ca4ba9bb-5739-472b-a3fd-5123f0b4ec2f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the desc method to add inline documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788831864/chapter/328192d6-b199-4a20-b7cd-9382317ba82e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788831864/chapter/328192d6-b199-4a20-b7cd-9382317ba82e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Moment documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788393935/chapter/55d1efb9-a659-4fd9-81d8-b3bb01c3dbfa.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788393935/chapter/55d1efb9-a659-4fd9-81d8-b3bb01c3dbfa.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating documentation for solidity code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133998/chapter/d531d191-aaf8-49ed-aab1-e416cf6d9937.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133998/chapter/d531d191-aaf8-49ed-aab1-e416cf6d9937.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Customizing Swagger documentation using annotations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787123175/chapter/9414a1b4-a36f-4894-b303-7270a8d88d19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787123175/chapter/9414a1b4-a36f-4894-b303-7270a8d88d19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Step 6: Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780203503041/chapter/chapter-65.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780203503041/chapter/chapter-65.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Product documentation and tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787283435/chapter/ae456800-6197-4320-bc8c-b25df132c48b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787283435/chapter/ae456800-6197-4320-bc8c-b25df132c48b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Consulting Rust documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390019/chapter/808ec572-fc78-4e21-b277-add12e7cbdb1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390019/chapter/808ec572-fc78-4e21-b277-add12e7cbdb1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C. Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133550801/chapter/app03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133550801/chapter/app03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Producing automatic HTML documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788297615/chapter/ch10s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788297615/chapter/ch10s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sphinx documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789531947/chapter/5d66c7ae-79eb-437e-8ac1-725788b867e0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789531947/chapter/5d66c7ae-79eb-437e-8ac1-725788b867e0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Documentation and Reporting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888427/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888427/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Product documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789343717/chapter/9f653343-300e-496d-bfec-21ec0cf2add4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789343717/chapter/9f653343-300e-496d-bfec-21ec0cf2add4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Documentation – How to Use Sphinx and reStructuredText",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787120761/chapter/ch34.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787120761/chapter/ch34.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Swagger documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788291200/chapter/b4dc0890-be3f-4b87-907a-988ab53c53a4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788291200/chapter/b4dc0890-be3f-4b87-907a-988ab53c53a4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Distribution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449394592/chapter/ch03s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449394592/chapter/ch03s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Living Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500677/chapter/f_0018.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500677/chapter/f_0018.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other documentation and organization tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784395070/chapter/1291f763-4b96-48d8-9942-3e297a6296e5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784395070/chapter/1291f763-4b96-48d8-9942-3e297a6296e5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Final Discovery; Project Definition, Scope, and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119161837/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119161837/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python documentation tools and techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788294874/chapter/e84f829d-4992-442d-887a-f9f3146f697c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788294874/chapter/e84f829d-4992-442d-887a-f9f3146f697c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation is your friend",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783986767/chapter/ch07s11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783986767/chapter/ch07s11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Bonus Sample—FMLA Abuse: Failure to Provide Appropriate Medical Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814438589/chapter/xhtml/chapter083a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814438589/chapter/xhtml/chapter083a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25.7 Exploring a Class’s Members and Viewing Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137464180/chapter/xhtml/fileP700101634300000000000000000D5EC.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137464180/chapter/xhtml/fileP700101634300000000000000000D5EC.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "API documentation with the Swagger framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788833912/chapter/94c42f7a-8891-41c5-9c25-ee63408dbedc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788833912/chapter/94c42f7a-8891-41c5-9c25-ee63408dbedc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 The Employment Process: Preparation, Recruitment, Interviewing and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780761215752/chapter/xhtml/Chapter03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780761215752/chapter/xhtml/Chapter03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing SQL Server Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134084473/chapter/ch08lev2sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134084473/chapter/ch08lev2sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using doctest to test documentation examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787283695/chapter/0341c31c-8c20-4f02-ab66-9ac7f2829524.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787283695/chapter/0341c31c-8c20-4f02-ab66-9ac7f2829524.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation on GitHub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789951257/chapter/2638e7a4-cea6-4bd0-9c06-1bf92ebe53a3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789951257/chapter/2638e7a4-cea6-4bd0-9c06-1bf92ebe53a3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Including descriptions and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469250/chapter/93ff6ebf-7f20-4c74-8570-e50dd14eae34.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469250/chapter/93ff6ebf-7f20-4c74-8570-e50dd14eae34.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Forms Documentation: QxQ",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457199912/chapter/Text/appendix.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457199912/chapter/Text/appendix.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Providing the API documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126800/chapter/f37ea28f-4421-4463-ba26-b05d4533ae9e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126800/chapter/f37ea28f-4421-4463-ba26-b05d4533ae9e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using XML documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782164623/chapter/ch02s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782164623/chapter/ch02s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. PDF Software and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449321581/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449321581/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code style and documentation strings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130706/chapter/87cd3c0d-65f0-4b98-8e58-049800ff8695.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130706/chapter/87cd3c0d-65f0-4b98-8e58-049800ff8695.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Documentation and Presentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484221044/chapter/A214898_2_En_13_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484221044/chapter/A214898_2_En_13_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3.2 Broadcast Engineering Documentation Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781317396291/chapter/xhtml/Ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781317396291/chapter/xhtml/Ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The complete code—with added documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293464/chapter/f40559a7-a3ec-477e-b520-e818965f3572.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293464/chapter/f40559a7-a3ec-477e-b520-e818965f3572.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Function documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463517/chapter/ch07s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463517/chapter/ch07s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "F5 USER INTERFACE AND DOCUMENTATION",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780173269/chapter/56_partF5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780173269/chapter/56_partF5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "29. JSDoc: Generating API Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449365028/chapter/ch29.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449365028/chapter/ch29.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "More Exploring of Apple’s Swift Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134077130/chapter/ch03s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134077130/chapter/ch03s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation of Methodologies and Findings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284121858/chapter/xhtml/09_chapter03_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284121858/chapter/xhtml/09_chapter03_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Vendor Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449317843/chapter/apas02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449317843/chapter/apas02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Snappy documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789615531/chapter/ccf60d28-2485-4f26-9ada-124ba66648e7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789615531/chapter/ccf60d28-2485-4f26-9ada-124ba66648e7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Check the documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788392365/chapter/f43d04f3-93e3-4d03-8f83-ee3d86d61a46.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788392365/chapter/f43d04f3-93e3-4d03-8f83-ee3d86d61a46.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Preparing documents – Auto Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782177623/chapter/ch03s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782177623/chapter/ch03s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Control documentation page and inheritance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288942/chapter/3da8aa39-6b8d-4888-a525-5b3704ce4157.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288942/chapter/3da8aa39-6b8d-4888-a525-5b3704ce4157.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Qt's documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789612905/chapter/707863dd-741b-4bba-bd84-f5e1a379704e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789612905/chapter/707863dd-741b-4bba-bd84-f5e1a379704e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation as code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808896/chapter/1580df76-e7bb-4e85-a36b-124ee5fe5c1d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808896/chapter/1580df76-e7bb-4e85-a36b-124ee5fe5c1d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Finding OpenCV documentation, help, and updates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789345360/chapter/cecb1a78-72b3-4e19-b7ea-3571728921ab.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789345360/chapter/cecb1a78-72b3-4e19-b7ea-3571728921ab.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exercise 11.3 – Explore the EF Core documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788398077/chapter/1cca5724-e84c-48a2-8d85-54db0480e431.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788398077/chapter/1cca5724-e84c-48a2-8d85-54db0480e431.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating Javadoc documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784394974/chapter/ch04s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784394974/chapter/ch04s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "HTML Documentation Generator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134131900/chapter/ch05lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134131900/chapter/ch05lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Browsing the Visual Basic and .NET Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134196664/chapter/ch02lev1sec8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134196664/chapter/ch02lev1sec8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The anatomy of a documentation block",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789135565/chapter/629e5b1d-0551-4dc5-85e7-b9f46d71b4c8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789135565/chapter/629e5b1d-0551-4dc5-85e7-b9f46d71b4c8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Passive Documentation and the Need for Findability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491986899/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491986899/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a Documentation Site",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491960936/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491960936/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Developing requirements, user, and/or system documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849285056/chapter/chapter-45.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849285056/chapter/chapter-45.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Executable Documentation with doctest",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987924/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987924/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing without documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785281372/chapter/ch03s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785281372/chapter/ch03s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing testable documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784399085/chapter/ch08s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784399085/chapter/ch08s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Digging into Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502572/chapter/f_0015.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502572/chapter/f_0015.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting access to additional developer documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462688/chapter/apas04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462688/chapter/apas04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Documentation for SCADA Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780124170001/chapter/xhtml/CHP004.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780124170001/chapter/xhtml/CHP004.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Foundation Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133756937/chapter/ch14lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133756937/chapter/ch14lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating rich documentation with JSDoc",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785281006/chapter/ch10s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785281006/chapter/ch10s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reading the API documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788831505/chapter/79456bc6-b961-449a-b94f-c56f65081aa4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788831505/chapter/79456bc6-b961-449a-b94f-c56f65081aa4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Taxonomy of Hardware Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133373912/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133373912/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating an API documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785287411/chapter/ch13s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785287411/chapter/ch13s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Performance and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491947272/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491947272/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation and planning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781483104256/chapter/chapter-83.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781483104256/chapter/chapter-83.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "22. Documentation, Export Licensing, and Other Procedures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484221938/chapter/A314866_2_En_22_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484221938/chapter/A314866_2_En_22_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating documentation for Ionic app",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623230/chapter/62612bb5-c103-43ab-82d8-f98bf371a3b0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623230/chapter/62612bb5-c103-43ab-82d8-f98bf371a3b0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clear documentation of all Odoo configurations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788476959/chapter/84f3bffc-4ce3-40bd-8fd7-9ac024cc6431.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788476959/chapter/84f3bffc-4ce3-40bd-8fd7-9ac024cc6431.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "23. Plain Old Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449321451/chapter/ch23.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449321451/chapter/ch23.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ROS code documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788627436/chapter/8d397b0a-a088-4db3-8f00-1e6fd6148af0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788627436/chapter/8d397b0a-a088-4db3-8f00-1e6fd6148af0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Example – asynchronous API documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788473927/chapter/575729aa-9f2d-4c8d-b45b-175699d09e96.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788473927/chapter/575729aa-9f2d-4c8d-b45b-175699d09e96.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sample APA documentation in presentation files",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133863307/chapter/xhtml/fileP7000496620000000000000000005BDA.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133863307/chapter/xhtml/fileP7000496620000000000000000005BDA.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing the documentation for a package",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783982547/chapter/ch07s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783982547/chapter/ch07s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788396905/chapter/5408b556-e896-489f-983f-27bcd120c7f7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788396905/chapter/5408b556-e896-489f-983f-27bcd120c7f7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Documentation and Support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849688482/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849688482/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building the documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886850/chapter/ch09s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886850/chapter/ch09s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332586987/chapter/chapter-437.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332586987/chapter/chapter-437.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Problem with Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500066/chapter/f_0044.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500066/chapter/f_0044.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PCAOB 3 Audit Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118979044/chapter/c66.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118979044/chapter/c66.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding Back Some Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321660534/chapter/h4_482.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321660534/chapter/h4_482.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating documentation for Groovy code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849519366/chapter/ch02s09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849519366/chapter/ch02s09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Day 22. Network Design and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134392448/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134392448/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Refining Your Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849517867/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849517867/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Administrative Documentation for SAS Data Integration Studio",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629593098/chapter/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629593098/chapter/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Testing and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449369323/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449369323/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Types and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596803940/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596803940/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Microservice documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127685/chapter/29b03ba7-87bf-4645-ab05-3c032b84c1a5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127685/chapter/29b03ba7-87bf-4645-ab05-3c032b84c1a5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Assembly language documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781483135786/chapter/chapter-39.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781483135786/chapter/chapter-39.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation generation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888182/chapter/ch06s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888182/chapter/ch06s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Bukkit API documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785883026/chapter/ch02s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785883026/chapter/ch02s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Documentation and Reporting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849519489/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849519489/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Coding and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9788131758694/chapter/xhtml/chapter011.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9788131758694/chapter/xhtml/chapter011.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "More Developer Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133491876/chapter/ch04s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133491876/chapter/ch04s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 15. Providing Documentation for Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133354461/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133354461/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Enhancements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629600772/chapter/chapter-20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629600772/chapter/chapter-20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JMP Student Edition Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629598963/chapter/chapter-06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629598963/chapter/chapter-06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Project Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596517335/chapter/ch15s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596517335/chapter/ch15s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Task: Create Project Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500530/chapter/f_0128.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500530/chapter/f_0128.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A.2 Ruby Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449356835/chapter/adot2_ruby_documentation.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449356835/chapter/adot2_ruby_documentation.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Documentation Window",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449365783/chapter/ch08s01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449365783/chapter/ch08s01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The General Form of a Documentation Comment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071606325/chapter/appblev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071606325/chapter/appblev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docstrings – RST markup and documentation tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783280971/chapter/pr07s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783280971/chapter/pr07s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Workflow auto documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462787/chapter/ch04s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462787/chapter/ch04s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation with Swagger",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126398/chapter/ch20s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126398/chapter/ch20s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting the Most from Ubuntu and Linux Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133794038/chapter/ch02lev1sec6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133794038/chapter/ch02lev1sec6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Benefits of Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133116007/chapter/ch22lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133116007/chapter/ch22lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Contributing to the Less documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782160663/chapter/ch14s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782160663/chapter/ch14s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24. Documentation in Xcode",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134052793/chapter/ch24.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134052793/chapter/ch24.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation of Research",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781592535576/chapter/chapter-24.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781592535576/chapter/chapter-24.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploration 27: Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430261933/chapter/9781430261933_Ch27.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430261933/chapter/9781430261933_Ch27.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Planning documentation requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782171706/chapter/ch05s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782171706/chapter/ch05s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21 Print Treatments, Editions & Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240821115/chapter/031_9780240821368_ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240821115/chapter/031_9780240821368_ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Java API Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133802092/chapter/app01lev2sec21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133802092/chapter/app01lev2sec21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The administration guide documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783985203/chapter/ch09s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783985203/chapter/ch09s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. The Design Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782177005/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782177005/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Publish Your Documentation on Relish",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222607/chapter/f_0027.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222607/chapter/f_0027.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Help System and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118330340/chapter/xhtml/sec55.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118330340/chapter/xhtml/sec55.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Camera as documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132869249/chapter/part03lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132869249/chapter/part03lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133391480/chapter/ch04lev2sec29.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133391480/chapter/ch04lev2sec29.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Next Steps: Debugging, Documentation, and App Icons",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491909096/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491909096/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Problem determination documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738439029/chapter/chapter-196.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738439029/chapter/chapter-196.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25. Documentation in Xcode",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133751031/chapter/ch25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133751031/chapter/ch25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.2 Broadcast Engineering Documentation Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240807515/chapter/034_9780240807515_chapter2.2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240807515/chapter/034_9780240807515_chapter2.2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Universe Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071773126/chapter/lev1sec99.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071773126/chapter/lev1sec99.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Write and Maintain Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133118025/chapter/ch33lev2sec17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133118025/chapter/ch33lev2sec17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reading Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133475654/chapter/ch10lev1sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133475654/chapter/ch10lev1sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A deployment documentation template",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738437158/chapter/chapter-121.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738437158/chapter/chapter-121.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Fund Operating Environment, Documentation, Financials, and Service Providers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118330692/chapter/c11anchor-8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118330692/chapter/c11anchor-8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Where to Find Additional Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781612907758/chapter/vaxnrgs/html/p1qp9bwglcfuf5n1w9o8ypx5z0tv.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781612907758/chapter/vaxnrgs/html/p1qp9bwglcfuf5n1w9o8ypx5z0tv.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20 Documentation of traditional knowledge: People's Biodiversity Registers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781844070442/chapter/30_Chapter_20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781844070442/chapter/30_Chapter_20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "More OpenCV Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596516130/chapter/ch01s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596516130/chapter/ch01s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Initial History Documentation of Antenatal Woman",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9788131773451/chapter/xhtml/chapter006.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9788131773451/chapter/xhtml/chapter006.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Testing the Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672327988/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672327988/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation in Place",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470259245/chapter/9780470259245_documentation_in_place.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470259245/chapter/9780470259245_documentation_in_place.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6.9 Knowledge Capture from Individuals: The Individual Documentation Problem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780080552200/chapter/chapter-84.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780080552200/chapter/chapter-84.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Documentation Comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132484718/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132484718/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PROBLEM 97 How should I select and implement software tools for project documentation, scheduling, and planning?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814415573/chapter/xhtml/ch97.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814415573/chapter/xhtml/ch97.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing iOS and the Apple Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118462133/chapter/a10_05_9781118462133-ch02.ef.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118462133/chapter/a10_05_9781118462133-ch02.ef.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "SAS Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781599944272/chapter/chapter-227.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781599944272/chapter/chapter-227.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Key documentation (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738436410/chapter/chapter-89.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738436410/chapter/chapter-89.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "XML Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449335441/chapter/ch01s42.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449335441/chapter/ch01s42.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Online Help and Other Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596529833/chapter/ch17s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596529833/chapter/ch17s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C. GNU Free Documentation License—GNU Project—Free Software Foundation (FSF)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596006101/chapter/apc.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596006101/chapter/apc.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding documentation to the Flow Element",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849684224/chapter/ch01s17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849684224/chapter/ch01s17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "GNU Free Documentation License",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593272708/chapter/apds04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593272708/chapter/apds04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Visit documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118023938/chapter/a5_14_9781118023938-ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118023938/chapter/a5_14_9781118023938-ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Resource D: Settlement Documentation Form",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118421529/chapter/both04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118421529/chapter/both04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Ruby Library Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593272944/chapter/pr02s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593272944/chapter/pr02s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7.3 Other international standards, specifications, documentation and information",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780080938431/chapter/chapter-89.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780080938431/chapter/chapter-89.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AU 339: Audit Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118421451/chapter/xhtml/Chapter22.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118421451/chapter/xhtml/Chapter22.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "G. Using the Java API Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137018529/chapter/apg.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137018529/chapter/apg.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sources, documentation, support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449311186/chapter/apcs02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449311186/chapter/apcs02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B WordPress Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132695572/chapter/app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132695572/chapter/app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 7. Working with the Xcode 4 Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132918572/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132918572/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Digital Capture: Extending Your Meeting with Visual Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470601785/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470601785/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "User Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596809591/chapter/ch08s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596809591/chapter/ch08s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Accessing Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118231333/chapter/a9_12_9781118231333-ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118231333/chapter/a9_12_9781118231333-ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Documentation and Reporting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596515829/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596515829/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Orchestration documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738436305/chapter/chapter-67.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738436305/chapter/chapter-67.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cacti documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849513920/chapter/apbs04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849513920/chapter/apbs04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the Visual Studio Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132121057/chapter/h4_242.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132121057/chapter/h4_242.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating and Managing Development Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593271831/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593271831/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JOOMLA!'S DOCUMENTATION",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470928332/chapter/ap002-sec001.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470928332/chapter/ap002-sec001.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14.4. Navigating Emacs Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596006489/chapter/ch14s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596006489/chapter/ch14s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1.16. Learning More About bash Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596526784/chapter/ch01s18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596526784/chapter/ch01s18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. The Documentation Interlude",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596513986/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596513986/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Self-Documentation Methodologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593271190/chapter/ch04s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593271190/chapter/ch04s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "#82 FMLA Abuse: Failure to Provide Appropriate Medical Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814415467/chapter/chapter-116.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814415467/chapter/chapter-116.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating Drawing Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118016824/chapter/ch010-sec017.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118016824/chapter/ch010-sec017.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Documentation, Training, and Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449309688/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449309688/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Finding Inline Documentation and Help",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470877012/chapter/ch002-sec004_26_chapter-02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470877012/chapter/ch002-sec004_26_chapter-02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Design and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596527349/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596527349/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 18. Twitter Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768696684/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768696684/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Class Documentation Pages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449397302/chapter/ch08s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449397302/chapter/ch08s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Referring to the Facebook Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470768730/chapter/ch001-sec015.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470768730/chapter/ch001-sec015.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Beyond the Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780764574818/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780764574818/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IBM Systems Director documentation and other resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738435872/chapter/chapter-36.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738435872/chapter/chapter-36.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Debugging, Validation, and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470477250/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470477250/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Finding MooTools documentation both new and old",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849515689/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849515689/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Source Control and Other Documentation Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430233244/chapter/source_control_and_other_documentation_standards.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430233244/chapter/source_control_and_other_documentation_standards.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Related Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132731645/chapter/app01lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132731645/chapter/app01lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Annotating Your Work, Getting Feedback, and Creating Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780789744968/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780789744968/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Targets",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596100795/chapter/ch10s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596100795/chapter/ch10s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Conventions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321117654/chapter/0321117654_ch00lev1sec7.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321117654/chapter/0321117654_ch00lev1sec7.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "E: Documentation Comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123725110/chapter/chapter-456.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123725110/chapter/chapter-456.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Getting the Most from Xcode Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449399078/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449399078/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "VIII. Technical Documentation Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596527938/chapter/pt08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596527938/chapter/pt08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Job Analysis, Documentation, and Evaluation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470085806/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470085806/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Additional Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430224419/chapter/chapter-57.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430224419/chapter/chapter-57.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Documentation: Explaining Your Code to a Web-Centric World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131429019/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131429019/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Credit derivatives documentation and regulations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780131370463/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780131370463/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25.2 The Perl Online Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593271794/chapter/ch25s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593271794/chapter/ch25s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Documentation with XML Comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470548653/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470548653/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Help and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470525227/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470525227/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Appendices B. WordPress Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780789744364/chapter/apb.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780789744364/chapter/apb.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "J. GNU Free Documentation License",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321670632/chapter/app10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321670632/chapter/app10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Strings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672328623/chapter/0672328623_ch02lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672328623/chapter/0672328623_ch02lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C.3. AppleScript Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596102119/chapter/apcs03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596102119/chapter/apcs03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Considering the Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470415962/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470415962/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "API Documentation via RDoc",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596157487/chapter/ch08s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596157487/chapter/ch08s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Windows PowerShell 1.0 Documentation Pack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735625242/chapter/apbs09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735625242/chapter/apbs09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "E Using the Java API Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132770873/chapter/xhtml/fileP7000478403000000000000000010423.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132770873/chapter/xhtml/fileP7000478403000000000000000010423.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21. Moving from Design to Detailed Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470456491/chapter/ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470456491/chapter/ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "P3P DOCUMENTATION",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470407769/chapter/9780470407769_p3p_documentation.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470407769/chapter/9780470407769_p3p_documentation.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Need for Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735621985/chapter/ch28s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735621985/chapter/ch28s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation and Compliance Reports (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1597490768/chapter/chapter-74.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1597490768/chapter/chapter-74.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Business process documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781847192363/chapter/9781847192363_ch07lvl1sec31.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781847192363/chapter/9781847192363_ch07lvl1sec31.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321678553/chapter/chapter-25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321678553/chapter/chapter-25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C. Generating Documentation for Your C# Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470285817/chapter/apc.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470285817/chapter/apc.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Testing and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781590598214/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781590598214/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the Online .NET Framework Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430210887/chapter/9781430210887_using_the_online_.net_framework_document.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430210887/chapter/9781430210887_using_the_online_.net_framework_document.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The First Experiment: Testing Pattern Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596808310/chapter/ch22s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596808310/chapter/ch22s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation and Help",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137017256/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137017256/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "E. GNU Free Documentation License",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449380243/chapter/ape.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449380243/chapter/ape.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "F. GNU Free Documentation License",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593271763/chapter/apf.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593271763/chapter/apf.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Case Study—Writing a Marketing Web Site from Proposal to Documentation: Prudential Verani Realty",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240808222/chapter/000_9781136134456_chapter10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240808222/chapter/000_9781136134456_chapter10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Accessing ActionScript documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/00120090008SI/chapter/chapter-03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/00120090008SI/chapter/chapter-03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Installation and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781932394849/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781932394849/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Documentation in Xcode",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768682939/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768682939/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sandcastle Documentation Generation Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470229880/chapter/9780470229880_sandcastle_documentation_generation_tool.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470229880/chapter/9780470229880_sandcastle_documentation_generation_tool.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Accessing Online Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596526822/chapter/ch04s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596526822/chapter/ch04s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. GNU Free Documentation License",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781590597866/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781590597866/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Embedded Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596520106/chapter/apbs28.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596520106/chapter/apbs28.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Results Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123708977/chapter/chapter-71.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123708977/chapter/chapter-71.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DOCUMENTATION OF INTERNAL CONTROLS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470169308/chapter/9780470169308_documentation_of_internal_controls.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470169308/chapter/9780470169308_documentation_of_internal_controls.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Project Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596514402/chapter/ch04s12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596514402/chapter/ch04s12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781590598191/chapter/Chapter06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781590598191/chapter/Chapter06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "System documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738485551/chapter/chapter-45.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738485551/chapter/chapter-45.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Documentation (Topic 1.108)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596005288/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596005288/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Plan Documentation (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750679220/chapter/chapter-60.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750679220/chapter/chapter-60.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24. Writing Security Documentation and Error Messages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735617228/chapter/ch24.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735617228/chapter/ch24.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating Documentation with phpDocumentor",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781590599099/chapter/Chapter16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781590599099/chapter/Chapter16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation changes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738485519/chapter/chapter-14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738485519/chapter/chapter-14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hack #38. Usable Documentation for the Inherently Lazy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596100825/chapter/ch04s11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596100825/chapter/ch04s11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Help and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470174029/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470174029/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IBM product documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738489751/chapter/chapter-195.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738489751/chapter/chapter-195.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation guidelines (1/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738496693/chapter/chapter-54.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738496693/chapter/chapter-54.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Warehouse and BI Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471267157/chapter/9780471267157_data_warehouse_and_bi_documentation.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471267157/chapter/9780471267157_data_warehouse_and_bi_documentation.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Compiling the Needed Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672328097/chapter/0672328097_ch05lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672328097/chapter/0672328097_ch05lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation collection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738489603/chapter/chapter-145.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738489603/chapter/chapter-145.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating Documentation Using the Reflection Classes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1593270771/chapter/1593270771_ns1593270771-CHP-14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1593270771/chapter/1593270771_ns1593270771-CHP-14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Plain Old Documentation (POD)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1593270623/chapter/1593270623_ns1593270623-CHP-0-SECT-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1593270623/chapter/1593270623_ns1593270623-CHP-0-SECT-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Help and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471754794/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471754794/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Possessing Detailed Documentation on Your Network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735621749/chapter/9780735621749_ch02lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735621749/chapter/9780735621749_ch02lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation of Data Files",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0132291959/chapter/0132291959_app04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0132291959/chapter/0132291959_app04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developer Documentation and Examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780764573996/chapter/9780764573996_developer_documentation_and_examples.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780764573996/chapter/9780764573996_developer_documentation_and_examples.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "System Architectural Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750676069/chapter/chapter-64.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750676069/chapter/chapter-64.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Detail",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814408926/chapter/chapter-66.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814408926/chapter/chapter-66.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Can I Produce Documentation for Every Object Contained in My Solution?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321397967/chapter/chapter-229.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321397967/chapter/chapter-229.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation of Assumptions and Decisions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596008740/chapter/0596008740_prefactoring-CHP-3-SECT-8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596008740/chapter/0596008740_prefactoring-CHP-3-SECT-8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. VBScript Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735622975/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735622975/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Compiling and Creating Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471919308/chapter/9780471919308_compiling_and_creating_documentation.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471919308/chapter/9780471919308_compiling_and_creating_documentation.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation and Web Links",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738497177/chapter/chapter-242.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738497177/chapter/chapter-242.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C. Documentation of Data Files",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131855247/chapter/apc.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131855247/chapter/apc.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Online System Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321219147/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321219147/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Licenses for Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781558608894/chapter/chapter-55.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781558608894/chapter/chapter-55.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "info (display online documentation)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131853546/chapter/0131853546_app02lev1sec38.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131853546/chapter/0131853546_app02lev1sec38.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7.16 Generating Web-Style Documentation with Javadoc (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780763749637/chapter/chapter-172.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780763749637/chapter/chapter-172.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Serving SOAP Documentation from WSDL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596003722/chapter/ch11s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596003722/chapter/ch11s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1.16. Generating Project Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596007507/chapter/ch01s16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596007507/chapter/ch01s16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rule Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/157870281X/chapter/157870281X_app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/157870281X/chapter/157870281X_app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "xs:documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596100506/chapter/re11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596100506/chapter/re11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Integration into Corporate Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1587052520/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1587052520/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Finding the documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738493899/chapter/chapter-28.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738493899/chapter/chapter-28.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the product documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738497444/chapter/chapter-134.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738497444/chapter/chapter-134.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Individual MBean Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131446045/chapter/0131446045_app02lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131446045/chapter/0131446045_app02lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Using Linux and GNU Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789731274/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789731274/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation program check",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738497290/chapter/chapter-74.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738497290/chapter/chapter-74.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "D. Documentation of Data Files",
+      "id": "https://www.safaribooksonline.com/api/v1/book/013117262X/chapter/apd.html",
+      "url": "https://learning.oreilly.com/api/v1/book/013117262X/chapter/apd.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Review",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201729326/chapter/0201729326_ch10lev1sec8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201729326/chapter/0201729326_ch10lev1sec8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Final Project Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814408100/chapter/9780814408100_ch04lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814408100/chapter/9780814408100_ch04lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Finding Linux Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596006403/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596006403/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The javadoc Documentation Tool",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672328445/chapter/0672328445_app02lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672328445/chapter/0672328445_app02lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738493821/chapter/chapter-132.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738493821/chapter/chapter-132.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Official Product Documentation from Macromedia",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321394143/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321394143/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130260363/chapter/0130260363_ch01lev1sec8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130260363/chapter/0130260363_ch01lev1sec8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Leveraging Installation Documentation, Tools, and Approaches",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789728753/chapter/0789728753_ch11lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789728753/chapter/0789728753_ch11lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the Java API Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136085676/chapter/9780136085676_app10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136085676/chapter/9780136085676_app10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Step 2: Review the deployment documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738498416/chapter/0738498416_ch05lev1sec02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738498416/chapter/0738498416_ch05lev1sec02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Online Documentation Sources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596000022/chapter/0596000022_biblio-5-fm2xml.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596000022/chapter/0596000022_biblio-5-fm2xml.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Job Scheduling Console documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/073849139X/chapter/chapter-72.html",
+      "url": "https://learning.oreilly.com/api/v1/book/073849139X/chapter/chapter-72.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789724650/chapter/0789724650_ch12lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789724650/chapter/0789724650_ch12lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1.10. Create XML Documentation for Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596007264/chapter/ch01s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596007264/chapter/ch01s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Object Model Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130668397/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130668397/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Planning Exchange Server 2003 Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672325810/chapter/0672325810_ch20lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672325810/chapter/0672325810_ch20lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tools and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738491047/chapter/chapter-211.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738491047/chapter/chapter-211.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Test Design and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201794292/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201794292/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Create Documentation from XML Comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596008473/chapter/chapter-192.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596008473/chapter/chapter-192.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing System Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672323729/chapter/0672323729_ch14lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672323729/chapter/0672323729_ch14lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Preparing the Proper Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1587051648/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1587051648/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Portal documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738491691/chapter/chapter-34.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738491691/chapter/chapter-34.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Books and Oracle Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596006217/chapter/apas02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596006217/chapter/apas02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reviewing the planning documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738491764/chapter/chapter-13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738491764/chapter/chapter-13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JBoss Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321268539/chapter/0321268539_ch11lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321268539/chapter/0321268539_ch11lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Manual Pages: Online Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735711011/chapter/0735711011_ch01lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735711011/chapter/0735711011_ch01lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Current-State Configuration Documentation Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131448528/chapter/0131448528_ch07lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131448528/chapter/0131448528_ch07lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "OpenOffice.org Documentation (FAQs)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596007523/chapter/apbs08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596007523/chapter/apbs08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Driver and Database Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565926994/chapter/apas09s01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1565926994/chapter/apas09s01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Linux Documentation Project FAQs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596002726/chapter/ch19s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596002726/chapter/ch19s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Compliance Monitoring and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781555583149/chapter/chapter-18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781555583149/chapter/chapter-18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating internal documentation for the model (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738497711/chapter/chapter-127.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738497711/chapter/chapter-127.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting help from the product documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738497851/chapter/chapter-103.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738497851/chapter/chapter-103.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the Oracle documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738497940/chapter/chapter-30.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738497940/chapter/chapter-30.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Where to find the install documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738499293/chapter/chapter-28.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738499293/chapter/chapter-28.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "100 Thoroughly consider how you store your documentation.",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780874258103/chapter/chapter-112.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780874258103/chapter/chapter-112.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Verifying the Installation Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1587050692/chapter/1587050692_ch07lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1587050692/chapter/1587050692_ch07lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "XML Documentation Comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596003099/chapter/ch13s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596003099/chapter/ch13s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Planning Training and User Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/067232623X/chapter/067232623X_ch14lev1sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/067232623X/chapter/067232623X_ch14lev1sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Comments and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321154940/chapter/0321154940_ch04lev2sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321154940/chapter/0321154940_ch04lev2sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Regulators and documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750655385/chapter/chapter-27.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750655385/chapter/chapter-27.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C. WMI Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735619814/chapter/apc.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735619814/chapter/apc.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation of Project Decisions for Project Approval",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130674494/chapter/0130674494_ch02lev1sec10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130674494/chapter/0130674494_ch02lev1sec10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "II12927 - Documentation for VSAM problems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738453234/chapter/0738453234_app04lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738453234/chapter/0738453234_app04lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "G. GNU Free Documentation License",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596002564/chapter/apg.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596002564/chapter/apg.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the Microsoft Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130225576/chapter/0130225576_ch01lev1sec6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130225576/chapter/0130225576_ch01lev1sec6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Office 2003 Resource Kit Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735618801/chapter/0735618801_ch01lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735618801/chapter/0735618801_ch01lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B. The GNU Free Documentation License",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596003692/chapter/apb.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596003692/chapter/apb.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exercise 2: Using the API Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130461806/chapter/0130461806_ch02lev1sec8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130461806/chapter/0130461806_ch02lev1sec8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Apple Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596004621/chapter/apas01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596004621/chapter/apas01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation During the Planning and Testing Stage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735711925/chapter/0735711925_ch07lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735711925/chapter/0735711925_ch07lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation: Your Essential Discovery Tool",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672323737/chapter/0672323737_ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672323737/chapter/0672323737_ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Information aggregation for technical documentation repository population",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738427411/chapter/chapter-54.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738427411/chapter/chapter-54.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing in the Dark: Should You Proceed without Documentation?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471223986/chapter/9780471223986_testing_in_the_dark_colon_should_you_pro.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471223986/chapter/9780471223986_testing_in_the_dark_colon_should_you_pro.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Examining the .NET Framework Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672325438/chapter/0672325438_ch07lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672325438/chapter/0672325438_ch07lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JAX-RPC API Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130476765/chapter/0130476765_ch18lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130476765/chapter/0130476765_ch18lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Plain Old Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130652067/chapter/0130652067_ch08lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130652067/chapter/0130652067_ch08lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "System Installation and Configuration Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130084581/chapter/0130084581_app03lev1sec8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130084581/chapter/0130084581_app03lev1sec8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Requirements: Documentation or a Conversation?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201844575/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201844575/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Javadoc Provides More than Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/067232427X/chapter/067232427X_ch08lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/067232427X/chapter/067232427X_ch08lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Linux Documentation Project Manuals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/156592469X/chapter/apas02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/156592469X/chapter/apas02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TCPA Specifications, Industry Standards, and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130092207/chapter/0130092207_app01lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130092207/chapter/0130092207_app01lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Perl Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/020177061X/chapter/020177061X_ch04lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/020177061X/chapter/020177061X_ch04lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Java Tools and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789728613/chapter/0789728613_ch02lev1sec9.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789728613/chapter/0789728613_ch02lev1sec9.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Token Ring and FDDI LAN Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1587050390/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1587050390/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Linux Documentation Project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672319853/chapter/0672319853_app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672319853/chapter/0672319853_app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ant Documentation Stylesheet",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596001436/chapter/ch03s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596001436/chapter/ch03s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "32.2. Programming Style as Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735619670/chapter/ch32s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735619670/chapter/ch32s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789722739/chapter/0789722739_ch16lev1sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789722739/chapter/0789722739_ch16lev1sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "SOFTWARE AND DOCUMENTATION",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1578702615/chapter/1578702615_app03lev1sec11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1578702615/chapter/1578702615_app03lev1sec11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Writing the Supporting Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0814471374/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0814471374/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code Structure and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201775972/chapter/0201775972_ch01lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201775972/chapter/0201775972_ch01lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring the LearningSpace documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738426415/chapter/chapter-42.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738426415/chapter/chapter-42.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Unifying Product Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672321750/chapter/0672321750_ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672321750/chapter/0672321750_ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "javadoc — Java API Documentation Generator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130200484/chapter/0130200484_ch10lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130200484/chapter/0130200484_ch10lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "POD (Plain Old Documentation) Files",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672320355/chapter/0672320355_ch20lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672320355/chapter/0672320355_ch20lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "D. GNU Free Documentation License (GFDL)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449323332/chapter/apd.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449323332/chapter/apd.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation Comments (C#)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596003196/chapter/chapter-61.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596003196/chapter/chapter-61.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Server Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565926099/chapter/ch07s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1565926099/chapter/ch07s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The javadoc Tool (Documentation Generator)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789724685/chapter/0789724685_app02lev1sec6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789724685/chapter/0789724685_app02lev1sec6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PREPROCESSING, XML DOCUMENTATION, AND ATTRIBUTES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672321521/chapter/0672321521_ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672321521/chapter/0672321521_ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Standard UML tags for framework documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201675188/chapter/0201675188_ch03lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201675188/chapter/0201675188_ch03lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5.10 Help and Documentation (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780125184069/chapter/chapter-60.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780125184069/chapter/chapter-60.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Importance of Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1578701805/chapter/1578701805_ch01lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1578701805/chapter/1578701805_ch01lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Migration Assistant documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130416568/chapter/0130416568_ch26lev1sec7.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130416568/chapter/0130416568_ch26lev1sec7.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python Documentation and Books",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565924649/chapter/apas03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1565924649/chapter/apas03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Resource Kit Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789729563/chapter/0789729563_app02lev1sec15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789729563/chapter/0789729563_app02lev1sec15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to Determine Trainee Evaluation and Performance Documentation Strategies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1562863029/chapter/1562863029_ch07lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1562863029/chapter/1562863029_ch07lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using UML for Deployment Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672321823/chapter/0672321823_app01lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672321823/chapter/0672321823_app01lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation available",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738423513/chapter/chapter-61.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738423513/chapter/chapter-61.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Web Service Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672321114/chapter/0672321114_ch09lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672321114/chapter/0672321114_ch09lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ab2cd — Run AnswerBook2 Server from the Documentation CD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130277010/chapter/0130277010_ch01lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130277010/chapter/0130277010_ch01lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Including Texinfo Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1578701902/chapter/1578701902_ch11lev1sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1578701902/chapter/1578701902_ch11lev1sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The documentation Element",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672323745/chapter/0672323745_ch07lev1sec7.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672323745/chapter/0672323745_ch07lev1sec7.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Apple-Provided Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672322307/chapter/0672322307_app03lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672322307/chapter/0672322307_app03lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Customizing the Documentation Page",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201774259/chapter/0201774259_ch13lev1sec6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201774259/chapter/0201774259_ch13lev1sec6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Planning and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/078972765X/chapter/078972765X_ch20lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/078972765X/chapter/078972765X_ch20lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735709971/chapter/0735709971_ch01lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735709971/chapter/0735709971_ch01lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Project File Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780787952389/chapter/ch003-sec004.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780787952389/chapter/ch003-sec004.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using JavaHelp for Online Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565927192/chapter/ch01s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1565927192/chapter/ch01s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documentation and Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565926420/chapter/ch13s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1565926420/chapter/ch13s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Linux Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201354373/chapter/0201354373_ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201354373/chapter/0201354373_ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The HTML Version of the Sysmaster Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130796239/chapter/0130796239_ch11lev2sec11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130796239/chapter/0130796239_ch11lev2sec11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "26. Plain Old Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596000278/chapter/ch26.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596000278/chapter/ch26.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "SAS 9.4 Macro Language, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629593050/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629593050/",
+      "isbn": "9781629593050",
+      "format": "book"
+    },
+    {
+      "title": "SAS 9.4 Graph Template Language, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629593111/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629593111/",
+      "isbn": "9781629593128",
+      "format": "book"
+    },
+    {
+      "title": "SAS 9.4 ODS Graphics, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781612909998/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781612909998/",
+      "isbn": "9781629591292",
+      "format": "book"
+    },
+    {
+      "title": "SAS 9.4 Functions and CALL Routines, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629593135/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629593135/",
+      "isbn": "9781629593142",
+      "format": "book"
+    },
+    {
+      "title": "SAS 9.4 Output Delivery System, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629590011/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629590011/",
+      "isbn": "9781629591308",
+      "format": "book"
+    },
+    {
+      "title": "Further reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133202/chapter/c513cc9d-29bb-4839-8afd-e84667e412a2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133202/chapter/c513cc9d-29bb-4839-8afd-e84667e412a2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designed for Use, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501902/chapter/f_0044.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501902/chapter/f_0044.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133417/chapter/475a0af9-e56a-4479-b7bd-6a721981edd7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133417/chapter/475a0af9-e56a-4479-b7bd-6a721981edd7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How it works...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789531732/chapter/2eef8628-9fdf-4aec-bbbb-ca570a67468c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789531732/chapter/2eef8628-9fdf-4aec-bbbb-ca570a67468c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learn about JMP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629605661/chapter/BA_About.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629605661/chapter/BA_About.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Statistics for Business: Decision Making and Analysis, 3/e",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136759102/chapter/longalt/la_669949_18_ex25.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136759102/chapter/longalt/la_669949_18_ex25.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Submission Report",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789344202/chapter/e30d6f6c-a927-41e7-ad53-cf49a04b8b2b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789344202/chapter/e30d6f6c-a927-41e7-ad53-cf49a04b8b2b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "git diff with Path Limiting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596158187/chapter/ch08s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596158187/chapter/ch08s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "There's more...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623797/chapter/6a9d5c4c-47b8-4ebb-be11-505ab1c634a2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623797/chapter/6a9d5c4c-47b8-4ebb-be11-505ab1c634a2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Magento knowledge center",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298025/chapter/ch09s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298025/chapter/ch09s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding the help system",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789804379/chapter/8eec2b8e-d96c-4846-8da4-da814c7afd62.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789804379/chapter/8eec2b8e-d96c-4846-8da4-da814c7afd62.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Backup Management with PowerHA SystemMirror",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738460024/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738460024/",
+      "isbn": "9780738460024",
+      "format": "book"
+    },
+    {
+      "title": "Why wikis are a nice place to document your project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138337/chapter/edc01079-a647-4e8a-b1b0-c058e147bf2d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138337/chapter/edc01079-a647-4e8a-b1b0-c058e147bf2d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596514273/chapter/ch01s11s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596514273/chapter/ch01s11s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up your NativeScript environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787280038/chapter/2745211d-8a46-4e37-a43c-d1b74e1b79ac.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787280038/chapter/2745211d-8a46-4e37-a43c-d1b74e1b79ac.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other recommended GDAL resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293334/chapter/c1f49c56-5494-4858-aab9-c37254b690fc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293334/chapter/c1f49c56-5494-4858-aab9-c37254b690fc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Related publications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459158/chapter/8473bibl.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459158/chapter/8473bibl.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing Minikube",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468390/chapter/4b5bf479-8619-42fb-84d4-0b3f2658bc4b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468390/chapter/4b5bf479-8619-42fb-84d4-0b3f2658bc4b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "arc42 by Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839214356/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839214356/",
+      "isbn": "9781839214356",
+      "format": "book"
+    },
+    {
+      "title": "More information and examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849510820/chapter/ch13s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849510820/chapter/ch13s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Converting Notebooks to reStructedText",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788839440/chapter/b7ed511f-a48f-4820-84e2-7c0ef338efe9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788839440/chapter/b7ed511f-a48f-4820-84e2-7c0ef338efe9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documenting scripts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789538830/chapter/8f3532f6-dcb0-4664-a198-8d21cfeef648.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789538830/chapter/8f3532f6-dcb0-4664-a198-8d21cfeef648.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Assessing and Managing Security Risk in IT Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780203490426/chapter/Table_128_7.2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780203490426/chapter/Table_128_7.2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The aim of this book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782160304/chapter/ch01s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782160304/chapter/ch01s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Looking for help",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784396930/chapter/ch03s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784396930/chapter/ch03s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Additional Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735626232/chapter/ch06s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735626232/chapter/ch06s08.html",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

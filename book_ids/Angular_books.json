@@ -1,0 +1,2800 @@
+{
+  "skill_name": "angular",
+  "discovery_timestamp": 1759698038.0789614,
+  "total_books": 399,
+  "books": [
+    {
+      "title": "Learning Angular - Fifth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835087480/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835087480/",
+      "isbn": "9781835087480",
+      "format": "book"
+    },
+    {
+      "title": "Modern Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436923/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436923/",
+      "isbn": "9781633436923",
+      "format": "book"
+    },
+    {
+      "title": "Pro Angular 16",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436695/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436695/",
+      "isbn": "9781633436695",
+      "format": "book"
+    },
+    {
+      "title": "Effective Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805125532/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805125532/",
+      "isbn": "9781805125532",
+      "format": "book"
+    },
+    {
+      "title": "Angular Design Patterns and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837631971/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837631971/",
+      "isbn": "9781837631971",
+      "format": "book"
+    },
+    {
+      "title": "Reactive Patterns with RxJS and Angular Signals - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835087701/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835087701/",
+      "isbn": "9781835087701",
+      "format": "book"
+    },
+    {
+      "title": "Angular for Enterprise Applications - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805127123/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805127123/",
+      "isbn": "9781805127123",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Angular Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805126089/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805126089/",
+      "isbn": "9781805126089",
+      "format": "book"
+    },
+    {
+      "title": "Angular Cookbook - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803233444/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803233444/",
+      "isbn": "9781803233444",
+      "format": "book"
+    },
+    {
+      "title": "Learning Angular - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803240602/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803240602/",
+      "isbn": "9781803240602",
+      "format": "book"
+    },
+    {
+      "title": "Angular Projects - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803239118/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803239118/",
+      "isbn": "9781803239118",
+      "format": "book"
+    },
+    {
+      "title": "Next-Level UI Development with PrimeNG",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803249810/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803249810/",
+      "isbn": "9781803249810",
+      "format": "book"
+    },
+    {
+      "title": "Pro Angular: Build Powerful and Dynamic Web Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281765/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281765/",
+      "isbn": "9781484281765",
+      "format": "book"
+    },
+    {
+      "title": "Angular for Business: Awaken the Advocate Within and Become the Angular Expert at Work",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296097/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296097/",
+      "isbn": "9781484296097",
+      "format": "book"
+    },
+    {
+      "title": "Reactive Patterns with RxJS for Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801811514/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801811514/",
+      "isbn": "9781801811514",
+      "format": "book"
+    },
+    {
+      "title": "Practical Highcharts with Angular: Your Essential Guide to Creating Real-time Dashboards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484291818/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484291818/",
+      "isbn": "9781484291818",
+      "format": "book"
+    },
+    {
+      "title": "Angular Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838989439/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838989439/",
+      "isbn": "9781838989439",
+      "format": "book"
+    },
+    {
+      "title": "Angular: Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491999820/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491999820/",
+      "isbn": "9781491999837",
+      "format": "book"
+    },
+    {
+      "title": "Angular for Enterprise-Ready Web Applications - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838648800/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838648800/",
+      "isbn": "9781838648800",
+      "format": "book"
+    },
+    {
+      "title": "Angular Development with TypeScript, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295348/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295348/",
+      "isbn": "9781617295348",
+      "format": "book"
+    },
+    {
+      "title": "Angular Projects - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800205260/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800205260/",
+      "isbn": "9781800205260",
+      "format": "book"
+    },
+    {
+      "title": "Building Offline Applications with Angular: Develop Reliable, Performant Web Applications for Desktop and Mobile Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484279304/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484279304/",
+      "isbn": "9781484279304",
+      "format": "book"
+    },
+    {
+      "title": "Angular in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617293313/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617293313/",
+      "isbn": "9781617293313",
+      "format": "book"
+    },
+    {
+      "title": "Pro Angular 9: Build Powerful and Dynamic Web Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484259986/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484259986/",
+      "isbn": "9781484259986",
+      "format": "book"
+    },
+    {
+      "title": "Testing Angular Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617293641/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617293641/",
+      "isbn": "9781617293641",
+      "format": "book"
+    },
+    {
+      "title": "Angular for Material Design: Leverage Angular Material and TypeScript to Build a Rich User Interface for Web Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254349/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254349/",
+      "isbn": "9781484254349",
+      "format": "book"
+    },
+    {
+      "title": "Accelerating Angular Development with Ivy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800205215/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800205215/",
+      "isbn": "9781800205215",
+      "format": "book"
+    },
+    {
+      "title": "Progressive Web Apps with Angular: Create Responsive, Fast and Reliable PWAs Using Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244487/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244487/",
+      "isbn": "9781484244487",
+      "format": "book"
+    },
+    {
+      "title": "Building Large-Scale Web Applications with Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789959567/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789959567/",
+      "isbn": "9781789959567",
+      "format": "book"
+    },
+    {
+      "title": "Learning Angular - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839210662/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839210662/",
+      "isbn": "9781839210662",
+      "format": "book"
+    },
+    {
+      "title": "Why Angular for Enterprise Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492030294/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492030294/",
+      "isbn": "9781492030287",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Angular Components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293532/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293532/",
+      "isbn": "9781788293532",
+      "format": "book"
+    },
+    {
+      "title": "Architecting Angular Applications with Redux, RxJS, and NgRx",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787122406/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787122406/",
+      "isbn": "9781787122406",
+      "format": "book"
+    },
+    {
+      "title": "Full Stack AngularJS for Java Developers: Build a Full-Featured Web Application from Scratch Using AngularJS with Spring RESTful",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484231982/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484231982/",
+      "isbn": "9781484231982",
+      "format": "book"
+    },
+    {
+      "title": "Pro Angular 6",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484236499/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484236499/",
+      "isbn": "9781484236499",
+      "format": "book"
+    },
+    {
+      "title": "Sams Teach Yourself AngularJS, JavaScript, and jQuery All in One in 24 Hours",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134171708/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134171708/",
+      "isbn": "9780134171708",
+      "format": "book"
+    },
+    {
+      "title": "Server-Side Enterprise Development with Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789806267/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789806267/",
+      "isbn": "9781789806267",
+      "format": "book"
+    },
+    {
+      "title": "Essential Angular for ASP.NET Core MVC 3: A Practical Guide to Successfully Using Both in Your Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484252840/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484252840/",
+      "isbn": "9781484252840",
+      "format": "book"
+    },
+    {
+      "title": "Expert Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880230/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880230/",
+      "isbn": "9781785880230",
+      "format": "book"
+    },
+    {
+      "title": "Learn Angular: Your First Week",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492068181/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492068181/",
+      "isbn": "9780648331568",
+      "format": "book"
+    },
+    {
+      "title": "Angular 5 Projects: Learn to Build Single Page Web Applications Using 70+ Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484232798/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484232798/",
+      "isbn": "9781484232798",
+      "format": "book"
+    },
+    {
+      "title": "Learn Angular: 4 Angular Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492068396/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492068396/",
+      "isbn": "9780648331582",
+      "format": "book"
+    },
+    {
+      "title": "Angular 6 for Enterprise-Ready Web Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462909/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462909/",
+      "isbn": "9781786462909",
+      "format": "book"
+    },
+    {
+      "title": "Angular Design Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786461728/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786461728/",
+      "isbn": "9781786461728",
+      "format": "book"
+    },
+    {
+      "title": "Essential Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293761/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293761/",
+      "isbn": "9781788293761",
+      "format": "book"
+    },
+    {
+      "title": "Java EE 8 and Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788291200/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788291200/",
+      "isbn": "9781788291200",
+      "format": "book"
+    },
+    {
+      "title": "Angular UI Development with PrimeNG",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788299572/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788299572/",
+      "isbn": "9781788299572",
+      "format": "book"
+    },
+    {
+      "title": "ASP.NET Core 2 and Angular 5",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293600/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293600/",
+      "isbn": "9781788293600",
+      "format": "book"
+    },
+    {
+      "title": "Learn Angular: Build a Todo App",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492068259/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492068259/",
+      "isbn": "9780648331575",
+      "format": "book"
+    },
+    {
+      "title": "Learn Angular: Related Tool & Skills",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492068433/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492068433/",
+      "isbn": "9780648331599",
+      "format": "book"
+    },
+    {
+      "title": "Angular Router",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288904/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288904/",
+      "isbn": "9781787288904",
+      "format": "book"
+    },
+    {
+      "title": "NativeScript for Angular Mobile Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125766/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125766/",
+      "isbn": "9781787125766",
+      "format": "book"
+    },
+    {
+      "title": "Learning Angular, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134577074/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134577074/",
+      "isbn": "9780134577074",
+      "format": "book"
+    },
+    {
+      "title": "Reactive Programming with Angular and ngrx: Learn to Harness the Power of Reactive Programming with RxJS and ngrx Extensions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484226193/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484226193/",
+      "isbn": "9781484226193",
+      "format": "book"
+    },
+    {
+      "title": "Angular 2 Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785881923/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785881923/",
+      "isbn": "9781785881923",
+      "format": "book"
+    },
+    {
+      "title": "Pro Angular, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484223079/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484223079/",
+      "isbn": "9781484223079",
+      "format": "book"
+    },
+    {
+      "title": "AngularJS: Maintaining Web Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786465788/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786465788/",
+      "isbn": "9781786465788",
+      "format": "book"
+    },
+    {
+      "title": "Switching to Angular - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788620703/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788620703/",
+      "isbn": "9781788620703",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring Angular Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491982471/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491982471/",
+      "isbn": "9781491968864",
+      "format": "book"
+    },
+    {
+      "title": "Beginning AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484201602/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484201602/",
+      "isbn": "9781484201602",
+      "format": "book"
+    },
+    {
+      "title": "Learning Angular for .NET Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785884283/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785884283/",
+      "isbn": "9781785884283",
+      "format": "book"
+    },
+    {
+      "title": "Learning AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491916742/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491916742/",
+      "isbn": "9781491916704",
+      "format": "book"
+    },
+    {
+      "title": "Angular Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785882616/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785882616/",
+      "isbn": "9781785882616",
+      "format": "book"
+    },
+    {
+      "title": "Angular 2 Development with TypeScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617293122/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617293122/",
+      "isbn": "9781617293122",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Server-Side Application Development with Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789342161/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789342161/",
+      "isbn": "9781789342161",
+      "format": "book"
+    },
+    {
+      "title": "Angular 2 Components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785882340/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785882340/",
+      "isbn": "9781785882340",
+      "format": "book"
+    },
+    {
+      "title": "AngularJS: Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491901939/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491901939/",
+      "isbn": "9781491901946",
+      "format": "book"
+    },
+    {
+      "title": "Material Design Implementation with AngularJS: UI Component Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484221907/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484221907/",
+      "isbn": "9781484221907",
+      "format": "book"
+    },
+    {
+      "title": "Rails, Angular, Postgres, and Bootstrap",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501803/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501803/",
+      "isbn": "9781680501803",
+      "format": "book"
+    },
+    {
+      "title": "Professional AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118832073/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118832073/",
+      "isbn": "9781118832073",
+      "format": "book"
+    },
+    {
+      "title": "AngularJS Web application development Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783283354/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783283354/",
+      "isbn": "9781783283354",
+      "format": "book"
+    },
+    {
+      "title": "Sams Teach Yourself: AngularJS for .NET Developers in 24 Hours",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134315041/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134315041/",
+      "isbn": "9780134315041",
+      "format": "book"
+    },
+    {
+      "title": "AngularJS in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617291333/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617291333/",
+      "isbn": "9781617291333",
+      "format": "book"
+    },
+    {
+      "title": "Pro AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430264484/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430264484/",
+      "isbn": "9781430264484",
+      "format": "book"
+    },
+    {
+      "title": "Learning AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134035147/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134035147/",
+      "isbn": "9780134035147",
+      "format": "book"
+    },
+    {
+      "title": "AngularJS: Novice to Ninja",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457174360/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457174360/",
+      "isbn": "9780992279455",
+      "format": "book"
+    },
+    {
+      "title": "AngularJS Web Application Development Blueprints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783285617/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783285617/",
+      "isbn": "9781783285617",
+      "format": "book"
+    },
+    {
+      "title": "Spring Boot and Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803243214/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803243214/",
+      "isbn": "9781803243214",
+      "format": "book"
+    },
+    {
+      "title": "Full Stack Development with Angular and GraphQL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800202467/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800202467/",
+      "isbn": "9781800202467",
+      "format": "book"
+    },
+    {
+      "title": "ASP.NET Core 8 and Angular - Sixth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805129936/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805129936/",
+      "isbn": "9781805129936",
+      "format": "book"
+    },
+    {
+      "title": "Data Visualization with D3 and AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784398484/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784398484/",
+      "isbn": "9781784398484",
+      "format": "book"
+    },
+    {
+      "title": "Rails, Angular, Postgres, and Bootstrap, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502657/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502657/",
+      "isbn": "9781680502206",
+      "format": "book"
+    },
+    {
+      "title": "Getting MEAN with Mongo, Express, Angular, and Node, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294754/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294754/",
+      "isbn": "9781617294754",
+      "format": "book"
+    },
+    {
+      "title": "Building Web Apps with Spring 5 and Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284661/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284661/",
+      "isbn": "9781787284661",
+      "format": "book"
+    },
+    {
+      "title": "ASP.NET Core 6 and Angular - Fifth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803239705/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803239705/",
+      "isbn": "9781803239705",
+      "format": "book"
+    },
+    {
+      "title": "Getting MEAN with Mongo, Express, Angular, and Node",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617292033/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617292033/",
+      "isbn": "9781617292033",
+      "format": "book"
+    },
+    {
+      "title": "ASP.NET Core 5 and Angular - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800560338/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800560338/",
+      "isbn": "9781800560338",
+      "format": "book"
+    },
+    {
+      "title": "Essential Angular for ASP.NET Core MVC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484229163/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484229163/",
+      "isbn": "9781484229163",
+      "format": "book"
+    },
+    {
+      "title": "Angular workspaces and the angular.json file",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789615869/chapter/563a787e-f2f0-41ab-b2c4-ab16b91e4416.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789615869/chapter/563a787e-f2f0-41ab-b2c4-ab16b91e4416.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119181316/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119181316/",
+      "isbn": "9781119181316",
+      "format": "book"
+    },
+    {
+      "title": "Generating a new Angular project using Angular-CLI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787286573/chapter/ed3e5ef6-6a91-403f-a628-80ba1453fd59.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787286573/chapter/ed3e5ef6-6a91-403f-a628-80ba1453fd59.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Node.js, MongoDB and Angular Web Development, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134655642/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134655642/",
+      "isbn": "9780134655642",
+      "format": "book"
+    },
+    {
+      "title": "Node.js, MongoDB, and AngularJS Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133844351/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133844351/",
+      "isbn": "9780133844351",
+      "format": "book"
+    },
+    {
+      "title": "Debugging Angular applications with Angular Augury",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886300/chapter/ch11s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886300/chapter/ch11s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Highcharts with Angular: Your Essential Guide to Creating Real-time Dashboards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257449/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257449/",
+      "isbn": "9781484257449",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Full Stack Web Development with Angular 6 and Laravel 5",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788833912/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788833912/",
+      "isbn": "9781788833912",
+      "format": "book"
+    },
+    {
+      "title": "5. Angular Adventures: Crafting Smart User Interfaces",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802768/chapter/html/612513_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802768/chapter/html/612513_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Working with the Ionic and Angular Frameworks to Build iOS Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802706/chapter/html/616469_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802706/chapter/html/616469_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6.2.1 Amplitude, Period, Cyclic Frequency, Angular Frequency",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332514102/chapter/chapter-104.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332514102/chapter/chapter-104.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Import and Display Data with Angular 12 and gRPC-web",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280089/chapter/html/506572_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280089/chapter/html/506572_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Write Modern Web Apps with the MEAN Stack: Mongo, Express, AngularJS, and Node.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133962369/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133962369/",
+      "isbn": "9780133962369",
+      "format": "book"
+    },
+    {
+      "title": "Commit Message from the Angular Git Repository",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806102631/chapter/img-f9.4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806102631/chapter/img-f9.4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Automatic Angular Position Stabilization of Ambulance Stretcher in Real Time",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394166374/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394166374/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating an Angular project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838552206/chapter/2cabebae-bd43-4d6c-94f5-2b294b08bdf3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838552206/chapter/2cabebae-bd43-4d6c-94f5-2b294b08bdf3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Download Statistics for Angular, React, and Vue (Source: https://www.npmtrends.com)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836644934/chapter/img-f10.2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836644934/chapter/img-f10.2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding the Angular components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468888/chapter/50d71bcd-b8f5-4a8a-ad66-eb2949b54c43.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468888/chapter/50d71bcd-b8f5-4a8a-ad66-eb2949b54c43.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the Angular dimension tool",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789809152/chapter/4dae3d8e-b811-4ab1-abba-3869dd4f07cd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789809152/chapter/4dae3d8e-b811-4ab1-abba-3869dd4f07cd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Angular services for the entity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838824983/chapter/be959547-2f12-46e3-8030-a0410a982c9d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838824983/chapter/be959547-2f12-46e3-8030-a0410a982c9d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Angular in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617292996/chapter/toc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617292996/chapter/toc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Angular Impulse",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787123663/chapter/ch15s09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787123663/chapter/ch15s09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Consuming Services Using the Angular App",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530728/chapter/e32eb473-1a6d-46bc-940e-46b65b50b92d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530728/chapter/e32eb473-1a6d-46bc-940e-46b65b50b92d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with the Angular router",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788391474/chapter/3fd3a8f4-b57d-47bd-8a8e-f7d5a876bc96.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788391474/chapter/3fd3a8f4-b57d-47bd-8a8e-f7d5a876bc96.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating an Angular service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390415/chapter/4312269d-7d4c-4292-af1f-c9115b050366.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390415/chapter/4312269d-7d4c-4292-af1f-c9115b050366.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating Web Components in Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838649234/chapter/56c1e905-f009-4be0-84c2-825fcf651c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838649234/chapter/56c1e905-f009-4be0-84c2-825fcf651c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Uber Angular template injection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788626897/chapter/37a992b5-78ca-4d07-aaa5-59ad0c6daedf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788626897/chapter/37a992b5-78ca-4d07-aaa5-59ad0c6daedf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Angular 5 for the frontend",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136159/chapter/76e1f997-ad8f-4148-8a6b-9d538f62350a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136159/chapter/76e1f997-ad8f-4148-8a6b-9d538f62350a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133042/chapter/513e9a31-3059-4aa6-bf04-0eac6335bb82.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133042/chapter/513e9a31-3059-4aa6-bf04-0eac6335bb82.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. JavaScript and Application Frameworks: Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484243954/chapter/html/313453_3_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484243954/chapter/html/313453_3_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Controlling radial and angular grids",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788625173/chapter/91a4a49c-dff1-4918-adbe-969fa104b175.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788625173/chapter/91a4a49c-dff1-4918-adbe-969fa104b175.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Angular 1 TypeScript compatibility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536706/chapter/1e95f5ff-fe20-420e-9fbc-8060042b83b0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536706/chapter/1e95f5ff-fe20-420e-9fbc-8060042b83b0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Angular and Jelly",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786465955/chapter/ch11s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786465955/chapter/ch11s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Transforming an existing Angular application into a Progressive Web App",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788297554/chapter/ba2127e2-83ae-4a6c-909f-35de4fba07f3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788297554/chapter/ba2127e2-83ae-4a6c-909f-35de4fba07f3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Angular 2 Components and Client-Side Routing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788296526/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788296526/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing web applications with Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789134612/chapter/87ca7391-47cc-4008-afbf-7954dc3d307b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789134612/chapter/87ca7391-47cc-4008-afbf-7954dc3d307b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Just Enough Angular and TypeScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491998113/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491998113/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Truffle and Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789132540/chapter/67d47dde-1375-4d7b-ad14-3a84b1650e2b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789132540/chapter/67d47dde-1375-4d7b-ad14-3a84b1650e2b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building SPAs using Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956696/chapter/a3d28f46-0111-4986-9375-1bfe6a3d0b83.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956696/chapter/a3d28f46-0111-4986-9375-1bfe6a3d0b83.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Orbital Angular Momentum-based Wireless Communications: Designs and Implementations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119116462/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119116462/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Consuming web APIs using Angular 4",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463951/chapter/f98d7f65-a9b8-4f41-a531-aac4fa3fc1d6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463951/chapter/f98d7f65-a9b8-4f41-a531-aac4fa3fc1d6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Creating an Angular Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787128163/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787128163/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Redux with Angular 2+",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462398/chapter/769454cc-303a-4ff1-a400-cffbb681ee72.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462398/chapter/769454cc-303a-4ff1-a400-cffbb681ee72.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Building the Spy Store Web Application with Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484253526/chapter/html/416920_2_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484253526/chapter/html/416920_2_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. A Weather Forecast Widget with Angular 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787289086/chapter/ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787289086/chapter/ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up an Angular app",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288027/chapter/ch33s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288027/chapter/ch33s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Extending Ionic with Angular Building Blocks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623230/chapter/cb9f63bc-c2b0-4331-ab5f-82e7b9eef162.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623230/chapter/cb9f63bc-c2b0-4331-ab5f-82e7b9eef162.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "HOUR 18: Routing Angular Requests Around ASP.NET Core",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134392318/chapter/ch18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134392318/chapter/ch18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Angular – the architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787280038/chapter/e5726886-c8e1-4849-a41d-ce2ec8a876c0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787280038/chapter/e5726886-c8e1-4849-a41d-ce2ec8a876c0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Extending Ionic 2 with Angular 2 Building Blocks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293112/chapter/ch22.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293112/chapter/ch22.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating Angular 2 into our application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121720/chapter/ch22s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121720/chapter/ch22s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Developing an ASP.NET Application Using Angular 2 and Web API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886461/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886461/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Angular and Ionic myths",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785286056/chapter/52a3ebc6-2b5a-4b1a-ac9f-b8710a8620d4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785286056/chapter/52a3ebc6-2b5a-4b1a-ac9f-b8710a8620d4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Full Stack Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491932926/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491932926/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Packaging Angular.js application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469908/chapter/ch09s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469908/chapter/ch09s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating Bootstrap 4 with React and Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785889295/chapter/e64b0346-e3e0-4d6a-9852-76ab29e6f6bb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785889295/chapter/e64b0346-e3e0-4d6a-9852-76ab29e6f6bb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. New Features of Angular 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125919/chapter/ch35.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125919/chapter/ch35.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Orbital Angular Momentum",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332537446/chapter/xhtml/chapter007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332537446/chapter/xhtml/chapter007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating Client-Side Apps with Angular.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501445/chapter/f_0032.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501445/chapter/f_0032.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Angular and Linear Damping",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784394905/chapter/ch05s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784394905/chapter/ch05s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9.3 Angular Velocity and Acceleration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123819765/chapter/chapter-72.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123819765/chapter/chapter-72.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Adding Angular to Your App",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462084/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462084/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Test-Drive Angular 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502305/chapter/f_0085.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502305/chapter/f_0085.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing a Cordova App with Ionic and Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134133164/chapter/ch25lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134133164/chapter/ch25lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuration in frontend frameworks – Angular 5",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624701/chapter/06443985-1fff-4fc3-9311-02b6732c4663.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624701/chapter/06443985-1fff-4fc3-9311-02b6732c4663.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Understanding Angular Views and Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783552092/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783552092/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating an Angular application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788398558/chapter/016ea8a0-de5e-4aa2-b282-05c9a39b0518.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788398558/chapter/016ea8a0-de5e-4aa2-b282-05c9a39b0518.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Making a web mapping app more Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784396459/chapter/ch07s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784396459/chapter/ch07s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Promises in Angular.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783985500/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783985500/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing the Angular component calling the service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788398077/chapter/04e77ff0-33ab-48f5-b4a4-40656657e2c6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788398077/chapter/04e77ff0-33ab-48f5-b4a4-40656657e2c6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. JRuby and Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449369323/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449369323/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Making a chart component with Angular directives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783559282/chapter/ch10s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783559282/chapter/ch10s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Angular directives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785280498/chapter/ch09s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785280498/chapter/ch09s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Research on the effect of interference fit in the dynamic characteristics of high-speed angular contact ball bearing (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781315684581/chapter/chapter-95.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781315684581/chapter/chapter-95.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The research on the signal reconstruction of the angular rate sensor",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138027190/chapter/chapter-69.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138027190/chapter/chapter-69.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6.4 Radians, Arc Length, and Angular Speed",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136747512/chapter/xhtml/fileP7000496584000000000000000009049.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136747512/chapter/xhtml/fileP7000496584000000000000000009049.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 9. Advanced Linear and Angular Velocity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132684316/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132684316/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.6. WAVE-OPTICAL DESCRIPTION OF ANGULAR DISPERSIVE ELEMENTS (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780122154935/chapter/chapter-51.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780122154935/chapter/chapter-51.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Angular Momentum Principle for a Fixed Volume",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123737359/chapter/chapter-65.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123737359/chapter/chapter-65.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6.5 Solitons with Angular Momentum",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780124105904/chapter/chapter-61.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780124105904/chapter/chapter-61.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrate with AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624398/chapter/85e5f958-fbbb-4001-9a1d-a1fcb30833e3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624398/chapter/85e5f958-fbbb-4001-9a1d-a1fcb30833e3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating your first AngularJS Client",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787286740/chapter/2e5fa75d-8001-4858-a49f-853fe9ee13b3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787286740/chapter/2e5fa75d-8001-4858-a49f-853fe9ee13b3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AngularJS framework overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281448/chapter/363fc9b5-18a6-4275-8cdc-47cd59c56edf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281448/chapter/363fc9b5-18a6-4275-8cdc-47cd59c56edf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. AngularJS – Google's In-Demand Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783552139/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783552139/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a custom UI using AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464170/chapter/85d8e59a-bc3f-484a-8c19-370034e4c492.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464170/chapter/85d8e59a-bc3f-484a-8c19-370034e4c492.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Integrating with AngularJS and React",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788397315/chapter/ch29.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788397315/chapter/ch29.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating the AngularJS application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888434/chapter/ch09s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888434/chapter/ch09s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AngularJS and MVW",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785881640/chapter/ch02s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785881640/chapter/ch02s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating with AngularJS and React",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834902/chapter/56ec73b3-05c1-4367-ac20-8e15a5e52578.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834902/chapter/56ec73b3-05c1-4367-ac20-8e15a5e52578.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Validating client-side forms with HTML5 AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784396411/chapter/ch07s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784396411/chapter/ch07s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Combining D3.js and AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281776/chapter/ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281776/chapter/ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Using JSON in AJAX Applications with jQuery and AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785286902/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785286902/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating AngularJS in the frontend",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786461070/chapter/ch08s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786461070/chapter/ch08s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ionic in Action: Hybrid Mobile Apps with Ionic and AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633430082/chapter/kindle_split_000.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633430082/chapter/kindle_split_000.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing a client-side MVC pattern with AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126398/chapter/ch09s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126398/chapter/ch09s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Jasmine tests for AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784397166/chapter/ch08s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784397166/chapter/ch08s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Key concepts of AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783983285/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783983285/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Support for AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849698702/chapter/ch10s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849698702/chapter/ch10s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Force.com with AngularJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133511611/chapter/ch07lev2sec13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133511611/chapter/ch07lev2sec13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to do it...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788626170/chapter/48b36c00-dbcc-4636-8475-c302c61f2677.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788626170/chapter/48b36c00-dbcc-4636-8475-c302c61f2677.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Node.js 8 the Right Way",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505344/chapter/f_0100.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505344/chapter/f_0100.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learning From Leonardo",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781609949891/chapter/xhtml/ch01_fn05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781609949891/chapter/xhtml/ch01_fn05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build Reactive Websites with RxJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506495/chapter/f_0062.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506495/chapter/f_0062.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Type, Form & Function",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781592536740/chapter/xhtml/file_148.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781592536740/chapter/xhtml/file_148.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Yeoman generator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838649982/chapter/f0d267bd-42ec-4e5e-a1e5-983087465690.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838649982/chapter/f0d267bd-42ec-4e5e-a1e5-983087465690.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Quantum Physics For Dummies,® Revised Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118460887/chapter/15_part03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118460887/chapter/15_part03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Protractor Handbook: Understanding and Implementing the Tool Effectively",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272893/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272893/",
+      "isbn": "9781484272893",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783288847/chapter/c6e89644-defc-4214-8ef8-86d75940b6e2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783288847/chapter/c6e89644-defc-4214-8ef8-86d75940b6e2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Some frontend libraries and frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838822361/chapter/591c24f0-0abf-4ecb-9835-0d9879f1a9c4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838822361/chapter/591c24f0-0abf-4ecb-9835-0d9879f1a9c4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing and securing custom web APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839217470/chapter/d6a20597-f1dd-4aa0-b4cb-fea082c9d9ff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839217470/chapter/d6a20597-f1dd-4aa0-b4cb-fea082c9d9ff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Some frontend libraries or frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138085/chapter/4c142d14-3e13-4bf6-b909-657d7976fb7d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138085/chapter/4c142d14-3e13-4bf6-b909-657d7976fb7d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788296335/chapter/f67a03f1-aa16-4b70-bad9-f1d5739a2145.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788296335/chapter/f67a03f1-aa16-4b70-bad9-f1d5739a2145.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TypeScript Basics: Learn TypeScript from Scratch and Solidify Your Skills with Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295236/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295236/",
+      "isbn": "9781484295236",
+      "format": "book"
+    },
+    {
+      "title": "Econversations: Today’s Students Discuss Today’s Issues",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136462989/chapter/longalt/la_fg_12_007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136462989/chapter/longalt/la_fg_12_007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Acronyms (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466513709/chapter/chapter-09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466513709/chapter/chapter-09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using multiple axes (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/00120090006SI/chapter/chapter-32.html",
+      "url": "https://learning.oreilly.com/api/v1/book/00120090006SI/chapter/chapter-32.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing React Router v4",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783980727/chapter/3382d182-eb66-429e-bec7-18fab63f613f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783980727/chapter/3382d182-eb66-429e-bec7-18fab63f613f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How it works...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808452/chapter/b408f8c6-4cf3-4277-8776-b5c0071da1de.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808452/chapter/b408f8c6-4cf3-4277-8776-b5c0071da1de.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Object element syntax",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281905/chapter/da6922b9-9657-4709-bc4d-bd4cc22628bf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281905/chapter/da6922b9-9657-4709-bc4d-bd4cc22628bf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build a Chatbot with Facebook’s Messenger Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787129887/chapter/d721f11c-c30f-4228-9493-3c9610e19ba6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787129887/chapter/d721f11c-c30f-4228-9493-3c9610e19ba6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sending the command velocity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788478953/chapter/71621ce0-3682-47f2-aeda-f4a864323836.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788478953/chapter/71621ce0-3682-47f2-aeda-f4a864323836.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automate with Grunt",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222713/chapter/f_0027.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222713/chapter/f_0027.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reducing acceleration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462985/chapter/3237b5b1-b30a-498d-963a-37b5c6b1097a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462985/chapter/3237b5b1-b30a-498d-963a-37b5c6b1097a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Forces and moments on quadcopter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987443/chapter/d50900b5-bc80-4379-ade0-d3c10b3627cd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987443/chapter/d50900b5-bc80-4379-ade0-d3c10b3627cd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing a RViz plugin for teleoperation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788627436/chapter/4ccafb16-0718-47c3-a940-27375c29d61b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788627436/chapter/4ccafb16-0718-47c3-a940-27375c29d61b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7.2 Boundary descriptions (3/6)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780080506258/chapter/chapter-75.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780080506258/chapter/chapter-75.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "To get the most out of this book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788991926/chapter/4832f409-2101-448f-85c1-686a57105014.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788991926/chapter/4832f409-2101-448f-85c1-686a57105014.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Launching TurtleBot 3 simulation in rviz",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788479592/chapter/ch03s13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788479592/chapter/ch03s13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Isomorphic Web Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294396/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294396/",
+      "isbn": "9781617294396",
+      "format": "book"
+    },
+    {
+      "title": "Composing motions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838551308/chapter/c7bad2b7-22cb-426a-9071-c90e2a452e9d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838551308/chapter/c7bad2b7-22cb-426a-9071-c90e2a452e9d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementation of MVVM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133646/chapter/4a8ad463-ea9e-4f7c-84ad-ae92bce06a0c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133646/chapter/4a8ad463-ea9e-4f7c-84ad-ae92bce06a0c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to be a Web Developer: A Complete Beginner's Guide on What to Know and Where to Start",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296639/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296639/",
+      "isbn": "9781484296639",
+      "format": "book"
+    },
+    {
+      "title": "4.8 The Swing Equation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9788131755914/chapter/xhtml/chap4_4.8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9788131755914/chapter/xhtml/chap4_4.8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Drawing Manga: A Graphic Novel on How to Create Your Own Manga",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888142271/chapter/html/page081.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888142271/chapter/html/page081.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Basic Technical Mathematics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136747826/chapter/xhtml/fileP70010137010000000000000000409DB.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136747826/chapter/xhtml/fileP70010137010000000000000000409DB.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Extending Redash code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996167/chapter/862489f9-a304-425e-96f1-a18613432e9a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996167/chapter/862489f9-a304-425e-96f1-a18613432e9a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Alice and Bob Learn Secure Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394171705/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394171705/",
+      "isbn": "9781394171705",
+      "format": "book"
+    },
+    {
+      "title": "Now available for the frontend",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788392822/chapter/a55d973c-4e1e-48f2-9f6d-7ef4808491ce.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788392822/chapter/a55d973c-4e1e-48f2-9f6d-7ef4808491ce.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6.6 Power Transmitted by Shaft",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332514829/chapter/xhtml/ch6sec6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332514829/chapter/xhtml/ch6sec6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Basic Concepts of Rotational Motion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240806310/chapter/xhtml/14_chapter07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240806310/chapter/xhtml/14_chapter07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "There's more...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623797/chapter/b9e320f3-e096-4998-84b7-b508de19432d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623797/chapter/b9e320f3-e096-4998-84b7-b508de19432d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The presentation tier",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126619/chapter/ch03s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126619/chapter/ch03s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Defining the distance range and angle range",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789804102/chapter/ad8deae2-07bb-461e-aa60-1f8c63332f67.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789804102/chapter/ad8deae2-07bb-461e-aa60-1f8c63332f67.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789610086/chapter/5ddb15b0-d92b-470f-9472-88f553d26e0f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789610086/chapter/5ddb15b0-d92b-470f-9472-88f553d26e0f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8.1.10 Gravity-Gradient Stabilization (3/4)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781856175753/chapter/chapter-400.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781856175753/chapter/chapter-400.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "I. Fundamentals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449361037/chapter/pt01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449361037/chapter/pt01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Numerical Solution of Initial-Value Problems (15/15)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466585690/chapter/chapter-90.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466585690/chapter/chapter-90.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Dealing with XHR requests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789951295/chapter/9e344a01-cf30-4107-8872-033a08a42853.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789951295/chapter/9e344a01-cf30-4107-8872-033a08a42853.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Moving from, or Combining with, an Existing Site",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835465912/chapter/Text/Chapter_15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835465912/chapter/Text/Chapter_15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Principal symbols and acronyms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780124170490/chapter/xhtml/Principal_symbols_and_acronyms.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780124170490/chapter/xhtml/Principal_symbols_and_acronyms.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Gyroscope plugin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623315/chapter/762af804-c0c7-4a2b-8f88-e5d409ca1aed.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623315/chapter/762af804-c0c7-4a2b-8f88-e5d409ca1aed.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Uniform Circular Motion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470534922/chapter/9780470534922_uniform_circular_motion.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470534922/chapter/9780470534922_uniform_circular_motion.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Double-pole balancing experiment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838824914/chapter/dd47a632-4c82-4436-8171-f8e3ee288ee4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838824914/chapter/dd47a632-4c82-4436-8171-f8e3ee288ee4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7.2.3 Fourier descriptors (2/6)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123725387/chapter/chapter-126.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123725387/chapter/chapter-126.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Limiting movement to a single axis with SliderConstraint",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788833288/chapter/97c38baf-91c2-4c36-b959-e70a6b9d4ae3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788833288/chapter/97c38baf-91c2-4c36-b959-e70a6b9d4ae3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Comparing with other frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469946/chapter/ch02s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469946/chapter/ch02s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1.3 Analog Signals and Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332559080/chapter/chapter-15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332559080/chapter/chapter-15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kinematics of uniform circular motion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430236740/chapter/kinematics_of_uniform_circular_motion.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430236740/chapter/kinematics_of_uniform_circular_motion.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Computing distances",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838823733/chapter/a7781432-3b73-4b5a-b308-0c25733b7c1b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838823733/chapter/a7781432-3b73-4b5a-b308-0c25733b7c1b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rediscovering JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506174/chapter/f_0094.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506174/chapter/f_0094.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The JavaScript framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784396756/chapter/ch04s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784396756/chapter/ch04s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Figures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110450613/chapter/xhtml/bm_fig.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110450613/chapter/xhtml/bm_fig.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Example of the appendReplacement and appendTail methods",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288706/chapter/f6ff9fa5-5888-4975-b96a-e8ed0b3e197c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288706/chapter/f6ff9fa5-5888-4975-b96a-e8ed0b3e197c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Basic App Structure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484237755/chapter/html/436854_2_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484237755/chapter/html/436854_2_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Symbols (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466566347/chapter/chapter-07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466566347/chapter/chapter-07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Ruby Closures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502909/chapter/f_0050.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502909/chapter/f_0050.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Brief History of Front-end Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293515/chapter/html/476371_2_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293515/chapter/html/476371_2_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10.4. Comparison: Geometric Aberrations and the Diffraction Limit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780126298109/chapter/chapter-99.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780126298109/chapter/chapter-99.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Who this book is for",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783984282/chapter/6d0d78ac-7605-4947-8f8a-420eea31df65.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783984282/chapter/6d0d78ac-7605-4947-8f8a-420eea31df65.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Structure of a .NET Core application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788292481/chapter/4fbdc057-0e7a-4870-a221-a71b708400f5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788292481/chapter/4fbdc057-0e7a-4870-a221-a71b708400f5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "26. Quaternion Rotator Dynamics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780120884001/chapter/ch26.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780120884001/chapter/ch26.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Frontend and Backend Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492037644/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492037644/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a teleoperation node using the Leap Motion controller",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838649326/chapter/e5c89fb0-1b5f-4035-acab-28b07f6be284.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838649326/chapter/e5c89fb0-1b5f-4035-acab-28b07f6be284.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A trending project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127463/chapter/65575ed3-7ec1-4c14-8d39-5967c16f3631.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127463/chapter/65575ed3-7ec1-4c14-8d39-5967c16f3631.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Initializing and discretizing for Q-Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789957211/chapter/e0a48c1d-80ab-4a77-b50f-39bdacb12122.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789957211/chapter/e0a48c1d-80ab-4a77-b50f-39bdacb12122.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Technical Reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484213322/chapter/9781484213339_FM_5_About_the_Technical_Reviewer.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484213322/chapter/9781484213339_FM_5_About_the_Technical_Reviewer.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical LEGO Technics: Bring Your LEGO Creations to Life",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430246114/chapter/Index.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430246114/chapter/Index.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Client Source Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789344202/chapter/7844a9c5-49a9-452a-904b-36d3fbf9332e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789344202/chapter/7844a9c5-49a9-452a-904b-36d3fbf9332e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6.15. Root Locus of Time-Delay Factors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471249061/chapter/sec6-15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471249061/chapter/sec6-15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Let’s Talk About Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249673/chapter/html/476371_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249673/chapter/html/476371_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8.4 Function Plots with Complex Magnitudes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806106059/chapter/08_004.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806106059/chapter/08_004.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a user interface",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837866/chapter/b9ed08b2-7585-4416-828c-efcd33022eb4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837866/chapter/b9ed08b2-7585-4416-828c-efcd33022eb4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing Web Components with Svelte: Building a Library of Reusable UI Components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868811807/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868811807/",
+      "isbn": "9798868811807",
+      "format": "book"
+    },
+    {
+      "title": "Another Trick for Flattering the Face",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781681986937/chapter/Text/chapter86.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781681986937/chapter/Text/chapter86.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Moving from, or Combining, an Existing Site",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803241494/chapter/Text/Chapter_15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803241494/chapter/Text/Chapter_15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What just happened?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788399999/chapter/5bf8b415-0e08-4f8f-aa8b-f656f62fc930.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788399999/chapter/5bf8b415-0e08-4f8f-aa8b-f656f62fc930.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "General Punctuation (3/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/059610121X/chapter/chapter-129.html",
+      "url": "https://learning.oreilly.com/api/v1/book/059610121X/chapter/chapter-129.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7.3 Origin of Magnetic Moment – Bohr Magneton – Electron Spin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9788131775073/chapter/xhtml/ch7-sub7.3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9788131775073/chapter/xhtml/ch7-sub7.3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-world examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837484/chapter/1a921a83-5020-4404-a624-c7a82c36adba.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837484/chapter/1a921a83-5020-4404-a624-c7a82c36adba.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Loading the game",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788997096/chapter/aa29079b-ecc2-444e-8707-7c454ecd262b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788997096/chapter/aa29079b-ecc2-444e-8707-7c454ecd262b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Frontend coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836968/chapter/5736bb90-f41e-4725-ac40-dc5d49dd1ea1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836968/chapter/5736bb90-f41e-4725-ac40-dc5d49dd1ea1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build a Frontend Web Framework (From Scratch)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438064/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438064/",
+      "isbn": "9781633438064",
+      "format": "book"
+    },
+    {
+      "title": "JavaScript from Beginner to Professional",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800562523/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800562523/",
+      "isbn": "9781800562523",
+      "format": "book"
+    },
+    {
+      "title": "Day 180: Exercise 18",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781600581311/chapter/xhtml/ch180.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781600581311/chapter/xhtml/ch180.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using PostgreSQL and Node.js for Banking Transactions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838648145/chapter/dea6e696-90d8-42ee-8809-4bd249596b98.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838648145/chapter/dea6e696-90d8-42ee-8809-4bd249596b98.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "42. Joints and Swings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297209/chapter/html/486227_2_En_42_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297209/chapter/html/486227_2_En_42_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Parameter values",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536669/chapter/2bee35ee-ddde-4e5c-a617-cb0d6b930c6c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536669/chapter/2bee35ee-ddde-4e5c-a617-cb0d6b930c6c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building an earth-moon system",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787286436/chapter/d5477f8f-bf43-4f6e-a0ea-cb5a6d76b970.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787286436/chapter/d5477f8f-bf43-4f6e-a0ea-cb5a6d76b970.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 - Impulse and Momentum",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332503489/chapter/xhtml/chapter012.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332503489/chapter/xhtml/chapter012.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using explicit waits",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788299671/chapter/25d82952-3294-4717-9989-ae1ea48a1156.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788299671/chapter/25d82952-3294-4717-9989-ae1ea48a1156.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Dependency Injection in TypeScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838828493/chapter/B14508_08_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838828493/chapter/B14508_08_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "030 The Emotive Object",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781631595431/chapter/xhtml/ch030.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781631595431/chapter/xhtml/ch030.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. PWAs From the Start",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484230909/chapter/A454560_1_En_11_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484230909/chapter/A454560_1_En_11_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6.3 Shape factors (3/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780124705050/chapter/chapter-60.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780124705050/chapter/chapter-60.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Image-Based Lighting (1/6)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439865941/chapter/chapter-37.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439865941/chapter/chapter-37.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Options for .NET command-line dotnet tool",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294273/chapter/kindle_split_026.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294273/chapter/kindle_split_026.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying a single-page application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788470414/chapter/6d0d96ee-7fca-47a4-9279-4e3970e19cf8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788470414/chapter/6d0d96ee-7fca-47a4-9279-4e3970e19cf8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8.8 Constraining Time-Dependent Properties to Facilitate Time-Based Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123852076/chapter/xhtml/cesectitle0060_chp008.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123852076/chapter/xhtml/cesectitle0060_chp008.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 The Foundation of React",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119685548/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119685548/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Common misconfigurations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789611809/chapter/d8660e69-cbdd-4442-870b-59b26bc57288.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789611809/chapter/d8660e69-cbdd-4442-870b-59b26bc57288.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to choose the right tool",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467041/chapter/1664b8a2-391f-45be-8529-3d5496ccfd80.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467041/chapter/1664b8a2-391f-45be-8529-3d5496ccfd80.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering JavaScript Functional Programming - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804610138/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804610138/",
+      "isbn": "9781804610138",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803233000/chapter/Section0003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803233000/chapter/Section0003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Alternative frameworks and libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785289811/chapter/ch08s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785289811/chapter/ch08s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Symbols",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118587775/chapter/Symbols.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118587775/chapter/Symbols.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Inquiry Commands",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118124475/chapter/c02-anchor-2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118124475/chapter/c02-anchor-2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Problems solved by serverless and Functions as a Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788620376/chapter/b8804efc-048f-4f66-bcf7-edd44d14aaa8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788620376/chapter/b8804efc-048f-4f66-bcf7-edd44d14aaa8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-Time Phoenix",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507744/chapter/f_0109.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507744/chapter/f_0109.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Biomechanical markers for Parkinson’s Disease and essential tremor discrimination (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138026506/chapter/chapter-146.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138026506/chapter/chapter-146.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Selecting a framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293969/chapter/e19827aa-bd7d-4c8d-9edf-04c29c591be7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293969/chapter/e19827aa-bd7d-4c8d-9edf-04c29c591be7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. the EV3 31313 set bill of materials",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457185229/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457185229/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Universal Principles of Art",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781631590306/chapter/xhtml/ch30.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781631590306/chapter/xhtml/ch30.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Inverse optimal adaptive fault-tolerant attitude control for flexible spacecraft (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138026858/chapter/chapter-26.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138026858/chapter/chapter-26.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding a UI to our customer service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838821470/chapter/c4004020-e97c-47c0-9d8e-aa7beb396c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838821470/chapter/c4004020-e97c-47c0-9d8e-aa7beb396c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "QUANTUM OPTICS FOR ENGINEERS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439888544/chapter/xhtml/39_Appendix08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439888544/chapter/xhtml/39_Appendix08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding a gradient with AppKit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786461698/chapter/13aef8f9-528f-4e3e-9a6f-a1153dc10463.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786461698/chapter/13aef8f9-528f-4e3e-9a6f-a1153dc10463.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ES6 for Humans: The Latest Standard of JavaScript: ES2015 and Beyond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484226230/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484226230/",
+      "isbn": "9781484226230",
+      "format": "book"
+    },
+    {
+      "title": "Developing Microservices Architecture on Microsoft Azure with Open Source Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136819295/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136819295/",
+      "isbn": "9780136819295",
+      "format": "book"
+    },
+    {
+      "title": "Specifying a framework for new applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789348262/chapter/1055ed15-5554-4820-9333-b4f83a93ea10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789348262/chapter/1055ed15-5554-4820-9333-b4f83a93ea10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ASP.NET Core MVC 2.0 Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886751/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886751/",
+      "isbn": "9781785886751",
+      "format": "book"
+    },
+    {
+      "title": "13. Spacecraft Attitude Control",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261248/chapter/html/335353_2_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261248/chapter/html/335353_2_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.3 Squirrel Cage Induction Motor",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119942108/chapter/c02anchor-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119942108/chapter/c02anchor-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Calculating a Relative Angle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133510119/chapter/ch14lev2sec9.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133510119/chapter/ch14lev2sec9.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The rise of the REST API with SPAs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838643577/chapter/4d53ec2b-103a-4d45-9152-7ace804c2cf2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838643577/chapter/4d53ec2b-103a-4d45-9152-7ace804c2cf2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cracking the syntax for Set Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994927/chapter/ch19s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994927/chapter/ch19s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Principal Symbols (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789814613279/chapter/chapter-07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789814613279/chapter/chapter-07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sequential access and ZCAV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474481/chapter/43edd4d9-f1d5-47d5-a422-ea47e3eb01fb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474481/chapter/43edd4d9-f1d5-47d5-a422-ea47e3eb01fb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rise of REST API with Single Page Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788294287/chapter/144a94a9-504e-45ca-a109-620058372367.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788294287/chapter/144a94a9-504e-45ca-a109-620058372367.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Color Schemes (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888144565/chapter/chapter-20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888144565/chapter/chapter-20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The problem with complex web UIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789346138/chapter/d6760511-5931-487f-9844-bd34388498db.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789346138/chapter/d6760511-5931-487f-9844-bd34388498db.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Assignment: Create Your Own Castle Concepts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118078044/chapter/c03-anchor-3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118078044/chapter/c03-anchor-3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building the Frontend",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126473/chapter/b37e2a8f-0dbe-44f9-95de-48c227b6f3d4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126473/chapter/b37e2a8f-0dbe-44f9-95de-48c227b6f3d4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "General Physics Settings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133523416/chapter/ch07lev2sec07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133523416/chapter/ch07lev2sec07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "For the More Curious: Front-End Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136870494/chapter/ch26s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136870494/chapter/ch26s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 The Motion of Rigid Bodies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040134818/chapter/xhtml/Ch012.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040134818/chapter/xhtml/Ch012.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7.5.1 The Rigid Body Class",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780122290640/chapter/chapter-186.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780122290640/chapter/chapter-186.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DluxApps the UI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782174523/chapter/dbc83291-eccc-456d-b142-dd5e787c5237.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782174523/chapter/dbc83291-eccc-456d-b142-dd5e787c5237.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ReactiveX, or RX",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787285378/chapter/b3e406ad-1b9d-417f-8534-9a17bf53eb34.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787285378/chapter/b3e406ad-1b9d-417f-8534-9a17bf53eb34.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Dissecting Hangman",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785287176/chapter/ch09s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785287176/chapter/ch09s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Secure coding awareness training",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788995504/chapter/134964a1-d07a-4034-bf5d-676ff01dfcd0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788995504/chapter/134964a1-d07a-4034-bf5d-676ff01dfcd0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Gravity simulation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837460/chapter/3678f266-126c-4625-936f-5099777d1039.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837460/chapter/3678f266-126c-4625-936f-5099777d1039.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mixture model networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838647292/chapter/773f55bb-20c0-402a-9b47-3e1b2f08fedf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838647292/chapter/773f55bb-20c0-402a-9b47-3e1b2f08fedf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8.8 Phasor Diagrams (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781299447028/chapter/chapter-113.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781299447028/chapter/chapter-113.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4.1.1 Range-Free Location Estimation Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780080921938/chapter/chapter-57.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780080921938/chapter/chapter-57.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developer’s Library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133038644/chapter/pref02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133038644/chapter/pref02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484243916/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484243916/",
+      "isbn": "9781484243916",
+      "format": "book"
+    },
+    {
+      "title": "Styling Dimensions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118016794/chapter/chap11-sec01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118016794/chapter/chap11-sec01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Definitive Guide to Security in Jakarta EE: Securing Java-based Enterprise Applications with Jakarta Security, Authorization, Authentication and More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484279458/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484279458/",
+      "isbn": "9781484279458",
+      "format": "book"
+    },
+    {
+      "title": "Why do we need Node?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838558383/chapter/d457d84e-9193-4700-9f16-c693914722c0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838558383/chapter/d457d84e-9193-4700-9f16-c693914722c0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Mobile Web Performance Optimization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265284/chapter/html/499768_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265284/chapter/html/499768_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Single Page Applications in .NET Core 3: Jumpstart Coding Using Blazor and C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257470/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257470/",
+      "isbn": "9781484257470",
+      "format": "book"
+    },
+    {
+      "title": "Rendering a React application in a Lightning Component using Lightning:container",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787124677/chapter/1e57f123-b09f-4671-aa7a-9f23db7a7084.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787124677/chapter/1e57f123-b09f-4671-aa7a-9f23db7a7084.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deliver Audacious Web Apps with Ember 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501599/chapter/f_0007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501599/chapter/f_0007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with Other JavaScript Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121430/chapter/4c148ea2-f502-4e1a-a2b1-49b305cc8b3a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121430/chapter/4c148ea2-f502-4e1a-a2b1-49b305cc8b3a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JavaScript with Promises",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491930779/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491930779/",
+      "isbn": "9781491930779",
+      "format": "book"
+    },
+    {
+      "title": "Integral equation method of mixed crack problem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138027725/chapter/chapter-111.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138027725/chapter/chapter-111.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Measuring the world",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788297370/chapter/b3d55b20-f48a-49d6-9237-b9b695dadf5d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788297370/chapter/b3d55b20-f48a-49d6-9237-b9b695dadf5d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C JavaScript Libraries and Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394193219/chapter/b03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394193219/chapter/b03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Making servers React",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788476607/chapter/45435c84-eb1a-441a-8a81-5ad1785177b2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788476607/chapter/45435c84-eb1a-441a-8a81-5ad1785177b2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What can you do with Koa?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789345391/chapter/1992c6ae-770e-49c8-9325-5959393b0917.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789345391/chapter/1992c6ae-770e-49c8-9325-5959393b0917.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing Web Components with Svelte: Building a Library of Reusable UI Components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290392/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290392/",
+      "isbn": "9781484290392",
+      "format": "book"
+    },
+    {
+      "title": "3.6. Generalities on induction and mechanical electric conversion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118563069/chapter/ch3_6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118563069/chapter/ch3_6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Professional Sitecore 8 Development: A Complete Guide to Solutions and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484222928/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484222928/",
+      "isbn": "9781484222928",
+      "format": "book"
+    },
+    {
+      "title": "Panoramic Imaging: Sensor-Line Cameras an Laser Range-Finders",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470060650/chapter/08_list_of_symbols.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470060650/chapter/08_list_of_symbols.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using TOTAL for aggregation scope",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789800944/chapter/09eb24fb-e9e6-43b6-be67-dd669b59b424.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789800944/chapter/09eb24fb-e9e6-43b6-be67-dd669b59b424.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Engineering Science",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781856177757/chapter/xhtml/part2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781856177757/chapter/xhtml/part2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Structure of a notebook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788397643/chapter/b2bbf0af-ccf2-4eb6-ad68-f2a51197484a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788397643/chapter/b2bbf0af-ccf2-4eb6-ad68-f2a51197484a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rapid Android Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222577/chapter/f_0047.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222577/chapter/f_0047.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Plotting with polar coordinates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849517249/chapter/ch01s17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849517249/chapter/ch01s17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Move the real TurtleBot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782175193/chapter/ch03s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782175193/chapter/ch03s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 20. Using Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134172163/chapter/ch20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134172163/chapter/ch20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Why use a data visualization library?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789342482/chapter/3920bcbe-49fa-4cb8-af58-be0cf8912ee7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789342482/chapter/3920bcbe-49fa-4cb8-af58-be0cf8912ee7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "23.4.2 For Pulses of 1 Millisecond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781322206578/chapter/chapter-243.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781322206578/chapter/chapter-243.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build Mobile Apps with Ionic 2 and Firebase: Hybrid Mobile App Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484227374/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484227374/",
+      "isbn": "9781484227374",
+      "format": "book"
+    },
+    {
+      "title": "Mimicking keys and menu items",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784395148/chapter/ch05s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784395148/chapter/ch05s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. User Interface Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484243039/chapter/html/467863_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484243039/chapter/html/467863_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Disc Motor Servo Circuit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781483140391/chapter/chapter-64.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781483140391/chapter/chapter-64.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3.6. Frequential characterization of a continuous-time system",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781905209453/chapter/ch003-sec006.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781905209453/chapter/ch003-sec006.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17.5 Rotating Phasor and Sinusoidal Wave",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781299445420/chapter/chapter-261.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781299445420/chapter/chapter-261.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beginning: iOS 5 Application Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118144251/chapter/25_chapter-15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118144251/chapter/25_chapter-15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Smart Sensor Systems: Emerging Technologies and Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118703175/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118703175/",
+      "isbn": "9781118703175",
+      "format": "book"
+    },
+    {
+      "title": "4 Accessing a secured microservice via a single-page application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295959/chapter/OEBPS/Text/04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295959/chapter/OEBPS/Text/04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Acronyms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123821959/chapter/xhtml/APP002.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123821959/chapter/xhtml/APP002.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Human cranium biomechanical simulation (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138001374/chapter/chapter-177.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138001374/chapter/chapter-177.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "User interface for customers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782160182/chapter/ch10s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782160182/chapter/ch10s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17.5 - Rotating Phasor and Sinusoidal Wave",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332503663/chapter/xhtml/head-0763.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332503663/chapter/xhtml/head-0763.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Block explorer file explanation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789618822/chapter/e9ae6468-4128-4470-80de-4bbd4919e38d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789618822/chapter/e9ae6468-4128-4470-80de-4bbd4919e38d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating the frontend web portal",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783554393/chapter/54a526db-9ba9-4969-b64e-5d8e5e93eaa6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783554393/chapter/54a526db-9ba9-4969-b64e-5d8e5e93eaa6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Physics of Sports",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257722/chapter/html/484430_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257722/chapter/html/484430_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing to VueJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788395038/chapter/ddd307b7-8fce-4983-8927-323b0fe20d82.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788395038/chapter/ddd307b7-8fce-4983-8927-323b0fe20d82.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adopting serverless architectures for SPA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992992/chapter/3294db71-87ed-450c-ada4-399631ae469f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992992/chapter/3294db71-87ed-450c-ada4-399631ae469f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484226537/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484226537/",
+      "isbn": "9781484226537",
+      "format": "book"
+    },
+    {
+      "title": "Pro TypeScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430267904/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430267904/",
+      "isbn": "9781430267904",
+      "format": "book"
+    },
+    {
+      "title": "Performing geospatial calculations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785288937/chapter/ch05s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785288937/chapter/ch05s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Displaying a multicard deck",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298599/chapter/91dcec9e-f348-4534-86c6-e248125a9253.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298599/chapter/91dcec9e-f348-4534-86c6-e248125a9253.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Technical Reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135264713/chapter/pref02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135264713/chapter/pref02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating an external file to hold our data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789342383/chapter/1a9b4eef-6009-4bce-97d8-757a0bce70f7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789342383/chapter/1a9b4eef-6009-4bce-97d8-757a0bce70f7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "React.js, Vue.js, and other view replacements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788831345/chapter/9b513cd7-1edf-4c89-b7c6-9261c4dd90ff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788831345/chapter/9b513cd7-1edf-4c89-b7c6-9261c4dd90ff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Trivial traversal of a folder",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789801415/chapter/b27bb884-c19d-4966-b2d1-7ca4512dec8e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789801415/chapter/b27bb884-c19d-4966-b2d1-7ca4512dec8e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building SPAs with Django and HTML Over the Wire",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803240190/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803240190/",
+      "isbn": "9781803240190",
+      "format": "book"
+    },
+    {
+      "title": "Evaluating and Choosing Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492034421/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492034421/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

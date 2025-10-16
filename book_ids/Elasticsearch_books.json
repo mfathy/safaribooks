@@ -1,0 +1,4032 @@
+{
+  "skill_name": "elasticsearch",
+  "discovery_timestamp": 1759704506.5027618,
+  "total_books": 575,
+  "books": [
+    {
+      "title": "Elasticsearch in Action, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299858/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299858/",
+      "isbn": "9781617299858",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch 8.x Cookbook - Fifth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801079815/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801079815/",
+      "isbn": "9781801079815",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch: The Definitive Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449358532/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449358532/",
+      "isbn": "9781449358549",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Elasticsearch 7.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789957754/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789957754/",
+      "isbn": "9781789957754",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch 7 Quick Start Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789803327/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789803327/",
+      "isbn": "9781789803327",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617291623/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617291623/",
+      "isbn": "9781617291623",
+      "format": "book"
+    },
+    {
+      "title": "Learning Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787128453/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787128453/",
+      "isbn": "9781787128453",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Elasticsearch 5.x - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786460189/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786460189/",
+      "isbn": "9781786460189",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch 7.0 Cookbook - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956504/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956504/",
+      "isbn": "9781789956504",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch Server - Third Edition - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888816/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888816/",
+      "isbn": "9781785888816",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784397807/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784397807/",
+      "isbn": "9781784397807",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch Essentials",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784391010/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784391010/",
+      "isbn": "9781784391010",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch 5.x Cookbook - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786465580/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786465580/",
+      "isbn": "9781786465580",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Elasticsearch - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783553792/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783553792/",
+      "isbn": "9781783553792",
+      "format": "book"
+    },
+    {
+      "title": "ElasticSearch Blueprints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783984923/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783984923/",
+      "isbn": "9781783984923",
+      "format": "book"
+    },
+    {
+      "title": "ElasticSearch Server",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849518444/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849518444/",
+      "isbn": "9781849518444",
+      "format": "book"
+    },
+    {
+      "title": "ElasticSearch Cookbook - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783554836/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783554836/",
+      "isbn": "9781783554836",
+      "format": "book"
+    },
+    {
+      "title": "Elastic Stack 8.x Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837634293/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837634293/",
+      "isbn": "9781837634293",
+      "format": "book"
+    },
+    {
+      "title": "Logging in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298356/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298356/",
+      "isbn": "9781617298356",
+      "format": "book"
+    },
+    {
+      "title": "Learning Elastic Stack 7.0 - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789954395/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789954395/",
+      "isbn": "9781789954395",
+      "format": "book"
+    },
+    {
+      "title": "Learning ELK Stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785887154/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785887154/",
+      "isbn": "9781785887154",
+      "format": "book"
+    },
+    {
+      "title": "Learning Elastic Stack 6.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281868/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281868/",
+      "isbn": "9781787281868",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Elastic Stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786460011/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786460011/",
+      "isbn": "9781786460011",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Elastic Stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484216941/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484216941/",
+      "isbn": "9781484216941",
+      "format": "book"
+    },
+    {
+      "title": "Running tests that require Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838554491/chapter/d60d15be-83cd-419b-980d-28837566099a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838554491/chapter/d60d15be-83cd-419b-980d-28837566099a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Relevant Search: With applications for Solr and Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617292774/chapter/kindle_split_000.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617292774/chapter/kindle_split_000.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Storing Data in Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788477321/chapter/6a407d81-cb0e-4ada-9849-693cba3fabd5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788477321/chapter/6a407d81-cb0e-4ada-9849-693cba3fabd5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing a multilingual search with Elasticsearch DSL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838987428/chapter/d2be8962-3d11-4064-965f-cfd2c8843200.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838987428/chapter/d2be8962-3d11-4064-965f-cfd2c8843200.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring Data Elasticsearch model class",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390415/chapter/4c51dd69-aa01-4f5d-b011-278f6eeef5df.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390415/chapter/4c51dd69-aa01-4f5d-b011-278f6eeef5df.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "With Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284944/chapter/5a607dd4-a3c1-4222-a8d1-f47f7b8e2ae2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284944/chapter/5a607dd4-a3c1-4222-a8d1-f47f7b8e2ae2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring centralized logging through Elasticsearch, Fluentd, and Kibana",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838647513/chapter/6cf9835d-661c-47b5-bf5f-ec729c66c132.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838647513/chapter/6cf9835d-661c-47b5-bf5f-ec729c66c132.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploiting Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789952308/chapter/f438fffe-6132-44b7-a31a-bbb99ac49844.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789952308/chapter/f438fffe-6132-44b7-a31a-bbb99ac49844.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Spring Data Elasticsearch for persistence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136159/chapter/ef89e183-773a-4801-bf24-2fafe4abe198.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136159/chapter/ef89e183-773a-4801-bf24-2fafe4abe198.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is Elasticsearch?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281349/chapter/a62820c2-c15b-4bb0-b702-0fec6d999788.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281349/chapter/a62820c2-c15b-4bb0-b702-0fec6d999788.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch, Logstash, and Kibana (ELK)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468666/chapter/cb4d2f1e-4b01-4f74-9b03-42e57a30adb4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468666/chapter/cb4d2f1e-4b01-4f74-9b03-42e57a30adb4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281066/chapter/3c0fe392-c309-4cff-bde3-56ba5fc0ce00.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281066/chapter/3c0fe392-c309-4cff-bde3-56ba5fc0ce00.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Logging with Fluent Bit and Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789533996/chapter/01c6adcd-bf7f-4c1c-84c6-e65f0adc6dad.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789533996/chapter/01c6adcd-bf7f-4c1c-84c6-e65f0adc6dad.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing and using Elasticsearch, Fluentd, and Kibana",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834759/chapter/fcc7b3b8-223a-4ff6-bc3f-5d9767154a75.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834759/chapter/fcc7b3b8-223a-4ff6-bc3f-5d9767154a75.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Redis as a preprocessor complement to ElasticSearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783988181/chapter/ch07s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783988181/chapter/ch07s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Analyzing CloudTrail Logs using Amazon Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835770/chapter/f6030889-15af-4a28-b83e-8f9b1d75eed9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835770/chapter/f6030889-15af-4a28-b83e-8f9b1d75eed9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up Grafana with the Elasticsearch plugin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281202/chapter/31c997db-f367-4d71-84c4-5a604056861f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281202/chapter/31c997db-f367-4d71-84c4-5a604056861f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch connector",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788628846/chapter/62c122d9-e6c8-48cc-a5a9-ee0052ce6c89.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788628846/chapter/62c122d9-e6c8-48cc-a5a9-ee0052ce6c89.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch (ELK stack)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789135992/chapter/4b153030-38a6-418a-b630-22967dc8996f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789135992/chapter/4b153030-38a6-418a-b630-22967dc8996f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474542/chapter/e1d3b768-e977-45e1-8e93-f7d9f89cbf03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474542/chapter/e1d3b768-e977-45e1-8e93-f7d9f89cbf03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Saving NSE reports in ElasticSearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467454/chapter/8147fe12-119d-47ab-a61a-336cc11f827f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467454/chapter/8147fe12-119d-47ab-a61a-336cc11f827f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a materialized view in Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788470414/chapter/96e318ea-403c-4289-a697-2aac26a1128a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788470414/chapter/96e318ea-403c-4289-a697-2aac26a1128a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Centralizing logs with Fluentd and Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297984/chapter/Text/13.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297984/chapter/Text/13.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Install Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127562/chapter/6b860663-3d73-4682-b66e-47f811212dee.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127562/chapter/6b860663-3d73-4682-b66e-47f811212dee.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788622240/chapter/005afdfc-d456-408f-b409-b0bf8d39331d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788622240/chapter/005afdfc-d456-408f-b409-b0bf8d39331d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Elasticsearch as a caching layer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785882142/chapter/ch09s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785882142/chapter/ch09s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Connecting to ElasticSearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996167/chapter/558ef2d4-b123-4da5-892a-64f28b582e9a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996167/chapter/558ef2d4-b123-4da5-892a-64f28b582e9a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch and a document database",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787124349/chapter/1d53c6b9-1fe4-45d2-9be3-f99b41f00a18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787124349/chapter/1d53c6b9-1fe4-45d2-9be3-f99b41f00a18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch exploit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121829/chapter/378298c5-0480-49ec-9122-847696ff2d76.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121829/chapter/378298c5-0480-49ec-9122-847696ff2d76.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing ElasticSearch, Logstash, and Kibana",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126619/chapter/ch19s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126619/chapter/ch19s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced logging infrastructure with ElasticSearch, Kibana, and Firehose",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466815/chapter/249b99df-d098-454c-b345-652d78f86bff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466815/chapter/249b99df-d098-454c-b345-652d78f86bff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Elasticsearch, Logstash, and Kibana",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789807219/chapter/bafa1544-cb2f-4a53-a64d-d1a76f95ebe1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789807219/chapter/bafa1544-cb2f-4a53-a64d-d1a76f95ebe1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Importing a JSON file into Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784394936/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784394936/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Elasticsearch data node",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788396646/chapter/a03e294a-02d5-49e8-b6a8-c4c26c1c7ae3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788396646/chapter/a03e294a-02d5-49e8-b6a8-c4c26c1c7ae3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788394925/chapter/f8c44d28-409d-4e4a-8cad-6917e742517e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788394925/chapter/f8c44d28-409d-4e4a-8cad-6917e742517e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Storm Integration with Redis, Elasticsearch, and HBase",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125636/chapter/80d75861-fb5b-4b58-8879-f4ad3b1531fb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125636/chapter/80d75861-fb5b-4b58-8879-f4ad3b1531fb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up ElasticSearch as the logging database",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787289703/chapter/fd82672c-713e-42b1-8553-dc7d336e6c77.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787289703/chapter/fd82672c-713e-42b1-8553-dc7d336e6c77.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Elasticsearch and Kibana",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789613476/chapter/62a85076-726b-47aa-9ae5-994a88a66b37.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789613476/chapter/62a85076-726b-47aa-9ae5-994a88a66b37.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing full-text search with Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789951295/chapter/bc922ae2-dd66-4eca-9d04-be6018b66cf5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789951295/chapter/bc922ae2-dd66-4eca-9d04-be6018b66cf5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Full Text Search Using ElasticSearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785288593/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785288593/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Elasticsearch-Logstash-Kibana (ELK) stack on Mesos",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886249/chapter/ch09s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886249/chapter/ch09s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A plugin to render Elasticsearch topology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463005/chapter/ch09s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463005/chapter/ch09s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783985425/chapter/ch06s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783985425/chapter/ch06s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Build a Simple Blog with Search Capability using Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785889714/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785889714/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating MongoDB for full text search with Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785289989/chapter/ch05s15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785289989/chapter/ch05s15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Elasticsearch with Docker and .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785281655/chapter/73bce698-be0b-46f0-bc4f-ae0eb1141770.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785281655/chapter/73bce698-be0b-46f0-bc4f-ae0eb1141770.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ElasticSearch engine adapter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785281761/chapter/ch07s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785281761/chapter/ch07s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Full-text search with Elasticsearch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783983407/chapter/ch12s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783983407/chapter/ch12s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "There's more...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788998369/chapter/ac452109-f5d2-4703-86b0-8417e0fdaadc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788998369/chapter/ac452109-f5d2-4703-86b0-8417e0fdaadc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Node.js 8 the Right Way",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505344/chapter/f_0051.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505344/chapter/f_0051.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838649005/chapter/81312305-abcb-431e-9a84-4f2266f5af17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838649005/chapter/81312305-abcb-431e-9a84-4f2266f5af17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kibana 8.x – A Quick Start Guide to Data Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803232164/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803232164/",
+      "isbn": "9781803232164",
+      "format": "book"
+    },
+    {
+      "title": "Setting up our environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788830751/chapter/084963fc-6d6e-40aa-b31e-4f4957ac2990.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788830751/chapter/084963fc-6d6e-40aa-b31e-4f4957ac2990.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ElasticSearchSink",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784392178/chapter/ch04s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784392178/chapter/ch04s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "UiPath Orchestrator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788470940/chapter/245e309f-0e5d-4c49-b05d-f36c8ff1599b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788470940/chapter/245e309f-0e5d-4c49-b05d-f36c8ff1599b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Centralizing logs with ELK Stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788475433/chapter/17513f13-9acc-417c-880e-f55d99ca498a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788475433/chapter/17513f13-9acc-417c-880e-f55d99ca498a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "External monitoring solution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789349108/chapter/cbb8bbb4-16b9-4e9e-a46c-e155eca3ebfd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789349108/chapter/cbb8bbb4-16b9-4e9e-a46c-e155eca3ebfd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Open source log analytics platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788839563/chapter/c811f0ed-2f6a-4c64-8078-51a0df227b7f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788839563/chapter/c811f0ed-2f6a-4c64-8078-51a0df227b7f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up EFK with kops",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837606/chapter/738d948a-0715-47f7-8b50-9c40e825794e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837606/chapter/738d948a-0715-47f7-8b50-9c40e825794e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Distributed search engines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789346565/chapter/08dd9fa3-7707-4003-8241-0caadc187a7a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789346565/chapter/08dd9fa3-7707-4003-8241-0caadc187a7a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to do it...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789342529/chapter/833ec991-8e24-48ad-8e82-5f23cbe43381.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789342529/chapter/833ec991-8e24-48ad-8e82-5f23cbe43381.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Collecting application logs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788297615/chapter/ch28s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788297615/chapter/ch28s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pino transports and prettifying",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880087/chapter/e8638cac-5078-4b80-8bc6-bd10baf5901d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880087/chapter/e8638cac-5078-4b80-8bc6-bd10baf5901d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Scaling Logstash",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780988820210/chapter/ch009.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780988820210/chapter/ch009.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a centralized logging system",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463630/chapter/ch07s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463630/chapter/ch07s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Spark Streaming to subscribe to a Twitter stream",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784396749/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784396749/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PredictionIO commands cheat sheet",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126893/chapter/4dfb703c-0e08-499f-acc9-902f2756cfea.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126893/chapter/4dfb703c-0e08-499f-acc9-902f2756cfea.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Connecting to a Docker Host",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134218229/chapter/ch04lev2sec16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134218229/chapter/ch04lev2sec16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding visual reports",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788470049/chapter/fd2b6cd8-8d84-46fc-ac36-106df124cc9a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788470049/chapter/fd2b6cd8-8d84-46fc-ac36-106df124cc9a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Integrating and Storing Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0642572230111/chapter/xhtml/chapter6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/0642572230111/chapter/xhtml/chapter6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Set Up a Remote Syslog Server",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128045046/chapter/chapter-88.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128045046/chapter/chapter-88.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Full-Text Search (FTS)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651070/chapter/f_0233.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651070/chapter/f_0233.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Data Analytics Using Python: With Machine Learning, Deep Learning and NLP Examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234501/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234501/",
+      "isbn": "9781484234501",
+      "format": "book"
+    },
+    {
+      "title": "Setting up centralized logging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788991278/chapter/267b7cf6-af38-4b38-a6a6-e02a7fe519ed.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788991278/chapter/267b7cf6-af38-4b38-a6a6-e02a7fe519ed.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What you need for this book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785882166/chapter/pr06s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785882166/chapter/pr06s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Metrics, Log Collection, and Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786460141/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786460141/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other full-text search engines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472487/chapter/24094c5f-dd57-471a-9fa9-0665de0b5790.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472487/chapter/24094c5f-dd57-471a-9fa9-0665de0b5790.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Manual Installation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491960103/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491960103/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Network Data Analysis with Elastic Stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234618/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234618/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up Graylog",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785881114/chapter/b8a64db1-b002-419f-898c-5ee22078553b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785881114/chapter/b8a64db1-b002-419f-898c-5ee22078553b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Centralized Logging with the EFK Stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128694/chapter/Text/Chapter_19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128694/chapter/Text/Chapter_19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CloudWatch Logs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836654/chapter/9994e67d-2622-4536-bb8e-e2d1da632133.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836654/chapter/9994e67d-2622-4536-bb8e-e2d1da632133.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Logs and logging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780988820241/chapter/text/ch009.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780988820241/chapter/text/ch009.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with Advanced Dashboard Features",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838826581/chapter/152ce713-3459-452e-ac78-fb607d778735.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838826581/chapter/152ce713-3459-452e-ac78-fb607d778735.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DaemonSet – Maintaining Pod Singletons on Nodes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835464717/chapter/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835464717/chapter/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783553235/chapter/pr04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783553235/chapter/pr04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building IoT Visualizations using Grafana",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803236124/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803236124/",
+      "isbn": "9781803236124",
+      "format": "book"
+    },
+    {
+      "title": "B14530_12_Final_JC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838828868/chapter/B14530_12_Final_JC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838828868/chapter/B14530_12_Final_JC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Threat intelligence toolset",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788995504/chapter/579c99fc-41fb-411a-826f-b0dc3ebd624e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788995504/chapter/579c99fc-41fb-411a-826f-b0dc3ebd624e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cassandra: The Definitive Guide, (Revised) Third Edition, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492097136/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492097136/",
+      "isbn": "9781492097143",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Platform Development with Kubernetes: Enabling Data Management, the Internet of Things, Blockchain, and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484256114/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484256114/",
+      "isbn": "9781484256114",
+      "format": "book"
+    },
+    {
+      "title": "A. Additional Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491915707/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491915707/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "VSM with Lucene",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788620901/chapter/38c53380-9fb4-4d36-8b55-c0cbc0b1d394.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788620901/chapter/38c53380-9fb4-4d36-8b55-c0cbc0b1d394.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Logging with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838828042/chapter/d76d00a0-541f-4395-92dc-1d6970e31ef2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838828042/chapter/d76d00a0-541f-4395-92dc-1d6970e31ef2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reviewing playbooks and roles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121638/chapter/ch07s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121638/chapter/ch07s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Technical requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808896/chapter/4278ff16-8b36-4e02-8ec5-79c52a677a90.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808896/chapter/4278ff16-8b36-4e02-8ec5-79c52a677a90.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing a multilingual search with Haystack and Whoosh",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837682/chapter/c37031e1-ce5b-43ad-b4f8-8fc81d2bb9a2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837682/chapter/c37031e1-ce5b-43ad-b4f8-8fc81d2bb9a2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Data Analytics Using Python: With Architectural Patterns, Text and Image Classification, and Optimization Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280058/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280058/",
+      "isbn": "9781484280058",
+      "format": "book"
+    },
+    {
+      "title": "Understanding ConductR Sandbox information",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288645/chapter/b2d5ea5a-174c-4968-aac1-762305ad43c0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288645/chapter/b2d5ea5a-174c-4968-aac1-762305ad43c0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Monitoring SQL Server on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271926/chapter/html/494804_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271926/chapter/html/494804_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring and collecting logs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788995405/chapter/df302f27-8fad-4351-b6e1-017daf23954d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788995405/chapter/df302f27-8fad-4351-b6e1-017daf23954d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Architectural guidance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888083/chapter/ch04s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888083/chapter/ch04s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 A typical system design interview flow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439108/chapter/Text/02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439108/chapter/Text/02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What You Learned",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508376/chapter/f_0050.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508376/chapter/f_0050.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "There's more in APOC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466143/chapter/cbba3592-9cdf-40ff-840b-53913ac3df7a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466143/chapter/cbba3592-9cdf-40ff-840b-53913ac3df7a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Geospatial analysis in the big data world",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787120730/chapter/eee4a8aa-6805-4a86-9c2d-0dc3adbed331.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787120730/chapter/eee4a8aa-6805-4a86-9c2d-0dc3adbed331.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "To get the most out of this book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623445/chapter/07274c00-2eb0-440d-bb57-3afe12049b01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623445/chapter/07274c00-2eb0-440d-bb57-3afe12049b01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Troubleshooting tips for Kinesis Firehose",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788477581/chapter/7d08a020-fe14-44d9-acc6-01e8c141d1d9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788477581/chapter/7d08a020-fe14-44d9-acc6-01e8c141d1d9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Apex serverless logging and metrics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783286836/chapter/94aa73f5-5281-4c4f-b776-271c48e773ad.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783286836/chapter/94aa73f5-5281-4c4f-b776-271c48e773ad.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880568/chapter/pr04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880568/chapter/pr04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Apache Solr Search Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783981847/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783981847/",
+      "isbn": "9781783981847",
+      "format": "book"
+    },
+    {
+      "title": "14. Flying All Over the Sky with Quarkus and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271704/chapter/html/509649_1_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271704/chapter/html/509649_1_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Recommendations and best practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467690/chapter/206a17a2-cf55-43b2-a20f-b1738f6a197f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467690/chapter/206a17a2-cf55-43b2-a20f-b1738f6a197f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cassandra: The Definitive Guide, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491933657/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491933657/",
+      "isbn": "9781491933664",
+      "format": "book"
+    },
+    {
+      "title": "Example – Data Lake consumer component",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788473927/chapter/eb267c6c-9fbf-4343-938b-e40b9554c5b1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788473927/chapter/eb267c6c-9fbf-4343-938b-e40b9554c5b1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Note: Before using this information and the product it supports, read the information in “Notices” on page vii.",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459158/chapter/8473edno.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459158/chapter/8473edno.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker for Rails Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506730/chapter/f_0053.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506730/chapter/f_0053.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What you need for this learning path",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787124660/chapter/pr04s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787124660/chapter/pr04s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838822361/chapter/a4100a3f-e64b-46a8-9498-4bf279ce3402.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838822361/chapter/a4100a3f-e64b-46a8-9498-4bf279ce3402.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Managing Data Lake Operations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484235225/chapter/html/454145_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484235225/chapter/html/454145_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying a self-contained application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786465535/chapter/7b10580b-487d-4b6c-ba5c-06e179a378d2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786465535/chapter/7b10580b-487d-4b6c-ba5c-06e179a378d2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Micro-Targeting with Retrieval-Augmented Generation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835889404/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835889404/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Microsoft Azure Service Fabric, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781509307135/chapter/xhtml/ch10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781509307135/chapter/xhtml/ch10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Limitations of MapReduce",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449303693/chapter/ch02s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449303693/chapter/ch02s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Plugins to Assist Mocking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509427/chapter/f_0118.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509427/chapter/f_0118.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Microservices: A Hands-on Approach to Microservice Infrastructure and Tooling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484228869/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484228869/",
+      "isbn": "9781484228869",
+      "format": "book"
+    },
+    {
+      "title": "IntelMQ by ENISA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789616194/chapter/9e408203-01ab-4075-9cf6-743941c2ee11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789616194/chapter/9e408203-01ab-4075-9cf6-743941c2ee11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Amazon Web Services IoT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789134803/chapter/9f8beea8-8330-420e-b40a-95c05efeda2f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789134803/chapter/9f8beea8-8330-420e-b40a-95c05efeda2f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-world examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838551216/chapter/29609081-4349-45c5-b987-5487ee330d4b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838551216/chapter/29609081-4349-45c5-b987-5487ee330d4b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The selection of logging solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127555/chapter/ch26s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127555/chapter/ch26s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Example Pipeline Architectures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492074281/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492074281/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Practical Guide to Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134691626/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134691626/",
+      "isbn": "9780134691626",
+      "format": "book"
+    },
+    {
+      "title": "Implementing the Book read model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786465023/chapter/ch05s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786465023/chapter/ch05s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Two eyes are better than one eye",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784395643/chapter/ch10s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784395643/chapter/ch10s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Performance analysis with the dashboard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786461001/chapter/ch03s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786461001/chapter/ch03s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Blockchain Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135173077/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135173077/",
+      "isbn": "9780135173077",
+      "format": "book"
+    },
+    {
+      "title": "7. Advanced Connector Examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098137229/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098137229/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19 Writing and managing application logs with Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438460/chapter/Text/chapter-19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438460/chapter/Text/chapter-19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Performance Observability in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813252/chapter/html/618701_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813252/chapter/html/618701_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "More ways to create RDDs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787280748/chapter/ba9ffda3-1918-4869-809e-f54964735773.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787280748/chapter/ba9ffda3-1918-4869-809e-f54964735773.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Logging AWS Lambda API calls with CloudTrail",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789134612/chapter/025053e2-c9a1-4d6f-a444-96038f957f9a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789134612/chapter/025053e2-c9a1-4d6f-a444-96038f957f9a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Threat Intelligence and Data-Driven Threat Hunting - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803233758/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803233758/",
+      "isbn": "9781803233758",
+      "format": "book"
+    },
+    {
+      "title": "Rescoring query results",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783553150/chapter/ch04s14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783553150/chapter/ch04s14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Manual installation of SonarQube",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642730/chapter/aa0019fc-55d5-40a8-8a6f-c3a9d03fa74d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642730/chapter/aa0019fc-55d5-40a8-8a6f-c3a9d03fa74d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Centralized logging with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805468/chapter/1cd86fee-75ac-4944-8d27-7ca30c29f5c4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805468/chapter/1cd86fee-75ac-4944-8d27-7ca30c29f5c4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other monitoring solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783981601/chapter/ch10s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783981601/chapter/ch10s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to use Grafana with Prometheus",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789612349/chapter/41619133-48c7-4162-b161-b02692b3a694.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789612349/chapter/41619133-48c7-4162-b161-b02692b3a694.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Quick wins – proof of concept",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130386/chapter/ad34ff36-183b-480b-ac3d-b649e899d9d1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130386/chapter/ad34ff36-183b-480b-ac3d-b649e899d9d1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data aggregation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788473064/chapter/e737edc3-f263-42a2-b9c9-e9bbf0c4a807.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788473064/chapter/e737edc3-f263-42a2-b9c9-e9bbf0c4a807.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "traditional.free_open.monoliths.data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048497/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048497/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Related publications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0783442119/chapter/8358bibl.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/0783442119/chapter/8358bibl.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Distributed tracing with Spring Cloud Sleuth and Zipkin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296956/chapter/OEBPS/Text/11.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296956/chapter/OEBPS/Text/11.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Advanced Monitoring and Observability Strategies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106386/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106386/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. A Simulated Penetration Test",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341620032/chapter/xhtml/chapter15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341620032/chapter/xhtml/chapter15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing dependency versions for Spring Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787123175/chapter/3f9d5bf2-d93c-4ee1-ae69-8bfc62b9dc84.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787123175/chapter/3f9d5bf2-d93c-4ee1-ae69-8bfc62b9dc84.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Storm Applied",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617291890/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617291890/",
+      "isbn": "9781617291890",
+      "format": "book"
+    },
+    {
+      "title": "Starters with Maven",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788838382/chapter/8403b76c-0322-472f-99f3-14caa15064b2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788838382/chapter/8403b76c-0322-472f-99f3-14caa15064b2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using S3 as storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138726/chapter/fe37c93d-07b7-4e4d-833c-0b8082dd433e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138726/chapter/fe37c93d-07b7-4e4d-833c-0b8082dd433e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data ingestion and storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785889936/chapter/a4ae0a8a-b197-48e4-b599-3d6304db5d40.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785889936/chapter/a4ae0a8a-b197-48e4-b599-3d6304db5d40.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Building Data Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043072/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043072/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Logging and Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491915752/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491915752/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Analyzing web log data using Pig",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125162/chapter/ch15s11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125162/chapter/ch15s11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advantages of integrating network data with service logs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789804027/chapter/c8219a99-94a8-4ed5-9b06-9c0cc3199d75.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789804027/chapter/c8219a99-94a8-4ed5-9b06-9c0cc3199d75.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sources and sinks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838647438/chapter/dce34f7c-5e71-4fc4-8d1e-74d84808af76.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838647438/chapter/dce34f7c-5e71-4fc4-8d1e-74d84808af76.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Going spelunking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987467/chapter/ed296395-67e1-4ba4-9d69-568975342368.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987467/chapter/ed296395-67e1-4ba4-9d69-568975342368.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Data Integration with ksqlDB",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492062486/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492062486/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build Websites with Hugo",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507904/chapter/f_0052.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507904/chapter/f_0052.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Non-shared storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284432/chapter/Text/72514d4d-6551-447d-b0c7-e5c006673ebe.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284432/chapter/Text/72514d4d-6551-447d-b0c7-e5c006673ebe.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is key-value storage?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462589/chapter/9693563d-b849-44e2-b90f-214b95619ffb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462589/chapter/9693563d-b849-44e2-b90f-214b95619ffb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Logging and Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484285961/chapter/html/524175_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484285961/chapter/html/524175_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Legitimate Uses of the Antipattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650011/chapter/f_0049.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650011/chapter/f_0049.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exporting metrics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789615791/chapter/157e2966-03b2-4b82-ba2d-038a68784720.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789615791/chapter/157e2966-03b2-4b82-ba2d-038a68784720.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Kafka Connect and Kafka Stream",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787283985/chapter/33e03947-d682-4cf0-81a5-09c719284a8f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787283985/chapter/33e03947-d682-4cf0-81a5-09c719284a8f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Log aggregation and analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624510/chapter/47741d20-588b-4aed-a66a-9e3921b43e4b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624510/chapter/47741d20-588b-4aed-a66a-9e3921b43e4b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Additional data lake features",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466365/chapter/ch07s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466365/chapter/ch07s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Designing a Hotel Reservation System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146887/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146887/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624480/chapter/6fc6d647-5c17-49b5-9b6f-0e5a49f7d9ff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624480/chapter/6fc6d647-5c17-49b5-9b6f-0e5a49f7d9ff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Health endpoint",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788471459/chapter/b17f4bc2-69f3-44a5-a060-7a0dd69ac9f1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788471459/chapter/b17f4bc2-69f3-44a5-a060-7a0dd69ac9f1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Treat logs as event streams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788393850/chapter/01019a33-e87c-4c2c-8972-b952e58b3510.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788393850/chapter/01019a33-e87c-4c2c-8972-b952e58b3510.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuring logging for Windows containers log monitor",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838821562/chapter/3928d13c-1a58-4eba-976d-4e66ead63d19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838821562/chapter/3928d13c-1a58-4eba-976d-4e66ead63d19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Logging errors to a database using Serilog",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463951/chapter/5a6645ed-d4b0-49f6-ab53-0672a0c3365a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463951/chapter/5a6645ed-d4b0-49f6-ab53-0672a0c3365a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enterprise Application Operations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043270/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043270/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using SSRF/XSPA to perform internal port scans",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994064/chapter/16f42553-bf06-4fcd-a294-7c1ac4a0ec55.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994064/chapter/16f42553-bf06-4fcd-a294-7c1ac4a0ec55.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Connecting to Data Sources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484283097/chapter/html/521586_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484283097/chapter/html/521586_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring and Logging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491979679/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491979679/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Observability through logging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835887769/chapter/text/ch014.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835887769/chapter/text/ch014.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Data Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491936153/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491936153/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other databases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788296403/chapter/27920a28-b76e-42f1-8eba-628700163166.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788296403/chapter/27920a28-b76e-42f1-8eba-628700163166.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tags, conditions, and config",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126367/chapter/ch11s09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126367/chapter/ch11s09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multiple keys per document",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784394493/chapter/ch04s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784394493/chapter/ch04s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Add Monitoring, Logging and Alerting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272527/chapter/html/513834_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272527/chapter/html/513834_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Microservices Security, Monitoring, and Maintenance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812675/chapter/html/639857_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812675/chapter/html/639857_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding data sources in Spark applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888359/chapter/be529ee2-8c88-4d17-9cb8-0a46baaae679.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888359/chapter/be529ee2-8c88-4d17-9cb8-0a46baaae679.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Limitations and anticipated improvements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284951/chapter/62e8c113-185f-440e-8fe7-75a9d8fa2844.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284951/chapter/62e8c113-185f-440e-8fe7-75a9d8fa2844.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using CloudWatch for monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784394639/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784394639/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modeling data for keyword searches",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783982608/chapter/fe1f266c-8e92-4b42-9607-b22ec3397ce8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783982608/chapter/fe1f266c-8e92-4b42-9607-b22ec3397ce8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating Kafka with log management systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469434/chapter/ch07s11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469434/chapter/ch07s11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Monitoring Your Applications: Observability in the Java Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275724/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275724/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker built-in network mappings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469007/chapter/298d5b75-416a-4ed6-970f-786fc9266b63.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469007/chapter/298d5b75-416a-4ed6-970f-786fc9266b63.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The architecture of the system using the serverless paradigm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788993708/chapter/ef9ca343-d609-4f20-b809-b7defc25de0d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788993708/chapter/ef9ca343-d609-4f20-b809-b7defc25de0d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Implementing Observability for Enterprise Software Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289488/chapter/html/528071_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289488/chapter/html/528071_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Monitoring Flask Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484250228/chapter/html/479840_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484250228/chapter/html/479840_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing Zeppelin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880100/chapter/ch08s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880100/chapter/ch08s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring Boot in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617292545/chapter/kindle_split_020.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617292545/chapter/kindle_split_020.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B19657_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837633166/chapter/B19657_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837633166/chapter/B19657_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Auditing Using Falco, DevOps AI, and ECK",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803230030/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803230030/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring Containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491919705/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491919705/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Managing Multiple Clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142155/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142155/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. The Three Pillars of Observability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492033431/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492033431/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What to watch out for while using Neo4j",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784393441/chapter/ch09s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784393441/chapter/ch09s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507782/chapter/f_0151.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507782/chapter/f_0151.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "From Ch. 5 of Designing Software Architectures, First Edition: Case Study: Big Data System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138108069/chapter/bm02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138108069/chapter/bm02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Best practices for REST-based microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992664/chapter/f8b48142-7159-4e64-af6d-71574256076a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992664/chapter/f8b48142-7159-4e64-af6d-71574256076a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838554590/chapter/ccc9ef2c-747a-4b56-9009-21382c7838d5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838554590/chapter/ccc9ef2c-747a-4b56-9009-21382c7838d5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring and Logging in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056461/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056461/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Analyzing Network Evidence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836200116/chapter/text/ch010.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836200116/chapter/text/ch010.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Observability: Following the Breadcrumbs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492090953/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492090953/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Polyglot persistence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463708/chapter/ch09s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463708/chapter/ch09s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Databases, Data Science, and a Little AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098135492/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098135492/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Best Practices for Visualization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622135/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622135/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The basic principle of host-based security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788299558/chapter/c0479fc4-95e6-49f7-8dd3-fd664da5eb9a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788299558/chapter/c0479fc4-95e6-49f7-8dd3-fd664da5eb9a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Performance Monitoring of Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133608/chapter/5f0dede0-1431-441f-92f1-6fc60392f06d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133608/chapter/5f0dede0-1431-441f-92f1-6fc60392f06d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Problems with IoT Streaming Ingestion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789353941529/chapter/chapter-76.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789353941529/chapter/chapter-76.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring, Logging, and Troubleshooting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838647346/chapter/40a43934-1691-4b9f-87d3-925e9e2c6758.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838647346/chapter/40a43934-1691-4b9f-87d3-925e9e2c6758.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring and getting information out of Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464910/chapter/ch10s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464910/chapter/ch10s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software installation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782168294/chapter/ch05s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782168294/chapter/ch05s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Processing with Optimus",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801079563/chapter/B17166_FM_Final_SB_epub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801079563/chapter/B17166_FM_Final_SB_epub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Checking the log files of nodes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474290/chapter/4e8a8f0e-b793-4bc2-9d52-a512c3dbcf85.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474290/chapter/4e8a8f0e-b793-4bc2-9d52-a512c3dbcf85.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Tools for Log Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098104269/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098104269/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Implementing MPM in Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108687/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108687/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "MVC critics and best practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126398/chapter/ch17s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126398/chapter/ch17s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Topics in Brief",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492054047/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492054047/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Loading and Saving Your Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449359034/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449359034/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B16742_TOC_Final_SK",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800565401/chapter/B16742_TOC_Final_SK.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800565401/chapter/B16742_TOC_Final_SK.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Flume jobs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788999830/chapter/d17d71aa-03d3-458e-86d6-5866dad41c18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788999830/chapter/d17d71aa-03d3-458e-86d6-5866dad41c18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Collecting and saving monitoring data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788628884/chapter/ch02s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788628884/chapter/ch02s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "32. Don’t SSH into Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076728/chapter/ch32.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076728/chapter/ch32.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Puppet 5 server metrics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284715/chapter/da540088-2c8d-40ad-b0d5-404b1b728c82.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284715/chapter/da540088-2c8d-40ad-b0d5-404b1b728c82.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Telemetry Management with Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076438/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076438/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Advanced Error Handling and Exception Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297896/chapter/html/610217_1_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297896/chapter/html/610217_1_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Planning the DevOps strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789132991/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789132991/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Logging and Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484220085/chapter/A185439_2_En_18_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484220085/chapter/A185439_2_En_18_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How does AWS synergize with a DevOps culture?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789539974/chapter/ae465382-d431-49a8-bd67-670bdfd96128.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789539974/chapter/ae465382-d431-49a8-bd67-670bdfd96128.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Why Datasets and DataFrames?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785884696/chapter/ch04s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785884696/chapter/ch04s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Figures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617292507/chapter/kindle_split_021.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617292507/chapter/kindle_split_021.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Operating system deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127913/chapter/2f8e28bb-b243-41fb-b2a2-23293479a2cd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127913/chapter/2f8e28bb-b243-41fb-b2a2-23293479a2cd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How it works...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783988167/chapter/ad082047-11ab-49fc-a75f-5e32bb8b1cf8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783988167/chapter/ad082047-11ab-49fc-a75f-5e32bb8b1cf8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Knative on OpenShift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492061182/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492061182/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: October 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098190293/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098190293/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Analyzing the current system",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838823818/chapter/bf90c990-9572-4e13-b7d2-cb71cb795bcf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838823818/chapter/bf90c990-9572-4e13-b7d2-cb71cb795bcf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B15339_12_ePub_SW",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839217647/chapter/B15339_12_ePub_SW.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839217647/chapter/B15339_12_ePub_SW.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Performing Network Penetration Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835085806/chapter/Text/Chapter_9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835085806/chapter/Text/Chapter_9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492033905/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492033905/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B22475_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835887905/chapter/B22475_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835887905/chapter/B22475_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Vector Databases in AI Applications in Enterprise Agentic AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815423/chapter/html/631522_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815423/chapter/html/631522_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Seven Databases in Seven Weeks, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505962/chapter/f_0022.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505962/chapter/f_0022.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Monitoring Types and Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810329/chapter/html/628571_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810329/chapter/html/628571_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring Spring applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992992/chapter/b4427280-1a1a-485e-b864-54257360c89a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992992/chapter/b4427280-1a1a-485e-b864-54257360c89a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Collecting Service Telemetry Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836207337/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836207337/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Logging – keeping track of your data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805789/chapter/e94f2723-64b3-4b42-9d69-7ef52ca3e9e3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805789/chapter/e94f2723-64b3-4b42-9d69-7ef52ca3e9e3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "RESTful API design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785887130/chapter/ch08s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785887130/chapter/ch08s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B21073_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805125105/chapter/B21073_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805125105/chapter/B21073_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Working with JPA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287927/chapter/html/447991_2_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287927/chapter/html/447991_2_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "New features in Magento 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880766/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880766/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Operations in the World of Containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491986851/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491986851/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Securing IoT-Driven Supply Chains",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868807992/chapter/html/619909_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868807992/chapter/html/619909_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "OpenShift Ansible inventory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992329/chapter/f97b97ea-a6f3-4d6b-a1d3-dc780e43ee04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992329/chapter/f97b97ea-a6f3-4d6b-a1d3-dc780e43ee04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Logging and Auditing in AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293723/chapter/791da214-1288-4483-a2b1-99789d2e3b70.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293723/chapter/791da214-1288-4483-a2b1-99789d2e3b70.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Reactively",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049289/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049289/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Playing with data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138733/chapter/010cf302-7b01-4107-bdde-800ef899604f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138733/chapter/010cf302-7b01-4107-bdde-800ef899604f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Logging and audit trails",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297335/chapter/OEBPS/Text/08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297335/chapter/OEBPS/Text/08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Compressed Representations in the Age of Big Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049210/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049210/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modularity Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491955673/chapter/ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491955673/chapter/ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spark Streaming Sinks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491944233/chapter/ch20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491944233/chapter/ch20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "26 Monitoring and troubleshooting errors with logging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438620/chapter/OEBPS/Text/26.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438620/chapter/OEBPS/Text/26.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Zabbix server daemon parameters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789340266/chapter/e451050a-314f-46aa-812d-11416f8b4f47.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789340266/chapter/e451050a-314f-46aa-812d-11416f8b4f47.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Full-Stack Web Development with Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234199/chapter/B18295_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234199/chapter/B18295_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Local Development Environments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491905173/chapter/app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491905173/chapter/app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Container Reporting & Dashboards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262160/chapter/html/491282_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262160/chapter/html/491282_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding services to a firewalld zone",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838981778/chapter/e8c67980-417b-4dae-88ca-3f139d917428.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838981778/chapter/e8c67980-417b-4dae-88ca-3f139d917428.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Semantic Web Solutions for Improvised Search in Healthcare Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119762294/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119762294/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Computer Investigation Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803238302/chapter/Text/Chapter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803238302/chapter/Text/Chapter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Synchronizing the Write and the Read Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836646310/chapter/chap09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836646310/chapter/chap09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud deployment manager",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834308/chapter/e56d8266-5ff4-414e-b535-f02db3bec272.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834308/chapter/e56d8266-5ff4-414e-b535-f02db3bec272.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Putting Fluent Bit into action: An enterprise use case",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437470/chapter/Text/chapter-11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437470/chapter/Text/chapter-11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Looking at Schedulers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463142/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463142/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "firewalld services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788620307/chapter/196bfc53-0a7f-4630-87a3-dbcd81767c7c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788620307/chapter/196bfc53-0a7f-4630-87a3-dbcd81767c7c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. From Monitoring to Observability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492034018/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492034018/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. What Is Data Science?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244708/chapter/html/463852_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244708/chapter/html/463852_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Engineering and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838645649/chapter/2686266b-0315-4bbf-a70c-d1d5fa393536.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838645649/chapter/2686266b-0315-4bbf-a70c-d1d5fa393536.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21. Secure Application Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098143923/chapter/ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098143923/chapter/ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Time to first byte",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125421/chapter/b7098216-fe00-4e57-bd2b-885746cb3408.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125421/chapter/b7098216-fe00-4e57-bd2b-885746cb3408.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Working with Sports Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133887402/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133887402/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "第14章 デバッグ、アクセスログ、エラーログ、要求のトレース (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098109660/chapter/chapter-42.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098109660/chapter/chapter-42.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "NoSQL databases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789535464/chapter/deb2ae7c-506c-4d5e-8a64-a1e80f3f3a4a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789535464/chapter/deb2ae7c-506c-4d5e-8a64-a1e80f3f3a4a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Secure Application Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492053101/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492053101/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Components and Endpoints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782173151/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782173151/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Data Ecosystem Landscape",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492058175/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492058175/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Travel Light on Your Pathway",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098102135/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098102135/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code instrumentation and monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886850/chapter/ch06s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886850/chapter/ch06s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Integration with Other Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484294734/chapter/html/600147_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484294734/chapter/html/600147_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring Clusters and Workloads",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835086957/chapter/Text/Chapter_15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835086957/chapter/Text/Chapter_15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Performance Considerations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835084236/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835084236/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using full-stack JavaScript to maximum effect",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783981403/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783981403/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Monitoring, Auditing, and Alerting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261002/chapter/html/486121_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261002/chapter/html/486121_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Distributed Storage Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038733/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038733/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Where Do We Go from Here?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038290/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038290/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Monitoring and troubleshooting errors with logging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298301/chapter/OEBPS/Text/17.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298301/chapter/OEBPS/Text/17.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Spring Boot Actuator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261446/chapter/html/498572_1_En_16_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261446/chapter/html/498572_1_En_16_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "46 NASA: Using Artificial Intelligence To Explore Space And Distant Worlds",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119548218/chapter/c46.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119548218/chapter/c46.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rails, Angular, Postgres, and Bootstrap, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502657/chapter/f_0067.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502657/chapter/f_0067.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Monitoring in Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176495/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176495/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Basic concurrency control",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298578/chapter/OEBPS/Text/05.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298578/chapter/OEBPS/Text/05.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Stream data analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783980307/chapter/ch06s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783980307/chapter/ch06s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Mining Search Logs for Usage Patterns (1/4)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781482237580/chapter/chapter-44.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781482237580/chapter/chapter-44.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Resilient distributed datasets (RDD)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784391409/chapter/ch06s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784391409/chapter/ch06s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Linux as a Security Device",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284255881/chapter/xhtml/9781284255935_CH01_05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284255881/chapter/xhtml/9781284255935_CH01_05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rails, Angular, Postgres, and Bootstrap",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501803/chapter/f_0063.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501803/chapter/f_0063.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Carrying out full-text search using Atlas Search",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436077/chapter/OEBPS/Text/chapter-11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436077/chapter/OEBPS/Text/chapter-11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Collecting and storing logs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294136/chapter/OEBPS/Text/07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294136/chapter/OEBPS/Text/07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Web Performance Monitoring and Infrastructure Planning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265284/chapter/html/499768_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265284/chapter/html/499768_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring Boot Hello World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789132588/chapter/ch01s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789132588/chapter/ch01s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Enhancing Cybersecurity Ratings Using Artificial Intelligence and DevOps Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394196449/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394196449/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Securing Microservices with Istio",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815737/chapter/html/640446_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815737/chapter/html/640446_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. What Is GitOps?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286739/chapter/html/524191_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286739/chapter/html/524191_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Infrastructure Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042327/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042327/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A New Observability Scorecard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056621/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056621/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Creating and Managing Topologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484245460/chapter/html/471036_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484245460/chapter/html/471036_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Defining Your Tech Stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836208570/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836208570/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Security Data Lake",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491927748/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491927748/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Debugging and Troubleshooting with Access Logs, Error Logs, and Request Tracing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049098/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049098/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Work Setup and Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491997079/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491997079/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Gray Hat Hacking: The Ethical Hacker’s Handbook, Fifth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260108422/chapter/ch21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260108422/chapter/ch21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Server-Side Extensions and Primitives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057406/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057406/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Deployment and Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257296/chapter/html/490883_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257296/chapter/html/490883_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Quantitative methods in linguistics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783551811/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783551811/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Evolutionary System Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492080688/chapter/ch15s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492080688/chapter/ch15s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Development Environment and Workflow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484219379/chapter/A394450_1_En_8_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484219379/chapter/A394450_1_En_8_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Docker, Aleph, and Making Datasets Searchable",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168773/chapter/xhtml/chapter5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168773/chapter/xhtml/chapter5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Database Keeps Evolving, but Can It Keep Up?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150556/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150556/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Running Transactions with Functions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506921/chapter/f_0049.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506921/chapter/f_0049.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Liferay Development Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484285633/chapter/html/525783_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484285633/chapter/html/525783_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Building Resilient Multi-Region Architectures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098162412/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098162412/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. The CAP Theorem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134116556/chapter/ch18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134116556/chapter/ch18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Why Do Chaos Engineering?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491988459/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491988459/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deciding to Use Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651254/chapter/f_0085.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651254/chapter/f_0085.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Goal and Architecture of a Customer Event Hub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042617/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042617/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "26 Industry 4.0 Uses Robotic Methodology in Mechanization Based on Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394166183/chapter/c26.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394166183/chapter/c26.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Event Sourcing, CQRS, and Other Stateful Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038252/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038252/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Advanced cybersecurity metrics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436107/chapter/Text/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436107/chapter/Text/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JSON Messaging with Kafka",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491982389/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491982389/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Amazon DynamoDB",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785280047/chapter/ch06s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785280047/chapter/ch06s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing a multilingual search with Haystack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121386/chapter/ch15s11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121386/chapter/ch15s11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 What is Cyber Threat Intelligence and How is it Evolving?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786304483/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786304483/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Offensive Wireshark",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118918210/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118918210/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Observability: Monitoring, Logging, and Tracing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491986011/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491986011/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Shipping Controllers and Operators",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492047094/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492047094/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Consuming Falco Events",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098118563/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098118563/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. RAG and Agents",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098166298/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098166298/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Analysis with SQL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492088776/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492088776/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Challenges of Cloud Native Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142100/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142100/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Flume architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784396688/chapter/ch06s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784396688/chapter/ch06s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Logs and Tracing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254585/chapter/html/483921_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254585/chapter/html/483921_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Enhancing responses with retrieval-augmented generation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436404/chapter/Text/chapter-6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436404/chapter/Text/chapter-6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Decomposing complex applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785885587/chapter/ch10s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785885587/chapter/ch10s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Logs to Build a Solid Data Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042563/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042563/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Release It! Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680504552/chapter/f_0097.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680504552/chapter/f_0097.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-on Incident Response and Digital Forensics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780174204/chapter/13_chapter01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780174204/chapter/13_chapter01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Building Real-Time Analytics Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146597/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146597/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Change Data Capture Fits into Modern Architectures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492032526/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492032526/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Deploying a Data Controller in Indirect Mode",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280850/chapter/html/505695_2_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280850/chapter/html/505695_2_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Machine Learning and Other Emerging Use Cases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098111380/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098111380/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Kubernetes and OpenShift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835882405/chapter/text/ch003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835882405/chapter/text/ch003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. How to Leverage the User Interface in Event-Driven Microservice Architectures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274682/chapter/html/517201_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274682/chapter/html/517201_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Deploying a Data Controller",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484267059/chapter/html/505695_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484267059/chapter/html/505695_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Packaging and Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457192845/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457192845/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Using t-Digest for Threshold Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491914151/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491914151/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Configuring Your Pomodoro",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788290920/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788290920/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Monitoring and Maintenance of LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817007/chapter/html/639667_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817007/chapter/html/639667_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Case Study: AutoScout24",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146719/chapter/afterword01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146719/chapter/afterword01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Turning the Cloud into the Database",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803235448/chapter/Text/Chapter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803235448/chapter/Text/Chapter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. SQL Server Big Data Clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254196/chapter/html/479130_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254196/chapter/html/479130_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. PHP Libraries, Web Service Integrations, and Platform Migrations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491990070/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491990070/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Building Enterprise-Grade Applications Using LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804038/chapter/html/608654_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804038/chapter/html/608654_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating infrastructure around logs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785288654/chapter/ch02s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785288654/chapter/ch02s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Open Science Data Repository for Toxicology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119282563/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119282563/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Big Data Technology Primer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491969267/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491969267/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Big Data Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788622219/chapter/ch32s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788622219/chapter/ch32s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with Azure Data Explorer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803246598/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803246598/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B14222_05_Final_NM_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838648176/chapter/B14222_05_Final_NM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838648176/chapter/B14222_05_Final_NM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Using NoSQL with Flask",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784393656/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784393656/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a recommendation engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994170/chapter/b164a22e-d7ec-4d20-b285-72b452a33700.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994170/chapter/b164a22e-d7ec-4d20-b285-72b452a33700.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to Define and Build an Effective Cyber Threat Intelligence Capability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128027301/chapter/B9780128027301000065/B9780128027301000065.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128027301/chapter/B9780128027301000065/B9780128027301000065.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Feature Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038177/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038177/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Log and Event Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394201600/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394201600/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Toward Scalable Persistence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491994368/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491994368/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Dashboarding with Grafana",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098131135/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098131135/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Digital Workplace Maintenance and Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255124/chapter/html/481576_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255124/chapter/html/481576_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "LLMs for AI-Powered Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835462317/chapter/Text/Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835462317/chapter/Text/Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring Kubernetes Clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804611395/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804611395/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 SEANOE – A Thematic Repository",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789450736/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789450736/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Monitoring and Maintaining Machine Learning Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810237/chapter/html/632229_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810237/chapter/html/632229_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Practical Time Series Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491920909/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491920909/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Internet of Things and Real Time",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042273/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042273/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Collecting, Labeling, and Validating Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156008/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156008/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Filtering and searching data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785284120/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785284120/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Creating and Modifying Fundamental Workloads",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142230/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142230/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Red Hat Hyperconverged Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264348/chapter/html/498969_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264348/chapter/html/498969_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Logging, Tracing, and Metrics for Observability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837635207/chapter/Text/Chaoter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837635207/chapter/Text/Chaoter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Basics of Spring Boot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801136/chapter/html/464036_2_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801136/chapter/html/464036_2_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Designing Applications with Copilot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817847/chapter/html/660323_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817847/chapter/html/660323_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building services with Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780988820203/chapter/text/ch007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780988820203/chapter/text/ch007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Key Concepts in Data Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098173050/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098173050/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Future Trends in PHP Application Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809323/chapter/html/609480_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809323/chapter/html/609480_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Metadata Management, Data Flow, and Lineage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151935/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151935/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Pulsar IO connectors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296888/chapter/OEBPS/Text/05.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296888/chapter/OEBPS/Text/05.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Logging and Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484229736/chapter/A454123_1_En_11_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484229736/chapter/A454123_1_En_11_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Migrating and Integrating",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098115159/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098115159/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting Cloud-Native Deployments Right",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491994931/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491994931/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 14: Using the Hadoop User Environment (HUE)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134456737/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134456737/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. The Manager - Apache Mesos",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467201/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467201/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. The Challenges Facing Open Source Today",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268001/chapter/html/464908_2_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268001/chapter/html/464908_2_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Security Monitoring and Log Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835886380/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835886380/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Navigating Challenges in Transitioning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812644/chapter/html/631109_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812644/chapter/html/631109_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Implementing CI/CD Safely",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812095/chapter/html/625172_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812095/chapter/html/625172_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Chaos Engineering on a Database",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043850/chapter/ch19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043850/chapter/ch19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C12620_09_epub_Final_SW",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808285/chapter/C12620_09_epub_Final_SW.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808285/chapter/C12620_09_epub_Final_SW.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Ecommerce Search – Powerhouse of Conversion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809231/chapter/html/630035_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809231/chapter/html/630035_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C09510_05_Commercial_Final_NT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805024/chapter/C09510_05_Commercial_Final_NT.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805024/chapter/C09510_05_Commercial_Final_NT.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Linux and Open Source Software on Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098178284/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098178284/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Challenges when Scaling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484239919/chapter/html/464896_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484239919/chapter/html/464896_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Day 3: Taking It to the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222829/chapter/f_0033.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222829/chapter/f_0033.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Data Storage Layer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098159986/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098159986/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Extending Spring Boot Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484214312/chapter/A340891_1_En_14_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484214312/chapter/A340891_1_En_14_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. LangChain and Python: Advanced Components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814754/chapter/html/611998_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814754/chapter/html/611998_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hardening hypervisors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784395100/chapter/ch07s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784395100/chapter/ch07s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Large language models in the real world",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299445/chapter/Text/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299445/chapter/Text/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "HIPAA background",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738458601/chapter/5591paper.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738458601/chapter/5591paper.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Observability and Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805431/chapter/html/627148_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805431/chapter/html/627148_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Infrastructure Security Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289365/chapter/html/529802_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289365/chapter/html/529802_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Fragmented Software Development: Why DevOps Isn’t Always Enough",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868816949/chapter/html/657802_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868816949/chapter/html/657802_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Operations and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492092438/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492092438/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. AI Engineering for Limited-Risk AI Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098172480/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098172480/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Application Deployment and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137500031/chapter/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137500031/chapter/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Open-Source Architectures for Edge and Cloud Networking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789451283/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789451283/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Training for Ranking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492097983/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492097983/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Additional Cloud and AI Capabilities",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098154981/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098154981/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing Your Data Lake",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492033004/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492033004/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Cloud Resource Allocation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057161/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057161/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Monitoring and Observability Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156343/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156343/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Cracking the Case: Whodunnit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142063/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142063/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 How to be effective with AI as a Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296154/chapter/OEBPS/Text/06.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296154/chapter/OEBPS/Text/06.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Platform Data Concepts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098138271/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098138271/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Fundamentals of Efficient AI Workload Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809170/chapter/html/626739_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809170/chapter/html/626739_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Advanced Objects In Kubernetes Clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297292/chapter/html/606829_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297292/chapter/html/606829_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Brave New World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484218730/chapter/A372479_1_En_2_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484218730/chapter/A372479_1_En_2_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Metadata Catalog Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492075240/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492075240/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Leveraging OpenAI’s Models for Enterprise-Scale Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836647850/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836647850/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Big Data Visualization and Data Wrangling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484231470/chapter/html/456459_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484231470/chapter/html/456459_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Preparing for Battle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801076203/chapter/Text/Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801076203/chapter/Text/Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Search – Add Search Capabilities to Your Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272497/chapter/html/499686_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272497/chapter/html/499686_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Open Source Software for Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786304582/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786304582/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B11641_10_Final_AM_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536058/chapter/B11641_10_Final_AM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536058/chapter/B11641_10_Final_AM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Real-Time Analytics Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098138783/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098138783/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Data in a Box: Persistent Storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492051374/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492051374/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Welcome to the Jungle: Adidas Cloud Native Transformation Case Study",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048893/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048893/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Technical Principles & Strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098175627/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098175627/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Measuring and Monitoring Pipeline Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492087823/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492087823/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Stream Processing Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098154820/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098154820/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Linking Program Code to Back-End Data Sources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780174990/chapter/html/16_chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780174990/chapter/html/16_chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Machines Have All the Answers, Except What’s the Purpose of Life",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270868/chapter/html/502837_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270868/chapter/html/502837_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Production-Grade Terraform Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098116736/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098116736/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. How Data Lakes Work",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042518/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042518/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Challenges of Python Debugging in Cloud Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297452/chapter/html/606465_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297452/chapter/html/606465_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Extending the First Site",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133519280/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133519280/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Trends in Healthcare Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098112912/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098112912/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Delivery and Automation Pipeline in Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270325/chapter/html/499897_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270325/chapter/html/499897_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Network Digital Forensics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789806298/chapter/d17022ca-03e5-43d2-b838-0b7824863faa.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789806298/chapter/d17022ca-03e5-43d2-b838-0b7824863faa.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Measuring Performance Bottlenecks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788296526/chapter/ch24.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788296526/chapter/ch24.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Data Engineering for LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098154196/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098154196/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Management for ML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805122500/chapter/Text/Chapter_04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805122500/chapter/Text/Chapter_04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Codu.ai: Success without Sustainability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806119530/chapter/GeektrustTechnicalCaseStudy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806119530/chapter/GeektrustTechnicalCaseStudy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Configuring Logging in Dataproc",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098157692/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098157692/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Comparison with other technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437593/chapter/Text/chapter-17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437593/chapter/Text/chapter-17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. The Hadoop Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484212875/chapter/A339337_1_En_5_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484212875/chapter/A339337_1_En_5_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Computing Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781315354927/chapter/xhtml/51_Chapter33.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781315354927/chapter/xhtml/51_Chapter33.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Elements of Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484229132/chapter/A429849_1_En_1_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484229132/chapter/A429849_1_En_1_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Stream-based Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491953914/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491953914/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Serverless Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789800982/chapter/4c0bb8c0-58e3-406a-a595-577ae8dd1f5a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789800982/chapter/4c0bb8c0-58e3-406a-a595-577ae8dd1f5a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 From executable specifications to automated acceptance tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297533/chapter/OEBPS/Text/08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297533/chapter/OEBPS/Text/08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. How to Store Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174583/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174583/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Operational Visibility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491925935/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491925935/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Delivering Embedded Analytics in Modern Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491984451/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491984451/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Designing LLM Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156145/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156145/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Local Information Gathering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098182434/chapter/xhtml/chapter8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098182434/chapter/xhtml/chapter8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 19. Using Spark with NoSQL Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134445786/chapter/ch19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134445786/chapter/ch19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring Design Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491957349/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491957349/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Operating Airflow in production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296901/chapter/OEBPS/Text/12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296901/chapter/OEBPS/Text/12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Metadata layer architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296444/chapter/OEBPS/Text/ch07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296444/chapter/OEBPS/Text/ch07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "23. Data in a Box: Persistent Storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174392/chapter/ch23.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174392/chapter/ch23.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a Foundation for Data Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804616734/chapter/Text/Chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804616734/chapter/Text/Chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Build Relational and Non-Relational Data Solutions on Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297605/chapter/html/606795_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297605/chapter/html/606795_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Log Analytics at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076254/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076254/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. CRISP: Clean, Reliable, Integrated Software Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810046/chapter/html/607182_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810046/chapter/html/607182_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Data Quality Imperative",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098145927/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098145927/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Observability: Logs, Metrics, and Traces",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484269985/chapter/html/503252_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484269985/chapter/html/503252_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a Chatbot Like ChatGPT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835083468/chapter/Text/Chapter_05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835083468/chapter/Text/Chapter_05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Representation Learning and Embeddings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150495/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150495/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Cloud Native Design Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156411/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156411/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Evolution of Cloud Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780173580/chapter/16_chapter05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780173580/chapter/16_chapter05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Chatting with your data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436947/chapter/Text/chapter-8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436947/chapter/Text/chapter-8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing the Service Mesh",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043775/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043775/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Linux Administration: A Beginner’s Guide, Eighth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260441710/chapter/ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260441710/chapter/ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing Machine Learning Pipelines (MLOps) and Their Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837634064/chapter/B19548_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837634064/chapter/B19548_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Analyzing and Visualizing Data in Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254707/chapter/html/480071_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254707/chapter/html/480071_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Advanced Polaris Configuration and CLI Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341608139/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341608139/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Metrics, Logs, and Traces",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836205371/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836205371/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a Data-Driven Graph-Powered Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248066/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248066/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. The Data Lake Setup",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297353/chapter/html/600282_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297353/chapter/html/600282_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Implementing Industry Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273517/chapter/html/475440_2_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273517/chapter/html/475440_2_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Deploying an LLM on a Raspberry Pi: How low can you go?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437203/chapter/Text/chapter-11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437203/chapter/Text/chapter-11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. The Observable System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449374631/chapter/part04ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449374631/chapter/part04ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Production-Grade Terraform Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492046899/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492046899/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Relational vs. No-Sql",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484210734/chapter/html/336285_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484210734/chapter/html/336285_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Objects for Building Agentic Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176631/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176631/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Beyond Borders: Exploring Digital Nomadism",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000997156/chapter/xhtml/ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000997156/chapter/xhtml/ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What Is Cloud Native Infrastructure?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491984291/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491984291/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Integration and Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288825/chapter/html/524096_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288825/chapter/html/524096_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding DC/OS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491983454/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491983454/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Workload Autoscaling Operations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836643838/chapter/text/ch007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836643838/chapter/text/ch007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Observable System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492037118/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492037118/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing Software for a Scalable Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042266/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042266/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Client and Server Support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271995/chapter/html/516433_1_En_16_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271995/chapter/html/516433_1_En_16_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Immutable Infrastructure in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042471/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042471/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Azure Management Insights",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484277683/chapter/html/506033_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484277683/chapter/html/506033_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Patterns for Flexible Object Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804823/chapter/html/314621_7_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804823/chapter/html/314621_7_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Debugging and Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098121310/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098121310/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "General Infrastructure Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491924334/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491924334/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Storing Temporal Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492041641/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492041641/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Understanding Performance and Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449341381/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449341381/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Java 9 and the Future",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492039259/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492039259/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Driving Efficiency with CloudOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803238951/chapter/Text/Chapter_9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803238951/chapter/Text/Chapter_9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Maintaining and Improving Your Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484239452/chapter/html/465171_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484239452/chapter/html/465171_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Storage and Retrieval",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491936078/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491936078/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Identifying Early Adopters of Platforms and Delivering Quick Wins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837638055/chapter/text/ch009.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837638055/chapter/text/ch009.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Paying Less with Reserved Instances and Committed Use Discounts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492054610/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492054610/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Setting Up Your Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249918/chapter/html/435350_2_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249918/chapter/html/435350_2_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. SOFTWARE TOOLS TO SUPPORT DIGITAL SOLUTION DELIVERY",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780177137/chapter/html/27_ch12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780177137/chapter/html/27_ch12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. It’s All About Dependability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076322/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076322/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Unveiling the Cloud-Native Paradigm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804076/chapter/html/615932_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804076/chapter/html/615932_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Designing Generative AI Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809149/chapter/html/501717_2_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809149/chapter/html/501717_2_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

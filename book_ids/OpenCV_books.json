@@ -1,0 +1,2905 @@
+{
+  "skill_name": "opencv",
+  "discovery_timestamp": 1759708932.6821046,
+  "total_books": 414,
+  "books": [
+    {
+      "title": "Learning OpenCV 5 Computer Vision with Python - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803230221/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803230221/",
+      "isbn": "9781803230221",
+      "format": "book"
+    },
+    {
+      "title": "Industrial Vision Systems with Raspberry Pi: Build and Design Vision products Using Python and OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800979/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800979/",
+      "isbn": "9798868800979",
+      "format": "book"
+    },
+    {
+      "title": "Learning OpenCV 4 Computer Vision with Python 3 - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789531619/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789531619/",
+      "isbn": "9781789531619",
+      "format": "book"
+    },
+    {
+      "title": "Mastering OpenCV 4 with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789344912/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789344912/",
+      "isbn": "9781789344912",
+      "format": "book"
+    },
+    {
+      "title": "Building Computer Vision Projects with OpenCV 4 and C++",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838644673/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838644673/",
+      "isbn": "9781838644673",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV 4 Computer Vision Application Programming Cookbook - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789340723/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789340723/",
+      "isbn": "9781789340723",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Vision and Behavior for Self-Driving Cars",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800203587/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800203587/",
+      "isbn": "9781800203587",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV 4 with Python Blueprints - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789801811/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789801811/",
+      "isbn": "9781789801811",
+      "format": "book"
+    },
+    {
+      "title": "Computer Vision and Augmented Reality in iOS: OpenCV and ARKit Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274620/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274620/",
+      "isbn": "9781484274620",
+      "format": "book"
+    },
+    {
+      "title": "Learning OpenCV 3",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491937983/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491937983/",
+      "isbn": "9781491938003",
+      "format": "book"
+    },
+    {
+      "title": "Learn Computer Vision Using OpenCV: With Deep Learning CNNs and RNNs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484242612/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484242612/",
+      "isbn": "9781484242612",
+      "format": "book"
+    },
+    {
+      "title": "Practical Machine Learning and Image Processing: For Facial Recognition, Object Detection, and Pattern Recognition Using Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484241493/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484241493/",
+      "isbn": "9781484241493",
+      "format": "book"
+    },
+    {
+      "title": "Mastering OpenCV 4 - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789533576/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789533576/",
+      "isbn": "9781789533576",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning for OpenCV 4 - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536300/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536300/",
+      "isbn": "9781789536300",
+      "format": "book"
+    },
+    {
+      "title": "Learn OpenCV 4 by Building Projects - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341225/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341225/",
+      "isbn": "9781789341225",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV 3 Computer Vision with Python Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474443/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474443/",
+      "isbn": "9781788474443",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning for OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783980284/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783980284/",
+      "isbn": "9781783980284",
+      "format": "book"
+    },
+    {
+      "title": "Computer Vision with OpenCV 3 and Qt5",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472395/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472395/",
+      "isbn": "9781788472395",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV: Computer Vision Projects with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125490/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125490/",
+      "isbn": "9781787125490",
+      "format": "book"
+    },
+    {
+      "title": "Learning OpenCV, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449331955/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449331955/",
+      "isbn": "9781449314651",
+      "format": "book"
+    },
+    {
+      "title": "Qt 5 and OpenCV 4 Computer Vision Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789532586/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789532586/",
+      "isbn": "9781789532586",
+      "format": "book"
+    },
+    {
+      "title": "Mastering OpenCV 3 - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467171/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467171/",
+      "isbn": "9781786467171",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV 4 for Secret Agents - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789345360/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789345360/",
+      "isbn": "9781789345360",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV By Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785280948/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785280948/",
+      "isbn": "9781785280948",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV Android Programming By Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783550593/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783550593/",
+      "isbn": "9781783550593",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV with Python By Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785283932/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785283932/",
+      "isbn": "9781785283932",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV 3 Computer Vision Application Programming Cookbook - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469717/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469717/",
+      "isbn": "9781786469717",
+      "format": "book"
+    },
+    {
+      "title": "Mastering OpenCV Android Application Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783988204/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783988204/",
+      "isbn": "9781783988204",
+      "format": "book"
+    },
+    {
+      "title": "Java Image Processing Recipes: With OpenCV and JVM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234655/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234655/",
+      "isbn": "9781484234655",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV 3.x with Python By Example - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788396905/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788396905/",
+      "isbn": "9781788396905",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV 3 Blueprints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784399757/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784399757/",
+      "isbn": "9781784399757",
+      "format": "book"
+    },
+    {
+      "title": "Learning OpenCV 3 Computer Vision with Python (Update)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785283840/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785283840/",
+      "isbn": "9781785283840",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV with Python Blueprints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785282690/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785282690/",
+      "isbn": "9781785282690",
+      "format": "book"
+    },
+    {
+      "title": "Practical OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430260790/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430260790/",
+      "isbn": "9781430260790",
+      "format": "book"
+    },
+    {
+      "title": "Mastering OpenCV with Practical Computer Vision Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849517829/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849517829/",
+      "isbn": "9781849517829",
+      "format": "book"
+    },
+    {
+      "title": "Learning OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596516130/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596516130/",
+      "isbn": "9780596554040",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Topics in LabWindows/CVI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132442565/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132442565/",
+      "isbn": "9780132442565",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV Computer Vision with Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783283972/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783283972/",
+      "isbn": "9781783283972",
+      "format": "book"
+    },
+    {
+      "title": "Computer Vision Projects with OpenCV and Python 3",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789954555/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789954555/",
+      "isbn": "9781789954555",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Robotics with Raspberry Pi and Arduino: Using Python and OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268919/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268919/",
+      "isbn": "9781484268919",
+      "format": "book"
+    },
+    {
+      "title": "With opencv and opencv-contrib",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789343731/chapter/0973ddd5-e8cf-449f-9e44-4edead36b586.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789343731/chapter/0973ddd5-e8cf-449f-9e44-4edead36b586.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On GPU-Accelerated Computer Vision with OpenCV and CUDA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789348293/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789348293/",
+      "isbn": "9781789348293",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Robotics with Raspberry Pi and Arduino: Using Python and OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234624/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234624/",
+      "isbn": "9781484234624",
+      "format": "book"
+    },
+    {
+      "title": "Raspberry Pi Image Processing Programming: With NumPy, SciPy, Matplotlib, and OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282700/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282700/",
+      "isbn": "9781484282700",
+      "format": "book"
+    },
+    {
+      "title": "Building Computer Vision Applications Using Artificial Neural Networks: With Examples in OpenCV and TensorFlow with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484298664/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484298664/",
+      "isbn": "9781484298664",
+      "format": "book"
+    },
+    {
+      "title": "14. Image Analysis and Computer Vision with OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295328/chapter/html/336498_3_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295328/chapter/html/336498_3_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Digital Image Processing with Python and OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804649/chapter/html/486908_2_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804649/chapter/html/486908_2_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using OpenCV Utilities for Image Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839213472/chapter/10c383c5-5c46-4d64-ab9c-9832ef3a3dae.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839213472/chapter/10c383c5-5c46-4d64-ab9c-9832ef3a3dae.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. OpenCV and Perception",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268032/chapter/html/494112_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268032/chapter/html/494112_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Computer Vision Applications Using Artificial Neural Networks: With Step-by-Step Examples in OpenCV and TensorFlow with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258873/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258873/",
+      "isbn": "9781484258873",
+      "format": "book"
+    },
+    {
+      "title": "Suresh Kumar B, Viswanadha Raju S, Uma Maheswari V 1 OpenCV libraries for computer vision",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110756821/chapter/content/9783110756678_002132.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110756821/chapter/content/9783110756678_002132.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Face Detection and Tracking Using ROS, OpenCV, and Dynamixel Servos",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838649326/chapter/b566f0da-afd1-4b06-bb09-97f9e10a2d99.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838649326/chapter/b566f0da-afd1-4b06-bb09-97f9e10a2d99.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Manipulating images with the OpenCV and Dlib libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789955330/chapter/bac40850-2c5d-4d85-85cc-25963c8f84bb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789955330/chapter/bac40850-2c5d-4d85-85cc-25963c8f84bb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multiple object tracking with Python-OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789537147/chapter/79f45366-2fae-42f1-bbe2-06f6d535ac88.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789537147/chapter/79f45366-2fae-42f1-bbe2-06f6d535ac88.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing OpenCV and NumPy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789343052/chapter/a47c2dda-e5a6-41ef-ba32-cf5d4b719a57.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789343052/chapter/a47c2dda-e5a6-41ef-ba32-cf5d4b719a57.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The OpenCV tracking method",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838827069/chapter/b8d6e8a5-d70a-47e7-a8f2-0fdef9f655eb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838827069/chapter/b8d6e8a5-d70a-47e7-a8f2-0fdef9f655eb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A code example of YOLOv3 with OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789348460/chapter/3f9a9fa4-d1b4-4b5d-acba-9e85df10b8a0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789348460/chapter/3f9a9fa4-d1b4-4b5d-acba-9e85df10b8a0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Disease Detection Platform Using Image Processing Through OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119785729/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119785729/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Finding Road Markings Using OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838646301/chapter/e5a39ce5-e62a-44a1-827e-6da9ab20ff70.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838646301/chapter/e5a39ce5-e62a-44a1-827e-6da9ab20ff70.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The opencv-python library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838557744/chapter/1e53f8e8-4afb-444e-bc3a-a575a6221595.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838557744/chapter/1e53f8e8-4afb-444e-bc3a-a575a6221595.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. OpenVINO with OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800201774/chapter/B16118_08_Final_SMP.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800201774/chapter/B16118_08_Final_SMP.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Open Computer Vision - OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788295628/chapter/801d9f53-853d-4f56-92de-08db96356644.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788295628/chapter/801d9f53-853d-4f56-92de-08db96356644.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "OpenCV, Caffe, and others",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783554393/chapter/f2c9f8bb-874a-4175-a9fe-b06327e95cb5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783554393/chapter/f2c9f8bb-874a-4175-a9fe-b06327e95cb5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing your OpenCV filters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788995399/chapter/5dbfbb95-6606-47df-9c8b-b56d4c376d0b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788995399/chapter/5dbfbb95-6606-47df-9c8b-b56d4c376d0b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788297684/chapter/2cb8401c-ed87-4099-983b-a0481654bd14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788297684/chapter/2cb8401c-ed87-4099-983b-a0481654bd14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Operating on images using OpenCV-Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808452/chapter/a2c1922d-e8e7-486a-b64f-c32263a4b5f5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808452/chapter/a2c1922d-e8e7-486a-b64f-c32263a4b5f5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Downloading and unzipping OpenCV 4.0 and its contribution repository",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789139006/chapter/294690a6-8153-43e0-9712-14b6234d027e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789139006/chapter/294690a6-8153-43e0-9712-14b6234d027e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789340747/chapter/c58a9bb1-4277-4832-8228-51c3ae4b9b61.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789340747/chapter/c58a9bb1-4277-4832-8228-51c3ae4b9b61.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using OpenCV to detect faces",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788475655/chapter/0f7f1f1b-1eb7-4131-bbb6-b10bf2b82c0e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788475655/chapter/0f7f1f1b-1eb7-4131-bbb6-b10bf2b82c0e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Detecting faces in an image with OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888632/chapter/ch11s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888632/chapter/ch11s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "An example using OpenCV and the Raspberry Pi",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838829902/chapter/e27ad7a0-3080-43ca-bb07-b26bc35311f3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838829902/chapter/e27ad7a0-3080-43ca-bb07-b26bc35311f3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installation of OpenCV from the source code in Ubuntu",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623315/chapter/666305e6-37e3-4e61-9201-bb0a92bd6f5d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623315/chapter/666305e6-37e3-4e61-9201-bb0a92bd6f5d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787128491/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787128491/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Face-Swapping with Your Friends Using OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994590/chapter/ea8b88b8-f3da-4643-bbd2-875c3c0fa274.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994590/chapter/ea8b88b8-f3da-4643-bbd2-875c3c0fa274.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up the GLEW, GLM, SOIL, and OpenCV libraries in Windows",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788296724/chapter/ch22s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788296724/chapter/ch22s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is OpenCV?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788838764/chapter/f7f4a911-bbea-4815-86c1-8e716017d2f0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788838764/chapter/f7f4a911-bbea-4815-86c1-8e716017d2f0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Face Detection and Tracking Using ROS, OpenCV and Dynamixel Servos",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783554713/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783554713/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Erase Parking Headaches with OpenCV and Raspberry Pi",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783283873/chapter/d2af8826-8d92-4c81-aa80-2c9f45ddc83b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783283873/chapter/d2af8826-8d92-4c81-aa80-2c9f45ddc83b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7.5. Face detection using OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781482226577/chapter/chapter-80.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781482226577/chapter/chapter-80.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up OpenCV and other dependencies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785281532/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785281532/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Object Detection Using OpenCV and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788997096/chapter/d3a16c16-a745-4cd4-ae4b-4afcec887ada.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788997096/chapter/d3a16c16-a745-4cd4-ae4b-4afcec887ada.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Downloading and installing OpenCV, a fully featured vision library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293136/chapter/b4b459ff-a546-4098-9481-3b5016d8fb61.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293136/chapter/b4b459ff-a546-4098-9481-3b5016d8fb61.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Vision Sensors using ROS, Open-CV, and PCL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788627436/chapter/bfa64699-32cb-432a-8933-c2fb892d64a9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788627436/chapter/bfa64699-32cb-432a-8933-c2fb892d64a9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Downloading and installing OpenCV - a fully featured vision library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467966/chapter/ch02s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467966/chapter/ch02s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Converting OpenCV to ROS images using cv_bridge",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788478953/chapter/67e127bd-2305-4e1b-8000-83fbbf1e37ee.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788478953/chapter/67e127bd-2305-4e1b-8000-83fbbf1e37ee.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing the OpenCV library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466518/chapter/ch03s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466518/chapter/ch03s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Programming Vision Sensors using ROS, Open-CV, and PCL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783551798/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783551798/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Color detection with OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785288326/chapter/ch08s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785288326/chapter/ch08s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "FPGA implementation of OpenCV compatible background identification circuit (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780203075371/chapter/chapter-33.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780203075371/chapter/chapter-33.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Open Source Computer Vision Library (OPENCV)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131013661/chapter/0131013661_ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131013661/chapter/0131013661_ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up the coding environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390040/chapter/ch09s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390040/chapter/ch09s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Raspberry Pi Computer Vision Programming - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207219/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207219/",
+      "isbn": "9781800207219",
+      "format": "book"
+    },
+    {
+      "title": "Loading, displaying, and saving images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788629874/chapter/6b8200a9-3517-41b2-b936-1798cf290cb5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788629874/chapter/6b8200a9-3517-41b2-b936-1798cf290cb5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing OpenALPR",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787286429/chapter/7308533d-35e0-428d-ae11-daebc0623ec5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787286429/chapter/7308533d-35e0-428d-ae11-daebc0623ec5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "There's more...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788995207/chapter/0e7eea4d-ae98-4751-a1bb-189a6a819800.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788995207/chapter/0e7eea4d-ae98-4751-a1bb-189a6a819800.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Object Detection and Tracking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464392/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464392/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788478854/chapter/4a877864-db34-460e-8b72-464ec438e8b4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788478854/chapter/4a877864-db34-460e-8b72-464ec438e8b4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The image processing library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783982820/chapter/ch05s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783982820/chapter/ch05s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Detecting faces and eyes through a camera stream",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783286331/chapter/ch10s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783286331/chapter/ch10s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Who this book is for",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642303/chapter/13d7c27a-7f41-40fa-8428-7e996dba8d29.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642303/chapter/13d7c27a-7f41-40fa-8428-7e996dba8d29.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Visualizing non-scalar data – 2D/3D images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987443/chapter/8aabc95b-ce86-4321-8753-e7e471949820.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987443/chapter/8aabc95b-ce86-4321-8753-e7e471949820.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Identifying faces",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788622219/chapter/ch10s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788622219/chapter/ch10s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enabling a robot to recognize faces",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782175193/chapter/ch10s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782175193/chapter/ch10s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Technical requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996921/chapter/41e3597c-1f7d-4e20-beb0-ea59f5e8cbcc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996921/chapter/41e3597c-1f7d-4e20-beb0-ea59f5e8cbcc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Photographic Memory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457193934/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457193934/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789958034/chapter/4170ac0c-7d1f-4990-a232-af9c8cb268a4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789958034/chapter/4170ac0c-7d1f-4990-a232-af9c8cb268a4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Having Fun with Computer Vision",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264317/chapter/html/502073_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264317/chapter/html/502073_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9/Working with Cameras (3/6)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680456981/chapter/chapter-38.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680456981/chapter/chapter-38.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Face detection in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138900/chapter/84221a33-00fe-4bf3-9e7c-74d6d7379d33.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138900/chapter/84221a33-00fe-4bf3-9e7c-74d6d7379d33.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing TensorFlow and other dependencies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838551308/chapter/74563e4c-9dae-4e8d-a537-bcf471549052.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838551308/chapter/74563e4c-9dae-4e8d-a537-bcf471549052.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Solving CAPTCHAs with a neural network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992282/chapter/933736c7-2431-4fb2-8b2a-f9748c7075c9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992282/chapter/933736c7-2431-4fb2-8b2a-f9748c7075c9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing a real-time object detection project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788997454/chapter/51d67eee-565c-41f4-9873-5823f8ac1046.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788997454/chapter/51d67eee-565c-41f4-9873-5823f8ac1046.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using TensorFlow with Anaconda",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462961/chapter/b8c4eb01-61d1-4b1d-9cbe-8f660d96b9e2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462961/chapter/b8c4eb01-61d1-4b1d-9cbe-8f660d96b9e2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Image processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789611212/chapter/e77fd961-13e0-4f9f-befc-32481d666755.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789611212/chapter/e77fd961-13e0-4f9f-befc-32481d666755.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Flying a Mission with Crazyflie",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788479592/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788479592/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "To get the most out of this book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789616132/chapter/1ff09fd1-a4e2-4df5-b848-4239d1353bce.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789616132/chapter/1ff09fd1-a4e2-4df5-b848-4239d1353bce.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing MXNet",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996839/chapter/3a0670d4-55bf-423f-a407-03ff68017ab8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996839/chapter/3a0670d4-55bf-423f-a407-03ff68017ab8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Common OpenCL applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121706/chapter/9d71705b-e603-40c1-bee4-3fe1651328b7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121706/chapter/9d71705b-e603-40c1-bee4-3fe1651328b7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. GUIs for Computer Vision",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266038/chapter/html/499411_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266038/chapter/html/499411_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Preparing Raspberry Pi for vision processing application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788832922/chapter/ef52f6df-bd1d-4b14-82bd-67560068c972.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788832922/chapter/ef52f6df-bd1d-4b14-82bd-67560068c972.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Systematic Approach to Learning Robot Programming with ROS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781498777872/chapter/xhtml/part03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781498777872/chapter/xhtml/part03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Computer Vision",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043218/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043218/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789952063/chapter/f3d30b3a-29ce-4943-b1c6-7df7504dc7fc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789952063/chapter/f3d30b3a-29ce-4943-b1c6-7df7504dc7fc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Unsupervised Classification (10/10)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466570375/chapter/chapter-86.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466570375/chapter/chapter-86.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Related publications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738442570/chapter/8393bibl.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738442570/chapter/8393bibl.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Prerequisites before we move on",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530513/chapter/0acc5a79-1ffc-4c55-b5f0-ead882b4aacf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530513/chapter/0acc5a79-1ffc-4c55-b5f0-ead882b4aacf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-Time IoT Imaging with Deep Neural Networks: Using Java on the Raspberry Pi 4",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257227/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257227/",
+      "isbn": "9781484257227",
+      "format": "book"
+    },
+    {
+      "title": "Augmenting images with computer vision techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125193/chapter/c01430e9-3e38-4650-b64c-7b4e8cc85d9d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125193/chapter/c01430e9-3e38-4650-b64c-7b4e8cc85d9d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Motion and Gestures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449321482/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449321482/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installation on Google Colaboratory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956085/chapter/06cc2fb4-8167-40a1-b67e-5d42a55bfca0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956085/chapter/06cc2fb4-8167-40a1-b67e-5d42a55bfca0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-World Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125721/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125721/",
+      "isbn": "9781718500624",
+      "format": "book"
+    },
+    {
+      "title": "Pro iOS 5 Augmented Reality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430239123/chapter/Chapter12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430239123/chapter/Chapter12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838649951/chapter/065c34e9-8d1c-40e7-9ea5-fd0e62e0c808.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838649951/chapter/065c34e9-8d1c-40e7-9ea5-fd0e62e0c808.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Detection and Gestures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596800598/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596800598/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming for the Internet of Things: Using Windows 10 IoT Core and Azure IoT Suite",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781509302154/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781509302154/",
+      "isbn": "9781509302154",
+      "format": "book"
+    },
+    {
+      "title": "Data analysis pre-processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788399906/chapter/39fcad09-9c1e-4987-ad78-d6b356fe7109.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788399906/chapter/39fcad09-9c1e-4987-ad78-d6b356fe7109.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Traditional, nonCNN approaches to object detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788392303/chapter/b382ff3d-50ea-4305-8231-dea7afb3f171.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788392303/chapter/b382ff3d-50ea-4305-8231-dea7afb3f171.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting and configuring MXNet for Scala",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788479042/chapter/33790756-fedf-4878-9fa2-9fa29d8676c7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788479042/chapter/33790756-fedf-4878-9fa2-9fa29d8676c7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Why does it matter?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789348262/chapter/fc0c2846-e52f-4ecc-a1d1-4e245af42173.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789348262/chapter/fc0c2846-e52f-4ecc-a1d1-4e245af42173.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to do it...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805673/chapter/2dfded78-a491-45d7-a669-fcee1f642b85.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805673/chapter/2dfded78-a491-45d7-a669-fcee1f642b85.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing OpenAI Gym and Universe",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836524/chapter/bc866d8a-baad-4895-af93-d78062b5dd26.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836524/chapter/bc866d8a-baad-4895-af93-d78062b5dd26.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Utilizing Computer Vision",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136364/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136364/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automated GUI testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788392570/chapter/47f88932-298f-4f69-b641-bfeed3ba4413.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788392570/chapter/47f88932-298f-4f69-b641-bfeed3ba4413.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data preparation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788991612/chapter/f3da13b1-bd90-4b8f-8ee4-b268a163e428.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788991612/chapter/f3da13b1-bd90-4b8f-8ee4-b268a163e428.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. NVIDIA Jetson Nano Camera",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264522/chapter/html/502249_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264522/chapter/html/502249_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up an environment suitable for the project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788398060/chapter/9f2189a8-04cc-4deb-9e4d-7533f4c58544.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788398060/chapter/9f2189a8-04cc-4deb-9e4d-7533f4c58544.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Teach Edison to See",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457187582/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457187582/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build Your Own Autonomous NERF® Blaster: Programming Mayhem with Processing and Arduino™",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071802758/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071802758/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Where you can go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783989645/chapter/ch11s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783989645/chapter/ch11s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Labeling in Machine Learning with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804610541/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804610541/",
+      "isbn": "9781804610541",
+      "format": "book"
+    },
+    {
+      "title": "Computer Vision with Maker Tech: Detecting People With a Raspberry Pi, a Thermal Camera, and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268216/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268216/",
+      "isbn": "9781484268216",
+      "format": "book"
+    },
+    {
+      "title": "Applied Machine Learning for Health and Fitness: A Practical Guide to Machine Learning with Deep Vision, Sensors and IoT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257722/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257722/",
+      "isbn": "9781484257722",
+      "format": "book"
+    },
+    {
+      "title": "Class templates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838552657/chapter/ee3e9a22-f05f-44fb-9d7c-9e372cb3b8c0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838552657/chapter/ee3e9a22-f05f-44fb-9d7c-9e372cb3b8c0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring Deepfakes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801810692/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801810692/",
+      "isbn": "9781801810692",
+      "format": "book"
+    },
+    {
+      "title": "About the Technical Reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430248750/chapter/9781430248750_About_the_Technical_Reviewer.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430248750/chapter/9781430248750_About_the_Technical_Reviewer.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with ROS 2 and Perception Stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836209010/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836209010/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Handling Images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491989371/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491989371/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Computer Vision Metrics: Survey, Taxonomy, and Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430259299/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430259299/",
+      "isbn": "9781430259299",
+      "format": "book"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207721/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207721/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 FlowGuard: Efficient Traffic Monitoring System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394271399/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394271399/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 THE SCIENTIFIC LIBRARIES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156688/chapter/xhtml/ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156688/chapter/xhtml/ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing dependencies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789137750/chapter/75bf4738-b5a0-4c2c-83fe-b49ed4dc4bc4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789137750/chapter/75bf4738-b5a0-4c2c-83fe-b49ed4dc4bc4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Transfer knowledge and models created in other languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838550356/chapter/2a42a984-1750-4a68-9705-58891eb4ecd0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838550356/chapter/2a42a984-1750-4a68-9705-58891eb4ecd0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Making and Sharing Digital Photographs and Open-Source Cameras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260461770/chapter/03_Ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260461770/chapter/03_Ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical applications of multidimensional arrays",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789343236/chapter/7fc2a7c0-4459-4128-a3fc-8a1063ba2efc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789343236/chapter/7fc2a7c0-4459-4128-a3fc-8a1063ba2efc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Topics in 3D Programming to Explore",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449321918/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449321918/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hardware and software requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834247/chapter/ch02s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834247/chapter/ch02s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Manipulation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491933213/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491933213/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Ethical Decision-Making in Yoga Posture Detection through AI: Fostering Responsible Technology Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275281/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275281/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Support Vector Machines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787126787/chapter/6f52f2b3-954d-418d-ae9b-f8f526eface8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787126787/chapter/6f52f2b3-954d-418d-ae9b-f8f526eface8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B19849_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805120575/chapter/B19849_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805120575/chapter/B19849_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14.9 Programming Examples and Exercises (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123749420/chapter/chapter-169.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123749420/chapter/chapter-169.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Human-Computer Interaction Tools and Game Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281826/chapter/html/523918_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281826/chapter/html/523918_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Go Beyond : Connecting to C for a Performance Boost",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296660/chapter/html/533099_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296660/chapter/html/533099_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Detecting Objects with Edge Impulse Using FOMO on the Raspberry Pi Pico",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837637362/chapter/Text/Chapter_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837637362/chapter/Text/Chapter_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Static and Dynamic Libraries: Hot-swappable code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449335649/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449335649/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Listings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617292194/chapter/kindle_split_037.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617292194/chapter/kindle_split_037.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Technical Reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430267003/chapter/9781430267003_About_the_Technical_Reviewers.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430267003/chapter/9781430267003_About_the_Technical_Reviewers.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 An Automated System to Identify and Detect the Faults in Bottle Cap Production and Visual Inspection Using Raspberry Pi",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394303212/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394303212/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Internet of Things (IoT)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484226292/chapter/A427984_1_En_6_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484226292/chapter/A427984_1_En_6_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Computer Vision & Image Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484223161/chapter/A421249_1_En_6_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484223161/chapter/A421249_1_En_6_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Obstacle Avoidance Simulation and Real-Time Lane Detection for AI-Based Self-Driving Car",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119879688/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119879688/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C13550_02_EPUB_Final_SW",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838552268/chapter/C13550_02_EPUB_Final_SW.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838552268/chapter/C13550_02_EPUB_Final_SW.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 A Fuzzy Approach to Face Mask Detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119864929/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119864929/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "K-Nearest Neighbors Classification",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449374075/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449374075/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Artificial Intelligence Approach for Signature Detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119904885/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119904885/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Working with Modern Data Types in Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098140700/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098140700/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Working with Kivy Projects from Android Studio",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484250310/chapter/html/481739_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484250310/chapter/html/481739_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Can You Find Out Which Movie Is a Deepfake?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128519/chapter/Text/Chapter_9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128519/chapter/Text/Chapter_9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Image Recognition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839219535/chapter/Text/Chapter_18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839219535/chapter/Text/Chapter_18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Driver Drowsiness Detection System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394174584/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394174584/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 SLRRT: Sign Language Recognition in Real Time",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119786344/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119786344/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Aspects of Image Classification",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803231334/chapter/Text/Chapter_06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803231334/chapter/Text/Chapter_06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying a deep neural network with Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469878/chapter/b9c24eb0-5161-4d60-aac7-dd01511c764f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469878/chapter/b9c24eb0-5161-4d60-aac7-dd01511c764f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 A Relative Study on Object and Lane Detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119857297/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119857297/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Packaging Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803232591/chapter/Text/Chapter_15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803232591/chapter/Text/Chapter_15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Haar Classifiers for Object Detection with CUDA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123849885/chapter/B9780123849885000334.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123849885/chapter/B9780123849885000334.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Real-Time Face Mask Detection and Alert System Using IoT and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000861013/chapter/xhtml/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000861013/chapter/xhtml/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Paperspace for deep learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642709/chapter/f776b6b8-90ec-4e05-96ab-8d7f4b27f3db.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642709/chapter/f776b6b8-90ec-4e05-96ab-8d7f4b27f3db.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Object Localization: An Implementation in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249765/chapter/html/470317_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249765/chapter/html/470317_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development with C++",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803242002/chapter/B18567_FrontMatter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803242002/chapter/B18567_FrontMatter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118462133/chapter/a2_12_9781118462133-ch09.ef.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118462133/chapter/a2_12_9781118462133-ch09.ef.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5.3 Convolutional Neural Network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806022496/chapter/05_003.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806022496/chapter/05_003.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24 AI- and IoT-Based Face Recognition Model for Identification of Human Diseases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119904878/chapter/c24.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119904878/chapter/c24.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using YOLO2–another object-detection model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834544/chapter/76916cc8-3b5a-461f-bb3e-51c24269c487.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834544/chapter/76916cc8-3b5a-461f-bb3e-51c24269c487.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. 3D Object and Scene Reconstruction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449332181/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449332181/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with Moving Images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133967/chapter/90550368-67bd-472f-bed5-abe5877716d2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133967/chapter/90550368-67bd-472f-bed5-abe5877716d2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Research on the method of automatic recognition of DMI information of CTCS-3 onboard equipment (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781315684581/chapter/chapter-129.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781315684581/chapter/chapter-129.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Face Detection and Recognition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484235164/chapter/html/456157_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484235164/chapter/html/456157_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A fast and accurate algorithm for detecting and tracking moving hand gestures (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138000810/chapter/chapter-54.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138000810/chapter/chapter-54.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The state of things",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992879/chapter/ch08s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992879/chapter/ch08s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Owning the Network with Scapy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457189807/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457189807/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Eye-Based Cursor Control and Eye Coding Using Hog Algorithm and Neural Network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119791638/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119791638/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Exploring AI-Enabled Crime: An In-Depth Analysis of Pornographic Image Morphing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040127902/chapter/ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040127902/chapter/ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Application and use cases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789955651/chapter/e4987407-368c-42b6-8411-8bbe9ed6bd1a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789955651/chapter/e4987407-368c-42b6-8411-8bbe9ed6bd1a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deciphering Object-Oriented Programming with C++",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804613900/chapter/B19087_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804613900/chapter/B19087_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Python Packages for Learning Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805301/chapter/html/600402_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805301/chapter/html/600402_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Kinect Programming with Direct3D 11 (4/4)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466567443/chapter/chapter-76.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466567443/chapter/chapter-76.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Interaction in an immersive multi-projection system based on light wand like devices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138001374/chapter/chapter-150.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138001374/chapter/chapter-150.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Image Enhancement and Correction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780429875342/chapter/xhtml/17_Chapter05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780429875342/chapter/xhtml/17_Chapter05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI with Python and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800200883/chapter/toc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800200883/chapter/toc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Computer Vision (CV)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789357053778/chapter/xhtml/chapter006.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9789357053778/chapter/xhtml/chapter006.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Advancement of ML in Smart House",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394230921/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394230921/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow object detection zoo",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788998086/chapter/4a8c627f-ff11-4357-a855-ed852823b603.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788998086/chapter/4a8c627f-ff11-4357-a855-ed852823b603.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Feature Engineering and Supervised Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280058/chapter/html/458833_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280058/chapter/html/458833_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A study on flower image recognition service of wildflowers in Gwacheon nature-learning places",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138026537/chapter/chapter-26.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138026537/chapter/chapter-26.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating your own image dataset using Google images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789344073/chapter/32a5a1a0-f2e2-4768-9c45-c97f82764510.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789344073/chapter/32a5a1a0-f2e2-4768-9c45-c97f82764510.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Framework for Gender Detection Using Facial Countenances",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394287390/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394287390/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 An Intelligent Healthcare Monitoring System for Coma Patients",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119768838/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119768838/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Operationalizing PyTorch Models into Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801074308/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801074308/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deepfakes with GANs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835884447/chapter/Text/Chapter_14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835884447/chapter/Text/Chapter_14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Data and Media Elements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289839/chapter/html/532543_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289839/chapter/html/532543_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Image Generation with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838826789/chapter/B14538_FM_Final_JM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838826789/chapter/B14538_FM_Final_JM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Development of a nasal swab rapid test system for quarantine hotels",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040261415/chapter/xhtml/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040261415/chapter/xhtml/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Asynchronous Work on the Native Layer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785883248/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785883248/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "28 Efficient Face Mask Detection for Banking Information Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394272273/chapter/c28.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394272273/chapter/c28.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating native Python extensions with PyO3",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838828103/chapter/f610e462-7a91-423c-958d-4922c134a935.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838828103/chapter/f610e462-7a91-423c-958d-4922c134a935.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Unsupervised Learning Methods",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484279212/chapter/html/516449_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484279212/chapter/html/516449_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Review on Machine Learning‐based Traffic Rules Contravention Detection System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394196449/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394196449/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Edge Computing in Educational Technology: The Power of Edge AI for Dynamic and Personalized Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394314379/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394314379/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Developing Chatbot’s Face Detection and Recognition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394166466/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394166466/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19.10 Data Science and Powered AI-OneAPI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000529661/chapter/chapter-196.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000529661/chapter/chapter-196.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Graphs and Foundation Models for Unsupervised Segmentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098161323/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098161323/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Automating Graphically Intensive Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098105983/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098105983/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Bridging the Linguistic Gap: A Deep Learning-Based Image-to-Text Converter for Ancient Tamil with Web Interface",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213580/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213580/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Interaktion mit entfernten Displays durch See-Through Augmentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110435573/chapter/xhtml/ch68.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110435573/chapter/xhtml/ch68.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "33 Optimal Solar Charging Enabled Autonomous Cleaning Robot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394193660/chapter/c33.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394193660/chapter/c33.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Abbreviations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118706336/chapter/OEBPS/9781118706336_epub_fm_04.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118706336/chapter/OEBPS/9781118706336_epub_fm_04.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Data Format Context",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492093398/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492093398/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Image-Based Search and Recommendation System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282731/chapter/html/520381_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282731/chapter/html/520381_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Programming Problems and Debugging (1/4)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781498711647/chapter/chapter-35.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781498711647/chapter/chapter-35.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 IMPROVING YOUR ASTROPHOTOGRAPHY WITH PLANET STACKING",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492069454/chapter/xhtml/ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492069454/chapter/xhtml/ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Face Detection and Recognition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492098041/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492098041/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Getting to Know the SimpleCV Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449337865/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449337865/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 An Automated Home Security System Using Secure Message Queue Telemetry Transport Protocol",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213597/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213597/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Enhancing Accuracy in Predicting Knee Osteoarthritis Progression Using Kellgren–Lawrence Grade Compared with Deep Convolutional Neural Network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394301454/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394301454/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Integrating the Software with Raspberry Pi, and Next Steps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817601/chapter/html/417606_2_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817601/chapter/html/417606_2_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Healthcare Landscape",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806020157/chapter/Medloaner.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806020157/chapter/Medloaner.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Raspberry Pi connection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785281952/chapter/ch08s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785281952/chapter/ch08s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "30 Convolutional Neural Network Algorithm for Proliferative Diabetic Retinopathy Detection and Comparison with GoogleNet Algorithm to Improve Accuracy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394305780/chapter/c30.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394305780/chapter/c30.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Automating File Fuzzing over USB for Automotive Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119710745/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119710745/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Efficient Classification of Breast Cancer Diseases on Medical Images Using Deep Learning Methodology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275328/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275328/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automatic colorization autoencoder",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788629416/chapter/ch03s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788629416/chapter/ch03s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Region-Based Convolutional Neural Networks for Selective Search",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394166374/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394166374/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Data Chaos Problem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806113217/chapter/CaseStudy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806113217/chapter/CaseStudy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Multimodal Data Ingestion and Transformation Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098190774/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098190774/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Hands-on with Azure Databricks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264058/chapter/html/501717_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264058/chapter/html/501717_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21. Deepfakes development using long short-term memory-based deep neural networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780443264832/chapter/xhtml/Ch021_229-236_B9780443264825000225.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780443264832/chapter/xhtml/Ch021_229-236_B9780443264825000225.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing rbuttons.py",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784396398/chapter/ch08s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784396398/chapter/ch08s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Kick-Starting Robot Programming Using ROS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484277508/chapter/html/453257_2_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484277508/chapter/html/453257_2_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 A Comprehensive Analysis on Masked Face Detection Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119768869/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119768869/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Smart IoT-Enabled Traffic Sign Recognition With High Accuracy (TSR-HA) Using Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119760474/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119760474/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. AI Full Stack: Application Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288177/chapter/html/527966_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288177/chapter/html/527966_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Stereo Vision Subsystem and Scene Segmentation Self-Steering Tractors in Smart Agriculture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394186297/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394186297/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. RL Theory and Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484232859/chapter/html/454310_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484232859/chapter/html/454310_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10: Rotation and Scale Invariant Template Matchings (6/7)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781498722377/chapter/chapter-75.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781498722377/chapter/chapter-75.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Federated Learning and Healthcare",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270868/chapter/html/502837_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270868/chapter/html/502837_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "22. Recognizing Text in Images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341620094/chapter/xhtml/chapter22.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341620094/chapter/xhtml/chapter22.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ways to Speed Up RL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835882702/chapter/Text/ch013.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835882702/chapter/Text/ch013.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Raspberry Pi History",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484260807/chapter/html/488914_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484260807/chapter/html/488914_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "piDuino5 Mobile Robot Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457186943/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457186943/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Context Managers and Contextlib",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812613/chapter/html/616149_1_En_18_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812613/chapter/html/616149_1_En_18_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.3 Using TensorFlow Hub and Model Zoo for Pretrained Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837025879/chapter/xhtml/xhtml-0-21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837025879/chapter/xhtml/xhtml-0-21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Multi‐Robot Systems and Swarming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119212867/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119212867/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Skin Disease Detection and Classification",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394270880/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394270880/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Machine Learning and Artificial Intelligence in the Detection of Moving Objects Using Image Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394200580/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394200580/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Context Dependent Sentiments Analysis Using Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394287031/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394287031/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Make: Best Toys for Makers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680450149/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680450149/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Novel Techniques for Random Number Generation: Toddler Behavioral Sampling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837632572/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837632572/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Convolutional Neural Network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484253496/chapter/html/484548_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484253496/chapter/html/484548_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Tumor Detection Using Morphological Image Segmentation with DSP Processor TMS320C6748",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119910398/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119910398/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Controlled Generation and Fine-Tuning with Stable Diffusion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098159214/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098159214/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "43. In Depth: Support Vector Machines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098121211/chapter/ch43.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098121211/chapter/ch43.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Raspberry Pi–Based Go/No-Go Kit Design Using the RPi Camera and Image Processing Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281086/chapter/html/521757_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281086/chapter/html/521757_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Face Recognition–Based Surveillance System: A New Paradigm for Criminal Profiling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119768784/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119768784/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Advancements in Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394268962/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394268962/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "F. Using DataVec",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491924570/chapter/app06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491924570/chapter/app06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "One shot learning human actions recognition using key poses (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138001152/chapter/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138001152/chapter/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Becoming a Maker: Exploring Embedded AI at the Edge",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492034858/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492034858/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Optimizing Prediction of Liver Disease Using Machine Learning Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394174621/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394174621/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Data Ingestion, Preprocessing, and Descriptive Statistics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106812/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106812/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Blockchain Meets 6G: Social Human-Robot Interaction through Oracles and Behavioral Economics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000967210/chapter/xhtml/chapter04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000967210/chapter/xhtml/chapter04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Convolutional Neural Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289310/chapter/html/448418_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289310/chapter/html/448418_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Smart Parking Systems Using Image Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000935493/chapter/xhtml/ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000935493/chapter/xhtml/ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. A Road Ahead",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466150/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466150/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "An efficient human face tracking method based on Camshift algorithm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138000797/chapter/chapter-101.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138000797/chapter/chapter-101.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "An improved moving object tracking algorithm based on Camshift for dynamic background (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781315685380/chapter/chapter-114.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781315685380/chapter/chapter-114.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Light, Optics, and Photoelectric Effects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484267813/chapter/html/503604_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484267813/chapter/html/503604_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hierarchical model for digital image processing and practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138024694/chapter/chapter-53.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138024694/chapter/chapter-53.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Flexible Robotic Platforms That Allow Scientists to Remain Scientists",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098105556/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098105556/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mosquito Death Ray",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680456219/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680456219/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Crack Detection in Civil Structures Using Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119821250/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119821250/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12: Big Data analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780323972635/chapter/Chp012_259-276_B9780323917780000193.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780323972635/chapter/Chp012_259-276_B9780323917780000193.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Make Technology on Your Time Volume 19",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680456196/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680456196/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Application Areas of Computer Vision and AI in Intelligent Automation Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394302673/chapter/c15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394302673/chapter/c15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Challenges Addressed by New Languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492082590/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492082590/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 A Smarter Way to Collect and Store Data: AI and OCR Solutions for Industry 4.0 Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394216116/chapter/c15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394216116/chapter/c15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Cross-Platform Data Science Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484241677/chapter/html/473634_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484241677/chapter/html/473634_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Obtain Information from Vulnerabilities Databases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837637553/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837637553/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Counterfeit Pharmaceutical Drug Identification",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394200566/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394200566/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Navigating LLM-Powered Applications: Capabilities and Challenges",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168094/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168094/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. A Python Q&A Session",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098171292/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098171292/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Streamlit Power Users",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248226/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248226/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Yazid Saif, Yusri Yusof, Kamran Latif, Aini Zuhra Abdul Kadir, Maznah Iliyas Ahmed, Anbia Adam, Noor Hatem 6 Smart system based on STEP-NC for machine vision inspection (3SMVI)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110693256/chapter/content/9783110693171_015041.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110693256/chapter/content/9783110693171_015041.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Review on Robot Operating System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119841883/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119841883/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data in Software Systems – Text, Images, Code, and Their Annotations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837634064/chapter/B19548_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837634064/chapter/B19548_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Industry Augmented Reality Along with Artificial Intelligence: Developments, Resources, and Possible Concerns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394233977/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394233977/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Mapping Data, More Tools, and Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491984314/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491984314/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Anuj Kumar Gupta, Sukhdeep Kaur, Prabhjeet Kaur, Tanuja kumari Sharma Image to text to speech: a web-based application using optical character recognition and speech synthesis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111331188/chapter/content/9783111329796_030399.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111331188/chapter/content/9783111329796_030399.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Object Descriptor for Machine Vision",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119681809/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119681809/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Text Extraction from Images Using Tesseract",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394234240/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394234240/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Working with Webcams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449344252/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449344252/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Mechatronics: Making Different Sciences Work as One",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484253168/chapter/html/466154_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484253168/chapter/html/466154_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 An Analytical Study on Depression Detection Using Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394242535/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394242535/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Audio to Indian Sign Language Interpreter (AISLI) using machine translation and NLP techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000862058/chapter/xhtml/C_016_c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000862058/chapter/xhtml/C_016_c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Exploiting LoRa, edge, and fog computing for traffic monitoring in smart cities",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128188811/chapter/xhtml/chp016.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128188811/chapter/xhtml/chp016.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Automatic Retinopathic Diabetic Detection: Data Analyses, Approaches and Assessment Measures Using Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119760467/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119760467/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Documenting and Releasing a Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836208570/chapter/Text/Chapter_7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836208570/chapter/Text/Chapter_7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Identification of Bacterial Diseases in Plants Using Re-Trained Transfer Learning in Quantum Computing Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119904861/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119904861/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Dataset management service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439863/chapter/OEBPS/Text/02.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439863/chapter/OEBPS/Text/02.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Behavioral Patterns - Strategy, Chain of Responsibility, and Command Design Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390552/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390552/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. The Tensorflow Machine Learning Library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484259672/chapter/html/491271_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484259672/chapter/html/491271_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Reinforcement Learning Algorithms: Q Learning and Its Variants",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251270/chapter/html/480225_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251270/chapter/html/480225_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Seeing the World Anew",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491928363/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491928363/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with Cameras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680452457/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680452457/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 AI ML Empowered Smart Buildings and Factories",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275045/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275045/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 A genetic blockchain approach for securing smart vehicles in quantum era",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781351617444/chapter/xhtml/05chap_05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781351617444/chapter/xhtml/05chap_05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Intelligent Traffic: Formulating an Applied Research Methodology for Computer Vision and Vehicle Detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119748304/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119748304/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PyTorch in the Wild",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045342/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045342/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Copilot and Data Science",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817847/chapter/html/660323_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817847/chapter/html/660323_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19 IoT-Based Self-Checkout Stores Using Face Mask Detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119847434/chapter/c19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119847434/chapter/c19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Distracted Driver Detection Using Image Segmentation and Transfer Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000831092/chapter/html/ch16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000831092/chapter/html/ch16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Working with File-Based and Feed-Based Data in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492091493/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492091493/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multimodal Modular RAG for Drone Technology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836200918/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836200918/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Deploying to production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295263/chapter/Text/15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295263/chapter/Text/15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Input data and preprocessing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788838290/chapter/cc55079d-1a23-430a-8f3e-859a1afd7329.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788838290/chapter/cc55079d-1a23-430a-8f3e-859a1afd7329.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Household Service Robotics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128008812/chapter/XHTML/B9780128008812000177/B9780128008812000177.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128008812/chapter/XHTML/B9780128008812000177/B9780128008812000177.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "28 Emotion Detection Using Natural Language Processing by Text Classification",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394272433/chapter/c28.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394272433/chapter/c28.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Deep Reinforcement Learning in Healthcare and Biomedical Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394272556/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394272556/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Nazan Kemaloğlu, Turgay Aydoğan, Ecir Uğur Küçüksille 3 Deep learning approaches in metastatic breast cancer detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110668384/chapter/content/bodymatter-003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110668384/chapter/content/bodymatter-003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18 Handwriting Analysis for Early Detection of Alzheimer's Disease",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119544456/chapter/c18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119544456/chapter/c18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Feature Engineering and Selection Approach Over Malicious Image",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119841876/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119841876/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Supervised Learning Using Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234501/chapter/html/458833_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234501/chapter/html/458833_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Internet of Things",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128093474/chapter/B9780128053959000265/B9780128053959000265.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128093474/chapter/B9780128053959000265/B9780128053959000265.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9: High-Level TV Talk Show Structuring Centered on Speakers’ Interventions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439855621/chapter/OEBPS/9781466559127_epub_c09_r1.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439855621/chapter/OEBPS/9781466559127_epub_c09_r1.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Understanding Performant Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449361747/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449361747/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Implementing Computer Vision Solutions with Azure AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169251/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169251/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 A Recommended System for Crop Disease Detection and Yield Prediction Using Machine Learning Approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119711575/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119711575/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beyond the Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491915660/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491915660/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rajib Saha, Anirban Mukherjee, Avik Sarkar, Shatabhisa Dey 5 Extraction of Common Feature of Dysgraphia Patients by Handwriting Analysis Using Variational Autoencoder",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110670929/chapter/content/bodymatter-005.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110670929/chapter/content/bodymatter-005.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. What is data science?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449336080/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449336080/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Machine Learning Techniques for Face Authentication System for Security Purposes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119777144/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119777144/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Development Workflows for Data Scientists",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049319/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049319/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Machine Learning Techniques for NTMA and VQA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803543/chapter/html/612428_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803543/chapter/html/612428_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Advanced Sensing Systems in Automobiles: Computational Intelligence Approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394174645/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394174645/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Unmanned Aerial Vehicle for Land Mine Detection and Illegal Migration Surveillance Support in Military Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394166534/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394166534/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Intelligent Autonomous Electric Car",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394152254/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394152254/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Technical Interview: Model Training and Evaluation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146535/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146535/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Transformers for Vision Tasks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098167004/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098167004/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Letting the Machines Do the Model Training",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836205098/chapter/text/ch006.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836205098/chapter/text/ch006.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Feature Engineering for Domains: Domain-Specific Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134845708/chapter/ch14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134845708/chapter/ch14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Computer Vision in Vehicles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118868072/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118868072/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Anomalous Activity Detection Using Deep Learning Techniques in Autonomous Vehicles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119871958/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119871958/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Training AI Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484236796/chapter/html/463582_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484236796/chapter/html/463582_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pramod Sunagar, Darshana A Naik, Shruthi G Artificial Intelligence and Machine Learning for Industry 4.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110725537/chapter/content/9783110725360_001380.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110725537/chapter/content/9783110725360_001380.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Interacting with External Data Sources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492082378/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492082378/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Classification and Clustering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134116556/chapter/ch10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134116556/chapter/ch10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Executive overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738461069/chapter/5695ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738461069/chapter/5695ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. How the Computer Vision That Makes Augmented Reality Possible Works",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492044185/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492044185/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TECHNOLOGIES FOR SMART SENSORS AND SENSOR FUSION",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466595514/chapter/xhtml/34_Chapter21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466595514/chapter/xhtml/34_Chapter21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "K. Senthilvadivu, G. Mohan 2 Image Fusion Mathematics Theory and Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111435992/chapter/content/9783111395494_006014.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111435992/chapter/content/9783111395494_006014.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 HemoSmart: A Non-Invasive Device and Mobile App for Anemia Detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119711087/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119711087/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Creating Vision Datasets",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098102357/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098102357/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Varnita Verma, Anshuman Rajput, Piyush Chauhan, Harshit Rathore, Piyush Goyal, Mukul Kumar Gupta 7 Machine vision for human–machine interaction using hand gesture recognition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110618716/chapter/content/bodymatter-007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110618716/chapter/content/bodymatter-007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Human–Machine Interaction and Visual Data Mining",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119791782/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119791782/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Bayesian Classifier with Apache Spark on Cloud Dataproc",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098118945/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098118945/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Algorithms for Edge AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098120191/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098120191/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Working with arrays",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438880/chapter/OEBPS/Text/03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438880/chapter/OEBPS/Text/03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Eye Tracking in User Experience Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780124081383/chapter/xhtml/CHP010.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780124081383/chapter/xhtml/CHP010.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modeling for Computer Vision",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801817479/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801817479/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Concepts, Libraries, and Essential Tools in Machine Learning and Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394220618/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394220618/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Avani K V H, Deeksha Manjunath, C. Gururaj 3 Proficient implementation toward detection of thyroid nodules for AR/VR environment through deep learning methodologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110790481/chapter/content/9783110789997_005278.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110790481/chapter/content/9783110789997_005278.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Advanced Analytics Using Machine Learning and R",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484226506/chapter/A436856_1_En_8_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484226506/chapter/A436856_1_En_8_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Building an AI Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295021/chapter/html/522265_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295021/chapter/html/522265_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Bayes Classifier on Cloud Dataproc",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491974551/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491974551/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "06 Technology and governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789665406/chapter/content/11_chapter06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789665406/chapter/content/11_chapter06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Getting Your Hands on the Hardware",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151539/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151539/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Field‐programmable Gate Arrays",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119819790/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119819790/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Synthetic Data Generation with R",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484285879/chapter/html/534235_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484285879/chapter/html/534235_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Notes to the Reader",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133522884/chapter/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133522884/chapter/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Working with Images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133028355/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133028355/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Convolutional neural network (CNN)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111344171/chapter/content/9783111344003_016974.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111344171/chapter/content/9783111344003_016974.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Data Science and Data Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449316297/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449316297/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491912126/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491912126/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

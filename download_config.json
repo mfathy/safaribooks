@@ -1,0 +1,24 @@
+{
+  "base_directory": "books",
+  "book_ids_directory": "book_ids",
+  "temp_directory": "temp_discovery",
+  "max_books_per_skill": 100,
+  "max_pages_per_skill": 100,
+  "download_delay": 10,
+  "discovery_delay": 10,
+  "max_workers": 1,
+  "epub_format": "dual",
+  "resume": true,
+  "skills_file": "my_favorite_skills.txt",
+  "progress_file": "download_progress.json",
+  "discovery_progress_file": "discovery_progress.json",
+  "verbose": true,
+  "retry_failed": true,
+  "max_retries": 3,
+  "retry_delay": 10,
+  "exclude_skills": [],
+  "priority_skills": [
+    "Soft Skills",
+    "Productivity"
+  ]
+}

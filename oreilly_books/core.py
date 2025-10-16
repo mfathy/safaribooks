@@ -89,7 +89,10 @@ class OreillyBooks:
         # Create book directory
         book_title = self._escape_dirname(self.book_info.get("title", "Unknown Book"))
         book_id = self.args.bookid
-        self.book_downloader.BOOK_PATH = os.path.join(PATH, "Books", f"{book_title} ({book_id})")
+        
+        # Check if custom output path is set (for skill-based organization)
+        output_base = os.environ.get('OREILLY_OUTPUT_PATH', PATH)
+        self.book_downloader.BOOK_PATH = os.path.join(output_base, "Books", f"{book_title} ({book_id})")
         
         # Create subdirectories
         os.makedirs(self.book_downloader.BOOK_PATH, exist_ok=True)

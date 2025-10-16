@@ -1,0 +1,4172 @@
+{
+  "skill_name": "continuous delivery",
+  "discovery_timestamp": 1759702579.1636453,
+  "total_books": 595,
+  "books": [
+    {
+      "title": "Continuous Delivery with Docker and Jenkins, 3rd Edition - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803237480/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803237480/",
+      "isbn": "9781803237480",
+      "format": "book"
+    },
+    {
+      "title": "Grokking Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298257/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298257/",
+      "isbn": "9781617298257",
+      "format": "book"
+    },
+    {
+      "title": "Shipping Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299506/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299506/",
+      "isbn": "9781617299506",
+      "format": "book"
+    },
+    {
+      "title": "Strategizing Continuous Delivery in the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837637539/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837637539/",
+      "isbn": "9781837637539",
+      "format": "book"
+    },
+    {
+      "title": "Operating Continuously",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098117283/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098117283/",
+      "isbn": "9781098117290",
+      "format": "book"
+    },
+    {
+      "title": "CI/CD Unleashed: Turbocharging Software Deployment for Quicker Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812095/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812095/",
+      "isbn": "9798868812095",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery in Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491986011/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491986011/",
+      "isbn": "9781491986028",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery with Spinnaker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492035527/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492035527/",
+      "isbn": "9781492035510",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery for Mobile with fastlane",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788398510/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788398510/",
+      "isbn": "9781788398510",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery in the Wild",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492077701/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492077701/",
+      "isbn": "9781492077695",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery with Docker and Jenkins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125230/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125230/",
+      "isbn": "9781787125230",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321670250/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321670250/",
+      "isbn": "9780321670250",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration, Delivery, and Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787286610/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787286610/",
+      "isbn": "9781787286610",
+      "format": "book"
+    },
+    {
+      "title": "A Practical Guide to Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134691626/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134691626/",
+      "isbn": "9780134691626",
+      "format": "book"
+    },
+    {
+      "title": "Navigating the Continuous Delivery Pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492031949/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492031949/",
+      "isbn": "9781492031932",
+      "format": "book"
+    },
+    {
+      "title": "Exploring IBM Db2 for z/OS Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738456713/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738456713/",
+      "isbn": "9780738456713",
+      "format": "book"
+    },
+    {
+      "title": "Containerizing Continuous Delivery in Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491986851/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491986851/",
+      "isbn": "9781491986851",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery with Visual Studio ALM 2015",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484212721/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484212721/",
+      "isbn": "9781484212721",
+      "format": "book"
+    },
+    {
+      "title": "Using Liberty for DevOps, Continuous Delivery, and Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738441160/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738441160/",
+      "isbn": "9780738441160",
+      "format": "book"
+    },
+    {
+      "title": "Shipping Greatness",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449336585/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449336585/",
+      "isbn": "9781449336608",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration (CI) and Continuous Delivery (CD): A Practical Guide to Designing and Developing Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292280/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292280/",
+      "isbn": "9781484292280",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration vs. Continuous Delivery vs. Continuous Deployment, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492088943/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492088943/",
+      "isbn": "9781492088936",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration vs. Continuous Delivery vs. Continuous Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492028918/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492028918/",
+      "isbn": "9781492028901",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Continuous Integration and Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130485/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130485/",
+      "isbn": "9781789130485",
+      "format": "book"
+    },
+    {
+      "title": "Building CI/CD Systems Using Tekton",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801078214/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801078214/",
+      "isbn": "9781801078214",
+      "format": "book"
+    },
+    {
+      "title": "The Rise of Continuous Packaging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098117344/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098117344/",
+      "isbn": "9781098117337",
+      "format": "book"
+    },
+    {
+      "title": "Learning Continuous Integration with TeamCity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849699518/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849699518/",
+      "isbn": "9781849699518",
+      "format": "book"
+    },
+    {
+      "title": "Pro iOS Continuous Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484201244/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484201244/",
+      "isbn": "9781484201244",
+      "format": "book"
+    },
+    {
+      "title": "Software Quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119134497/chapter/b04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119134497/chapter/b04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Reducing Risks Using CI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321336385/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321336385/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Secure Continuous Delivery on Google Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805129288/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805129288/",
+      "isbn": "9781805129288",
+      "format": "book"
+    },
+    {
+      "title": "Recipe 4. Automating Database or Schema Creation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321502063/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321502063/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery with Windows and .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042327/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042327/",
+      "isbn": "9781491941058",
+      "format": "book"
+    },
+    {
+      "title": "Pro Continuous Delivery: With Jenkins 2.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484229132/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484229132/",
+      "isbn": "9781484229132",
+      "format": "book"
+    },
+    {
+      "title": "First steps into the cloud and continuous delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492036890/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492036890/",
+      "isbn": "9781492036876",
+      "format": "book"
+    },
+    {
+      "title": "DevOps: Continuous Delivery, Integration, and Deployment with DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789132991/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789132991/",
+      "isbn": "9781789132991",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery with Docker and Jenkins - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838552183/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838552183/",
+      "isbn": "9781838552183",
+      "format": "book"
+    },
+    {
+      "title": "Agile IT Organization Design: For Digital Transformation and Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133903690/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133903690/",
+      "isbn": "9780133903690",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery and DevOps - A Quickstart Guide - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788995474/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788995474/",
+      "isbn": "9781788995474",
+      "format": "book"
+    },
+    {
+      "title": "The Kitty Hawk Venture: A Novel About Continuous Testing in DevOps to Support Continuous Delivery and Business Success",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484236611/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484236611/",
+      "isbn": "9781484236611",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Build and Release Management with TFS 2017 and VSTS: Leveraging Continuous Delivery for Your Business",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484228111/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484228111/",
+      "isbn": "9781484228111",
+      "format": "book"
+    },
+    {
+      "title": "Python Continuous Integration and Delivery: A Concise Guide with Examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484242810/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484242810/",
+      "isbn": "9781484242810",
+      "format": "book"
+    },
+    {
+      "title": "The Agile Guide to Business Analysis and Planning: From Strategic Plan to Continuous Value Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134191164/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134191164/",
+      "isbn": "9780134191164",
+      "format": "book"
+    },
+    {
+      "title": "5. How to Set Up Continuous Integration and Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174583/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174583/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Xamarin Continuous Integration and Delivery: Team Services, Test Cloud, and HockeyApp",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484227152/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484227152/",
+      "isbn": "9781484227152",
+      "format": "book"
+    },
+    {
+      "title": "8. Continuous Integration and Continuous Delivery/Continuous Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287071/chapter/html/512143_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287071/chapter/html/512143_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Continuous Delivery, Continuous Insecurity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098141691/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098141691/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous integration/continuous delivery/continuous deploy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474030/chapter/3bf40024-6d18-4793-a777-92114720e2dd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474030/chapter/3bf40024-6d18-4793-a777-92114720e2dd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Continuous delivery and deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438002/chapter/OEBPS/Text/08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438002/chapter/OEBPS/Text/08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous delivery and continuous deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789619690/chapter/4ad203c9-6774-4642-8b0a-458f0d1e6183.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789619690/chapter/4ad203c9-6774-4642-8b0a-458f0d1e6183.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Continuous delivery and GitOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298424/chapter/OEBPS/Text/15.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298424/chapter/OEBPS/Text/15.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "01: Agile, Continuous Delivery, and the Three Ways",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098182281/chapter/13-ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098182281/chapter/13-ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Continuous integration and continuous delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297915/chapter/OEBPS/Text/12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297915/chapter/OEBPS/Text/12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Delivery at Scale: The SAFe® Continuous Delivery Pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000915631/chapter/xhtml/ch14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000915631/chapter/xhtml/ch14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Continuous Delivery Using Jenkins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785284830/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785284830/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "From Continuous Delivery to Continuous Experimentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492028598/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492028598/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rotten Apple project for testing continuous integration or continuous delivery system security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624480/chapter/3cdf3c45-d43c-43ba-8ed1-43614d6449c3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624480/chapter/3cdf3c45-d43c-43ba-8ed1-43614d6449c3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Continuous Delivery for Machine Learning Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098103002/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098103002/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. MLOps and Continuous Delivery for ML (CD4ML)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098144623/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098144623/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous delivery and continuous integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789532937/chapter/ad891987-d446-410e-8b8f-2a79f7c9f393.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789532937/chapter/ad891987-d446-410e-8b8f-2a79f7c9f393.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21. Continuous Integration/Continuous Delivery with Azure DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484259580/chapter/html/336094_2_En_21_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484259580/chapter/html/336094_2_En_21_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Continuous Deployment is different from Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788479356/chapter/c3a95ebb-21ed-4a68-9657-02d48dfa16b8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788479356/chapter/c3a95ebb-21ed-4a68-9657-02d48dfa16b8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous integration and continuous delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789342758/chapter/d7e019bf-c061-4643-9443-507c63659e06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789342758/chapter/d7e019bf-c061-4643-9443-507c63659e06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous delivery versus continuous deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787129313/chapter/f483378a-fa9b-4f33-bc84-68cccccd69a0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787129313/chapter/f483378a-fa9b-4f33-bc84-68cccccd69a0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Walking the extra mile from Continuous Delivery to Continuous Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787289703/chapter/ffed0b2a-98b8-451b-91da-e278d54363ff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787289703/chapter/ffed0b2a-98b8-451b-91da-e278d54363ff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624060/chapter/6ef11e89-6b1f-44f8-9961-5a3c0c014509.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624060/chapter/6ef11e89-6b1f-44f8-9961-5a3c0c014509.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Setting Up a Continuous Integration and Continuous Delivery Pipeline for Azure Functions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244890/chapter/html/472676_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244890/chapter/html/472676_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous integration and continuous delivery with Serverless Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623445/chapter/9d6df96b-f322-4314-b3bc-e7b1431024c4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623445/chapter/9d6df96b-f322-4314-b3bc-e7b1431024c4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Improving Repeatability and Auditability with Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491952689/chapter/ch34.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491952689/chapter/ch34.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Getting to continuous delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297212/chapter/OEBPS/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297212/chapter/OEBPS/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Collecting continuous delivery metrics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297540/chapter/OEBPS/Text/13.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297540/chapter/OEBPS/Text/13.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous integration, continuous delivery, and tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125377/chapter/ch03s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125377/chapter/ch03s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Safe, Multicloud Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492073918/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492073918/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous integration/Continuous delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469007/chapter/b806a4a3-3d5b-4ee7-856b-fa492dd42d6f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469007/chapter/b806a4a3-3d5b-4ee7-856b-fa492dd42d6f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Continuous Delivery Pipelines for iOS App Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280232/chapter/html/516178_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280232/chapter/html/516178_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Continuous Delivery Across Clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492083801/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492083801/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Continuous Delivery and DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492054382/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492054382/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. AI in Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810442/chapter/html/630734_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810442/chapter/html/630734_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PostgreSQL with DevOps for Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838648145/chapter/8129c071-ef61-4883-8e2f-e3ef0619f182.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838648145/chapter/8129c071-ef61-4883-8e2f-e3ef0619f182.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Continuous Delivery Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838645700/chapter/9f8d3783-ef66-48d0-af92-cba51a796733.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838645700/chapter/9f8d3783-ef66-48d0-af92-cba51a796733.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Consider Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502947/chapter/f_0085.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502947/chapter/f_0085.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery culture and team habits",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788393850/chapter/1b2b53c6-95d4-4e8b-b501-58b7607b3e27.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788393850/chapter/1b2b53c6-95d4-4e8b-b501-58b7607b3e27.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "III. Deployment and Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492052319/chapter/part03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492052319/chapter/part03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Continuous Delivery with GCP and Jenkins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238974/chapter/html/464715_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238974/chapter/html/464715_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous delivery or deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788622011/chapter/2c5e1b39-b45a-4f5a-9ff7-7a8d7ad95355.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788622011/chapter/2c5e1b39-b45a-4f5a-9ff7-7a8d7ad95355.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery – automating build and self-testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788477581/chapter/b6b2a8c0-7c6c-4f5e-b5d0-42f98fcbc9c3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788477581/chapter/b6b2a8c0-7c6c-4f5e-b5d0-42f98fcbc9c3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Continuous delivery and branching models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298295/chapter/OEBPS/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298295/chapter/OEBPS/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PaaS Continuous Delivery (1/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/20201229PAIML/chapter/chapter-13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/20201229PAIML/chapter/chapter-13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery with Jenkins and GitOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838643546/chapter/a99a6782-072f-4fa1-a62b-297ac8f11a81.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838643546/chapter/a99a6782-072f-4fa1-a62b-297ac8f11a81.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating your own continuous delivery pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835770/chapter/656d2217-5861-4cac-925b-d078330eaa02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835770/chapter/656d2217-5861-4cac-925b-d078330eaa02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a continuous delivery pipeline for production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789539974/chapter/5f7da8ad-da4e-4b75-9211-907b7457ff12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789539974/chapter/5f7da8ad-da4e-4b75-9211-907b7457ff12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating Kubernetes with a continuous delivery pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994729/chapter/2d2de9f1-836f-4ab8-97ea-de22a734eae0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994729/chapter/2d2de9f1-836f-4ab8-97ea-de22a734eae0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing DevOps and Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788392570/chapter/e7022559-9fe6-4849-ac48-6c2fd57e282d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788392570/chapter/e7022559-9fe6-4849-ac48-6c2fd57e282d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Facilitating continuous delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788292481/chapter/05a57011-58de-44d1-a0cf-db0a542b5a90.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788292481/chapter/05a57011-58de-44d1-a0cf-db0a542b5a90.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Leverage TDD by Implementing Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836111/chapter/55278c91-9bcc-431c-9854-2de0609ae5f1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836111/chapter/55278c91-9bcc-431c-9854-2de0609ae5f1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous delivery and integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788830874/chapter/12962b9b-53a7-4341-a6a9-c9febd31d0f0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788830874/chapter/12962b9b-53a7-4341-a6a9-c9febd31d0f0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Building a Continuous Delivery Pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788297615/chapter/ch25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788297615/chapter/ch25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DevOpsSec: Delivering Secure Software through Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491971413/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491971413/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Using Continuous Delivery Pipelines to Deploy Network Changes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464859/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464859/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuring Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288393/chapter/7e955c8f-7077-4ab0-b931-30dd789d74a9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288393/chapter/7e955c8f-7077-4ab0-b931-30dd789d74a9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up continuous delivery for Delinkcious",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805468/chapter/52bd99b0-c128-4755-a6ec-d833ffd7c813.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805468/chapter/52bd99b0-c128-4755-a6ec-d833ffd7c813.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The continuous delivery feedback loop",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838550356/chapter/498cf35c-393e-4d2d-87a8-b342240755d7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838550356/chapter/498cf35c-393e-4d2d-87a8-b342240755d7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Extending an Application and Configuring for Continuous Delivery Using DevOps Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785887741/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785887741/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery to Azure Web Apps and ASE Using VSTS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127029/chapter/aea42683-0ffe-45ca-b4d4-1982d0d6b8c4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127029/chapter/aea42683-0ffe-45ca-b4d4-1982d0d6b8c4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Milestone 3 – Setting the Stage for a Continuous Delivery Workflow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787128149/chapter/d37d1a0c-1fa9-48ba-b7a5-3a83bd0969b0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787128149/chapter/d37d1a0c-1fa9-48ba-b7a5-3a83bd0969b0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Ever-Ready to Deploy Using Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786460141/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786460141/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "First Steps into the Cloud and Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048794/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048794/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. DevOps and Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134218229/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134218229/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a continuous delivery pipeline using CodePipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788626507/chapter/02a9a328-15bd-4b55-975f-e40d8bb57251.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788626507/chapter/02a9a328-15bd-4b55-975f-e40d8bb57251.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Service Virtualization and Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049128/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049128/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Continuous Delivery and Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468550/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468550/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Delivery Pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134892917/chapter/ch066.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134892917/chapter/ch066.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up continuous delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787283572/chapter/de0d3891-4fa6-4e2c-8bdf-1d207742a08f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787283572/chapter/de0d3891-4fa6-4e2c-8bdf-1d207742a08f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is continuous delivery?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788391443/chapter/9f500634-5716-420f-ad00-aa3ffe94424f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788391443/chapter/9f500634-5716-420f-ad00-aa3ffe94424f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Implementing Continuous Delivery with Release Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484214466/chapter/A346706_1_En_12_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484214466/chapter/A346706_1_En_12_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up a continuous delivery pipeline for images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466877/chapter/d1831472-e2d8-48c4-a353-a84111589e97.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466877/chapter/d1831472-e2d8-48c4-a353-a84111589e97.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Automated Deployment and Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449311155/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449311155/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Language for Continuous Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491903742/chapter/part03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491903742/chapter/part03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration and Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134278308/chapter/CICD.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134278308/chapter/CICD.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automating API Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438781/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438781/",
+      "isbn": "9781633438781",
+      "format": "book"
+    },
+    {
+      "title": "3. The Build and Pre-Deployment Testing Steps of Continuous Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098171988/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098171988/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Incremental Delivery and Continuous Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282007/chapter/html/522023_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282007/chapter/html/522023_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Neha Jain, Manisha Pandey, Unnati Garg, Triveni, Sakshi Malhotra, Jatin Rathee, Deepika, Shreya Kaul, Upendra Nagaich 16 Molecular simulations and process modeling of tableting technology: recent advances and future insights",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111209715/chapter/content/9783111208640_033490.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111209715/chapter/content/9783111208640_033490.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Understanding the Importance of Software Delivery Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484259023/chapter/html/493403_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484259023/chapter/html/493403_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Continuous API Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043546/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043546/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Acknowledgement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119397915/chapter/f04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119397915/chapter/f04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Iterations: The heartbeat of delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132869249/chapter/ch09lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132869249/chapter/ch09lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Supply Chain Simulation (3/5)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466596399/chapter/chapter-57.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466596399/chapter/chapter-57.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Future Directions for Enhanced Customer Service Delivery in Africa",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003856290/chapter/xhtml/c7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003856290/chapter/xhtml/c7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Managing the API Lifecycle in an Evolving Landscape",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098103514/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098103514/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136523796/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136523796/",
+      "isbn": "9780136523796",
+      "format": "book"
+    },
+    {
+      "title": "7. Business Logic and the Services Layer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449332082/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449332082/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Continuous Integration/Continuous Deployment of Vue.Js Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492098812/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492098812/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Why Do We Need Modern Enterprise Architecture?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491983454/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491983454/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration and Continuous Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057680/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057680/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DDD Patterns for Continuous Integration and Continuous Refactoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835889107/chapter/Chapter_09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835889107/chapter/Chapter_09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Aging Power Delivery Infrastructures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439896914/chapter/xhtml/ch14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439896914/chapter/xhtml/ch14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Simulating Page Breaks Using Cascading Style Sheets",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781599946603/chapter/9781599946603_simulating_page_breaks_using_cascad.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781599946603/chapter/9781599946603_simulating_page_breaks_using_cascad.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous integration/continuous deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133646/chapter/609d9d72-7548-4efc-a214-33a9323592bc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133646/chapter/609d9d72-7548-4efc-a214-33a9323592bc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Managing your project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780273701736/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780273701736/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Creating the Target Digital Technology Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296578/chapter/html/606825_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296578/chapter/html/606825_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Testing and Continuous Quality Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781351722209/chapter/xhtml/part03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781351722209/chapter/xhtml/part03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous integration, continuous deployment, and build and release pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788476638/chapter/042aa29f-153f-4498-958f-4289ce5695d1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788476638/chapter/042aa29f-153f-4498-958f-4289ce5695d1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Service Delivery: A Service Establishment and Delivery Process Area at Maturity Level 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132700498/chapter/ch26.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132700498/chapter/ch26.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Biocompatibility Issues of Implants",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780323429979/chapter/XHTML/B9780323429788000115/sec-s0015.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780323429979/chapter/XHTML/B9780323429788000115/sec-s0015.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Planning and Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098153632/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098153632/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Infrastructure as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273289/chapter/html/506295_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273289/chapter/html/506295_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 OPERATION AND COORDINATION",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119019725/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119019725/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137424887/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137424887/",
+      "isbn": "9780137424887",
+      "format": "book"
+    },
+    {
+      "title": "iTunes Music: Mastering High Resolution Audio Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780415656856/chapter/Text/14_Chapter07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780415656856/chapter/Text/14_Chapter07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Reliable Data Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043072/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043072/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. A System for Value Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781628256642/chapter/p01-chapter02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781628256642/chapter/p01-chapter02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Data Transformation and Delivery Layer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098159986/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098159986/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Core Infrastructure Delivery Workflows",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150341/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150341/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Screening Get Support in Implementing a Continuous Post Hire Screening Program",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750682565/chapter/OEBPS/B9780750682565000262.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750682565/chapter/OEBPS/B9780750682565000262.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Dictionary (9/152)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629598918/chapter/chapter-64.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629598918/chapter/chapter-64.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Analysis of Spreading the Culture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071835237/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071835237/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Data pipeline continuous integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436855/chapter/Text/chapter-15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436855/chapter/Text/chapter-15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Model Management and Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156008/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156008/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. The Evolution Stage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282397/chapter/html/525143_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282397/chapter/html/525143_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Project management, execution, and delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438439/chapter/OEBPS/Text/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438439/chapter/OEBPS/Text/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Style Elements Affecting Template-Based Graphics (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629590011/chapter/chapter-486.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629590011/chapter/chapter-486.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "23 Disciplined Agile Delivery (DAD®)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119931355/chapter/c23.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119931355/chapter/c23.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Choreographing Deployment and Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803235448/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803235448/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5: Cloud native application delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835080399/chapter/Text/chap05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835080399/chapter/Text/chap05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Effective Software Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098130787/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098130787/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IBM Software Accelerated Value Program",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738436151/chapter/chapter-167.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738436151/chapter/chapter-167.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Fuzzy Interface Drug Delivery Decision-Making Algorithm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394229796/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394229796/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Agile Quality Test Strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484237519/chapter/html/465806_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484237519/chapter/html/465806_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Continuous Integration, Testing, and Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142155/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142155/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Enabling Product Delivery Beyond Outputs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135335376/chapter/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135335376/chapter/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Agile Product Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136820406/chapter/ch07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136820406/chapter/ch07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CDS Delivery Option",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470885260/chapter/11_chapter03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470885260/chapter/11_chapter03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Continuous Vulnerability Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394221202/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394221202/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reliable Data Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491936153/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491936153/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19 Continuous Monitoring (DE.CM)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394280360/chapter/c19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394280360/chapter/c19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Continuous Deployment in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098116811/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098116811/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Boron-Based Nanomaterials for Intelligent Drug Delivery Using Computer-Aided Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394204359/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394204359/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Leveraging your delivery pipeline for security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294358/chapter/Text/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294358/chapter/Text/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Disciplined Agile Delivery (DAD) in a Nutshell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781628257557/chapter/chapter03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781628257557/chapter/chapter03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.3 Delivery approaches and P3G",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780117093775/chapter/chapter-11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780117093775/chapter/chapter-11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Pathfinding and Payment Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492054856/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492054856/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.2 Competency domain: P3M delivery support (12/19)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780117094604/chapter/chapter-30.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780117094604/chapter/chapter-30.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Impact of IoT to Meet Challenges in Drone Delivery System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119768777/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119768777/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. AWS Services for Continuous Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293034/chapter/html/527969_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293034/chapter/html/527969_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Stakeholder management: Strategies for continuous engagement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000246940/chapter/xhtml/Ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000246940/chapter/xhtml/Ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Building an AI Delivery Organization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484278246/chapter/html/516372_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484278246/chapter/html/516372_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Assess AI Governance and AI Data Management Issues",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815362/chapter/html/645140_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815362/chapter/html/645140_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Machine Learning in Healthcare: Unlocking Precision Diagnosis and Continuous Monitoring Through Voice Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394199952/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394199952/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Connected for Health: Transforming Care Delivery at Kaiser Permanente",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470639375/chapter/27_chap12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470639375/chapter/27_chap12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Age of Continuous Connection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647827601/chapter/10408/OEBPS/xhtml/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647827601/chapter/10408/OEBPS/xhtml/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Principle 2 Connect People and Processes Through Continuous Process Flow to Bring Problems to the Surface",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260468526/chapter/ch2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260468526/chapter/ch2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Managing the Megaproject Implementation and Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119875208/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119875208/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Automating work through continuous integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299919/chapter/OEBPS/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299919/chapter/OEBPS/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Step 4: Manage delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292142210/chapter/html/chapter-004.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292142210/chapter/html/chapter-004.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous deployment in Google Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837675/chapter/8c0817fe-ad8f-4769-9090-12ab727819b1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837675/chapter/8c0817fe-ad8f-4769-9090-12ab727819b1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Message delivery and processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436176/chapter/Text/chapter-4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436176/chapter/Text/chapter-4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Security layer 4: securing the delivery pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294136/chapter/OEBPS/Text/06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294136/chapter/OEBPS/Text/06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Delivery and change management: Navigating the AI transformation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398619562/chapter/content/23_chapter15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398619562/chapter/content/23_chapter15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Modern Delivery Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802676/chapter/html/610786_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802676/chapter/html/610786_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Continuous Deployment Patterns and Antipatterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492084013/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492084013/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Efficiency a Key Enabler for Delivery Experience and Profitability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809231/chapter/html/630035_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809231/chapter/html/630035_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5: Blockchain as a tool for transparency and governance in the delivery of development aid",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128214596/chapter/B9780128214428000069.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128214596/chapter/B9780128214428000069.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deployment and delivery – Spinnaker with Aminator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530728/chapter/629ec451-9eba-46f4-b0fb-7bf5ecb1bfba.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530728/chapter/629ec451-9eba-46f4-b0fb-7bf5ecb1bfba.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "22 Continuous Process Improvement Pillar",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780429639548/chapter/xhtml/ch22.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780429639548/chapter/xhtml/ch22.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Adaptive and Continuous Consistency for Distributed SDN Controllers: Quorum-Based Replication",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786308498/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786308498/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Delivery and Visualization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045823/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045823/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "59. DevSecOps: Continuous Security Has Come to Stay",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098101381/chapter/ch59.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098101381/chapter/ch59.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Step 4 Manage delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292731919/chapter/xhtml/Chapter04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292731919/chapter/xhtml/Chapter04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Managing integrated project delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003850915/chapter/xhtml/C_019_c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003850915/chapter/xhtml/C_019_c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Step-11: Delivery at the new level",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000473834/chapter/html/ch19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000473834/chapter/html/ch19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Aligning People and Purpose",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781259837432/chapter/xhtml/23_Chapter12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781259837432/chapter/xhtml/23_Chapter12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Training Delivery and Facilitation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781952157578/chapter/OEBPS/p01-c01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781952157578/chapter/OEBPS/p01-c01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Key 5 Continuous Improvement. Achieving Superior Quality and Productivity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000950434/chapter/xhtml/14_Chapter05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000950434/chapter/xhtml/14_Chapter05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Refractories for Continuous Casting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119790730/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119790730/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789531282/chapter/2bf5f792-1537-4b8c-8eaa-e772b23c4b87.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789531282/chapter/2bf5f792-1537-4b8c-8eaa-e772b23c4b87.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Continuous Cybersecurity Monitoring, Vulnerability Management, Incident Response, and Secure OTA Updates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119710745/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119710745/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "22 Flow with the go: Real-time continuous improvisation in digital business ecosystems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000933826/chapter/xhtml/ch22.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000933826/chapter/xhtml/ch22.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Continuous Process Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786307507/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786307507/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25. CI: Continuous Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098148706/chapter/ch25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098148706/chapter/ch25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration, Testing, and Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056461/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056461/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 - Different Delivery Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457191442/chapter/22-Ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457191442/chapter/22-Ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Supply Chains and the Value Delivery Network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134492513/chapter/xhtml/fileP70010130830000000000000000033BD.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134492513/chapter/xhtml/fileP70010130830000000000000000033BD.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Continuous Data Loading with Snowpipe and Dynamic Tables",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815331/chapter/html/482416_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815331/chapter/html/482416_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Continuous Integration and Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263426/chapter/html/499303_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263426/chapter/html/499303_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491910016/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491910016/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Effective Delivery of Reinforcement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781259644917/chapter/xhtml/17_Chapter_09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781259644917/chapter/xhtml/17_Chapter_09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Deployment and Continuous Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813184/chapter/html/637644_1_En_17_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813184/chapter/html/637644_1_En_17_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Continuous improvement: Beyond digital deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398619098/chapter/content/19_chapter11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398619098/chapter/content/19_chapter11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Green Reverse Logistics: Case of the Vehicle Routing Problem with Delivery and Collection Demands",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786303899/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786303899/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "07 Exploring the inefficiency of medicine delivery processes in pharmaceutical supply chain (PSC) waste: The case of the UK and GreeceMarina Papalexi",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789668223/chapter/content/14_chapter07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789668223/chapter/content/14_chapter07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Continuous Deployment and Repository Secrets",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651575/chapter/f_0050.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651575/chapter/f_0050.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Deployment in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492040750/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492040750/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Delivery and Automation Pipeline in Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270325/chapter/html/499897_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270325/chapter/html/499897_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deployment and delivery - Spinnaker with Aminator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281448/chapter/8ee21cb2-f4b5-4b78-8f79-33e664a4af6b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281448/chapter/8ee21cb2-f4b5-4b78-8f79-33e664a4af6b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 AIS auditing: audit tools for a continuous auditing approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781317297338/chapter/xhtml/29_Chapter16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781317297338/chapter/xhtml/29_Chapter16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Empowering Salespeople with Continuous Learning and Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647826819/chapter/xhtml/chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647826819/chapter/xhtml/chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Continuous Vulnerability Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805066/chapter/html/621239_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805066/chapter/html/621239_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Internet Protocols and Packet Delivery Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119470670/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119470670/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Program Deployment (Capabilities Delivery and Transition)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781351965538/chapter/xhtml/Ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781351965538/chapter/xhtml/Ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Characterizing the Measured Performance of a Material, Process, or Product",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781599944883/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781599944883/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Fundamental Continuous Improvement Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000570175/chapter/xhtml/c5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000570175/chapter/xhtml/c5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Delivery Is Still an Experiment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491998410/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491998410/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Chaos",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492050995/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492050995/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "04 Data product delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789665406/chapter/content/09_chapter04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789665406/chapter/content/09_chapter04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Design and CAD Solutions for Cooling and Power Delivery for Monolithic 3D‐ICs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783527338559/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783527338559/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Powering a Continuous Deployment Pipeline with Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789617375/chapter/e0946741-5df7-4a13-b220-ffc963f1e3d3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789617375/chapter/e0946741-5df7-4a13-b220-ffc963f1e3d3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Time management and event delivery guarantees",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788395908/chapter/9a80b737-e41e-4d6b-962a-caba9b40f7be.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788395908/chapter/9a80b737-e41e-4d6b-962a-caba9b40f7be.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Information design in practice: multi-platform delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780676043/chapter/14_chapter-title-8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780676043/chapter/14_chapter-title-8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 How Do You Align Delivery to Your Learners’ Needs?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781607280958/chapter/OEBPS/c7.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781607280958/chapter/OEBPS/c7.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CI/CDContinuous Integration / Continuous DeliveryDBaaSDatabase-as-a-ServiceDBADatabase AdministratorDDL Data Definition LanguageDevOpsSet of practices that combines software development (Dev) and IT operations (Ops)DOEIBM Db2 DevOps Experience for z/OSIDzIBM Developer for z/OSJCLJob Control LanguageRDBMSRelational Database Management SystemRTCRational Team ConcertSCMSource Code ManagementSDLCSoftware Development Life CycleSQLStructured Query LanguageUCD IBM UrbanCode DeployUMSIBM Unified Management Server for z/OSVS CodeVisual Studio Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459943/chapter/5646abrv.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459943/chapter/5646abrv.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Functionalized Carbon Nanomaterials for Drug Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119373452/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119373452/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Continuous Data Loading with Snowpipe",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484253281/chapter/html/482416_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484253281/chapter/html/482416_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Patterns of Learning Constraints and Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484235317/chapter/html/455323_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484235317/chapter/html/455323_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "08 Procurement 3.1: Agile, lean, and value delivery today",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789662115/chapter/content/16_chapter08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789662115/chapter/content/16_chapter08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 TPM and Theory of Constraints / Continuous Flow Manufacturing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000162073/chapter/15-9781000162073-ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000162073/chapter/15-9781000162073-ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "22 The challenge of continuous improvement in customer experience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398608528/chapter/content/32_chapter22.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398608528/chapter/content/32_chapter22.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous integration support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390415/chapter/4b898683-c731-436d-9f0d-1456389c6c5a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390415/chapter/4b898683-c731-436d-9f0d-1456389c6c5a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "09 The technical delivery and material flow subsystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749497002/chapter/content/17_chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749497002/chapter/content/17_chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. A Culture of Automation and Continuous Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484291566/chapter/html/482583_2_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484291566/chapter/html/482583_2_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Value-driven Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332585188/chapter/chapter-116.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332585188/chapter/chapter-116.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Materials Nanoarchitectonics: Drug Delivery System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783527342907/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783527342907/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Process Reforms to Achieve a Hybrid Supply Chain Strategy: Focusing on the Organization in Ricoh",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133758504/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133758504/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Logic Apps continuous integration and deployment with DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788399234/chapter/ab2eaae8-617d-4d91-bc6e-5a0292f95d42.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788399234/chapter/ab2eaae8-617d-4d91-bc6e-5a0292f95d42.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Accounting information systems and continuous improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000777055/chapter/xhtml/C_014_c8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000777055/chapter/xhtml/C_014_c8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Case 23. Continuous Process Reforms to Achieve a Hybrid Supply Chain Strategy: Focusing on the Organization in Ricoh",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133367300/chapter/ch23.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133367300/chapter/ch23.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Knowing your capacity and calculating the delivery date",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783000906/chapter/ch08s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783000906/chapter/ch08s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Explaining the concept of continuous deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788830621/chapter/e022c6ac-1ecb-4dd2-a3a2-0f052112562e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788830621/chapter/e022c6ac-1ecb-4dd2-a3a2-0f052112562e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous process and infrastructure development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788839563/chapter/86e97b54-46dd-47a0-8346-fb2ebd56e790.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788839563/chapter/86e97b54-46dd-47a0-8346-fb2ebd56e790.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using fastlane for automated delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789135565/chapter/488f69f3-eede-4c92-a9cd-853d35f138cd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789135565/chapter/488f69f3-eede-4c92-a9cd-853d35f138cd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous integration with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834759/chapter/d11c3f63-2be6-4517-9e59-f4da64204014.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834759/chapter/d11c3f63-2be6-4517-9e59-f4da64204014.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788838986/chapter/1f265269-2b81-4455-8a7b-1d842a5c853b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788838986/chapter/1f265269-2b81-4455-8a7b-1d842a5c853b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Ensuring Development and Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133492385/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133492385/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Continuous Monitoring and Changes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251300/chapter/html/479618_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251300/chapter/html/479618_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automated continuous deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788622240/chapter/b771cf01-24db-4d07-8c48-c2a764b62486.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788622240/chapter/b771cf01-24db-4d07-8c48-c2a764b62486.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is continuous testing?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788833349/chapter/07ac3fc8-af52-4faf-a17b-971cffc41719.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788833349/chapter/07ac3fc8-af52-4faf-a17b-971cffc41719.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Build and Lab",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321673404/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321673404/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Step 8 – setting up Dredd for continuous testing of API endpoints against the API blueprint",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788478656/chapter/546a1e3f-7fcf-4123-84bc-1aae14a6689c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788478656/chapter/546a1e3f-7fcf-4123-84bc-1aae14a6689c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploy Continuous Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491946527/chapter/part03ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491946527/chapter/part03ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a protected environment for user workstations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738489115/chapter/chapter-133.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738489115/chapter/chapter-133.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Ignite | IoT Solution Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491934258/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491934258/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuring a continuous integration pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838649982/chapter/daf8ff68-fd5b-41a5-b145-58621b2d5360.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838649982/chapter/daf8ff68-fd5b-41a5-b145-58621b2d5360.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuring Continuous Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789134520/chapter/2f37121e-5b8c-4a84-ae75-d4de1f93f090.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789134520/chapter/2f37121e-5b8c-4a84-ae75-d4de1f93f090.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491986998/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491986998/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Linear Continuous Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234235/chapter/html/457410_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234235/chapter/html/457410_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Assignment Delivery – Managing What Really Goes On",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118896907/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118896907/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Design and Development of Services and Service Delivery Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133088816/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133088816/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Training models in a continuous integration pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789802993/chapter/1bfc8c44-571a-410c-a410-c2c339915983.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789802993/chapter/1bfc8c44-571a-410c-a410-c2c339915983.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Use Continuous Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491951781/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491951781/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Agile for HR Toolkit: Continuous improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789665871/chapter/content/23_chapter12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789665871/chapter/content/23_chapter12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration and Testing with Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491915752/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491915752/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous deployment role in the system",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788991278/chapter/aea19ded-f291-4f18-82a0-848bb1be9213.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788991278/chapter/aea19ded-f291-4f18-82a0-848bb1be9213.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Closing Gaps in Professional Service Delivery Processes: A Mixed Method–Based Analysis of Clinical Research Project Budget Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134051178/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134051178/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Continuous Everything: Do Less, More Often",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633691896/chapter/Text/chapter007.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633691896/chapter/Text/chapter007.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Creating and Deploying Using Continuous Integration and Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888434/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888434/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The DevOps lifecycle - it's all about \"continuous\"",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786465702/chapter/ch01s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786465702/chapter/ch01s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12.4 Biomaterials for gene delivery (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780857098047/chapter/chapter-127.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780857098047/chapter/chapter-127.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Tools for Continuous Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439877807/chapter/c3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439877807/chapter/c3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The culture of delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780273785866/chapter/html/chapter-022.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780273785866/chapter/html/chapter-022.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "S2 Analysing service operations: service delivery, queuing, and shift scheduling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750649957/chapter/chapter13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750649957/chapter/chapter13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Experimental Areas: Continuous Processing and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491944233/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491944233/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Principle 3 Relentless.com—Continuous Improvements via Connected Devices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457193859/chapter/text/part0007.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457193859/chapter/text/part0007.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Improving continuous improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849285056/chapter/chapter-12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849285056/chapter/chapter-12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Delivery management systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749472429/chapter/content/18_CHAP_C13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749472429/chapter/content/18_CHAP_C13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous application development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783552092/chapter/ch08s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783552092/chapter/ch08s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. SharePoint delivery program considerations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735672376/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735672376/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building continuous improvement into training",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783000302/chapter/ch06s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783000302/chapter/ch06s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Change and delivery 2: managing IT-based business innovations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750648219/chapter/14_Chapter_08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750648219/chapter/14_Chapter_08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Continuous Education for Nurses",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484235492/chapter/html/456266_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484235492/chapter/html/456266_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous development processes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886850/chapter/ch08s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886850/chapter/ch08s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "09 Performance: how to establish a culture of continuous improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749477356/chapter/chapter_title09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749477356/chapter/chapter_title09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 - Kaizen—Continuous Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9788131732625/chapter/xhtml/chapter009.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9788131732625/chapter/xhtml/chapter009.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "32 From Television without Frontiers to the Digital Big Bang: The EU’s Continuous Efforts to Create a Future-proof Internal Media Market",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781444395426/chapter/9781444395426_032.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781444395426/chapter/9781444395426_032.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Flexible delivery solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/073843583X/chapter/chapter-09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/073843583X/chapter/chapter-09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Service Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321685353/chapter/ch28.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321685353/chapter/ch28.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Intelligent Alarm System applied to Continuous Pharmaceutical Manufacturing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780444632340/chapter/xhtml/CHP084.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780444632340/chapter/xhtml/CHP084.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A case study on the validation of Point CIP as a continuous improvement system",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138001367/chapter/xhtml/18_Chapter12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138001367/chapter/xhtml/18_Chapter12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "42 Delivery in full, on time (DIFOT) rate",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780273750116/chapter/html/chapter-042.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780273750116/chapter/html/chapter-042.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Continuous Packet Connectivity and High Speed Common Channels",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118693711/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118693711/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Incremental Life Cycle: Staged Delivery, Design to Schedule",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500257/chapter/f_0170.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500257/chapter/f_0170.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Quotation and Lost Order Analysis—The Market Link to Continuous Improvement, Gaining Competitive Advantage, and to Increasing Sales and Profit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781606496145/chapter/h1_25.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781606496145/chapter/h1_25.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Step 4: Manage delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780273714699/chapter/chapter-09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780273714699/chapter/chapter-09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Determination of resin components for continuous Digital Light Processing (cDLP) additive manufacture of resorbable tissue engineering scaffolds (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138001374/chapter/chapter-52.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138001374/chapter/chapter-52.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Continuous Improvement Through Persistence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321717856/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321717856/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25. Virtual Teams in Medical Care Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470176429/chapter/ch25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470176429/chapter/ch25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5.2 GEOCASTING WITH GUARANTEED DELIVERY",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470570500/chapter/sec5.2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470570500/chapter/sec5.2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Connectionist Approach for Incorporating Continuous Code Churn into Software Reliability Growth Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780805815603/chapter/xhtml/27_chapter21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780805815603/chapter/xhtml/27_chapter21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Case Example #4: From Training Delivery to Trusted Advisor",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781576757802/chapter/chapter12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781576757802/chapter/chapter12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Delivery Failures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449382476/chapter/ch09s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449382476/chapter/ch09s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "E-LEARNING: AN APPRECIATIVE APPROACH CONSIDERING THE VALUE OF APPRECIATIVE INQUIRY-STYLE QUESTIONING IN E-LEARNING DESIGN, DELIVERY, AND EVALUATION",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470371459/chapter/9780470371459_e-learning_colon_an_appreciative_approac.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470371459/chapter/9780470371459_e-learning_colon_an_appreciative_approac.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Deployment and Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470748459/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470748459/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Process Improvement (CPI)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9788131700228/chapter/chapter-63.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9788131700228/chapter/chapter-63.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous replenishment supply chains (2/6)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780273730415/chapter/chapter-45.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780273730415/chapter/chapter-45.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Green Mountain Coffee Roasters—Continuous Growth",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439891247/chapter/xhtml/C09_chapter3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439891247/chapter/xhtml/C09_chapter3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Quality Planning, Quality Reviews, and Continuous Quality Improvement (1/4)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781597492232/chapter/chapter-69.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781597492232/chapter/chapter-69.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ongoing Solution Delivery Guidance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735623538/chapter/ch12s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735623538/chapter/ch12s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "III. Continuous Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596527938/chapter/pt03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596527938/chapter/pt03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enablers and Barriers That PMO Leaders Face in Facilitating Cross-Project Learning and Continuous Improvement (5/5)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814415320/chapter/chapter-48.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814415320/chapter/chapter-48.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Continuous professional development for coaches",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749455330/chapter/content/15_CHAP_C12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749455330/chapter/content/15_CHAP_C12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Continuous replenishment supply chains: Where relationships matter most",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780273706144/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780273706144/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "26. Continuous Process Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130912972/chapter/ch26.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130912972/chapter/ch26.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Monitoring the Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1587051532/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1587051532/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "23. Continuous Integration with Adobe AIR",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768680645/chapter/ch24.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768680645/chapter/ch24.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Modeling and Managing Service Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780203490006/chapter/9781135492533_Part15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780203490006/chapter/9781135492533_Part15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "WebSphere MQ for guaranteed data delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738498394/chapter/chapter-31.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738498394/chapter/chapter-31.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Process Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750665070/chapter/chapter-155.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750665070/chapter/chapter-155.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12.7 Easing the Burden of Implementing a Continuous Integration Process with CI Factory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596527543/chapter/ch12s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596527543/chapter/ch12s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Fault Delivery, Notification, Reporting, and Repair",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1578701805/chapter/1578701805_ch06lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1578701805/chapter/1578701805_ch06lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Delivery Errors and Retrying",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596000987/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596000987/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "COMMITTING TO CONTINUOUS LEARNING View your worklife as an ongoing journey",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781605093840/chapter/Chap6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781605093840/chapter/Chap6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Object-Oriented Service Delivery Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130191957/chapter/0130191957_ch04lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130191957/chapter/0130191957_ch04lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Continuously improving the program",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439818/chapter/OEBPS/Text/09.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439818/chapter/OEBPS/Text/09.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Inventory Routing Problem with Fuzzy Demand and Deliveries with Priority",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119798767/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119798767/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Core Practice: Continuously Test and Deliver",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098114664/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098114664/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Continuously Improving Your Scrum Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134841632/chapter/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134841632/chapter/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Power 9 Sow and Reap Continuously",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040114155/chapter/xhtml/Power9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040114155/chapter/xhtml/Power9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Highways England and Its Continuously Improving Supply Chain",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781523001804/chapter/xhtml/ch13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781523001804/chapter/xhtml/ch13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuously deploying to the cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341171/chapter/b65980ed-d868-4fab-8b1a-13ed2beb43c4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341171/chapter/b65980ed-d868-4fab-8b1a-13ed2beb43c4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automate Experiments to Run Continuously",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491988459/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491988459/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "High-Performance Teams Continuously Deliver Business Value",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491994320/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491994320/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Delivering Continuously",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491961728/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491961728/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Practice 4: Drive for Results; Continuously Improve",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781562861087/chapter/OEBPS/c06.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781562861087/chapter/OEBPS/c06.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Effective Feature Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038177/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038177/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Agile Application Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491938836/chapter/titlepage01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491938836/chapter/titlepage01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code and functions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136203/chapter/b8266805-2934-4884-9036-996e91663806.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136203/chapter/b8266805-2934-4884-9036-996e91663806.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Jenkins 2: Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491979587/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491979587/",
+      "isbn": "9781491979594",
+      "format": "book"
+    },
+    {
+      "title": "CI/CD and CI/CD pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992329/chapter/877101df-702d-44ae-9a27-e9e4fb0365f1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992329/chapter/877101df-702d-44ae-9a27-e9e4fb0365f1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838822361/chapter/665afa24-d643-4f27-af71-fd6b3b9b7695.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838822361/chapter/665afa24-d643-4f27-af71-fd6b3b9b7695.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deployment view",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464170/chapter/48d49dd9-1f5b-4d4c-aa80-896fa26e7b50.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464170/chapter/48d49dd9-1f5b-4d4c-aa80-896fa26e7b50.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What Is Cloud Native?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492055136/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492055136/",
+      "isbn": "9781492055129",
+      "format": "book"
+    },
+    {
+      "title": "Implementing CD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789950229/chapter/10709d90-ed25-456a-9033-e1f388721e27.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789950229/chapter/10709d90-ed25-456a-9033-e1f388721e27.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of figures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398616233/chapter/content/05_loi01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398616233/chapter/content/05_loi01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tracking system integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992664/chapter/7738d794-1e9f-42b6-a9a1-426c055a6666.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992664/chapter/7738d794-1e9f-42b6-a9a1-426c055a6666.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying resource group templates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789803303/chapter/f2d748e2-f09a-4597-964f-2424f425186d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789803303/chapter/f2d748e2-f09a-4597-964f-2424f425186d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Agile DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492028499/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492028499/",
+      "isbn": "9781492028499",
+      "format": "book"
+    },
+    {
+      "title": "Frequent Feedback",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133375640/chapter/ch03lev2sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133375640/chapter/ch03lev2sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Azure DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394165889/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394165889/",
+      "isbn": "9781394165889",
+      "format": "book"
+    },
+    {
+      "title": "Benefits of using the CI/CD pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788394925/chapter/3172fc51-54cc-4e8d-acb0-c7b54e097229.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788394925/chapter/3172fc51-54cc-4e8d-acb0-c7b54e097229.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Additional Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098104207/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098104207/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Technical Reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484218365/chapter/9781484218358_FM_5_About_the_Technical_Reviewer.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484218365/chapter/9781484218358_FM_5_About_the_Technical_Reviewer.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What does serverless architecture guarantee?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463593/chapter/52470023-c18d-410b-bea9-89875be9295c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463593/chapter/52470023-c18d-410b-bea9-89875be9295c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Algorithmic Trading Systems and Strategies: A New Approach: Design, Build, and Maintain an Effective Strategy Search Mechanism",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803574/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803574/",
+      "isbn": "9798868803574",
+      "format": "book"
+    },
+    {
+      "title": "Deploying with JRuby 9k",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502138/chapter/f_0076.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502138/chapter/f_0076.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing and development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787124349/chapter/c31996a2-8e6c-4234-aa5b-3a9e070fd7da.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787124349/chapter/c31996a2-8e6c-4234-aa5b-3a9e070fd7da.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Leveraging Tekton for Cloud Native CI/CD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098110123/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098110123/",
+      "isbn": "9781098110116",
+      "format": "book"
+    },
+    {
+      "title": "Transforming Your Business with AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119815976/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119815976/",
+      "isbn": "9781119815976",
+      "format": "book"
+    },
+    {
+      "title": "Learning GitHub Actions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098131067/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098131067/",
+      "isbn": "9781098131074",
+      "format": "book"
+    },
+    {
+      "title": "Modernizing Apps and Infrastructure with DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839217470/chapter/b5c5e823-e30e-405d-95e3-a0f235de576f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839217470/chapter/b5c5e823-e30e-405d-95e3-a0f235de576f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Technical Reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430260585/chapter/9781430260585_About_the_Technical_Reviewers.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430260585/chapter/9781430260585_About_the_Technical_Reviewers.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-on Kubernetes on Azure - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801079945/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801079945/",
+      "isbn": "9781801079945",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788620376/chapter/2d61e614-4f3d-4f0b-890e-8fdbe6513721.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788620376/chapter/2d61e614-4f3d-4f0b-890e-8fdbe6513721.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 DevOps and Release on Demand Competency",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135171264/chapter/S1_ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135171264/chapter/S1_ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Producing the Right Feedback When Failing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788299671/chapter/a89e3fa2-7e95-4e98-bd0d-fe8d59356e08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788299671/chapter/a89e3fa2-7e95-4e98-bd0d-fe8d59356e08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Assuming that change is constant",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787120730/chapter/7c37659e-bfe7-4b5f-be8e-6b7dd06ee5b6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787120730/chapter/7c37659e-bfe7-4b5f-be8e-6b7dd06ee5b6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding the deployment terminology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788393331/chapter/bfbc40d9-9786-419a-a291-c2241b352ce1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788393331/chapter/bfbc40d9-9786-419a-a291-c2241b352ce1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating an Agile enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492037774/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492037774/",
+      "isbn": "9781492037767",
+      "format": "book"
+    },
+    {
+      "title": "Jira Integration with Automated Testing Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789954524/chapter/a27da69b-0cbb-47d3-8882-7bd9a9b74e1f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789954524/chapter/a27da69b-0cbb-47d3-8882-7bd9a9b74e1f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advantages of DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787283435/chapter/48995533-f372-4bbf-8f07-76727dd614d6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787283435/chapter/48995533-f372-4bbf-8f07-76727dd614d6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Microservices in .NET, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297922/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297922/",
+      "isbn": "9781617297922",
+      "format": "book"
+    },
+    {
+      "title": "DevOps for Finance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049883/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049883/",
+      "isbn": "9781492049883",
+      "format": "book"
+    },
+    {
+      "title": "DevOps for the Desperate",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098130251/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098130251/",
+      "isbn": "9781718502482",
+      "format": "book"
+    },
+    {
+      "title": "Deploying and configuring Jenkins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789807219/chapter/1a7b1847-2d6e-46f9-bd27-1bdc24a4efa8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789807219/chapter/1a7b1847-2d6e-46f9-bd27-1bdc24a4efa8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Evolving a Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836208570/chapter/Text/Part_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836208570/chapter/Text/Part_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789532227/chapter/cc3e71e0-1ada-41de-acde-528476b7751c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789532227/chapter/cc3e71e0-1ada-41de-acde-528476b7751c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a deployment pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880087/chapter/f4ca04c9-1aba-4514-a4d7-b0322171ad8c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880087/chapter/f4ca04c9-1aba-4514-a4d7-b0322171ad8c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Experimentation Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038139/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038139/",
+      "isbn": "9781492038122",
+      "format": "book"
+    },
+    {
+      "title": "Rapid application development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624510/chapter/cba1979e-9771-4d5e-bd70-67e9ede2a981.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624510/chapter/cba1979e-9771-4d5e-bd70-67e9ede2a981.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automating development cycle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127685/chapter/8d0f0d6b-71a0-48c5-96d9-6356b9508471.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127685/chapter/8d0f0d6b-71a0-48c5-96d9-6356b9508471.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Microsoft Azure Service Fabric, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781509307135/chapter/xhtml/part02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781509307135/chapter/xhtml/part02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CI/CD with Azure DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789538519/chapter/b511b843-fec7-402c-aee9-e2dacad34688.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789538519/chapter/b511b843-fec7-402c-aee9-e2dacad34688.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CI/CD Pipeline Using Jenkins Unleashed: Solutions While Setting Up CI/CD Processes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484275085/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484275085/",
+      "isbn": "9781484275085",
+      "format": "book"
+    },
+    {
+      "title": "Natural Language Processing for Software Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394272433/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394272433/",
+      "isbn": "9781394272433",
+      "format": "book"
+    },
+    {
+      "title": "About the Reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787280168/chapter/f6d8a7f6-d00a-4a63-856f-7bd26779e5a8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787280168/chapter/f6d8a7f6-d00a-4a63-856f-7bd26779e5a8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modernizing Applications with IBM CICS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459295/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459295/",
+      "isbn": "9780738459295",
+      "format": "book"
+    },
+    {
+      "title": "Azure Kubernetes Services with Microservices: Understanding Its Patterns and Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484278093/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484278093/",
+      "isbn": "9781484278093",
+      "format": "book"
+    },
+    {
+      "title": "DevOps for Databases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837637300/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837637300/",
+      "isbn": "9781837637300",
+      "format": "book"
+    },
+    {
+      "title": "6. Software Development Life Cycle (SDLC)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805431/chapter/html/627148_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805431/chapter/html/627148_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding ConductR Sandbox information",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288645/chapter/b2d5ea5a-174c-4968-aac1-762305ad43c0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288645/chapter/b2d5ea5a-174c-4968-aac1-762305ad43c0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "HashiCorp Packer in Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803246857/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803246857/",
+      "isbn": "9781803246857",
+      "format": "book"
+    },
+    {
+      "title": "Developing Open Cloud Native Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492052753/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492052753/",
+      "isbn": "9781492052746",
+      "format": "book"
+    },
+    {
+      "title": "Modern Software Engineering: Doing What Works to Build Better Software Faster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137314942/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137314942/",
+      "isbn": "9780137314942",
+      "format": "book"
+    },
+    {
+      "title": "SonarQube in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617290954/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617290954/",
+      "isbn": "9781617290954",
+      "format": "book"
+    },
+    {
+      "title": "Useful websites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780175478/chapter/html/07_web.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780175478/chapter/html/07_web.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Microservices and serverless architectures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472425/chapter/82ae3811-6258-4ec0-9fd1-4c08dd3d22c1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472425/chapter/82ae3811-6258-4ec0-9fd1-4c08dd3d22c1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "III. Assembling the System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492055204/chapter/part03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492055204/chapter/part03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learning Ratpack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491921654/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491921654/",
+      "isbn": "9781491921616",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994019/chapter/017bc12c-8187-4c78-853d-f9081f61d23c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994019/chapter/017bc12c-8187-4c78-853d-f9081f61d23c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Microservices, IoT, and Azure: Leveraging DevOps and Microservice Architecture to Deliver SaaS Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484212752/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484212752/",
+      "isbn": "9781484212752",
+      "format": "book"
+    },
+    {
+      "title": "Configuration server",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788475891/chapter/c59dea2f-cb5f-4701-99a0-fd9e83b44d7b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788475891/chapter/c59dea2f-cb5f-4701-99a0-fd9e83b44d7b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321669575/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321669575/",
+      "isbn": "9780321669575",
+      "format": "book"
+    },
+    {
+      "title": "Microservice Server-Side Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838824983/chapter/33f13f8e-4594-4217-b0a1-e16060996383.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838824983/chapter/33f13f8e-4594-4217-b0a1-e16060996383.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CI/CD for container-based applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787280540/chapter/248d4638-5cdc-4e21-bd56-94b8fe60d693.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787280540/chapter/248d4638-5cdc-4e21-bd56-94b8fe60d693.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native Development Patterns and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788473927/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788473927/",
+      "isbn": "9781788473927",
+      "format": "book"
+    },
+    {
+      "title": "Migrating to Azure: Transforming Legacy Applications into Scalable Cloud-First Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484235850/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484235850/",
+      "isbn": "9781484235850",
+      "format": "book"
+    },
+    {
+      "title": "Using Eclipse MicroProfile for cloud-native application development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838643102/chapter/c89889fb-26c9-49c6-a6aa-c67ba73ba452.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838643102/chapter/c89889fb-26c9-49c6-a6aa-c67ba73ba452.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-on GitHub Actions: Implement CI/CD with GitHub Action Workflows for Your Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264645/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264645/",
+      "isbn": "9781484264645",
+      "format": "book"
+    },
+    {
+      "title": "Angular for Enterprise Applications - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805127123/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805127123/",
+      "isbn": "9781805127123",
+      "format": "book"
+    },
+    {
+      "title": "Poonam Narang, Pooja Mittal, Preeti Gulia, Balkrishan Insights into DevOps automation tools employed at different stages of software development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110709346/chapter/content/9783110705430_009831.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110709346/chapter/content/9783110705430_009831.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reactive Microsystems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491994368/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491994368/",
+      "isbn": "9781491994351",
+      "format": "book"
+    },
+    {
+      "title": "Operations Management: Processes And Supply Chains",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134741062/chapter/longalt/la_fig02-05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134741062/chapter/longalt/la_fig02-05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Evolution of Cloud Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780173580/chapter/24_chapter12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780173580/chapter/24_chapter12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Trunk-based development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787120723/chapter/f115dc11-0d99-41db-a325-afe30e0accf6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787120723/chapter/f115dc11-0d99-41db-a325-afe30e0accf6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DevOps for Media and Entertainment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491987483/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491987483/",
+      "isbn": "9781491987476",
+      "format": "book"
+    },
+    {
+      "title": "Release It!, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680504552/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680504552/",
+      "isbn": "9781680504521",
+      "format": "book"
+    },
+    {
+      "title": "GitOps and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297274/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297274/",
+      "isbn": "9781617297274",
+      "format": "book"
+    },
+    {
+      "title": "B15215_21_Final_SZ",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838980849/chapter/B15215_21_Final_SZ.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838980849/chapter/B15215_21_Final_SZ.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Types of testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789535297/chapter/c3b5f466-aec7-4da6-803e-5a58dd1cefe7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789535297/chapter/c3b5f466-aec7-4da6-803e-5a58dd1cefe7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Visual Studio Team Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788991735/chapter/d4f3d535-f9c9-4090-9327-1560b3959ee9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788991735/chapter/d4f3d535-f9c9-4090-9327-1560b3959ee9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Liberty in IBM CICS: Deploying and Managing Java EE Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738442167/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738442167/",
+      "isbn": "9780738442167",
+      "format": "book"
+    },
+    {
+      "title": "Who this book is for",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784391058/chapter/pr07s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784391058/chapter/pr07s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using enigma.js in extensions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783554027/chapter/398e22b8-4cf1-48e9-9772-fa82de6e6baa.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783554027/chapter/398e22b8-4cf1-48e9-9772-fa82de6e6baa.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Recommended Reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098157234/chapter/22-recommended.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098157234/chapter/22-recommended.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Contrasting containers and VMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834308/chapter/3423b27c-64ba-4953-a1d2-c28d5e4bc38c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834308/chapter/3423b27c-64ba-4953-a1d2-c28d5e4bc38c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IV. Configuration Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098131678/chapter/part04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098131678/chapter/part04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484241523/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484241523/",
+      "isbn": "9781484241523",
+      "format": "book"
+    },
+    {
+      "title": "Terraform in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296895/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296895/",
+      "isbn": "9781617296895",
+      "format": "book"
+    },
+    {
+      "title": "Software Architecture with C# 9 and .NET 5 - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800566040/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800566040/",
+      "isbn": "9781800566040",
+      "format": "book"
+    },
+    {
+      "title": "B21803_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835461853/chapter/B21803_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835461853/chapter/B21803_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Penetration Testing of EC2 Instances using Kali Linux",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136722/chapter/0d0f8dfc-ada7-403f-ad9f-b031d1c0dcc4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136722/chapter/0d0f8dfc-ada7-403f-ad9f-b031d1c0dcc4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Distributed Applications in Gin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801074858/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801074858/",
+      "isbn": "9781801074858",
+      "format": "book"
+    },
+    {
+      "title": "Implementing CI/CD Using Azure Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804612491/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804612491/",
+      "isbn": "9781804612491",
+      "format": "book"
+    },
+    {
+      "title": "Full Stack Serverless",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492059882/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492059882/",
+      "isbn": "9781492059899",
+      "format": "book"
+    },
+    {
+      "title": "Terraform Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207554/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207554/",
+      "isbn": "9781800207554",
+      "format": "book"
+    },
+    {
+      "title": "Terraform Cookbook - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804616420/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804616420/",
+      "isbn": "9781804616420",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native Automation with Google Cloud Build",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801816700/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801816700/",
+      "isbn": "9781801816700",
+      "format": "book"
+    },
+    {
+      "title": "Software Development From A to Z: A Deep Dive into all the Roles Involved in the Creation of Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484239452/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484239452/",
+      "isbn": "9781484239452",
+      "format": "book"
+    },
+    {
+      "title": "Azure Databricks Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789809718/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789809718/",
+      "isbn": "9781789809718",
+      "format": "book"
+    },
+    {
+      "title": "Service deployment platform pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787287495/chapter/45fae41c-b1c5-43a5-ba1d-7dfdf76f8930.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787287495/chapter/45fae41c-b1c5-43a5-ba1d-7dfdf76f8930.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Debugging and Profiling in Microsoft Azure: Application Performance Management in the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254370/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254370/",
+      "isbn": "9781484254370",
+      "format": "book"
+    },
+    {
+      "title": "2.4 Use and value of information and technology (4/5)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780113318285/chapter/chapter-17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780113318285/chapter/chapter-17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deployment and CI/CD Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788620642/chapter/477a8159-5fac-4613-b645-518230f64b47.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788620642/chapter/477a8159-5fac-4613-b645-518230f64b47.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Why Ansible for this setup?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788394512/chapter/1f27021c-c939-4851-8b40-141afbb245ad.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788394512/chapter/1f27021c-c939-4851-8b40-141afbb245ad.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Book You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138054/chapter/e4f6a7c3-86b3-433d-94af-f1deee267259.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138054/chapter/e4f6a7c3-86b3-433d-94af-f1deee267259.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Principles behind the Agile Manifesto",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131857258/chapter/ifc2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/0131857258/chapter/ifc2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud-Native DevOps : Building Scalable and Reliable Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804076/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804076/",
+      "isbn": "9798868804076",
+      "format": "book"
+    },
+    {
+      "title": "The required skills and suggestions for security automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789802023/chapter/1b0e45a7-78a2-4cfa-b655-199976cd8b44.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789802023/chapter/1b0e45a7-78a2-4cfa-b655-199976cd8b44.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. The Microservices Development Life Cycle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127555/chapter/ch29.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127555/chapter/ch29.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Scaling BPM Adoption from Project to Program with IBM Business Process Manager",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738436089/",
+      "url": "https://learning.oreilly.com/api/v1/book/0738436089/",
+      "isbn": "0738436089",
+      "format": "book"
+    },
+    {
+      "title": "The build infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462374/chapter/66467031-eec3-48e1-9fd2-a18a65c5f28c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462374/chapter/66467031-eec3-48e1-9fd2-a18a65c5f28c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Twelve Agile Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500066/chapter/f_0109.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500066/chapter/f_0109.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Recommended Reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492046899/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492046899/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kubernetes and Docker - An Enterprise Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839213403/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839213403/",
+      "isbn": "9781839213403",
+      "format": "book"
+    },
+    {
+      "title": "Automating Agility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492073833/chapter/ch43.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492073833/chapter/ch43.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JBoss CLI deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788296199/chapter/dd0ec865-5a6a-4603-88e9-4823bb0900e0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788296199/chapter/dd0ec865-5a6a-4603-88e9-4823bb0900e0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ASP.NET Core 5 and React - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800206168/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800206168/",
+      "isbn": "9781800206168",
+      "format": "book"
+    },
+    {
+      "title": "Scaling BPM Adoption: From Project to Program with IBM Business Process Manager",
+      "id": "https://www.safaribooksonline.com/api/v1/book/073843681X/",
+      "url": "https://learning.oreilly.com/api/v1/book/073843681X/",
+      "isbn": "9780738436814",
+      "format": "book"
+    },
+    {
+      "title": "Microservice architecture versus SOA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788394802/chapter/37c454d3-3715-433c-b019-83dcce33b61a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788394802/chapter/37c454d3-3715-433c-b019-83dcce33b61a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Architecture Modernization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438156/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438156/",
+      "isbn": "9781633438156",
+      "format": "book"
+    },
+    {
+      "title": "Further Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491926291/chapter/ch20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491926291/chapter/ch20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Infrastructure as Code with Azure Bicep",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801813747/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801813747/",
+      "isbn": "9781801813747",
+      "format": "book"
+    },
+    {
+      "title": "Deploying to Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835465912/chapter/Text/Chapter_14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835465912/chapter/Text/Chapter_14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automating Workflows with GitHub Actions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800560406/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800560406/",
+      "isbn": "9781800560406",
+      "format": "book"
+    },
+    {
+      "title": "Rapid Application Development with AWS Amplify",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207233/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207233/",
+      "isbn": "9781800207233",
+      "format": "book"
+    },
+    {
+      "title": "What are microservices?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838643577/chapter/43790810-733e-47d3-9994-e769425922ee.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838643577/chapter/43790810-733e-47d3-9994-e769425922ee.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced deployment strategies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463630/chapter/ch04s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463630/chapter/ch04s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. CI/CD for Microservice Containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805554/chapter/html/619782_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805554/chapter/html/619782_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "E. Abbreviations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781681989839/chapter/xhtml/bm1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781681989839/chapter/xhtml/bm1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Scenarios where Docker is especially useful for Dynamics 365 Business Central sandboxes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789951257/chapter/14388c11-6a35-47a1-8962-aa2657dbc281.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789951257/chapter/14388c11-6a35-47a1-8962-aa2657dbc281.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-driven development with Chef",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783981564/chapter/ch13s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783981564/chapter/ch13s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "M27_Selenium Webdriver_C27 (6/6)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332541610/chapter/chapter-108.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332541610/chapter/chapter-108.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Agile Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131111558/chapter/pr03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131111558/chapter/pr03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B19305_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837636457/chapter/B19305_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837636457/chapter/B19305_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Benefits of using Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838821470/chapter/6aa756d2-5975-4ef4-bd33-09c1091c53dc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838821470/chapter/6aa756d2-5975-4ef4-bd33-09c1091c53dc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "More from the Author",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098124151/chapter/34-more-from-author.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098124151/chapter/34-more-from-author.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Design for Human Problem-Solving",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650837/chapter/f_0084.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650837/chapter/f_0084.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integration testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785285714/chapter/ch08s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785285714/chapter/ch08s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Enterprise Platform Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835880487/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835880487/",
+      "isbn": "9781835880487",
+      "format": "book"
+    },
+    {
+      "title": "14. Enterprise Cloud Native Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272268/chapter/html/511610_1_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272268/chapter/html/511610_1_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing a microservice-based architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992749/chapter/29e4e572-dea2-4ce8-8ec3-3e34f16d3e9e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992749/chapter/29e4e572-dea2-4ce8-8ec3-3e34f16d3e9e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Git in Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617291975/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617291975/",
+      "isbn": "9781617291975",
+      "format": "book"
+    },
+    {
+      "title": "Software Architecture with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468529/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468529/",
+      "isbn": "9781786468529",
+      "format": "book"
+    },
+    {
+      "title": "Bits of advice for successful application deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284951/chapter/aa6c92bc-0b86-4f38-a66f-04e50f91e7b6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284951/chapter/aa6c92bc-0b86-4f38-a66f-04e50f91e7b6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Elastic Leadership",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617293085/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617293085/",
+      "isbn": "9781617293085",
+      "format": "book"
+    },
+    {
+      "title": "Topic 50. Coconuts Don't Cut It",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135956977/chapter/f_0076.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135956977/chapter/f_0076.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Jenkins and iOS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785284243/chapter/ch09s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785284243/chapter/ch09s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1.4 How projects relate to the organization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780113318414/chapter/chapter-11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780113318414/chapter/chapter-11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Fixing Your Scrum",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507447/chapter/f_0098.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507447/chapter/f_0098.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Architectural X Factors: Environment, Organization, and Teams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804106/chapter/html/608076_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804106/chapter/html/608076_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Apex Code: Software Design for Salesforce Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814112/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814112/",
+      "isbn": "9798868814112",
+      "format": "book"
+    },
+    {
+      "title": "1. What Is GitOps?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286739/chapter/html/524191_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286739/chapter/html/524191_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Forces Behind Serverless",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142063/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142063/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Consolidating Knowledge Before Expanding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484298435/chapter/html/455463_2_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484298435/chapter/html/455463_2_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sustainability in Supply Chain Management Casebook: Applications in SCM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133367225/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133367225/",
+      "isbn": "9780133367225",
+      "format": "book"
+    },
+    {
+      "title": "Use cases of Cloud9",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788993708/chapter/28128f93-256d-44b5-82c3-7518aa6bc096.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788993708/chapter/28128f93-256d-44b5-82c3-7518aa6bc096.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. What You Will Teach with LEGO and Chocolate Simulation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803970/chapter/html/434321_2_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803970/chapter/html/434321_2_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Sustain and Improve",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134209487/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134209487/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Limitations and Concerns of Agile PM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789389342628/chapter/chapter-243.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789389342628/chapter/chapter-243.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Exploring Paths, Destination Unknown",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098136260/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098136260/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Scala Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464675/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464675/",
+      "isbn": "9781786464675",
+      "format": "book"
+    },
+    {
+      "title": "Deploy to Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803241494/chapter/Text/Chapter_14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803241494/chapter/Text/Chapter_14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Integrating Azure DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839215865/chapter/B15432_13_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839215865/chapter/B15432_13_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Annex A2. Agile Manifesto Mapping",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781628253993/chapter/annex_a2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781628253993/chapter/annex_a2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Know Your Timebox",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484225653/chapter/A434321_1_En_6_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484225653/chapter/A434321_1_En_6_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The role of the release engineer (RE)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838554491/chapter/24639a3e-4418-41d0-875b-eb18346303d1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838554491/chapter/24639a3e-4418-41d0-875b-eb18346303d1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enterprise DevOps Playbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492030065/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492030065/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Design X-Rays",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505795/chapter/f_0072.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505795/chapter/f_0072.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Deploying Your Azure Functions Using a CI/CD Pipeline with Azure DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271223/chapter/html/510166_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271223/chapter/html/510166_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "53. In Search of the Lost Time",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492081487/chapter/ch53.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492081487/chapter/ch53.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying cloud packages to Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782173373/chapter/ch12s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782173373/chapter/ch12s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B16232_TOC_Final_PD_epub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800205567/chapter/B16232_TOC_Final_PD_epub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800205567/chapter/B16232_TOC_Final_PD_epub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is Infrastructure as Code and why is it needed?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623537/chapter/a2930dc0-9983-4978-818e-f24f210440b9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623537/chapter/a2930dc0-9983-4978-818e-f24f210440b9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Effective Software Engineer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341638167/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341638167/",
+      "isbn": "9798341638174",
+      "format": "book"
+    },
+    {
+      "title": "B15564_TOC_Final_JC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839213625/chapter/B15564_TOC_Final_JC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839213625/chapter/B15564_TOC_Final_JC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Automate Your Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492062400/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492062400/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Streaming Problem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768683097/chapter/9780768683097_ch19lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768683097/chapter/9780768683097_ch19lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DevOps and Business",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492036609/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492036609/",
+      "isbn": "9781492036593",
+      "format": "book"
+    },
+    {
+      "title": "B18384_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803236230/chapter/B18384_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803236230/chapter/B18384_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. CI/CD with Azure Kubernetes Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255193/chapter/html/484429_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255193/chapter/html/484429_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "GitHub Actions and Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836206057/chapter/Text/Chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836206057/chapter/Text/Chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting Serious About DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492036937/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492036937/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Customizable Agile Development: Crafting Innovative Agile Frameworks to Suit Your Business Needs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810558/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810558/",
+      "isbn": "9798868810558",
+      "format": "book"
+    },
+    {
+      "title": "6. Magento 2 Styles Debugging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888229/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888229/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Agile Software Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119896395/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119896395/",
+      "isbn": "9781119896395",
+      "format": "book"
+    },
+    {
+      "title": "The Standard for Organizational Project Management (OPM)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781628255546/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781628255546/",
+      "isbn": "9781628255546",
+      "format": "book"
+    },
+    {
+      "title": "Modern API Design with ASP.NET Core 2: Building Cross-Platform Back-End Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484235195/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484235195/",
+      "isbn": "9781484235195",
+      "format": "book"
+    },
+    {
+      "title": "Principle 3: Don’t Be Afraid to Ship Something Simple…",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234885/chapter/Text/Principle_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234885/chapter/Text/Principle_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Models in Real-world Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836200338/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836200338/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Engineering Practices for Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491924334/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491924334/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Microservices are no free lunch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536102/chapter/85ddc7f9-2462-4d51-9b9f-ab06d07f59a0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536102/chapter/85ddc7f9-2462-4d51-9b9f-ab06d07f59a0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. What the Automotive Industry Can Learn from Other Industries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098157814/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098157814/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B21320_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835081167/chapter/B21320_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835081167/chapter/B21320_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Challenging situations when delivering a story",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394234578/chapter/html/page216.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394234578/chapter/html/page216.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating, delivering, and deploying",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783981403/chapter/ch07s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783981403/chapter/ch07s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Deploying and Running Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484219379/chapter/A394450_1_En_10_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484219379/chapter/A394450_1_En_10_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Related publications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738442273/chapter/8357bibl.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738442273/chapter/8357bibl.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The chat example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788998758/chapter/23bf0f58-2714-4fb0-a750-e2912348542f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788998758/chapter/23bf0f58-2714-4fb0-a750-e2912348542f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B10533_04_Final_NM_ePUB",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130935/chapter/B10533_04_Final_NM_ePUB.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130935/chapter/B10533_04_Final_NM_ePUB.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Logstash Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780988820210/chapter/ch001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780988820210/chapter/ch001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating with daily build",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789804935/chapter/75e9742c-8c07-4d04-a93f-524a25a2ab4d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789804935/chapter/75e9742c-8c07-4d04-a93f-524a25a2ab4d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kinesis streams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788296403/chapter/46b73da2-86e8-4d4b-9c0d-5a4bf7af8743.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788296403/chapter/46b73da2-86e8-4d4b-9c0d-5a4bf7af8743.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting Started",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788995405/chapter/2ebf00ef-2724-4e92-859a-0d2d8c3a7847.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788995405/chapter/2ebf00ef-2724-4e92-859a-0d2d8c3a7847.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing infrastructure, deployments, and support at scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281066/chapter/dfa3639c-edb1-4dba-a437-e5e699784e75.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281066/chapter/dfa3639c-edb1-4dba-a437-e5e699784e75.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Docker Improves a DevOps Workflow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789532401/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789532401/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Engineering Incremental Change",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492097532/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492097532/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 - A Nimble Approach To The Table",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457191411/chapter/11-chapter3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457191411/chapter/11-chapter3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beyond Legacy Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501827/chapter/f_0031.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501827/chapter/f_0031.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Visual Studio Team Services (VSTS)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787283336/chapter/a6e57d26-1200-4cbe-9bff-6b75f8c24838.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787283336/chapter/a6e57d26-1200-4cbe-9bff-6b75f8c24838.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Essential C# 6.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134176147/chapter/app05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134176147/chapter/app05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B18117_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803230948/chapter/B18117_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803230948/chapter/B18117_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B17522_TOC_ePub_AM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801813914/chapter/B17522_TOC_ePub_AM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801813914/chapter/B17522_TOC_ePub_AM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Connected Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281905/chapter/fe0d5fd1-7619-4d18-81b5-9654e4d68556.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281905/chapter/fe0d5fd1-7619-4d18-81b5-9654e4d68556.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying containerized apps using Docker and Mesos",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886249/chapter/ch07s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886249/chapter/ch07s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Agile Aesthetics and Azure DevOps Dynamics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802768/chapter/html/612513_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802768/chapter/html/612513_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Activity 26. Paths Not Taken",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502923/chapter/f_0143.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502923/chapter/f_0143.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Integrations with CI/CD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439573/chapter/OEBPS/Text/12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439573/chapter/OEBPS/Text/12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Evolution of DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868816949/chapter/html/657802_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868816949/chapter/html/657802_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. What Is MLOps?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265499/chapter/html/499842_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265499/chapter/html/499842_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Linux DevOps Handbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803245669/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803245669/",
+      "isbn": "9781803245669",
+      "format": "book"
+    },
+    {
+      "title": "4. Resource Flow and Efficiency: Balancing Business and User Needs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098130589/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098130589/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Service Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491917862/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491917862/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Testing in Agile Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295144/chapter/html/604917_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295144/chapter/html/604917_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Lean CEO: Leading the Way to World-Class Excellence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071833073/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071833073/",
+      "isbn": "9780071833073",
+      "format": "book"
+    },
+    {
+      "title": "10. Patterns for Infrastructure and Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048893/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048893/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. The CI/CD Pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262559/chapter/html/501438_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262559/chapter/html/501438_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Product Discovery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119387503/chapter/p04a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119387503/chapter/p04a.xhtml",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

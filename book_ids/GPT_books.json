@@ -1,0 +1,3689 @@
+{
+  "skill_name": "gpt",
+  "discovery_timestamp": 1759706565.6266944,
+  "total_books": 526,
+  "books": [
+    {
+      "title": "Build a Large Language Model (From Scratch)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437166/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437166/",
+      "isbn": "9781633437166",
+      "format": "book"
+    },
+    {
+      "title": "Developing Apps with GPT-4 and ChatGPT, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168094/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168094/",
+      "isbn": "9781098168100",
+      "format": "book"
+    },
+    {
+      "title": "Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138199425/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138199425/",
+      "isbn": "9780138199425",
+      "format": "book"
+    },
+    {
+      "title": "Practical Generative AI with ChatGPT - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836647850/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836647850/",
+      "isbn": "9781836647850",
+      "format": "book"
+    },
+    {
+      "title": "Developing Apps with GPT-4 and ChatGPT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098152475/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098152475/",
+      "isbn": "9781098152482",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT for Java: A Hands-on Developer's Guide to ChatGPT and Open AI APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801167/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801167/",
+      "isbn": "9798868801167",
+      "format": "book"
+    },
+    {
+      "title": "Modern Generative AI with ChatGPT and OpenAI Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805123330/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805123330/",
+      "isbn": "9781805123330",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT for Conversational AI and Chatbots",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805129530/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805129530/",
+      "isbn": "9781805129530",
+      "format": "book"
+    },
+    {
+      "title": "Coding with ChatGPT and Other LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805125051/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805125051/",
+      "isbn": "9781805125051",
+      "format": "book"
+    },
+    {
+      "title": "Killer ChatGPT Prompts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394225255/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394225255/",
+      "isbn": "9781394225255",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT for Cybersecurity Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805124047/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805124047/",
+      "isbn": "9781805124047",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT and AI for Accountants",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835466537/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835466537/",
+      "isbn": "9781835466537",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT For Dummies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394204632/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394204632/",
+      "isbn": "9781394204632",
+      "format": "book"
+    },
+    {
+      "title": "UX for Enterprise ChatGPT Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835461198/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835461198/",
+      "isbn": "9781835461198",
+      "format": "book"
+    },
+    {
+      "title": "The ChatGPT Revolution, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394283125/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394283125/",
+      "isbn": "9781394283125",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT Prompts Book - Precision Prompts, Priming, Training & AI Writing Techniques for Mortals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835881682/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835881682/",
+      "isbn": "9781835881682",
+      "format": "book"
+    },
+    {
+      "title": "Building AI Applications with ChatGPT APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805127567/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805127567/",
+      "isbn": "9781805127567",
+      "format": "book"
+    },
+    {
+      "title": "The AI Revolution in Medicine: GPT-4 and Beyond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138200145/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138200145/",
+      "isbn": "9780138200145",
+      "format": "book"
+    },
+    {
+      "title": "Unlocking the Power of Auto-GPT and Its Plugins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128281/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128281/",
+      "isbn": "9781805128281",
+      "format": "book"
+    },
+    {
+      "title": "What Are ChatGPT and Its Friends?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098152604/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098152604/",
+      "isbn": "9781098152598",
+      "format": "book"
+    },
+    {
+      "title": "OpenAI GPT For Python Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836202417/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836202417/",
+      "isbn": "9781836202417",
+      "format": "book"
+    },
+    {
+      "title": "Conversational AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298837/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298837/",
+      "isbn": "9781617298837",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT for Beginners: Features, Foundations, and Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484298046/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484298046/",
+      "isbn": "9781484298046",
+      "format": "book"
+    },
+    {
+      "title": "Exploring the Power of ChatGPT: Applications, Techniques, and Implications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295298/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295298/",
+      "isbn": "9781484295298",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT and Bard for Business Automation: Achieving AI-Driven Growth",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484298527/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484298527/",
+      "isbn": "9781484298527",
+      "format": "book"
+    },
+    {
+      "title": "Unleashing The Power of ChatGPT: A Real World Business Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800320/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800320/",
+      "isbn": "9798868800320",
+      "format": "book"
+    },
+    {
+      "title": "Making ChatGPT Work for You: Getting the Most Out of Generative AI as a Non-Techie",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814457/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814457/",
+      "isbn": "9798868814457",
+      "format": "book"
+    },
+    {
+      "title": "Exploring GPT-3",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800563193/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800563193/",
+      "isbn": "9781800563193",
+      "format": "book"
+    },
+    {
+      "title": "Data Analysis with LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437647/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437647/",
+      "isbn": "9781633437647",
+      "format": "book"
+    },
+    {
+      "title": "Effective Conversational AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436404/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436404/",
+      "isbn": "9781633436404",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT For Dummies, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394314454/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394314454/",
+      "isbn": "9781394314454",
+      "format": "book"
+    },
+    {
+      "title": "Creating ChatGPT Apps with JavaScript: A Hands-on Guide for AI Applications with OpenAI APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812217/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812217/",
+      "isbn": "9798868812217",
+      "format": "book"
+    },
+    {
+      "title": "Beginning ChatGPT for Python: Build Intelligent Applications with OpenAI APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809293/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809293/",
+      "isbn": "9798868809293",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT for Marketing: Learn Practical Applications of ChatGPT for Marketing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803123/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803123/",
+      "isbn": "9798868803123",
+      "format": "book"
+    },
+    {
+      "title": "GPT-4 for Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781501519048/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781501519048/",
+      "isbn": "9781501519048",
+      "format": "book"
+    },
+    {
+      "title": "Python 3 using ChatGPT/GPT-4",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781501518799/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781501518799/",
+      "isbn": "9781501518799",
+      "format": "book"
+    },
+    {
+      "title": "JAVA Basics Using ChatGPT/GPT-4",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781501518973/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781501518973/",
+      "isbn": "9781501518973",
+      "format": "book"
+    },
+    {
+      "title": "Python 3 and Data Visualization Using ChatGPT /GPT-4",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781501518850/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781501518850/",
+      "isbn": "9781501518850",
+      "format": "book"
+    },
+    {
+      "title": "Text Generation with OpenAI GPT-2 and GPT-3 Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800565791/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800565791/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Engaging GPT assistants",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436343/chapter/Text/chapter-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436343/chapter/Text/chapter-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Algorithms Create and Prevent Fake News: Exploring the Impacts of Social Media, Deepfakes, GPT-3, and More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271551/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271551/",
+      "isbn": "9781484271551",
+      "format": "book"
+    },
+    {
+      "title": "Fine-Tuning OpenAI GPT Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128724/chapter/Text/Chapter_08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128724/chapter/Text/Chapter_08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 GPT-ing on the go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437616/chapter/OEBPS/Text/09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437616/chapter/OEBPS/Text/09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. GPT-4o, DALL-E, and Whisper",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805998/chapter/html/628370_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805998/chapter/html/628370_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Training and Evaluation of Advanced ML Algorithms – GPT and Autoencoders",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837634064/chapter/B19548_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837634064/chapter/B19548_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Rise of Suprahuman Transformers with GPT-3 Engines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247335/chapter/Text/Chapter_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247335/chapter/Text/Chapter_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19 GPT-3- and DALL-E-Powered Applications: A Complete Survey",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394214112/chapter/c19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394214112/chapter/c19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Katarzyna Baliga-Nicholson, Jan K. Argasinski 15 Stochastic Parrots and Other Beasts: The GPT-3-Driven Chatbot in the Wild",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110721843/chapter/content/9783110721256_020467.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110721843/chapter/content/9783110721256_020467.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Deep transfer learning for NLP with the transformer and GPT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297267/chapter/OEBPS/Text/ch07_Azunre.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297267/chapter/OEBPS/Text/ch07_Azunre.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 ChatGPT and GPT-4",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806022496/chapter/14_001.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806022496/chapter/14_001.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Unleashing GPT-3’s Potential in Automatic Text Generation: A Comprehensive Study and Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394248407/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394248407/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating Text with RNNs and GPT-2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800200937/chapter/Chapter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800200937/chapter/Chapter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with GPT Disks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735711585/chapter/0735711585_ch14lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735711585/chapter/0735711585_ch14lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Locating GPT Files on Domain Controllers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596101236/chapter/chapter-198.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596101236/chapter/chapter-198.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What's New in Windows XP Professional 64-bit Edition?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789727900/chapter/0789727900_ch25lev1sec10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789727900/chapter/0789727900_ch25lev1sec10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Using ChatGPT to Call Your API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164409/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164409/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuring a blank disk and mounting it",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789342529/chapter/87acadda-7b6a-484c-afc6-40856b494804.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789342529/chapter/87acadda-7b6a-484c-afc6-40856b494804.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Azure OpenAI Service for Cloud Native Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098154981/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098154981/",
+      "isbn": "9781098154998",
+      "format": "book"
+    },
+    {
+      "title": "8 Understanding stuff better",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436985/chapter/OEBPS/Text/08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436985/chapter/OEBPS/Text/08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Technology Trends for 2025",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341621114/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341621114/",
+      "isbn": "9798341621107",
+      "format": "book"
+    },
+    {
+      "title": "How to Use This Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394262564/chapter/f05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394262564/chapter/f05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Quick Start Guide to Large Language Models: Strategies and Best Practices for ChatGPT, Embeddings, Fine-Tuning, and Multimodal AI, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135346570/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135346570/",
+      "isbn": "9780135346570",
+      "format": "book"
+    },
+    {
+      "title": "9 Using AI when interacting with your audience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437746/chapter/OEBPS/Text/09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437746/chapter/OEBPS/Text/09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Science Solutions on Azure: The Rise of Generative AI and Applied AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809149/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809149/",
+      "isbn": "9798868809149",
+      "format": "book"
+    },
+    {
+      "title": "AI-Powered Commerce",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248981/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248981/",
+      "isbn": "9781803248981",
+      "format": "book"
+    },
+    {
+      "title": "10.2 Applications of Chatbots",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837021635/chapter/xhtml/xhtml-0-94.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837021635/chapter/xhtml/xhtml-0-94.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Navigating Group Policy Physical Structure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735622175/chapter/ch13s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735622175/chapter/ch13s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "88. Managing the Risks of ChatGPT Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098152161/chapter/ch88.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098152161/chapter/ch88.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. THE DISTRIBUTIONAL HYPOTHESIS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168827/chapter/xhtml/ch14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168827/chapter/xhtml/ch14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Beats in Journalism: Specialized Reporting, Editing and Emerging Technologies in the Digital Era",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789361590481/chapter/xhtml/chapter039-fn.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9789361590481/chapter/xhtml/chapter039-fn.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ML and Generative AI in the Data Lakehouse",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098178482/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098178482/",
+      "isbn": "9781098178499",
+      "format": "book"
+    },
+    {
+      "title": "HOW TO LEVERAGE THE AI VALUE CHAIN",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394254972/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394254972/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI with LangChain",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835083468/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835083468/",
+      "isbn": "9781835083468",
+      "format": "book"
+    },
+    {
+      "title": "Emerging Trends and Innovations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835462317/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835462317/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI with Python and TensorFlow 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800200883/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800200883/",
+      "isbn": "9781800200883",
+      "format": "book"
+    },
+    {
+      "title": "What Is LLMOps?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098154301/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098154301/",
+      "isbn": "9781098154295",
+      "format": "book"
+    },
+    {
+      "title": "1. Make Machines That Learn",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651254/chapter/f_0013.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651254/chapter/f_0013.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Maximum filesystem sizes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474481/chapter/7d1061f8-c5df-407b-a008-652cad097577.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474481/chapter/7d1061f8-c5df-407b-a008-652cad097577.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Working through an API: Generating text",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436947/chapter/Text/chapter-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436947/chapter/Text/chapter-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Group Policy template",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789800203/chapter/68f65300-6cc6-4468-b51d-1ac1af392c26.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789800203/chapter/68f65300-6cc6-4468-b51d-1ac1af392c26.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803235424/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803235424/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Introducing website creation with ChatGPT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436961/chapter/OEBPS/Text/01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436961/chapter/OEBPS/Text/01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Changing from BIOS/legacy mode to UEFI mode",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462824/chapter/53e52630-373a-4f4e-97c8-7ff5c54a504b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462824/chapter/53e52630-373a-4f4e-97c8-7ff5c54a504b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Regularization Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837634088/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837634088/",
+      "isbn": "9781837634088",
+      "format": "book"
+    },
+    {
+      "title": "6. Exploring Chatbot Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802829/chapter/html/616261_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802829/chapter/html/616261_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Associative aggregation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738423025/chapter/chapter-85.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738423025/chapter/chapter-85.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generative Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492041931/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492041931/",
+      "isbn": "9781492041948",
+      "format": "book"
+    },
+    {
+      "title": "1. Evolution of Microsoft Copilot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805837/chapter/html/626246_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805837/chapter/html/626246_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Music and Text Generation with PyTorch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801074308/chapter/Text/Chapter_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801074308/chapter/Text/Chapter_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Natural Language Processing in Action, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299445/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299445/",
+      "isbn": "9781617299445",
+      "format": "book"
+    },
+    {
+      "title": "7. Predicting Duplicate Questions in Quora",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273869/chapter/html/517793_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273869/chapter/html/517793_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "NLP 2.0: Using Transformers to Generate Text",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835884447/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835884447/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. LangChain and NLP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817182/chapter/html/643098_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817182/chapter/html/643098_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI Application Integration Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835887608/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835887608/",
+      "isbn": "9781835887608",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394302901/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394302901/",
+      "isbn": "9781394302901",
+      "format": "book"
+    },
+    {
+      "title": "Practical AI for Business Leaders, Product Managers, and Entrepreneurs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781501505843/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781501505843/",
+      "isbn": "9781501505843",
+      "format": "book"
+    },
+    {
+      "title": "4. Time-LLM: Reprogramming Large Language Model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812767/chapter/html/630726_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812767/chapter/html/630726_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Large Language Models Work",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437081/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437081/",
+      "isbn": "9781633437081",
+      "format": "book"
+    },
+    {
+      "title": "List of abbreviations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110559309/chapter/content/10_Front_Matter04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110559309/chapter/content/10_Front_Matter04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CodeMosaic: Learn AI-Driven Development and Modern Best Practices for Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802768/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802768/",
+      "isbn": "9798868802768",
+      "format": "book"
+    },
+    {
+      "title": "4. OpenAI GPTs and the Assistants API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868811340/chapter/html/634824_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868811340/chapter/html/634824_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Customer 360",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394273614/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394273614/",
+      "isbn": "9781394273614",
+      "format": "book"
+    },
+    {
+      "title": "Maintaining GPO Storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735626768/chapter/ch08s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735626768/chapter/ch08s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Building Up to Large Language Models (LLMs)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814020/chapter/html/614347_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814020/chapter/html/614347_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Generative AI-Powered Apps: A Hands-on Guide for Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802058/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802058/",
+      "isbn": "9798868802058",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI and Language Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781637425909/chapter/text/chapter05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781637425909/chapter/text/chapter05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Large Language Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801105/chapter/html/609718_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801105/chapter/html/609718_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19 Integrating Large Language Models and Qualitative Spatial Reasoning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040090268/chapter/ch19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040090268/chapter/ch19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Applied Natural Language Processing in the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492062561/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492062561/",
+      "isbn": "9781492062578",
+      "format": "book"
+    },
+    {
+      "title": "2. Open-Source Evaluation Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622517/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622517/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Abbreviations and Acronyms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098153816/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098153816/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Brief History of Language Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798324731472/chapter/index_split_009.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798324731472/chapter/index_split_009.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Textual Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394287468/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394287468/",
+      "isbn": "9781394287468",
+      "format": "book"
+    },
+    {
+      "title": "Group Policy Objects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735620704/chapter/ch20s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735620704/chapter/ch20s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning with Python, Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436589/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436589/",
+      "isbn": "9781633436589",
+      "format": "book"
+    },
+    {
+      "title": "Beyond the Algorithm: AI, Security, Privacy, and Ethics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138268442/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138268442/",
+      "isbn": "9780138268442",
+      "format": "book"
+    },
+    {
+      "title": "2. GenAI in the Spotlight",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809682/chapter/html/619518_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809682/chapter/html/619518_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to do it...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788295413/chapter/65a339e6-23cf-4408-b805-5f580eb365ef.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788295413/chapter/65a339e6-23cf-4408-b805-5f580eb365ef.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Transformers – Improving Natural Language Processing with Attention Mechanisms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801819312/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801819312/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Applications with Large Language Models: Techniques, Implementation, and Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805691/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805691/",
+      "isbn": "9798868805691",
+      "format": "book"
+    },
+    {
+      "title": "10. Neural Networks Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803482/chapter/html/500903_2_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803482/chapter/html/500903_2_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 UEFI BOOT VS. THE MBR/VBR BOOT PROCESS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492071259/chapter/xhtml/ch14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492071259/chapter/xhtml/ch14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Putting It All Together: Efficient Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098145279/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098145279/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. ChatGPT and Other General-Purpose LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164553/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164553/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is a Large Language Model?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836202912/chapter/GoogleDoc/PACKTEnterpriseGenerativeAIWellArchitectedFrameworkPatterns_split_004.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836202912/chapter/GoogleDoc/PACKTEnterpriseGenerativeAIWellArchitectedFrameworkPatterns_split_004.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Successful AI Product Creation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394337842/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394337842/",
+      "isbn": "9781394337842",
+      "format": "book"
+    },
+    {
+      "title": "Convert physical workloads using vCenter Converter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789340471/chapter/faeade3e-9a3b-46a3-8863-da668af646bb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789340471/chapter/faeade3e-9a3b-46a3-8863-da668af646bb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Birth, Life, and Death of a GPO",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470275894/chapter/9780470275894_the_birth_comma_life_comma_and_death_of.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470275894/chapter/9780470275894_the_birth_comma_life_comma_and_death_of.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Tasks Using the Hugging Face Library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288443/chapter/html/523273_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288443/chapter/html/523273_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python Machine Learning By Example - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835085622/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835085622/",
+      "isbn": "9781835085622",
+      "format": "book"
+    },
+    {
+      "title": "Your Quickstart Guide to OpenAI API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836645290/chapter/Text/Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836645290/chapter/Text/Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20. The Power of Natural Language Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647824440/chapter/html/33_20__The_Power_of_Natural_Languag.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647824440/chapter/html/33_20__The_Power_of_Natural_Languag.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Model Selection and Alternatives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394240722/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394240722/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Implementing Type-Safe AI Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098160296/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098160296/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: August 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098178901/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098178901/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "August 2023 Radar Trends",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098159849/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098159849/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Vocabulary and Tokenization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150495/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150495/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Training Transformers from Scratch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098136789/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098136789/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Natural Language Processing Recipes: Unlocking Text Data with Machine Learning and Deep Learning Using Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273517/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273517/",
+      "isbn": "9781484273517",
+      "format": "book"
+    },
+    {
+      "title": "Data Augmentation with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803246451/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803246451/",
+      "isbn": "9781803246451",
+      "format": "book"
+    },
+    {
+      "title": "Building the Generative AI Controller",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837020690/chapter/Text/Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837020690/chapter/Text/Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Higher-level neural network libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438880/chapter/OEBPS/Text/11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438880/chapter/OEBPS/Text/11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Advanced Use Cases for Generative AI in SEO",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098167196/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098167196/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting ready for VSM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784393502/chapter/ch09s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784393502/chapter/ch09s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Virtual Machine File System (VMFS) 6",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787286016/chapter/66f3577d-c462-4637-82f2-5392ee798b0d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787286016/chapter/66f3577d-c462-4637-82f2-5392ee798b0d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. The ChatGPT Architecture: An In-Depth Exploration of OpenAI’s Conversational Language Model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484299944/chapter/html/608860_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484299944/chapter/html/608860_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Protect USB Memory Sticks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222799/chapter/f_0126.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222799/chapter/f_0126.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Large Language Models: Under the Hood",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817847/chapter/html/660323_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817847/chapter/html/660323_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Go to the Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296660/chapter/html/533099_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296660/chapter/html/533099_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 BANKING AND FINANCIAL SERVICES: AI AS A DISRUPTIVE FORCE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394245567/chapter/c15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394245567/chapter/c15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Large Language Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293676/chapter/html/601962_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293676/chapter/html/601962_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python Natural Language Processing Cookbook - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803245744/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803245744/",
+      "isbn": "9781803245744",
+      "format": "book"
+    },
+    {
+      "title": "13. Configuring disks and storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735685215/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735685215/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "File System Forensic Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321268172/",
+      "url": "https://learning.oreilly.com/api/v1/book/0321268172/",
+      "isbn": "0321268172",
+      "format": "book"
+    },
+    {
+      "title": "3. Dual-Booting and Virtualization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430216506/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430216506/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "It’s a New World, One with AI Assistants, and You’re Invited",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835086056/chapter/Text/Chapter_01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835086056/chapter/Text/Chapter_01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On MLOps on Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836200338/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836200338/",
+      "isbn": "9781836200338",
+      "format": "book"
+    },
+    {
+      "title": "4. Managing Windows Storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808537/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808537/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "GPO Storage and Replication",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133116007/chapter/ch19lev2sec9.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133116007/chapter/ch19lev2sec9.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating text with a transformer language model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956177/chapter/29aa423e-8260-4e48-acbe-fcf07e000a7f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956177/chapter/29aa423e-8260-4e48-acbe-fcf07e000a7f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Digital Forensics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119262381/chapter/f04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119262381/chapter/f04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. A quick primer on data science and AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292474731/chapter/xhtml/Chapter03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292474731/chapter/xhtml/Chapter03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1: SIGNAL THEORY AND ANALYSIS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470180921/chapter/09_chapter-01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470180921/chapter/09_chapter-01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Dawn of a New Era",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138297350/chapter/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138297350/chapter/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring a Simple Example with ChatGPT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651483/chapter/f_0127.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651483/chapter/f_0127.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: November 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341608450/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341608450/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Disk Management Terminology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735625242/chapter/ch31s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735625242/chapter/ch31s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. LangChain for Chemistry",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098162627/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098162627/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PyTorch in the Wild",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045342/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045342/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Common Acronyms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133057584/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133057584/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: September 2025",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0642572249786/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0642572249786/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Natural Language Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133967/chapter/03b771e5-741d-4fa2-87cc-ebf395b459a0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133967/chapter/03b771e5-741d-4fa2-87cc-ebf395b459a0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: January 2025",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341621565/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341621565/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Transformers, Generative AI, and LangChain",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815829/chapter/html/649581_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815829/chapter/html/649581_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Machine Learning Blueprints You Should Know for Cybersecurity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804619476/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804619476/",
+      "isbn": "9781804619476",
+      "format": "book"
+    },
+    {
+      "title": "8. Build a Text Summarizer with Azure OpenAI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804359/chapter/html/608966_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804359/chapter/html/608966_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C. Arun, S. Karthick, S. Selvakumara Samy, B. Hariharan, Po-Ming Lee 3 Generative AI Models and LLM: Training Techniques and Evaluation Metrics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111425511/chapter/content/9783111424637_005769.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111425511/chapter/content/9783111424637_005769.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Unveiling Copilot: A New Era in Power Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805127/chapter/html/620132_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805127/chapter/html/620132_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Model Selection and Prompt Engineering Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341623279/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341623279/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Embrace AI, and Pivot Hard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647829667/chapter/xhtml/chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647829667/chapter/xhtml/chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Transformers for Natural Language Processing and Chatbots",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341607972/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341607972/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The age of lead-free soldering is approaching fast",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750635455/chapter/chapter-36.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750635455/chapter/chapter-36.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Step-by-step installation guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789343113/chapter/8d9287b8-a468-406a-a9bb-dbe16b5be11f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789343113/chapter/8d9287b8-a468-406a-a9bb-dbe16b5be11f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Get Started with Apple Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781990783678/chapter/text/ch007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781990783678/chapter/text/ch007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Computer Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803238302/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803238302/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing LLMs, RAGs, and Neo4j Knowledge Graphs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836206231/chapter/Text/Chapter_01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836206231/chapter/Text/Chapter_01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Selecting AI Tools and Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296691/chapter/html/605840_1_En_16_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296691/chapter/html/605840_1_En_16_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Dramatis Personae",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647820879/chapter/Text/dramatis.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647820879/chapter/Text/dramatis.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of figures and tables",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398621732/chapter/content/04_frontmatter01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398621732/chapter/content/04_frontmatter01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B21008_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805123347/chapter/B21008_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805123347/chapter/B21008_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: December 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341620872/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341620872/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Basic Disks and Dynamic Disks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672322803/chapter/0672322803_ch18lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672322803/chapter/0672322803_ch18lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. ADM Templates, ADMX Files, and the ADMX Central Store",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735625143/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735625143/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Linux Boot and Startup",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813283/chapter/html/616535_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813283/chapter/html/616535_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Building Advanced Applications Powered by LLMs with LangChain and Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814754/chapter/html/611998_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814754/chapter/html/611998_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Proximal Policy Optimization (PPO) and RLHF",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802737/chapter/html/502835_2_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802737/chapter/html/502835_2_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Future of BERT Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266649/chapter/html/498208_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266649/chapter/html/498208_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to Cheat at Microsoft Vista Administration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781597491747/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781597491747/",
+      "isbn": "9780080553559",
+      "format": "book"
+    },
+    {
+      "title": "9. Utilizing the Azure OpenAI Service for Generative AI Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169251/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169251/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Privacy-Preserving Training Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098160838/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098160838/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Training large language models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437197/chapter/Text/02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437197/chapter/Text/02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B19488_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837636303/chapter/B19488_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837636303/chapter/B19488_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13.3 Manipulating Group Policies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836647355/chapter/13_003.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836647355/chapter/13_003.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "HX5 single-node UEFI settings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738435643/chapter/chapter-226.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738435643/chapter/chapter-226.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a virtual block device",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293778/chapter/ch19s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293778/chapter/ch19s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The best practices for installation and configuration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788993173/chapter/ec84fbae-c9b5-4eee-828b-e1e983120d88.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788993173/chapter/ec84fbae-c9b5-4eee-828b-e1e983120d88.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Understanding Windows File Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484210161/chapter/A334509_1_En_2_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484210161/chapter/A334509_1_En_2_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Table of Exercises",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119605942/chapter/f05a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119605942/chapter/f05a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. A Practical Framework for Responsible AI Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098162191/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098162191/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B12365_TOC_Final_JC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789802740/chapter/B12365_TOC_Final_JC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789802740/chapter/B12365_TOC_Final_JC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: March 2025",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341623798/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341623798/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing Storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804614235/chapter/Text/Chapter_7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804614235/chapter/Text/Chapter_7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. The Road Ahead",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817960/chapter/html/668116_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817960/chapter/html/668116_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B14222_04_Final_NM_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838648176/chapter/B14222_04_Final_NM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838648176/chapter/B14222_04_Final_NM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Features of Generative AI Workloads on Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341607804/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341607804/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Storage providers – SMI-S and SMP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785881480/chapter/1b3c3055-5262-4cb8-a679-846995f5fed8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785881480/chapter/1b3c3055-5262-4cb8-a679-846995f5fed8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Tips and Tricks for Prompt Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804564/chapter/html/623057_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804564/chapter/html/623057_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Generative adversarial networks, generative AI, and ChatGPT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298721/chapter/Text/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298721/chapter/Text/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Large-Language Foundation Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098159214/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098159214/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: May 2025",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341643222/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341643222/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Chatbots and Virtual Assistants",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098162269/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098162269/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 The Basics of Generative Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394243327/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394243327/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: September 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098180614/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098180614/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Configuring and Maintaining Disks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735622623/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735622623/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. The Future of Responsible AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138073947/chapter/ch12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138073947/chapter/ch12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Vendor Addresses",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750633550/chapter/xhtml/B9780750633550500122.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750633550/chapter/xhtml/B9780750633550500122.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Causality and large language models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439917/chapter/Text/chapter-13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439917/chapter/Text/chapter-13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Where This Technology Is Headed—One Model Will Not Rule Them All!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168339/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168339/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8.4 Lapped Orthogonal Transforms (2/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780124666061/chapter/chapter-99.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780124666061/chapter/chapter-99.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Technologies Behind Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805592/chapter/html/611920_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805592/chapter/html/611920_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10-1: Create a Change Control Workflow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735624313/chapter/ch10s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735624313/chapter/ch10s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Installing and Configuring FreeBSD/Linux",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484235287/chapter/html/459162_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484235287/chapter/html/459162_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ADF Development Fundamentals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836208570/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836208570/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24 Implementing Generative AI Use Cases with ChatGPT for the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213054/chapter/c24.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213054/chapter/c24.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Understanding Disks and File Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735670136/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735670136/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Using LLMs in the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176631/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176631/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Customizing the Windows cluster size during the installation process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789617849/chapter/9e086f3c-3448-485e-b66f-fe3395aa8b72.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789617849/chapter/9e086f3c-3448-485e-b66f-fe3395aa8b72.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mac OS X Internals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321278542/chapter/appendix01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321278542/chapter/appendix01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Large language model (LLM)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111344171/chapter/content/9783111344003_032329.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111344171/chapter/content/9783111344003_032329.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building an LLM-Based Chat Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837635207/chapter/Text/Chaoter_9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837635207/chapter/Text/Chaoter_9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with the iSCSI Initiator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785287831/chapter/ch04s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785287831/chapter/ch04s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Machine Learning for Industrial Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394268962/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394268962/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18 LARGE LANGUAGE MODELS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341655119/chapter/xhtml/ch18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341655119/chapter/xhtml/ch18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "MCSA/MCSE 70-290 Exam Cram: Managing and Maintaining a Microsoft Windows Server 2003 Environment, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789736179/",
+      "url": "https://learning.oreilly.com/api/v1/book/0789736179/",
+      "isbn": "9780789736178",
+      "format": "book"
+    },
+    {
+      "title": "16 Conversational AI: Dialoguing Most Humanly With Non-Humans",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394200566/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394200566/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Generative AI in Mental Well-Being: Balancing Pros and Cons",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868811869/chapter/html/621518_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868811869/chapter/html/621518_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Troubleshooting Group Policy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470581858/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470581858/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Hardware Optimization for Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809170/chapter/html/626739_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809170/chapter/html/626739_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Illuminating the Enigma: Deciphering the Basics of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809118/chapter/html/626648_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809118/chapter/html/626648_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Volume Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735625303/chapter/ch08s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735625303/chapter/ch08s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: May 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174637/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174637/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: June 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176556/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176556/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Big data fusion with GEN AI Tools: Driving Industry 6.0 advancements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040128053/chapter/xhtml/c3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040128053/chapter/xhtml/c3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Local Storage for ESXi",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274651/chapter/html/513828_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274651/chapter/html/513828_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Troubleshooting VMFS issues",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783551767/chapter/ch05s12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783551767/chapter/ch05s12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hardware Maintenance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491935422/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491935422/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835084236/chapter/Text/Chapter_14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835084236/chapter/Text/Chapter_14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Network Load Balancing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781597492478/chapter/chapter-40.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781597492478/chapter/chapter-40.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21 Take Away the Context",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780857086426/chapter/c21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780857086426/chapter/c21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exam Objectives Fast Track",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781597492485/chapter/chapter-71.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781597492485/chapter/chapter-71.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AI and smart cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789538922/chapter/ch09s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789538922/chapter/ch09s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Common AI Gateway Use Cases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341621381/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341621381/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enhancing Development with GitHub Copilot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836206057/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836206057/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "First Steps with LangChain",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837022014/chapter/Text/Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837022014/chapter/Text/Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 GenerativeAI for Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798993039404/chapter/text/ch004.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798993039404/chapter/text/ch004.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 LLMs and the need for RAG",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633435858/chapter/OEBPS/Text/chapter-1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633435858/chapter/OEBPS/Text/chapter-1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Operations: Developing and Managing LLM Applications and the Teams That Build Them",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176716/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176716/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. What Is Generative AI?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098162665/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098162665/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "01 The evolution of cybercrime in the digital age",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398614291/chapter/content/11_chapter01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398614291/chapter/content/11_chapter01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Generative AI and large language models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437722/chapter/OEBPS/Text/chapter-5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437722/chapter/OEBPS/Text/chapter-5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "RHCE Practice Exam 1",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136656845/chapter/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136656845/chapter/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Everyone Amplified: The Spectrum of Augmentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781523003693/chapter/xhtml/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781523003693/chapter/xhtml/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Upgrading datastores to VMFS-5",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468017/chapter/ch07s09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468017/chapter/ch07s09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. History of AI and Where We Are Today",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289983/chapter/html/536770_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289983/chapter/html/536770_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hydraulic Fracturing in Unconventional Reservoirs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128498620/chapter/xhtml/chp008.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128498620/chapter/xhtml/chp008.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "02 Use cases for data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398619609/chapter/content/07_chapter02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398619609/chapter/content/07_chapter02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. What to Learn",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297957/chapter/html/606766_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297957/chapter/html/606766_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Generative AI and Prompt Flow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836205098/chapter/text/ch008.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836205098/chapter/text/ch008.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Securing a System During the Boot Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284255881/chapter/xhtml/9781284255935_CH02_02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284255881/chapter/xhtml/9781284255935_CH02_02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Security and robustness",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398614338/chapter/content/18_chapter12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398614338/chapter/content/18_chapter12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: July 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098177713/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098177713/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Laser Beam Propagation in Nonlinear Optical Media",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439866399/chapter/xhtml/20_Chapter4a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439866399/chapter/xhtml/20_Chapter4a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Some Economics of Agents, Model Usage, and Selection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341661257/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341661257/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding Hard Disk Drives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735624375/chapter/ch12s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735624375/chapter/ch12s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating Generative AI Solutions for Dynamics 365 Business Central",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837630646/chapter/Text/Chapter_18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837630646/chapter/Text/Chapter_18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to install Android Things on Intel Edison",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787289246/chapter/cd5ba2c5-ca74-4982-a4e7-71e989ef7627.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787289246/chapter/cd5ba2c5-ca74-4982-a4e7-71e989ef7627.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Data Science for AI Leaders",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288146/chapter/html/537079_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288146/chapter/html/537079_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuring Storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119327592/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119327592/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 New Technologies for Augmenting PSM Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119744825/chapter/c15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119744825/chapter/c15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Sequential Modeling Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247762/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247762/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Customizing the Windows desktop OS cluster size",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785889301/chapter/ch13s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785889301/chapter/ch13s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What Are AI Agents?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098159726/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098159726/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Technology Trends for 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098167967/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098167967/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: April 2025",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341636682/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341636682/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Psychological Insights in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647826321/chapter/xhtml/chapter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647826321/chapter/xhtml/chapter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "38. Leveraging Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868808357/chapter/html/429700_3_En_38_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868808357/chapter/html/429700_3_En_38_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. AI-Orchestrated CI/CD and Pipeline Optimization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868816949/chapter/html/657802_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868816949/chapter/html/657802_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring ML Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805122500/chapter/Text/Chapter_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805122500/chapter/Text/Chapter_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Trends",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800566514/chapter/Text/Artificial_inter-10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800566514/chapter/Text/Artificial_inter-10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing repositories (1/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738435848/chapter/chapter-143.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738435848/chapter/chapter-143.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Natural Language Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288177/chapter/html/527966_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288177/chapter/html/527966_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Understanding Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810442/chapter/html/630734_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810442/chapter/html/630734_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 The map and the territory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437814/chapter/OEBPS/Text/01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437814/chapter/OEBPS/Text/01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Using AI to Enhance DevEx",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169701/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169701/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Diving into natural language processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838826321/chapter/88a5a81b-9dfc-4d7a-b9b8-23d29b39901e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838826321/chapter/88a5a81b-9dfc-4d7a-b9b8-23d29b39901e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Generative AI Safety and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622388/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622388/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Group Policy Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470174593/chapter/9780470174593_the_group_policy_engine.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470174593/chapter/9780470174593_the_group_policy_engine.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Citrix policies templates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849686662/chapter/ch08s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849686662/chapter/ch08s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Spring Boot New Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292945/chapter/html/340891_3_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292945/chapter/html/340891_3_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Vectors: Representing Semantic Information",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156268/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156268/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Epilogue: : Digital in the Age of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003845966/chapter/xhtml/Epilogue.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003845966/chapter/xhtml/Epilogue.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Installing and Configuring Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321591555/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321591555/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "08 Technology stack: Architecting the future",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398619562/chapter/content/16_chapter08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398619562/chapter/content/16_chapter08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Managing file systems and drives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735685444/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735685444/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Machine Learning/Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169961/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169961/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "35. Adding a New Disk to an Ubuntu Volume Group and Logical Volume",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800568525/chapter/Volume_Groups.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800568525/chapter/Volume_Groups.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing Storage Volumes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234243/chapter/Text/Chapter_9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234243/chapter/Text/Chapter_9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Views from the Ivory Tower",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809590/chapter/html/619107_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809590/chapter/html/619107_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 INSTALLING AN OPERATING SYSTEM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098122638/chapter/xhtml/ch16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098122638/chapter/xhtml/ch16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Building API-Based Java Generative AI Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137574834/chapter/ch19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137574834/chapter/ch19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Troubleshooting Group Policy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596514112/chapter/ch06s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596514112/chapter/ch06s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 WORKING WITH COMMANDS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492071235/chapter/xhtml/ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492071235/chapter/xhtml/ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Database design in the age of generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437418/chapter/Text/08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437418/chapter/Text/08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. What You Need to Know about Generative AI: Navigating the New Era of Intelligent Technology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647827212/chapter/xhtml/chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647827212/chapter/xhtml/chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. The Way Ahead",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800917/chapter/html/603102_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800917/chapter/html/603102_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: March 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098170820/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098170820/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning, Generative AI, and LLMOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837631964/chapter/Text/Chapter_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837631964/chapter/Text/Chapter_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 EVIDENCE FROM STORAGE DEVICES AND FILESYSTEMS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098129781/chapter/xhtml/ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098129781/chapter/xhtml/ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. How the Linux Kernel Boots",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457185519/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457185519/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Managing Hard Drives and Volumes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768680805/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768680805/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "#46 Using Artificial Intelligence with Copilot for Excel",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836647676/chapter/MrExcel2024ForePub3-54.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836647676/chapter/MrExcel2024ForePub3-54.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Hack the Apple TV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596529826/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596529826/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20 FRS Pillar 6: Innovation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394215829/chapter/c20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394215829/chapter/c20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Diving into Data Programming with Snorkel",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492077053/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492077053/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Advanced Techniques for Large Language Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804038/chapter/html/608654_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804038/chapter/html/608654_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "INTERLUDE 5 What about AI?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398613546/chapter/content/31_part10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398613546/chapter/content/31_part10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Attention and Transformer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296420/chapter/OEBPS/Text/Ch-08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296420/chapter/OEBPS/Text/Ch-08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Modern AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836205890/chapter/Text/Chapter_02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836205890/chapter/Text/Chapter_02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Abbreviations and Acronyms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110711080/chapter/content/glossary.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110711080/chapter/content/glossary.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Introducing the Age of AI: Emergence, Growth, and Impact on Technology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138293703/chapter/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138293703/chapter/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. What AI and Machine Learning Can Do for Python Debugging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297452/chapter/html/606465_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297452/chapter/html/606465_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: February 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169626/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169626/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Advanced Azure Data Concepts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164720/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164720/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build Your Own PC on a Budget: A DIY Guide for Hobbyists and Gamers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071842389/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071842389/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. AI in the Tableau Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098175771/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098175771/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Tools and tech for modern data analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438415/chapter/Text/chapter-12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438415/chapter/Text/chapter-12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Answers to Review Questions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470293157/chapter/9780470293157_answers_to_review_questions-057.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470293157/chapter/9780470293157_answers_to_review_questions-057.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up your first Nano Server",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888908/chapter/ch08s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888908/chapter/ch08s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Additional Reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394196869/chapter/b03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394196869/chapter/b03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Implementing Disk Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735625051/chapter/ch19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735625051/chapter/ch19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Navigating the Frontier of Finance: A Scoping Review of Generative AI Applications and Implications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394271047/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394271047/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Let's Chat about AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003821335/chapter/xhtml/chapter11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003821335/chapter/xhtml/chapter11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9: Design Products That Won’t Become Obsolete",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798892791953/chapter/Text/016_chapter_009.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798892791953/chapter/Text/016_chapter_009.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Exploring and evaluating language models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437050/chapter/Text/chapter-5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437050/chapter/Text/chapter-5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "09 The eight keys to the metaverse",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398613072/chapter/content/13_chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398613072/chapter/content/13_chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Ask Not What AI Can Do for You—Ask What You Can Do for AI, to Serve Humanity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394285778/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394285778/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Extending a Windows Server 2000 or Windows Server 2003 volume",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738435228/chapter/chapter-111.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738435228/chapter/chapter-111.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Submitting a job",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738453331/chapter/0738453331_ch05lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738453331/chapter/0738453331_ch05lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Datastore management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782174158/chapter/ch05s10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782174158/chapter/ch05s10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Harnessing Azure AI and Copilot for Governance and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815270/chapter/html/472358_2_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815270/chapter/html/472358_2_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using encrypted data bag items",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788392976/chapter/ch12s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788392976/chapter/ch12s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Jasmine Sugil, K. Merriliance 6 Optimization in Natural Language Processing Models for Enhanced Performance and Efficiency",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111436241/chapter/content/9783111436050_017552.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111436241/chapter/content/9783111436050_017552.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. A Basic RAG Assistant",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341630147/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341630147/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Case Studies and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801587/chapter/html/609555_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801587/chapter/html/609555_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Using Group Policies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565929438/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1565929438/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Relearn While Working",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810619/chapter/html/535510_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810619/chapter/html/535510_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exercise 52. Scraping Data from the Web",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138270711/chapter/ch52.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138270711/chapter/ch52.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 systemd and the Boot Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260462081/chapter/ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260462081/chapter/ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing Storage for Microsoft Exchange 2007 SP1",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781555583088/chapter/content/kindle_split_11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781555583088/chapter/content/kindle_split_11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The New Types of Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174491/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174491/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Building AI Agents",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098152697/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098152697/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 AI’s Impact on Accounting and Auditing Research",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394304707/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394304707/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Managing Disk Drives and File Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735685536/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735685536/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Pedagogical Direction for Cultivating Augmentation Technology and AI Literacies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000889246/chapter/xhtml/C_017_c6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000889246/chapter/xhtml/C_017_c6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "26 The Elements ofa Good Life",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119839736/chapter/c26.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119839736/chapter/c26.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19 Creative Prompts: Artificial Intelligence for Image and Text Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040342428/chapter/xhtml/C_031_c19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040342428/chapter/xhtml/C_031_c19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Artificial Intelligence, Machine Learning, and Cognitive Services in Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098113315/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098113315/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "29 GenAI: General Tips",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398621664/chapter/content/38_chapter29.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398621664/chapter/content/38_chapter29.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Linux®: Essentials",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118106792/chapter/13_chapter005.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118106792/chapter/13_chapter005.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Not-So-Hot-Pluggable Devices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118240748/chapter/xhtml/sec273.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118240748/chapter/xhtml/sec273.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 A Significant Change of Mind",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071808217/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071808217/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Boot Process and Shutdown",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801280/chapter/html/609770_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801280/chapter/html/609770_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Linux Boot and Startup",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296189/chapter/html/473415_2_En_16_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296189/chapter/html/473415_2_En_16_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: April 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098172787/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098172787/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Operating System Forensics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128019634/chapter/B9780128019498000027/B9780128019498000027.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128019634/chapter/B9780128019498000027/B9780128019498000027.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Managing Dependencies with CDI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813962/chapter/html/531256_2_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813962/chapter/html/531256_2_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Data Science, Machine Learning, and Embedded Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098120924/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098120924/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How it works...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987467/chapter/fa00a061-e604-4b01-93a1-def7b7721e3e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987467/chapter/fa00a061-e604-4b01-93a1-def7b7721e3e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Artificial Intelligence in a Distributed System of the Future",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394204366/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394204366/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a VMFS datastore",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782172857/chapter/ch07s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782172857/chapter/ch07s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Windows 11 File and Folder Structure in Depth",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287286/chapter/html/530220_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287286/chapter/html/530220_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. After the Brain Rush: What Is Generative AI’s Future?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803185/chapter/html/609577_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803185/chapter/html/609577_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18 Transformative Effects of Smarter Chatbots: Unravelling the Vision, Challenges, and Capabilities of ChatGPT-Conversational AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394233977/chapter/c18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394233977/chapter/c18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Natural Language Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394220618/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394220618/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Data-driven employee training and development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398614574/chapter/content/16_chapter10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398614574/chapter/content/16_chapter10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Machine Language Understanding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098109073/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098109073/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 The Boot Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134985497/chapter/ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134985497/chapter/ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Advanced AI and Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003821786/chapter/xhtml/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003821786/chapter/xhtml/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "28. Windows 10 File Structure in Depth",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274712/chapter/html/336897_2_En_28_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274712/chapter/html/336897_2_En_28_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Technical Interview: Machine Learning Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146535/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146535/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Storage Management and Disaster Recovery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484220085/chapter/A185439_2_En_9_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484220085/chapter/A185439_2_En_9_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. A Framework for Picking the Right Generative AI Project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647826406/chapter/xhtml/chapter_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647826406/chapter/xhtml/chapter_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 The ATA/IDE Interface",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134057729/chapter/ch07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134057729/chapter/ch07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 A Super Artificial Worker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003846031/chapter/xhtml/c6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003846031/chapter/xhtml/c6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Future of Gaming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040105252/chapter/xhtml/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040105252/chapter/xhtml/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Building GenAI Applications with Python and LangChain",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341623446/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341623446/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Integrating AI with Power Platform: AI Builder",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868808999/chapter/html/619703_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868808999/chapter/html/619703_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "31. Adding and Managing RHEL 8 Swap Space",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800201200/chapter/Text/Swap_Space.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800201200/chapter/Text/Swap_Space.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Installing Oracle Solaris 11",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133007152/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133007152/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 From Managed to Self-Managed – Let Machine Learn to Act",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000914726/chapter/xhtml/ch17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000914726/chapter/xhtml/ch17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Media Filter Drivers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430235361/chapter/media_filter_drivers.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430235361/chapter/media_filter_drivers.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Large Language Models and the Practice of Data Science",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146467/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146467/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Large Language Model (LLM) Serving",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341621480/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341621480/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Embracing the Era of Experience: Transformers for Planning, Reasoning, and Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098167004/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098167004/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C13783_08_Epub_Final_NT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838550295/chapter/C13783_08_Epub_Final_NT.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838550295/chapter/C13783_08_Epub_Final_NT.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Codu.ai: Success without Sustainability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806119530/chapter/GeektrustTechnicalCaseStudy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806119530/chapter/GeektrustTechnicalCaseStudy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2The Agent Engineer's Toolkit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806109012/chapter/text/ch003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806109012/chapter/text/ch003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning and AI with Streamlit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248226/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248226/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Aligning AI Strategy and AI Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809835/chapter/html/632553_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809835/chapter/html/632553_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Redundancy in Windows Server 2022",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837634507/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837634507/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. How Gen AI Could Accelerate Employee Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798892790895/chapter/xhtml/Chapter16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798892790895/chapter/xhtml/Chapter16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 The Future of Search Marketing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398612815/chapter/content/21_chapter12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398612815/chapter/content/21_chapter12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Smart money: AI meets finance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398612778/chapter/content/13_chapter08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398612778/chapter/content/13_chapter08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Topic 104: Devices, Linux Filesystems, and the Filesystem Hierarchy Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484223581/chapter/A432354_1_En_4_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484223581/chapter/A432354_1_En_4_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Generative AI Everywhere All At Once",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098172299/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098172299/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Emerging and Advanced Kubernetes Concepts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813252/chapter/html/618701_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813252/chapter/html/618701_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Microsoft Copilot in Power Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150419/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150419/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Toward Trustworthy General-Purpose AI and Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098172480/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098172480/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "File Systems and Storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134037691/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134037691/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Managing Disk Drives and File Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735634732/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735634732/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Managing File Systems and Drives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735668614/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735668614/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Your First AI Agent with LangChain",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805801351/chapter/Text/Chapter_06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805801351/chapter/Text/Chapter_06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Understanding Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622326/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622326/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Building retrieval-augmented generation AI chatbots",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436077/chapter/OEBPS/Text/chapter-14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436077/chapter/OEBPS/Text/chapter-14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Corporate Responsibility in the Age of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341608023/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341608023/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Group Policy Objects (GPOs)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596004648/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596004648/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Improving Development Efficiency",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836200253/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836200253/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. The Human Side of Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098107956/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098107956/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Diving Deeper: Using Azure AI Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098112745/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098112745/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Building a Linux Kernel",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133477443/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133477443/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Group Policy Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789724340/chapter/0789724340_ch23lev1sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789724340/chapter/0789724340_ch23lev1sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Using Azure Cognitive Services to Build Intelligent Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108038/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108038/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Monitoring and Maintaining Systems that Run Windows 7",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735671164/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735671164/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Known Security Risks of ML Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098107338/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098107338/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Architecture: From Legacy to Living Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647821098/chapter/xhtml/chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647821098/chapter/xhtml/chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Installing and Configuring Servers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735673151/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735673151/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Retrospectives and Futures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098139179/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098139179/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Large Language Model Operations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804441/chapter/html/625176_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804441/chapter/html/625176_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Natural Language Processing with RNNs and Attention",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125967/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125967/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: February 2025",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622579/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622579/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Cyber Threat Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098143756/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098143756/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: October 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098190293/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098190293/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Managing the Hard Drive",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470238400/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470238400/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Nanotechnology Environmental Health and Safety",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781455731886/chapter/xhtml/Foreword.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781455731886/chapter/xhtml/Foreword.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Natural Language Processing (NLP)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484250280/chapter/html/480660_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484250280/chapter/html/480660_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Train Your First Model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492079385/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492079385/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Group Policies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735613672/chapter/0735613672_ch10lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735613672/chapter/0735613672_ch10lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Coming to Terms with What AI Can and Cannot Do",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003838098/chapter/xhtml/c6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003838098/chapter/xhtml/c6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Redundancy in Windows Server 2019",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801078313/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801078313/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Constructing a graph using natural language processing techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299469/chapter/OEBPS/Text/ch12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299469/chapter/OEBPS/Text/ch12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Exploring the Role of ChatGPT in the Law Enforcement and Banking Sectors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394174713/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394174713/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing and Removing Hardware",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119356332/chapter/c29.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119356332/chapter/c29.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Monitor and maintain Windows clients",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735673915/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735673915/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Managing Disks and Disk Storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470525395/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470525395/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Infrastructure Setup for LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817007/chapter/html/639667_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817007/chapter/html/639667_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Meet the bots",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398622838/chapter/content/24_chapter16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398622838/chapter/content/24_chapter16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Understanding Digital Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296578/chapter/html/606825_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296578/chapter/html/606825_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. What DeepSeek Signals About Where AI Is Headed",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798892791984/chapter/xhtml/chapter_7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798892791984/chapter/xhtml/chapter_7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Conversational AI Model for Effective Responses with Augmented Retrieval (CAMERA) Based Chatbot on NVIDIA Jetson Nano",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394314379/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394314379/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Upgrading, Installing, and Configuring Operating Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781264626304/chapter/ch4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781264626304/chapter/ch4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Windows Server 2008 Storage Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470261705/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470261705/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Recent Advances in Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484253649/chapter/html/478491_2_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484253649/chapter/html/478491_2_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Machines Are Evolving from Tools into Collaborators",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798892790482/chapter/xhtml/09_Chapter01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798892790482/chapter/xhtml/09_Chapter01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "09 Flourish or self-destruct?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398602014/chapter/content/15_chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398602014/chapter/content/15_chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a physical computer profile (host profile)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782176848/chapter/ch05s09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782176848/chapter/ch05s09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 The Competence of Customer Support Team for Sentiment Analysis in Chatbots Using AutoML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394272396/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394272396/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Exploiting Smart Communication System Applications and Imagined Speech for Metaverse Fuzzy Conditions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394272198/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394272198/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. AI for Creative Writing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804007/chapter/html/613536_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804007/chapter/html/613536_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Microsoft® Windows® Operating System: Essentials",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118227688/chapter/21_chap12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118227688/chapter/21_chap12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Generative AI and Search",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098102609/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098102609/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. AI Application Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151607/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151607/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Go Forth and Engineer Privacy!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098129453/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098129453/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What’S New In The Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040044377/chapter/fm-chapter3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040044377/chapter/fm-chapter3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Linux Administration: A Beginner’s Guide, Eighth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260441710/chapter/ch7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260441710/chapter/ch7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Managing File Systems and Drives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735642119/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735642119/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Building Scalable Deep Learning and Large Language Model Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098136574/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098136574/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Using AI in your marketing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398615540/chapter/content/17_chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398615540/chapter/content/17_chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "46. Installing and Removing Hardware",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470509098/chapter/ch46.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470509098/chapter/ch46.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Defining AI: Understanding Terminology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647827533/chapter/xhtml/chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647827533/chapter/xhtml/chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Technology Trends for 2022",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492096757/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492096757/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. AI Large Language Models: Beyond the Chatbot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098175849/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098175849/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Database Keeps Evolving, but Can It Keep Up?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150556/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150556/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Windows Storage Concepts and Skills",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470249840/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470249840/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Apple Pro Training Series: OS X Support Essentials 10.11",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134428291/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134428291/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Managing File Systems and Drives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735622450/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735622450/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Power Automate and AI Builder",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142759/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142759/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 The future of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398618015/chapter/content/15_chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398618015/chapter/content/15_chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Agentic Past, Present, and Future",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341621633/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341621633/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. The Future of ChatGPT and AI in Docs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293287/chapter/html/517087_1_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293287/chapter/html/517087_1_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Built Environment Professionals as Sustainability Advocates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119063810/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119063810/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Using Group Policy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735622809/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735622809/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ChatGPT Is a Tipping Point for AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647825850/chapter/ch12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647825850/chapter/ch12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. The Ethical Implications of Vibe Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341634749/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341634749/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Finding Order in the World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000851168/chapter/xhtml/Ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000851168/chapter/xhtml/Ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Transformer-Based Multilingual Automatic Speech Recognition (ASR) Model for Dravidian Languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213580/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213580/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Knowledge Management and AIs for Innovation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000880687/chapter/html/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000880687/chapter/html/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "GraphML and LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248066/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248066/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Exploring Generative AI and Its Transformative Power",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800832/chapter/html/610694_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800832/chapter/html/610694_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Natural Language and Finance AI: Vectorization and Time Series",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098107628/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098107628/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Objective 1.6 Given a scenario, configure Microsoft Windows networking features on a client/desktop",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781264613571/chapter/ch01a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781264613571/chapter/ch01a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Leveraging AI for Test Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098105983/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098105983/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Afterword: Future Observations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098133283/chapter/afterword01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098133283/chapter/afterword01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. ChatGPT Is a Tipping Point for AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647826024/chapter/xhtml/chapter_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647826024/chapter/xhtml/chapter_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hardware-Software Interface",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234519/chapter/Text/Chapter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234519/chapter/Text/Chapter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Given a Scenario, Use Automation to Secure the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836640974/chapter/Text/17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836640974/chapter/Text/17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "E. Setting Up Developer Accounts and API Credentials",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098173135/chapter/app05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098173135/chapter/app05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Simplifying Maintenance with AI Onboarding and Explanations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176129/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176129/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Training and Capacity Building",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394316649/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394316649/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Brainstorming Innovative GTM Approaches",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394328888/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394328888/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Data Engineering Described",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108298/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108298/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207721/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207721/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Implementing a Group Policy Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735663046/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735663046/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Advanced deep learning algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439214/chapter/Text/chapter-11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439214/chapter/Text/chapter-11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Attention Is All We Need!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270929/chapter/html/502181_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270929/chapter/html/502181_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Unleash the Power of Generative AI with Kaggle Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128519/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128519/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Transformers in wildfire detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780443264832/chapter/xhtml/Ch009_83-91_B9780443264825000109.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780443264832/chapter/xhtml/Ch009_83-91_B9780443264825000109.xhtml",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

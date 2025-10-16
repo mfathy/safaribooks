@@ -1,0 +1,4228 @@
+{
+  "skill_name": "tensorflow",
+  "discovery_timestamp": 1759713932.6880345,
+  "total_books": 603,
+  "books": [
+    {
+      "title": "TensorFlow in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298349/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298349/",
+      "isbn": "9781617298349",
+      "format": "book"
+    },
+    {
+      "title": "Pro Deep Learning with TensorFlow 2.0: A Mathematical Approach to Advanced Artificial Intelligence in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289310/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289310/",
+      "isbn": "9781484289310",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491962282/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491962282/",
+      "isbn": "9781491962299",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI with Python and TensorFlow 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800200883/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800200883/",
+      "isbn": "9781800200883",
+      "format": "book"
+    },
+    {
+      "title": "Applied Deep Learning with TensorFlow 2: Learn to Implement Advanced Deep Learning Techniques with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280201/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280201/",
+      "isbn": "9781484280201",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Deep Learning with TensorFlow: Work with Keras, MNIST Data Sets, and Advanced Neural Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484279151/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484279151/",
+      "isbn": "9781484279151",
+      "format": "book"
+    },
+    {
+      "title": "Learning TensorFlow.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492090786/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492090786/",
+      "isbn": "9781492090793",
+      "format": "book"
+    },
+    {
+      "title": "The TensorFlow Workshop",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800205253/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800205253/",
+      "isbn": "9781800205253",
+      "format": "book"
+    },
+    {
+      "title": "Applied Neural Networks with TensorFlow 2: API Oriented Deep Learning with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265130/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265130/",
+      "isbn": "9781484265130",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow 2 Reinforcement Learning Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838982546/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838982546/",
+      "isbn": "9781838982546",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow 2 Pocket Reference",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492089179/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492089179/",
+      "isbn": "9781492089186",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow For Dummies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119466215/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119466215/",
+      "isbn": "9781119466215",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning with TensorFlow, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297717/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297717/",
+      "isbn": "9781617297717",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Concepts with Python and the Jupyter Notebook Environment: Using Tensorflow 2.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484259672/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484259672/",
+      "isbn": "9781484259672",
+      "format": "book"
+    },
+    {
+      "title": "Learn TensorFlow 2.0: Implement Machine Learning and Deep Learning Models with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255582/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255582/",
+      "isbn": "9781484255582",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Using TensorFlow Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800208865/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800208865/",
+      "isbn": "9781800208865",
+      "format": "book"
+    },
+    {
+      "title": "State-of-the-Art Deep Learning Models in TensorFlow: Modern Machine Learning in the Google Colab Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273418/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273418/",
+      "isbn": "9781484273418",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Image Generation with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838826789/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838826789/",
+      "isbn": "9781838826789",
+      "format": "book"
+    },
+    {
+      "title": "Artificial Neural Networks with TensorFlow 2: ANN Architecture Machine Learning Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261507/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261507/",
+      "isbn": "9781484261507",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning Pipeline: Building a Deep Learning Model with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484253496/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484253496/",
+      "isbn": "9781484253496",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Natural Language Processing with TensorFlow 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800200937/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800200937/",
+      "isbn": "9781800200937",
+      "format": "book"
+    },
+    {
+      "title": "Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789611212/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789611212/",
+      "isbn": "9781789611212",
+      "format": "book"
+    },
+    {
+      "title": "Practical TensorFlow.js: Deep Learning in Web App Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262733/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262733/",
+      "isbn": "9781484262733",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Machine Learning in the Browser: Quick-start Guide to Gait Analysis with JavaScript and TensorFlow.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268438/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268438/",
+      "isbn": "9781484268438",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Convolutional Neural Networks with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130331/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130331/",
+      "isbn": "9781789130331",
+      "format": "book"
+    },
+    {
+      "title": "Convolutional Neural Networks with Swift for Tensorflow: Image Recognition and Dataset Categorization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261682/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261682/",
+      "isbn": "9781484261682",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning Projects Using TensorFlow 2: Neural Network Development with Python and Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258026/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258026/",
+      "isbn": "9781484258026",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617293870/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617293870/",
+      "isbn": "9781617293870",
+      "format": "book"
+    },
+    {
+      "title": "Learn TensorFlow Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800209145/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800209145/",
+      "isbn": "9781800209145",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow for Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491980446/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491980446/",
+      "isbn": "9781491980453",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Machine Learning Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789132212/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789132212/",
+      "isbn": "9781789132212",
+      "format": "book"
+    },
+    {
+      "title": "What's New in TensorFlow 2.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838823856/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838823856/",
+      "isbn": "9781838823856",
+      "format": "book"
+    },
+    {
+      "title": "What's New In TensorFlow 2.x?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492073727/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492073727/",
+      "isbn": "9781492073727",
+      "format": "book"
+    },
+    {
+      "title": "Recurrent Neural Networks with Python Quick Start Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789132335/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789132335/",
+      "isbn": "9781789132335",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Machine Learning with TensorFlow.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838821739/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838821739/",
+      "isbn": "9781838821739",
+      "format": "book"
+    },
+    {
+      "title": "Learning TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491978504/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491978504/",
+      "isbn": "9781491978504",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Neural Networks with TensorFlow 2.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789615555/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789615555/",
+      "isbn": "9781789615555",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow 2.0 Quick Start Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530759/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530759/",
+      "isbn": "9781789530759",
+      "format": "book"
+    },
+    {
+      "title": "Neural Network Programming with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390392/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390392/",
+      "isbn": "9781788390392",
+      "format": "book"
+    },
+    {
+      "title": "Natural Language Processing with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788478311/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788478311/",
+      "isbn": "9781788478311",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Deep Learning Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788398060/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788398060/",
+      "isbn": "9781788398060",
+      "format": "book"
+    },
+    {
+      "title": "Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484230961/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484230961/",
+      "isbn": "9781484230961",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Predictive Analytics with scikit-learn and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789617740/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789617740/",
+      "isbn": "9781789617740",
+      "format": "book"
+    },
+    {
+      "title": "Cognitive Computing Recipes: Artificial Intelligence Solutions Using Microsoft Cognitive Services and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484241066/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484241066/",
+      "isbn": "9781484241066",
+      "format": "book"
+    },
+    {
+      "title": "Intelligent Mobile Projects with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834544/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834544/",
+      "isbn": "9781788834544",
+      "format": "book"
+    },
+    {
+      "title": "Reinforcement Learning with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835725/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835725/",
+      "isbn": "9781788835725",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow: Powerful Predictive Analytics with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136913/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136913/",
+      "isbn": "9781789136913",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Machine Learning Cookbook - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789131680/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789131680/",
+      "isbn": "9781789131680",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning with TensorFlow - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788831109/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788831109/",
+      "isbn": "9781788831109",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Reinforcement Learning Quick Start Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789533583/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789533583/",
+      "isbn": "9781789533583",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Deep Learning with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787282773/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787282773/",
+      "isbn": "9781787282773",
+      "format": "book"
+    },
+    {
+      "title": "Mastering TensorFlow 1.x",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788292061/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788292061/",
+      "isbn": "9781788292061",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning with Applications Using Python: Chatbots and Face, Object, and Speech Recognition With TensorFlow and Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484235164/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484235164/",
+      "isbn": "9781484235164",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Deep Learning for Images with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789538670/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789538670/",
+      "isbn": "9781789538670",
+      "format": "book"
+    },
+    {
+      "title": "Considering TensorFlow for the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491995075/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491995075/",
+      "isbn": "9781491995075",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469786/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469786/",
+      "isbn": "9781786469786",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow 1.x Deep Learning Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293594/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293594/",
+      "isbn": "9781788293594",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning with TensorFlow 1.x",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462961/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462961/",
+      "isbn": "9781786462961",
+      "format": "book"
+    },
+    {
+      "title": "Building Mobile Applications with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491988435/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491988435/",
+      "isbn": "9781491988428",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Machine Learning Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462169/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462169/",
+      "isbn": "9781786462169",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow for deep learning—implementing neural networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491965320/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491965320/",
+      "isbn": "9781491966198",
+      "format": "book"
+    },
+    {
+      "title": "Hello, Tensorflow!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491971628/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491971628/",
+      "isbn": "9781491971628",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Developer Certificate Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803240138/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803240138/",
+      "isbn": "9781803240138",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Music Generation with Magenta",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838824419/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838824419/",
+      "isbn": "9781838824419",
+      "format": "book"
+    },
+    {
+      "title": "The Applied TensorFlow and Keras Workshop",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800201217/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800201217/",
+      "isbn": "9781800201217",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning with TensorFlow and Keras - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803232911/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803232911/",
+      "isbn": "9781803232911",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125967/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125967/",
+      "isbn": "9781098125974",
+      "format": "book"
+    },
+    {
+      "title": "Natural Language Processing with TensorFlow - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838641351/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838641351/",
+      "isbn": "9781838641351",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Computer Vision with TensorFlow 2.x",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838827069/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838827069/",
+      "isbn": "9781838827069",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Computer Vision with TensorFlow 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788830645/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788830645/",
+      "isbn": "9781788830645",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow 2.0 Computer Vision Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838829131/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838829131/",
+      "isbn": "9781838829131",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning with TensorFlow 2 and Keras - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838823412/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838823412/",
+      "isbn": "9781838823412",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492032632/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492032632/",
+      "isbn": "9781492032649",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning with Swift for TensorFlow: Differentiable Programming with Swift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263303/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263303/",
+      "isbn": "9781484263303",
+      "format": "book"
+    },
+    {
+      "title": "Deep Reinforcement Learning with Python: With PyTorch, TensorFlow and OpenAI Gym",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268094/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268094/",
+      "isbn": "9781484268094",
+      "format": "book"
+    },
+    {
+      "title": "Practical Machine Learning in JavaScript: TensorFlow.js for Web Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264188/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264188/",
+      "isbn": "9781484264188",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Deep Learning with TensorFlow 2 and Keras - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838821654/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838821654/",
+      "isbn": "9781838821654",
+      "format": "book"
+    },
+    {
+      "title": "Applied Reinforcement Learning with Python: With OpenAI Gym, Tensorflow, and Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251270/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251270/",
+      "isbn": "9781484251270",
+      "format": "book"
+    },
+    {
+      "title": "Porting Models from TensorFlow to TensorFlow Lite",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492052036/chapter/ch19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492052036/chapter/ch19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Neural Networks with TensorFlow and Keras : Training, Generative Models, and Reinforcement Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810206/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810206/",
+      "isbn": "9798868810206",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow example to print Hello, TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788295628/chapter/c0b8a10d-2ad0-4bd2-bf40-f2d907583257.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788295628/chapter/c0b8a10d-2ad0-4bd2-bf40-f2d907583257.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reinforcement Learning: With Open AI, TensorFlow and Keras Using Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484232859/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484232859/",
+      "isbn": "9781484232859",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow estimators and TensorFlow runs packages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642709/chapter/47e1bd3b-008a-49c8-b79b-0dbdf7894b0a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642709/chapter/47e1bd3b-008a-49c8-b79b-0dbdf7894b0a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reinforcement Learning for Finance: Solve Problems in Finance with CNN and RNN Using the TensorFlow Library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288351/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288351/",
+      "isbn": "9781484288351",
+      "format": "book"
+    },
+    {
+      "title": "Building Computer Vision Applications Using Artificial Neural Networks: With Examples in OpenCV and TensorFlow with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484298664/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484298664/",
+      "isbn": "9781484298664",
+      "format": "book"
+    },
+    {
+      "title": "Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, NLP, and Transformers using TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137470198/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137470198/",
+      "isbn": "9780137470198",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning for Economics and Finance in TensorFlow 2: Deep Learning Models for Research and Industry",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263730/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263730/",
+      "isbn": "9781484263730",
+      "format": "book"
+    },
+    {
+      "title": "Practical AI for Healthcare Professionals: Machine Learning with Numpy, Scikit-learn, and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484277805/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484277805/",
+      "isbn": "9781484277805",
+      "format": "book"
+    },
+    {
+      "title": "Automated Deep Learning Using Neural Network Intelligence: Develop and Design PyTorch and TensorFlow Models Using Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281499/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281499/",
+      "isbn": "9781484281499",
+      "format": "book"
+    },
+    {
+      "title": "6.2 Implementing RNNs and LSTMs in TensorFlow, Keras, and PyTorch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837025879/chapter/xhtml/xhtml-0-52.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837025879/chapter/xhtml/xhtml-0-52.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Computer Vision Applications Using Artificial Neural Networks: With Step-by-Step Examples in OpenCV and TensorFlow with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258873/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258873/",
+      "isbn": "9781484258873",
+      "format": "book"
+    },
+    {
+      "title": "9. Deep Learning with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295328/chapter/html/336498_3_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295328/chapter/html/336498_3_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Computer Vision Applications Using Deep Learning with CNNs: With Detailed Examples in Python Using TensorFlow and Kivy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484241677/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484241677/",
+      "isbn": "9781484241677",
+      "format": "book"
+    },
+    {
+      "title": "II. Deep Learning with Keras and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492098041/chapter/part02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492098041/chapter/part02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7.2 Integrating Feature Engineering with TensorFlow/Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837026715/chapter/xhtml/xhtml-0-65.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837026715/chapter/xhtml/xhtml-0-65.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. TensorFlow and Keras for Predictive Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098136857/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098136857/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AI for Healthcare with Keras and Tensorflow 2.0: Design, Develop, and Deploy Machine Learning Models Using Healthcare Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270868/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270868/",
+      "isbn": "9781484270868",
+      "format": "book"
+    },
+    {
+      "title": "9. Applied WebAssembly: TensorFlow.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492089834/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492089834/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a Weather Station with TensorFlow Lite for Microcontrollers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837637362/chapter/Text/Chapter_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837637362/chapter/Text/Chapter_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Machine Learning with TensorFlow in Vertex AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098118945/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098118945/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789801217/chapter/c94a1788-0149-47ad-958d-1c63967085d6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789801217/chapter/c94a1788-0149-47ad-958d-1c63967085d6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "III. Unsupervised Learning Using TensorFlow and Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492035633/chapter/part03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492035633/chapter/part03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Basics of TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394166466/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394166466/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Going Deeper: Understanding TensorFlow Lite",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098101732/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098101732/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789344912/chapter/10591c0f-48ed-4816-9e28-8500d5a2b883.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789344912/chapter/10591c0f-48ed-4816-9e28-8500d5a2b883.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tensorflow and Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788993913/chapter/c36ec94f-df57-444c-a301-f9e5fca90a2a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788993913/chapter/c36ec94f-df57-444c-a301-f9e5fca90a2a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Maximizing Speed and Performance of TensorFlow: A Handy Checklist",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492034858/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492034858/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating and training a convolutional neural network with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838644673/chapter/3508c13a-2f81-49c3-8c6a-c0d917563bf7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838644673/chapter/3508c13a-2f81-49c3-8c6a-c0d917563bf7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning Using ROS and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838649326/chapter/fb5dbb8a-122e-495b-b62f-e7cf4f9ea9dc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838649326/chapter/fb5dbb8a-122e-495b-b62f-e7cf4f9ea9dc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Probabilistic deep learning models with TensorFlow Probability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296079/chapter/OEBPS/Text/05.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296079/chapter/OEBPS/Text/05.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341072/chapter/038fa5c5-7858-4a3e-b3db-130512e6c8ef.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341072/chapter/038fa5c5-7858-4a3e-b3db-130512e6c8ef.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using TensorFlow with ML.NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789801781/chapter/9ff04614-b848-46e5-8401-637908116af3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789801781/chapter/9ff04614-b848-46e5-8401-637908116af3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. TensorFlow from Scratch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812941/chapter/html/619308_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812941/chapter/html/619308_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow, PyTorch, and Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788991063/chapter/cb97695b-58e6-4533-90ab-eb3984446b92.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788991063/chapter/cb97695b-58e6-4533-90ab-eb3984446b92.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Deep Learning with TensorFlow for Regression",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810176/chapter/html/625537_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810176/chapter/html/625537_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Deep Learning in Practice with TensorFlow 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800200456/chapter/B16182_03_Final_SZ.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800200456/chapter/B16182_03_Final_SZ.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow and Keras – open source deep learning libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138900/chapter/b04beacd-559c-4833-b511-714684aec13e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138900/chapter/b04beacd-559c-4833-b511-714684aec13e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "30. TensorFlow 2.0 and Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244708/chapter/html/463852_1_En_30_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244708/chapter/html/463852_1_En_30_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. TensorFlow: Advanced Topics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249765/chapter/html/470317_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249765/chapter/html/470317_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Image classification with TensorFlow or Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789343731/chapter/93245ed2-fa5a-4cf7-8d34-551028b6cc15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789343731/chapter/93245ed2-fa5a-4cf7-8d34-551028b6cc15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Differential privacy using TensorFlow Privacy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789614671/chapter/ecd1ae48-9490-4f6d-b44a-f6475896e9e7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789614671/chapter/ecd1ae48-9490-4f6d-b44a-f6475896e9e7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Digging Deeper into Deep Q-Networks with Keras and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789345803/chapter/eb1d5cbd-6524-4b8f-ab86-e305e33d0a5a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789345803/chapter/eb1d5cbd-6524-4b8f-ab86-e305e33d0a5a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Case study 3 – using tensorflow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785887918/chapter/ch13s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785887918/chapter/ch13s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Transfer learning with TensorFlow 2.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956177/chapter/be9d30d8-3f98-456d-8882-9ef3b2aa3120.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956177/chapter/be9d30d8-3f98-456d-8882-9ef3b2aa3120.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow and other deep learning frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789346466/chapter/4cd98384-981d-4b28-8553-daff4deb9c29.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789346466/chapter/4cd98384-981d-4b28-8553-daff4deb9c29.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a TensorFlow dataset",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789801811/chapter/4de41768-481e-42a8-be97-bc06938d2e45.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789801811/chapter/4de41768-481e-42a8-be97-bc06938d2e45.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Step 3 — install TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787128422/chapter/801cd8ab-4e9e-4d8a-a594-eeeb17e0fd87.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787128422/chapter/801cd8ab-4e9e-4d8a-a594-eeeb17e0fd87.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating images using GANs in TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789344158/chapter/bfe6c8a3-86b3-4465-b6f5-55a09a06e014.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789344158/chapter/bfe6c8a3-86b3-4465-b6f5-55a09a06e014.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Deep Learning Tools – TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119716747/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119716747/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is TensorFlow?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463708/chapter/ch08s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463708/chapter/ch08s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Neural Networks in TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491925607/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491925607/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "An example of a deep convolutional autoencoder with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788621113/chapter/c35cb882-0e87-4213-85f4-5ee7382126c5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788621113/chapter/c35cb882-0e87-4213-85f4-5ee7382126c5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Development of ML models using TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789131116/chapter/5465bbf0-62a8-4d71-8ace-8a149302b9c3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789131116/chapter/5465bbf0-62a8-4d71-8ace-8a149302b9c3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Changing the Game with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992282/chapter/7dd3aaa3-6821-4ad5-96f3-da40cc81971f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992282/chapter/7dd3aaa3-6821-4ad5-96f3-da40cc81971f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Example - XOR in TensorFlow.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788998246/chapter/a36cef89-f825-4721-a0fd-dd4717ddc23f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788998246/chapter/a36cef89-f825-4721-a0fd-dd4717ddc23f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Person detection with a TensorFlow model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789958034/chapter/b37e3305-95b2-4bb5-a8f5-b4c1874365fb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789958034/chapter/b37e3305-95b2-4bb5-a8f5-b4c1874365fb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A further example – breast cancer classification using SVM with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789616729/chapter/48642b31-1510-4e3f-8804-37263f88df93.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789616729/chapter/48642b31-1510-4e3f-8804-37263f88df93.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up TensorBoard from TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788393485/chapter/3c980ae4-370e-41b8-bf00-4924c59950a0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788393485/chapter/3c980ae4-370e-41b8-bf00-4924c59950a0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Serving",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789139495/chapter/151638da-0425-45ba-a236-253635158bba.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789139495/chapter/151638da-0425-45ba-a236-253635158bba.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. TensorFlow Distributed Machine Learning Approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106812/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106812/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Parallelizing Neural Network Training with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125933/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125933/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Music classification using Tensorflow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623223/chapter/082d4f1b-d201-43c2-963d-2e85e19887ba.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623223/chapter/082d4f1b-d201-43c2-963d-2e85e19887ba.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow for deep learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788297684/chapter/dca9c9c8-88b4-4605-bd31-e9bd2bf34526.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788297684/chapter/dca9c9c8-88b4-4605-bd31-e9bd2bf34526.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up TensorFlow on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787120730/chapter/496abd03-61d6-403c-93e1-57f5e361503b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787120730/chapter/496abd03-61d6-403c-93e1-57f5e361503b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Computational Graphs and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484237908/chapter/html/463356_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484237908/chapter/html/463356_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Simplifying machine learning workflow using TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808452/chapter/869e4d3b-8924-4213-9283-582f9249eb48.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808452/chapter/869e4d3b-8924-4213-9283-582f9249eb48.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Keras and TensorFlow background",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789618006/chapter/efa43446-3d1c-417b-b808-75791af89e4e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789618006/chapter/efa43446-3d1c-417b-b808-75791af89e4e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Estimator API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805673/chapter/b44bc77c-7e11-4dfc-9a0f-09a0bb5946bf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805673/chapter/b44bc77c-7e11-4dfc-9a0f-09a0bb5946bf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building your model using TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789344073/chapter/c0e4d981-a324-442f-b80a-758a0446d4c5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789344073/chapter/c0e4d981-a324-442f-b80a-758a0446d4c5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "InceptionV3 via TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789346565/chapter/2f262616-8786-4272-b3d8-945ab6d127a6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789346565/chapter/2f262616-8786-4272-b3d8-945ab6d127a6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Image Recognition with Vue.js and TensorFlow.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133042/chapter/2d90d890-2cce-4c6d-b230-83dd3e94c441.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133042/chapter/2d90d890-2cce-4c6d-b230-83dd3e94c441.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-on NLP with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994613/chapter/0e8b2591-6a76-4649-ae1a-10ec4eccf2e3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994613/chapter/0e8b2591-6a76-4649-ae1a-10ec4eccf2e3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Relation and Matching Networks Using TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789534207/chapter/6cca4491-8e36-40ee-9901-532605decd05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789534207/chapter/6cca4491-8e36-40ee-9901-532605decd05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a neural network in Keras and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789139907/chapter/2ebe0a2f-8c2d-4946-b97a-15e2d9c7cabc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789139907/chapter/2ebe0a2f-8c2d-4946-b97a-15e2d9c7cabc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "LSTM implementation with tensorflow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880360/chapter/aa6a31f1-5536-4037-8d44-32c430d3f771.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880360/chapter/aa6a31f1-5536-4037-8d44-32c430d3f771.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring TensorFlow checkpoints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994071/chapter/0a51a670-ee4e-439f-8819-f2e83526c686.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994071/chapter/0a51a670-ee4e-439f-8819-f2e83526c686.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Activity: Creating a TensorFlow Model Using Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789804744/chapter/de8dbc7a-25b5-4500-a60e-f8cd89cdac0e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789804744/chapter/de8dbc7a-25b5-4500-a60e-f8cd89cdac0e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Chatbot with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484237540/chapter/html/457478_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484237540/chapter/html/457478_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing Python and TensorFlow on Windows",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789533910/chapter/d45b041d-fb79-4df8-b398-be40e9008ee5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789533910/chapter/d45b041d-fb79-4df8-b398-be40e9008ee5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Human Pose Estimation with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789954555/chapter/489ca4bf-4851-4f79-9de8-0b326ab68a70.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789954555/chapter/489ca4bf-4851-4f79-9de8-0b326ab68a70.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building the architecture of an FNN with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788990547/chapter/2094096f-3812-4302-8ff4-2572e384f07a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788990547/chapter/2094096f-3812-4302-8ff4-2572e384f07a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The TensorFlow library and digit recognition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992367/chapter/ch16s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992367/chapter/ch16s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow integration with R",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788397872/chapter/8ae04124-0fd7-41e0-b9cc-e0bcc9e86756.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788397872/chapter/8ae04124-0fd7-41e0-b9cc-e0bcc9e86756.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838559335/chapter/5b98268c-321e-4fa6-9ca3-cc363385c3f8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838559335/chapter/5b98268c-321e-4fa6-9ca3-cc363385c3f8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Deep Learning Using Keras and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484242155/chapter/html/416805_2_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484242155/chapter/html/416805_2_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Machine Learning Classifier Using TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491974551/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491974551/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing a convolutional neural network in TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788991612/chapter/23a376ae-d597-4c9c-805c-6a8eca322404.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788991612/chapter/23a376ae-d597-4c9c-805c-6a8eca322404.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Analytics Study: AI and Image Recognition with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789950069/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789950069/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing your own TensorFlow application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789612011/chapter/a2ca398c-7dc3-4c26-be94-7a146f858321.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789612011/chapter/a2ca398c-7dc3-4c26-be94-7a146f858321.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building an Android mobile app using TensorFlow mobile",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996921/chapter/b87e02ee-bf6d-44b2-b2d1-c5d1b0a86895.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996921/chapter/b87e02ee-bf6d-44b2-b2d1-c5d1b0a86895.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Neural networks and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789611854/chapter/f237771c-f125-44e2-9d47-dd87118b58b9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789611854/chapter/f237771c-f125-44e2-9d47-dd87118b58b9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Loading deep learning models from Caffe, Torch, and TensorFlow formats",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474443/chapter/5b2aa63c-4747-44ea-85c8-e2b7480855ba.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474443/chapter/5b2aa63c-4747-44ea-85c8-e2b7480855ba.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up TensorFlow for use with Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785882104/chapter/ac069f0f-9056-47e5-9d3f-406ed7715189.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785882104/chapter/ac069f0f-9056-47e5-9d3f-406ed7715189.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow GPU installation for Ubuntu 16.04",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788399906/chapter/406b62bb-abcd-4387-9855-5d59c2f9078e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788399906/chapter/406b62bb-abcd-4387-9855-5d59c2f9078e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the existing TensorFlow for mobile model in an Android application using Fritz",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788629355/chapter/02849c21-ad1e-43f7-bc9e-82ce38735e1c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788629355/chapter/02849c21-ad1e-43f7-bc9e-82ce38735e1c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Image Classification with TensorFlow on Spark",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474221/chapter/c7fbdf35-f89c-4640-a9c1-330e4963285c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474221/chapter/c7fbdf35-f89c-4640-a9c1-330e4963285c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hello, TensorFlow!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049210/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049210/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow Lite and Core ML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994590/chapter/69d2c827-d14a-4de6-9156-160a5c661556.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994590/chapter/69d2c827-d14a-4de6-9156-160a5c661556.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Keras and TensorFlow installation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787123212/chapter/ch26s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787123212/chapter/ch26s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "GPU requirements for TensorFlow and Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837996/chapter/5a5f0eff-b53a-462d-9acb-9b82ece9538a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837996/chapter/5a5f0eff-b53a-462d-9acb-9b82ece9538a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Deep Learning Using ROS and TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783554713/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783554713/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TensorFlow – image classifier",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341799/chapter/41a5149f-c0cd-4572-ac42-0a698033fedb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341799/chapter/41a5149f-c0cd-4572-ac42-0a698033fedb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up the system for TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838551308/chapter/74130b96-17b5-419f-a6ad-1ca8e07aa6fe.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838551308/chapter/74130b96-17b5-419f-a6ad-1ca8e07aa6fe.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building state-of-the-art, production-ready models with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125193/chapter/759d67ce-3bfe-4f61-a33e-fc685589b915.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125193/chapter/759d67ce-3bfe-4f61-a33e-fc685589b915.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Trying something new – CNNs using Keras with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788478403/chapter/1e97fca7-66c2-4863-a8a4-7a8636a1aaea.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788478403/chapter/1e97fca7-66c2-4863-a8a4-7a8636a1aaea.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Deep Learning with TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785887215/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785887215/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Example – deep learning using the TensorFlow API for Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838550356/chapter/e94e26ab-0dee-4210-a167-ad6afd389573.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838550356/chapter/e94e26ab-0dee-4210-a167-ad6afd389573.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Deep Learning with TensorFlow on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789349795/chapter/2ef5de01-c386-4688-ab79-8d1cb1b1b2b6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789349795/chapter/2ef5de01-c386-4688-ab79-8d1cb1b1b2b6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "RBM and their implementation in TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788998086/chapter/a93b4e1d-a8c0-465d-860a-6c4b539c7ac2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788998086/chapter/a93b4e1d-a8c0-465d-860a-6c4b539c7ac2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing TensorFlow in R",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121089/chapter/890c09d3-f1aa-4570-8858-ee0f39646463.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121089/chapter/890c09d3-f1aa-4570-8858-ee0f39646463.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to use TensorFlow 2.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789346411/chapter/8eee2267-6ff1-4323-aa0b-6e1636e11ac9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789346411/chapter/8eee2267-6ff1-4323-aa0b-6e1636e11ac9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Training the deep TensorFlow-based LSTM model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788997096/chapter/c62f7809-7ff2-43c9-8e44-4d9815fed385.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788997096/chapter/c62f7809-7ff2-43c9-8e44-4d9815fed385.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing a neural network using Keras and TensorFlow using Jupyter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298599/chapter/4436ee48-9a78-4aba-815d-07817eaf2835.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298599/chapter/4436ee48-9a78-4aba-815d-07817eaf2835.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Interactive Drawing Canvas and Digit Predictions Using TensorFlow on GCP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238738/chapter/html/468330_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238738/chapter/html/468330_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838829902/chapter/ac64977e-7ad4-4907-8e26-b56ef34d6ef6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838829902/chapter/ac64977e-7ad4-4907-8e26-b56ef34d6ef6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine learning books from Packt",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783554393/chapter/f551643b-47fa-4e18-a5a2-570ca3d1af23.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783554393/chapter/f551643b-47fa-4e18-a5a2-570ca3d1af23.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning with Python: A Practical Beginners’ Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835461969/chapter/index_split_048.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835461969/chapter/index_split_048.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing TensorFrames",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888359/chapter/117e1738-e384-4073-b57f-759f48c010cf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888359/chapter/117e1738-e384-4073-b57f-759f48c010cf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Importing and loading Keras models and layers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788995207/chapter/c1374efc-f41a-4016-a0c6-51982f87bcff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788995207/chapter/c1374efc-f41a-4016-a0c6-51982f87bcff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788831307/chapter/f13eac3d-883d-448c-a8b9-ccff9cc1a7f7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788831307/chapter/f13eac3d-883d-448c-a8b9-ccff9cc1a7f7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789346640/chapter/b173ac51-a551-4f43-9127-7a88b7161ef9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789346640/chapter/b173ac51-a551-4f43-9127-7a88b7161ef9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "GPU installation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138139/chapter/87db44e4-6df4-41dc-b0bb-c4249d479469.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138139/chapter/87db44e4-6df4-41dc-b0bb-c4249d479469.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Deep Learning Workshop",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839219856/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839219856/",
+      "isbn": "9781839219856",
+      "format": "book"
+    },
+    {
+      "title": "To get the most out of this book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136678/chapter/4d471be8-9112-49b9-a59c-18bb3b992799.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136678/chapter/4d471be8-9112-49b9-a59c-18bb3b992799.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16.3 Custom Anaconda Environments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135404799/chapter/xhtml/fileP700101644700000000000000000706D.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135404799/chapter/xhtml/fileP700101644700000000000000000706D.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Neural Networks and Numerical Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110783261/",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110783261/",
+      "isbn": "9783110783261",
+      "format": "book"
+    },
+    {
+      "title": "Atari Learning Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838824914/chapter/15fb2cfc-d06e-4180-a02a-d799d46ce0c3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838824914/chapter/15fb2cfc-d06e-4180-a02a-d799d46ce0c3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Design X-Rays",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505795/chapter/f_0041.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505795/chapter/f_0041.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to optimize the existing approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390040/chapter/ch09s11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390040/chapter/ch09s11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep learning software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788295758/chapter/15065bc6-3e8c-4d9d-9104-2887913e9526.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788295758/chapter/15065bc6-3e8c-4d9d-9104-2887913e9526.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "NVIDIA vGPU configuration on vSphere ESXi",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789802160/chapter/7bb8b97e-6413-4216-8deb-e945954e45c1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789802160/chapter/7bb8b97e-6413-4216-8deb-e945954e45c1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Environment setup",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992596/chapter/b936dc1d-9a3d-4452-8882-d60cea6e18e0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992596/chapter/b936dc1d-9a3d-4452-8882-d60cea6e18e0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Deep Learning with Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788629416/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788629416/",
+      "isbn": "9781788629416",
+      "format": "book"
+    },
+    {
+      "title": "Transformers for Natural Language Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800565791/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800565791/",
+      "isbn": "9781800565791",
+      "format": "book"
+    },
+    {
+      "title": "What you need for this book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464453/chapter/pr07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464453/chapter/pr07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understand the main choices for ML applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834308/chapter/f6a1046a-94e9-4548-8561-0cfaa888bfb0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834308/chapter/f6a1046a-94e9-4548-8561-0cfaa888bfb0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Distributed Machine Learning Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299025/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299025/",
+      "isbn": "9781617299025",
+      "format": "book"
+    },
+    {
+      "title": "Taking Advantage of the Machine Learning Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651254/chapter/f_0058.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651254/chapter/f_0058.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Image classification on Android mobile",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789955330/chapter/2cd9b4da-c906-43d4-a6a4-be3c6e9012a8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789955330/chapter/2cd9b4da-c906-43d4-a6a4-be3c6e9012a8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Distributed Machine Learning with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801815697/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801815697/",
+      "isbn": "9781801815697",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning with Amazon SageMaker Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800567030/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800567030/",
+      "isbn": "9781800567030",
+      "format": "book"
+    },
+    {
+      "title": "Installing necessary libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469878/chapter/fe82a1e8-d8e4-44da-928e-31e04e6a717c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469878/chapter/fe82a1e8-d8e4-44da-928e-31e04e6a717c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "In-memory columnar format",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127265/chapter/40c04cb1-5242-4fb7-a375-bc26556c06e3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127265/chapter/40c04cb1-5242-4fb7-a375-bc26556c06e3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python Machine Learning - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789955750/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789955750/",
+      "isbn": "9781789955750",
+      "format": "book"
+    },
+    {
+      "title": "Useful websites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780175843/chapter/html/13_Useful.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780175843/chapter/html/13_Useful.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Model Serving Examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156008/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156008/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "​Hands-On Artificial Intelligence for IoT - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835467183/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835467183/",
+      "isbn": "9781835467183",
+      "format": "book"
+    },
+    {
+      "title": "Technical requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835442/chapter/d90c2d34-abc3-459a-80ea-613eecad082a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835442/chapter/d90c2d34-abc3-459a-80ea-613eecad082a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. AI/ML Trained Serverless Endpoints with Spring Cloud Function",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289136/chapter/html/526597_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289136/chapter/html/526597_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996839/chapter/9400b649-ef51-4a60-ba22-62275cd5e118.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996839/chapter/9400b649-ef51-4a60-ba22-62275cd5e118.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B. Other Interpretability and Explainability Tool Kits",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098120269/chapter/app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098120269/chapter/app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Production-Ready Applied Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803243665/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803243665/",
+      "isbn": "9781803243665",
+      "format": "book"
+    },
+    {
+      "title": "Book 4: Using Artificial Intelligence in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119557593/chapter/p04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119557593/chapter/p04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python Machine Learning Blueprints - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994170/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994170/",
+      "isbn": "9781788994170",
+      "format": "book"
+    },
+    {
+      "title": "Generative Deep Learning, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098134174/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098134174/",
+      "isbn": "9781098134181",
+      "format": "book"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835824/chapter/f7636dc2-b3af-41fd-a621-dd786d3f4660.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835824/chapter/f7636dc2-b3af-41fd-a621-dd786d3f4660.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Amazon AI-related services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281066/chapter/49861035-175c-4f69-8697-8e0bc55aef61.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281066/chapter/49861035-175c-4f69-8697-8e0bc55aef61.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "There's more...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787286382/chapter/84206928-3a28-4b57-a019-b5314c1bfd29.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787286382/chapter/84206928-3a28-4b57-a019-b5314c1bfd29.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Reinforcement Learning with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838644147/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838644147/",
+      "isbn": "9781838644147",
+      "format": "book"
+    },
+    {
+      "title": "Detecting diabetes using a grid search",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536591/chapter/9d70c5c9-7da6-4dbf-945e-0355f0e1bace.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536591/chapter/9d70c5c9-7da6-4dbf-945e-0355f0e1bace.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python Machine Learning By Example - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835085622/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835085622/",
+      "isbn": "9781835085622",
+      "format": "book"
+    },
+    {
+      "title": "5. Embedded Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264584/chapter/html/502250_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264584/chapter/html/502250_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring Open-Source ML Libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805122500/chapter/Text/Chapter_05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805122500/chapter/Text/Chapter_05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Natural Language Processing in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294631/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294631/",
+      "isbn": "9781617294631",
+      "format": "book"
+    },
+    {
+      "title": "Practical Machine Learning for Computer Vision",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098102357/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098102357/",
+      "isbn": "9781098102364",
+      "format": "book"
+    },
+    {
+      "title": "10. Computer Vision in Streamlit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289839/chapter/html/532543_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289839/chapter/html/532543_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ML with Firebase ML Kit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788996082/chapter/5745ad79-ef22-4ce0-a50d-2c006a652f75.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788996082/chapter/5745ad79-ef22-4ce0-a50d-2c006a652f75.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Time Series Forecasting in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299889/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299889/",
+      "isbn": "9781617299889",
+      "format": "book"
+    },
+    {
+      "title": "Explainable AI for Practitioners",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098119126/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098119126/",
+      "isbn": "9781098119133",
+      "format": "book"
+    },
+    {
+      "title": "Kubeflow for Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492050117/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492050117/",
+      "isbn": "9781492050124",
+      "format": "book"
+    },
+    {
+      "title": "6.3 Deep Learning Approaches",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837021635/chapter/xhtml/xhtml-0-61.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837021635/chapter/xhtml/xhtml-0-61.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Computer Vision with Maker Tech: Detecting People With a Raspberry Pi, a Thermal Camera, and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268216/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268216/",
+      "isbn": "9781484268216",
+      "format": "book"
+    },
+    {
+      "title": "Google Cloud Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788838399/chapter/e6bdc2cf-bcab-4bb4-955c-ccfe85f30dfc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788838399/chapter/e6bdc2cf-bcab-4bb4-955c-ccfe85f30dfc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Book You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789531619/chapter/f3b65c7f-1cc3-49d0-ac0e-124e746de2dc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789531619/chapter/f3b65c7f-1cc3-49d0-ac0e-124e746de2dc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Efficient coding in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530513/chapter/db7e68b4-38ed-42a5-8fc7-79b3090124ef.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530513/chapter/db7e68b4-38ed-42a5-8fc7-79b3090124ef.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Applied Natural Language Processing with Python: Implementing Machine Learning and Deep Learning Algorithms for Natural Language Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484237335/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484237335/",
+      "isbn": "9781484237335",
+      "format": "book"
+    },
+    {
+      "title": "Google Machine Learning and Generative AI for Solutions Architects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803245270/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803245270/",
+      "isbn": "9781803245270",
+      "format": "book"
+    },
+    {
+      "title": "Book 4: Using Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119787600/chapter/p04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119787600/chapter/p04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering PyTorch - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801074308/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801074308/",
+      "isbn": "9781801074308",
+      "format": "book"
+    },
+    {
+      "title": "Python Machine Learning by Example - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800209718/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800209718/",
+      "isbn": "9781800209718",
+      "format": "book"
+    },
+    {
+      "title": "Exporting Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492024095/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492024095/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical AI on the Google Cloud Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492075806/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492075806/",
+      "isbn": "9781492075813",
+      "format": "book"
+    },
+    {
+      "title": "C11461_07_SG_Final_NT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789801651/chapter/C11461_07_SG_Final_NT.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789801651/chapter/C11461_07_SG_Final_NT.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What Is Ray?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492085768/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492085768/",
+      "isbn": "9781492085751",
+      "format": "book"
+    },
+    {
+      "title": ".NET MAUI Projects - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837634910/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837634910/",
+      "isbn": "9781837634910",
+      "format": "book"
+    },
+    {
+      "title": "16 Machine Learning for Industrial Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394268962/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394268962/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Collaborative filtering approaches",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789345070/chapter/63bd895d-c8fe-4270-8717-5fc52e442701.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789345070/chapter/63bd895d-c8fe-4270-8717-5fc52e442701.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The need for MXNet",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788998796/chapter/f7861435-81be-4415-b614-f77d190cc0be.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788998796/chapter/f7861435-81be-4415-b614-f77d190cc0be.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automated Machine Learning with AutoKeras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800567641/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800567641/",
+      "isbn": "9781800567641",
+      "format": "book"
+    },
+    {
+      "title": "Managing Data Orchestration and Integration at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492093862/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492093862/",
+      "isbn": "9781492093855",
+      "format": "book"
+    },
+    {
+      "title": "Ensemble Learning for AI Developers: Learn Bagging, Stacking, and Boosting Methods with Use Cases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484259405/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484259405/",
+      "isbn": "9781484259405",
+      "format": "book"
+    },
+    {
+      "title": "Designing Deep Learning Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439863/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439863/",
+      "isbn": "9781633439863",
+      "format": "book"
+    },
+    {
+      "title": "Deep learning trend",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789538779/chapter/28d63b4c-d9e3-4e22-8e23-19d6a579f569.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789538779/chapter/28d63b4c-d9e3-4e22-8e23-19d6a579f569.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491995839/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491995839/",
+      "isbn": "9781491995792",
+      "format": "book"
+    },
+    {
+      "title": "DL frameworks for DRL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839214936/chapter/057accb2-a502-4714-9ac2-3e251f166e8c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839214936/chapter/057accb2-a502-4714-9ac2-3e251f166e8c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Science and Engineering at Enterprise Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492039341/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492039341/",
+      "isbn": "9781492039334",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning for Time-Series with Python - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837631339/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837631339/",
+      "isbn": "9781837631339",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning with R - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801071321/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801071321/",
+      "isbn": "9781801071321",
+      "format": "book"
+    },
+    {
+      "title": "3. Setting Up Your Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264317/chapter/html/502073_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264317/chapter/html/502073_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Privacy-Preserving Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800564671/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800564671/",
+      "isbn": "9781800564671",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Engineering on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247595/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247595/",
+      "isbn": "9781803247595",
+      "format": "book"
+    },
+    {
+      "title": "Deep learning in OpenCV",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341225/chapter/eab12ed9-cf11-4997-9022-d0bfdb182205.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341225/chapter/eab12ed9-cf11-4997-9022-d0bfdb182205.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Time Series Analysis with Python Cookbook - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805124283/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805124283/",
+      "isbn": "9781805124283",
+      "format": "book"
+    },
+    {
+      "title": "Getting acquainted with deep learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536300/chapter/8a92ff67-75a4-43c1-b0cb-08a745f245cd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536300/chapter/8a92ff67-75a4-43c1-b0cb-08a745f245cd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Artificial Intelligence with Python Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133967/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133967/",
+      "isbn": "9781789133967",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Hero",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837025015/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837025015/",
+      "isbn": "9781837025015",
+      "format": "book"
+    },
+    {
+      "title": "Python packages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789612851/chapter/96318532-f7d9-466a-aa81-580499c1830f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789612851/chapter/96318532-f7d9-466a-aa81-580499c1830f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning with R - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788295864/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788295864/",
+      "isbn": "9781788295864",
+      "format": "book"
+    },
+    {
+      "title": "Othe_books_you_may_enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838820299/chapter/Text/Othe_books_you_may_enjoy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838820299/chapter/Text/Othe_books_you_may_enjoy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "23. Saving, Loading, and Serving Trained Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098135713/chapter/ch23.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098135713/chapter/ch23.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Explainable AI (XAI) with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800208131/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800208131/",
+      "isbn": "9781800208131",
+      "format": "book"
+    },
+    {
+      "title": "Deep learning frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788997454/chapter/2dbcfb53-f532-4b1f-9706-fd13a8fdee2d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788997454/chapter/2dbcfb53-f532-4b1f-9706-fd13a8fdee2d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On AI Trading with Python, QuantConnect, and AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394268436/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394268436/",
+      "isbn": "9781394268436",
+      "format": "book"
+    },
+    {
+      "title": "Computer Vision Using Deep Learning: Neural Network Architectures with Python and Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266168/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266168/",
+      "isbn": "9781484266168",
+      "format": "book"
+    },
+    {
+      "title": "Predictive auto-scaling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469007/chapter/59247331-1432-4e75-8d03-968b01db33e9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469007/chapter/59247331-1432-4e75-8d03-968b01db33e9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Transformers for Natural Language Processing - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247335/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247335/",
+      "isbn": "9781803247335",
+      "format": "book"
+    },
+    {
+      "title": "About the Reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462749/chapter/Text/a4d78cca-2e0e-47e9-8a9b-57b631c58b4e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462749/chapter/Text/a4d78cca-2e0e-47e9-8a9b-57b631c58b4e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning for Natural Language Processing: Creating Neural Networks with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484236857/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484236857/",
+      "isbn": "9781484236857",
+      "format": "book"
+    },
+    {
+      "title": "5 Preparing and building the model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296727/chapter/OEBPS/Text/05.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296727/chapter/OEBPS/Text/05.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838649951/chapter/065c34e9-8d1c-40e7-9ea5-fd0e62e0c808.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838649951/chapter/065c34e9-8d1c-40e7-9ea5-fd0e62e0c808.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Machine Learning and Image Processing: For Facial Recognition, Object Detection, and Pattern Recognition Using Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484241493/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484241493/",
+      "isbn": "9781484241493",
+      "format": "book"
+    },
+    {
+      "title": "Learning Algorithms for Internet of Things: Applying Python Tools to Improve Data Collection Use for System Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805301/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805301/",
+      "isbn": "9798868805301",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning and AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049197/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049197/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Is Changing the Rules",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492035367/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492035367/",
+      "isbn": "9781492035350",
+      "format": "book"
+    },
+    {
+      "title": "Applying Deep Learning in Business",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492039211/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492039211/",
+      "isbn": "9781492039204",
+      "format": "book"
+    },
+    {
+      "title": "Learn Amazon SageMaker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800208919/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800208919/",
+      "isbn": "9781800208919",
+      "format": "book"
+    },
+    {
+      "title": "Practical Explainable AI Using Python: Artificial Intelligence Model Explanations Using Python-based Libraries, Extensions, and Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271582/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271582/",
+      "isbn": "9781484271582",
+      "format": "book"
+    },
+    {
+      "title": "Open Source in the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492041986/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492041986/",
+      "isbn": "9781492041979",
+      "format": "book"
+    },
+    {
+      "title": "8. Scalable AI for Edge Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801587/chapter/html/609555_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801587/chapter/html/609555_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Train and Optimize Models at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492079385/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492079385/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-on Time Series Analysis with Python: From Basics to Bleeding Edge Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484259924/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484259924/",
+      "isbn": "9781484259924",
+      "format": "book"
+    },
+    {
+      "title": "What Are Conversational Bots?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042808/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042808/",
+      "isbn": "9781491972632",
+      "format": "book"
+    },
+    {
+      "title": "9. Tools of the Trade",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492062561/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492062561/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Comprehensive platform and tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788399234/chapter/9332752f-9fa0-40aa-b7ec-2c4e0e20698e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788399234/chapter/9332752f-9fa0-40aa-b7ec-2c4e0e20698e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning for Tabular Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438545/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438545/",
+      "isbn": "9781633438545",
+      "format": "book"
+    },
+    {
+      "title": "6. Neural Networks and Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800205819/chapter/B16060_06_Final_SMP.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800205819/chapter/B16060_06_Final_SMP.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Leading the way for big data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837675/chapter/e2c3546d-b26b-4ff8-b014-ce6fc9e053b0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837675/chapter/e2c3546d-b26b-4ff8-b014-ce6fc9e053b0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a Neural Network with Keras",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507706/chapter/f_0103.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507706/chapter/f_0103.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Applications of Transformers: Hands-on with BERT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295447/chapter/OEBPS/Text/10.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295447/chapter/OEBPS/Text/10.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Recommended readings for further explanation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789800265/chapter/070bc7ca-2b1e-435f-9e66-4dfd1cb07b9c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789800265/chapter/070bc7ca-2b1e-435f-9e66-4dfd1cb07b9c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16.3.2 PlatEMO: Evolutionary Multi-Objective Optimization (Tian et al. 2017)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000541335/chapter/chapter-173.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000541335/chapter/chapter-173.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other_Books_You_May_Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838827793/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838827793/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern Deep Learning Design and Application Development: Versatile Tools to Solve Deep Learning Problems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274132/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274132/",
+      "isbn": "9781484274132",
+      "format": "book"
+    },
+    {
+      "title": "The Economics of Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800561410/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800561410/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Azure Machine Learning service to manage models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789802993/chapter/dbc7ce57-e02d-4a92-89bf-42fdcdc6f478.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789802993/chapter/dbc7ce57-e02d-4a92-89bf-42fdcdc6f478.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AI Crash Course",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838645359/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838645359/",
+      "isbn": "9781838645359",
+      "format": "book"
+    },
+    {
+      "title": "15 THE SCIENTIFIC LIBRARIES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156688/chapter/xhtml/ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156688/chapter/xhtml/ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hardware is hard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788399760/chapter/be2e48b5-69f1-40c0-a7de-e55220549c81.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788399760/chapter/be2e48b5-69f1-40c0-a7de-e55220549c81.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Communicating with Non-Go Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650950/chapter/f_0092.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650950/chapter/f_0092.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering spaCy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835880463/chapter/Section0001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835880463/chapter/Section0001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker for GPU-enabled programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805789/chapter/a66cdaa6-3e2b-4974-b47c-4f9e5dcbedf9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805789/chapter/a66cdaa6-3e2b-4974-b47c-4f9e5dcbedf9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Applied Machine Learning for Health and Fitness: A Practical Guide to Machine Learning with Deep Vision, Sensors and IoT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257722/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257722/",
+      "isbn": "9781484257722",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Python - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207721/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207721/",
+      "isbn": "9781800207721",
+      "format": "book"
+    },
+    {
+      "title": "Big-Data Analytics for Cloud, IoT and Cognitive Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119247029/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119247029/",
+      "isbn": "9781119247029",
+      "format": "book"
+    },
+    {
+      "title": "8. Implementation of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484250280/chapter/html/480660_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484250280/chapter/html/480660_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Using WSL for Enterprise Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268735/chapter/html/499772_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268735/chapter/html/499772_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing environments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838826321/chapter/f356624d-c918-46f5-ad3b-d1532953583e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838826321/chapter/f356624d-c918-46f5-ad3b-d1532953583e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning for Time Series Forecasting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788290227/chapter/26230bb4-34ca-4f66-9d93-c4006fde55e3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788290227/chapter/26230bb4-34ca-4f66-9d93-c4006fde55e3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Using Machine Learning and Deep Learning Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492052319/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492052319/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring Deepfakes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801810692/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801810692/",
+      "isbn": "9781801810692",
+      "format": "book"
+    },
+    {
+      "title": "Enterprise AI in the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213054/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213054/",
+      "isbn": "9781394213054",
+      "format": "book"
+    },
+    {
+      "title": "A. Deep Reinforcement Learning Timeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135172490/chapter/ch19_appa.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135172490/chapter/ch19_appa.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Learning Languages with T2T (Tensor2Tensor)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394243327/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394243327/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Google Cloud platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789134803/chapter/46f63228-33e6-4f5c-b267-e0a88ba58bc9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789134803/chapter/46f63228-33e6-4f5c-b267-e0a88ba58bc9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning with fastai Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800208100/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800208100/",
+      "isbn": "9781800208100",
+      "format": "book"
+    },
+    {
+      "title": "11 Machine Learning Libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136624417/chapter/ch11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136624417/chapter/ch11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Running Machine Learning in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142155/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142155/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The data flow computation paradigm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788629775/chapter/46e3d970-c2c1-4207-86a6-c26a7b77f0db.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788629775/chapter/46e3d970-c2c1-4207-86a6-c26a7b77f0db.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Neural Networks and Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288177/chapter/html/527966_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288177/chapter/html/527966_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Engineering Lakehouses with Open Table Formats",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836207238/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836207238/",
+      "isbn": "9781836207238",
+      "format": "book"
+    },
+    {
+      "title": "R Machine Learning Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789807943/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789807943/",
+      "isbn": "9781789807943",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning for Search",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294792/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294792/",
+      "isbn": "9781617294792",
+      "format": "book"
+    },
+    {
+      "title": "12. Week 12: Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484241974/chapter/html/473338_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484241974/chapter/html/473338_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Vision and Behavior for Self-Driving Cars",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800203587/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800203587/",
+      "isbn": "9781800203587",
+      "format": "book"
+    },
+    {
+      "title": "Setting Up the IoT and AI Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838981983/chapter/a6e87d27-4456-40a7-a006-5fdb54960858.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838981983/chapter/a6e87d27-4456-40a7-a006-5fdb54960858.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Unsupervised Learning: Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484253168/chapter/html/466154_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484253168/chapter/html/466154_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating full factorial designs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788998369/chapter/42b74583-19cc-4049-ab28-74252a66ec41.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788998369/chapter/42b74583-19cc-4049-ab28-74252a66ec41.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Model Serving and Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492053262/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492053262/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep learning methods",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789539462/chapter/4fcc86e5-8c35-4f23-88b0-780d2ede1337.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789539462/chapter/4fcc86e5-8c35-4f23-88b0-780d2ede1337.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Neural Network Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247762/chapter/Text/Chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247762/chapter/Text/Chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Architecting an ML Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151607/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151607/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Running Machine Learning in Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056461/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056461/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Running machine learning models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530667/chapter/cbc8f437-d003-41da-b620-44444ef8fc60.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530667/chapter/cbc8f437-d003-41da-b620-44444ef8fc60.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Django in PyCharm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789348262/chapter/89c4b59e-269a-4ab6-8efa-41ba5e319755.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789348262/chapter/89c4b59e-269a-4ab6-8efa-41ba5e319755.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Fundamental deep learning algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439214/chapter/Text/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439214/chapter/Text/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Microsoft Azure Service Fabric, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781509307135/chapter/xhtml/ch19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781509307135/chapter/xhtml/ch19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Audio ML on Pi",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098163488/chapter/nsp-venkitachalam503045-0030.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098163488/chapter/nsp-venkitachalam503045-0030.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Firebase Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803245430/chapter/Text/Chapter_14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803245430/chapter/Text/Chapter_14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Neural Networks and Graphs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248066/chapter/Text/Chapter_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248066/chapter/Text/Chapter_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. A Case for COVID-19 CT Scan Segmentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282175/chapter/html/527603_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282175/chapter/html/527603_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 AI computation on RAN and User Equipment (UE)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003825562/chapter/xhtml/chapter03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003825562/chapter/xhtml/chapter03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Machine Learning Interoperability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098103002/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098103002/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Everything is a nail",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136203/chapter/2d1580c4-6917-4d64-897d-4fba72cac077.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136203/chapter/2d1580c4-6917-4d64-897d-4fba72cac077.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Additional Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491997628/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491997628/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Single responsibility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838554491/chapter/7a2affff-363b-469e-9ddf-82d8281c13bb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838554491/chapter/7a2affff-363b-469e-9ddf-82d8281c13bb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Voice, chatbots, and AR/VR-based interaction models will become prevalent, mainly powered by the cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787280540/chapter/f464f697-d622-486d-b721-f7fa800e8428.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787280540/chapter/f464f697-d622-486d-b721-f7fa800e8428.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep learning and convolutional neural networks (CNNs)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789340723/chapter/5100cfa8-b7c7-4ef7-a75d-62b7ee2e626f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789340723/chapter/5100cfa8-b7c7-4ef7-a75d-62b7ee2e626f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Conversational AI with Rasa",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801077057/chapter/B17128_FM_Final_JM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801077057/chapter/B17128_FM_Final_JM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Without Labels",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298721/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298721/",
+      "isbn": "9781617298721",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning for Trading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839217715/chapter/Text/Chapter_17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839217715/chapter/Text/Chapter_17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Emerging and Advanced Kubernetes Concepts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813252/chapter/html/618701_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813252/chapter/html/618701_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Using GPUs and Accelerators with Ray",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098118792/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098118792/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Coca-Cola: Using Artificial Intelligence To Stay At The Top Of The Soft Drinks Market",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119548218/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119548218/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning with Firebase ML Kit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838823382/chapter/01d52879-eba2-4397-8aec-a7bf73288dbf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838823382/chapter/01d52879-eba2-4397-8aec-a7bf73288dbf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Machine Learning and Imaging-Based Vehicle Classification for Traffic Monitoring Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394200580/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394200580/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. LangChain Framework Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817182/chapter/html/643098_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817182/chapter/html/643098_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning and Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491998045/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491998045/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep learning resources and advanced methods",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787287471/chapter/e0305791-a824-4b10-b8b2-86daa2b5e847.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787287471/chapter/e0305791-a824-4b10-b8b2-86daa2b5e847.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B19178_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804618851/chapter/B19178_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804618851/chapter/B19178_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. The Promise of Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484243541/chapter/html/427287_2_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484243541/chapter/html/427287_2_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Productionizing NLP Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492047759/chapter/ch19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492047759/chapter/ch19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 A Fuzzy Approach to Face Mask Detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119864929/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119864929/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Infrastructure Setup for LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817007/chapter/html/639667_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817007/chapter/html/639667_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hot Dog or Not Hot Dog Using Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839210051/chapter/81fa0e40-5359-41d1-ba34-108b84869b56.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839210051/chapter/81fa0e40-5359-41d1-ba34-108b84869b56.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Deep Learning: An Overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234532/chapter/html/454512_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234532/chapter/html/454512_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Neural Networks with Scikit-Learn, Keras, and H2O",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484277621/chapter/html/517508_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484277621/chapter/html/517508_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Trends Framing the State of AI and ML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492081791/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492081791/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploratory Data Analysis with R",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492046431/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492046431/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "From the Perceptron to Artificial Neural Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788299879/chapter/0bb045ac-8b09-466a-9aa1-491f2c4fbe8f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788299879/chapter/0bb045ac-8b09-466a-9aa1-491f2c4fbe8f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Laurence_Moroney",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789138740/chapter/Text/Laurence_Moroney.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789138740/chapter/Text/Laurence_Moroney.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Machine Learning Deployment as a Web Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265468/chapter/html/493063_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265468/chapter/html/493063_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning with ESP32",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803237688/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803237688/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a CNN to recognize digits",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788625173/chapter/a649d89e-248f-4291-bc41-829db103f6ff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788625173/chapter/a649d89e-248f-4291-bc41-829db103f6ff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Vertically Integrated AI Stacks Will Affect IT Organizations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/20201229PAIML/chapter/chapter-66.html",
+      "url": "https://learning.oreilly.com/api/v1/book/20201229PAIML/chapter/chapter-66.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning for Time-Series",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801819626/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801819626/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Univariate Time Series Using Recurrent Neural Nets",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271100/chapter/html/509469_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271100/chapter/html/509469_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Vision Competition – Cassava Leaf Disease Competition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804611210/chapter/Text/Chapter_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804611210/chapter/Text/Chapter_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Big Data and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296882/chapter/html/606032_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296882/chapter/html/606032_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Tools and Expertise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098120191/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098120191/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pooling layer and padding operations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788479042/chapter/10821162-c6c8-4eed-996d-dc86b8292611.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788479042/chapter/10821162-c6c8-4eed-996d-dc86b8292611.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A AI Accelerators",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134863924/chapter/appendixa.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134863924/chapter/appendixa.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learning the lingo",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789615326/chapter/9b243b67-7860-4293-bc09-ab09003a4269.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789615326/chapter/9b243b67-7860-4293-bc09-ab09003a4269.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cognitive and mixed reality HMIs and deep learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787282759/chapter/85e671e1-ab1c-4001-8efb-893ff692ef49.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787282759/chapter/85e671e1-ab1c-4001-8efb-893ff692ef49.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning in BigQuery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492044451/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492044451/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Interlude: My Personal Toolkit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394234493/chapter/c03a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394234493/chapter/c03a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B. Enterprise MLOps Interviews",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098136574/chapter/app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098136574/chapter/app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "27. Go Forth and Do Data Science",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492041122/chapter/ch27.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492041122/chapter/ch27.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building your own image classifiers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789800616/chapter/ch02s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789800616/chapter/ch02s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Word2vec for Prediction and Clustering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785283451/chapter/3b4c70ba-0fe1-44a1-ac84-64ace8b17141.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785283451/chapter/3b4c70ba-0fe1-44a1-ac84-64ace8b17141.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Machine Learning/Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169961/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169961/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Deep learning in a nutshell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298059/chapter/OEBPS/Text/03.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298059/chapter/OEBPS/Text/03.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. ML Deployment Pipeline Using Oracle Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270325/chapter/html/499897_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270325/chapter/html/499897_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Machine Learning Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394220618/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394220618/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Data Preparation and Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286920/chapter/html/525591_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286920/chapter/html/525591_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The big data trends",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785885655/chapter/ch11s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785885655/chapter/ch11s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Challenges and Considerations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813061/chapter/html/628971_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813061/chapter/html/628971_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Training Custom ML Models in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146818/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146818/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835886526/chapter/index_split_016.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835886526/chapter/index_split_016.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Natural language translation – the present",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788478298/chapter/26a774a2-d5d3-4ebf-9eee-d4e7d6c0df06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788478298/chapter/26a774a2-d5d3-4ebf-9eee-d4e7d6c0df06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning and Beyond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491963036/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491963036/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Democratization and Impacts of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484239315/chapter/html/462363_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484239315/chapter/html/462363_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "0 ENVIRONMENT AND MATHEMATICAL PRELIMINARIES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341655119/chapter/xhtml/ch00.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341655119/chapter/xhtml/ch00.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Azure Databricks Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789809718/chapter/B12761_FM_Final_SS_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789809718/chapter/B12761_FM_Final_SS_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Artificial Intelligence and Deep Learning Applications on Big Data Computing Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003822783/chapter/xhtml/ch10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003822783/chapter/xhtml/ch10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Train, Tune, and Deploy Models with Azure Machine Learning, ONNX, and PyTorch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108038/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108038/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Copilot and Data Science",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817847/chapter/html/660323_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817847/chapter/html/660323_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Snowflake and Data Science",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484253281/chapter/html/482416_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484253281/chapter/html/482416_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Using ChatGPT in Development Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295298/chapter/html/605328_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295298/chapter/html/605328_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "82. Three Important Distributed Programming Concepts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492062400/chapter/ch82.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492062400/chapter/ch82.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Vaibhav Tasgaonkar, Ujwala Kshirsagar, Soham Hudnurkar, Pravin Sridhar 8 Face mask detection and crowd size estimation using IoT platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110756821/chapter/content/9783110756678_011597.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110756821/chapter/content/9783110756678_011597.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Quantum Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265222/chapter/html/495362_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265222/chapter/html/495362_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Model Training and Inference Optimization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809170/chapter/html/626739_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809170/chapter/html/626739_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Recurrent Neural Networks (RNNs) for Predictive Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000859720/chapter/ch10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000859720/chapter/ch10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Deep Learning: Tools and Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119791638/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119791638/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Open Source Software for Emerging Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281277/chapter/html/520460_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281277/chapter/html/520460_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Machine learning with the full stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299193/chapter/Text/ch09.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299193/chapter/Text/ch09.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Introducing deep learning and the PyTorch Library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295263/chapter/Text/01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295263/chapter/Text/01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. AI Model Inventory and Facts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809835/chapter/html/632553_1_En_19_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809835/chapter/html/632553_1_En_19_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Machine Learning with DeepChem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492039822/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492039822/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Deep Learning–Enabled Smart Safety Precautions and Measures in Public Gathering Places for COVID-19 Using IoT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119760474/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119760474/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Design Patterns for Resilient Serving",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098115777/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098115777/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Model Deployment and Prediction Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098107956/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098107956/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Executive overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738461069/chapter/5695ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738461069/chapter/5695ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C. Convolutional Neural Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492055426/chapter/app03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492055426/chapter/app03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Machine Learning Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119897606/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119897606/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 A Comprehensive Analysis on Masked Face Detection Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119768869/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119768869/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B17761_TOC_Final_JM_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801811910/chapter/B17761_TOC_Final_JM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801811910/chapter/B17761_TOC_Final_JM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Explainability for Deep Learning Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290293/chapter/html/540435_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290293/chapter/html/540435_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Neural Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491989371/chapter/ch20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491989371/chapter/ch20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. IoT Applications in Energy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484260418/chapter/html/491651_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484260418/chapter/html/491651_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Testing Your Enterprise AI Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809026/chapter/html/625427_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809026/chapter/html/625427_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Function Approximation and Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802737/chapter/html/502835_2_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802737/chapter/html/502835_2_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Engineering MLOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800562882/chapter/B16572_FM_Final_JM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800562882/chapter/B16572_FM_Final_JM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning and the Game of Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295324/chapter/kindle_split_031.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295324/chapter/kindle_split_031.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Python Machine Learning Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484232071/chapter/html/448827_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484232071/chapter/html/448827_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Smart Shopping Trolleys for Secure and Decentralized Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000511987/chapter/html/ch20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000511987/chapter/html/ch20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Deep Learning for Time Series Modeling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492085249/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492085249/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 The Python Programming Language",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806102471/chapter/02_001.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806102471/chapter/02_001.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Model Deploy Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492075240/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492075240/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Application Areas of Computer Vision and AI in Intelligent Automation Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394302673/chapter/c15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394302673/chapter/c15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. The Role of JavaScript in Modern Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814600/chapter/html/643496_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814600/chapter/html/643496_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Putting It All Together: Experimenting and Ranking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492097983/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492097983/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Crystal",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506631/chapter/f_0099.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506631/chapter/f_0099.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building AI Applications with ChatGPT APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805127567/chapter/B21110_Frontmatter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805127567/chapter/B21110_Frontmatter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Detecting Fraudulent Data Using Stacked Auto-Encoding: A Three-Layer Approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394166374/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394166374/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. SOURCES OF RANDOMNESS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168827/chapter/xhtml/ch10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168827/chapter/xhtml/ch10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is OpenCV?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788838764/chapter/f7f4a911-bbea-4815-86c1-8e716017d2f0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788838764/chapter/f7f4a911-bbea-4815-86c1-8e716017d2f0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "41. Embracing a Practical Privacy Paradigm Shift in App Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098152161/chapter/ch41.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098152161/chapter/ch41.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Under the Hood and Beyond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492089919/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492089919/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6.5.4 A deep learning network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780429875342/chapter/xhtml/20_Chapter6a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780429875342/chapter/xhtml/20_Chapter6a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What Is Python?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492039754/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492039754/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Knowledge and Memory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176495/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176495/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. AWS, Azure, and GCP Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492088899/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492088899/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Traffic Prediction Using Machine Learning and IoT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119768876/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119768876/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Unsupervised Learning in Accordance With New Aspects of Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119785804/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119785804/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine learning toolkit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789531091/chapter/0890148d-8ec5-4726-9c38-05bd3e4c0e07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789531091/chapter/0890148d-8ec5-4726-9c38-05bd3e4c0e07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. AI in Semiconductor Product Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809200/chapter/html/614224_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809200/chapter/html/614224_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "61. Business Realities Will Defeat Your Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492072652/chapter/ch61.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492072652/chapter/ch61.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Deep Learning and Neural Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234501/chapter/html/458833_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234501/chapter/html/458833_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Choose Your Deployment Option",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045106/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045106/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 LINEAR MODELS ON STEROIDS: NEURAL NETWORKS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168759/chapter/xhtml/ch11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168759/chapter/xhtml/ch11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Operationalizing AI Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484236796/chapter/html/463582_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484236796/chapter/html/463582_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: February 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169626/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169626/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Prerequisites and Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271766/chapter/html/506672_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271766/chapter/html/506672_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Creating the Model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263853/chapter/html/498035_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263853/chapter/html/498035_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PyTorch in the Wild",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045342/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045342/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. BERT Model Applications: Other Tasks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266649/chapter/html/498208_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266649/chapter/html/498208_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Approaching deep learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462138/chapter/ch04s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462138/chapter/ch04s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Artificial Intelligence and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804380/chapter/html/605993_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804380/chapter/html/605993_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Labeling in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492077053/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492077053/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Predicting Market Movements with Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492053347/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492053347/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Converting Text to Features",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273517/chapter/html/475440_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273517/chapter/html/475440_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Integrating Keras Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264218/chapter/html/501003_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264218/chapter/html/501003_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Solving Time and Memory Constraints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265796/chapter/html/494613_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265796/chapter/html/494613_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Options and Trade-Offs for Enterprises to Consume Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038214/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038214/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Challenges of Python Debugging in AI and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297452/chapter/html/606465_1_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297452/chapter/html/606465_1_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Service Desk Handbook: A guide to service desk implementation, management and support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787782372/chapter/xhtml/Chapter_08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787782372/chapter/xhtml/Chapter_08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Shaik Mohammad Rafee, M. Prasad, M. Sunil Kumar, Balamurugan Easwaran 2 AI technologies, tools, and industrial use cases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111324166/chapter/content/9783111323565_005929.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111324166/chapter/content/9783111323565_005929.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Intelligent Autonomous Electric Car",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394152254/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394152254/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Machine Learning with Dask",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098119867/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098119867/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Projects combining blockchain and AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956023/chapter/024d1d28-9c9c-463d-93fe-1862c0a89ab1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956023/chapter/024d1d28-9c9c-463d-93fe-1862c0a89ab1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Microsoft AI Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492058632/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492058632/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Machine Learning Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810701/chapter/html/613832_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810701/chapter/html/613832_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Artificial Neural Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492073048/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492073048/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Amit Adate, Dhruv Arya, Aditya Shaha, B. K. Tripathy 4 Impact of Deep Neural Learning on Artificial Intelligence Research",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110670929/chapter/content/bodymatter-004.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110670929/chapter/content/bodymatter-004.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Combining building blocks to gain more power: Neural networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295911/chapter/Text/10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295911/chapter/Text/10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 CYBELE: On the Convergence of HPC, Big Data Services, and AI Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000485172/chapter/html/ch24.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000485172/chapter/html/ch24.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Deep learning-based outlier detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436473/chapter/OEBPS/Text/16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436473/chapter/OEBPS/Text/16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Prioritize Which Data Skills Your Company Needs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647820251/chapter/10358/OEBPS/xhtml/chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647820251/chapter/10358/OEBPS/xhtml/chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using CoreML and Vision in Swift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839211195/chapter/a98779ce-312f-4133-9859-45c215901821.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839211195/chapter/a98779ce-312f-4133-9859-45c215901821.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Generative AI and Large Language Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138268442/chapter/ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138268442/chapter/ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Practical deep learning ANN demonstrations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251744/chapter/html/482214_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251744/chapter/html/482214_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Deep Learning–based Time Series Forecasting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289785/chapter/html/540422_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289785/chapter/html/540422_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enhancing Brand Presence with Few-Shot Learning and Transfer Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835889404/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835889404/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Modular and Productive Deep Learning Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281215/chapter/html/518852_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281215/chapter/html/518852_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Learning with PyTorch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835882702/chapter/Text/ch007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835882702/chapter/Text/ch007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. The Future of Hive",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484202715/chapter/A328792_1_En_11_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484202715/chapter/A328792_1_En_11_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Configuring Your Development Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273685/chapter/html/477043_2_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273685/chapter/html/477043_2_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Implementing CNN Algorithm for Medical Image Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394336012/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394336012/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Working with API and Networking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868816185/chapter/html/638469_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868816185/chapter/html/638469_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Solving Economic Problems Applying Artificial Neural Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274347/chapter/html/516940_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274347/chapter/html/516940_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Building Chatbots the Hard Way",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484240960/chapter/html/461879_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484240960/chapter/html/461879_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AI Adoption in the Enterprise 2020",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492081210/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492081210/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "22 Comparative study of generative adversarial networks for sensor data generation-based remaining useful life classification",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000862058/chapter/xhtml/C_026_c22.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000862058/chapter/xhtml/C_026_c22.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Attack Detection Using Deep Learning–Based Multimodal Biometric Authentication System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119791607/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119791607/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Deep Learning–Based Recommender System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289549/chapter/html/537881_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289549/chapter/html/537881_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. The Future of Business Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134389035/chapter/ch06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134389035/chapter/ch06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Techniques to Mitigate Security Risks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098107338/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098107338/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. AI Adoption in the Enterprise 2021",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098109196/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098109196/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Deep Learning and Cognitive Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135946527/chapter/ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135946527/chapter/ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Fruit Leaf Classification Using Transfer Learning for Automation and Industrial Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394234240/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394234240/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Databricks Intelligence Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098178482/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098178482/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Efficient Classification of Breast Cancer Diseases on Medical Images Using Deep Learning Methodology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275328/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275328/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Advanced Pragmatic Techniques and Specialized Topics in NLP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815829/chapter/html/649581_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815829/chapter/html/649581_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "OpenAI API Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805121350/chapter/B21007_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805121350/chapter/B21007_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Measure to fine tune success",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749483845/chapter/chapter-title09-02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749483845/chapter/chapter-title09-02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Artificial Intelligence in the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049814/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049814/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Step 6 – Deep and Reinforcement Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484228661/chapter/A434293_1_En_6_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484228661/chapter/A434293_1_En_6_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Importance of AI in Banking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788830782/chapter/1464aff7-9b01-4476-bce9-7da307ef0211.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788830782/chapter/1464aff7-9b01-4476-bce9-7da307ef0211.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Building TinyML Products",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815706/chapter/html/633738_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815706/chapter/html/633738_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python vs. R for Data Science",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492033943/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492033943/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Benchmarking Machine Learning Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809620/chapter/html/632779_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809620/chapter/html/632779_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. AI Model Life Cycle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138261542/chapter/ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138261542/chapter/ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deep Neural Network (DNN) Fundamentals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492044949/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492044949/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Big Data science and the role of Hadoop and Spark",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785884696/chapter/ch01s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785884696/chapter/ch01s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding DevOps to MLOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836200338/chapter/Text/Chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836200338/chapter/Text/Chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Advanced machine learning analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436107/chapter/Text/chapter-12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436107/chapter/Text/chapter-12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Can You Predict Bee Subspecies?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128519/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128519/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Artificial Neural Networks: Learning the Optimum Statistical Model from Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789451924/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789451924/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Deep artificial neural networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110646139/chapter/content/bodymatter-006.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110646139/chapter/content/bodymatter-006.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sohaib Asif, Wenhui Yi, Jin Hou, Tao Yi, Jinhai Si 14 Deep convolutional neural network for the classification of COVID-19 from chest X-ray images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110712278/chapter/content/9783110700206_037053.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110712278/chapter/content/9783110700206_037053.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Using Data Structures Effectively",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098136192/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098136192/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Leveraging Cloud Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484239513/chapter/html/468661_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484239513/chapter/html/468661_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A.1. Coding and software development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296246/chapter/kindle_split_032.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296246/chapter/kindle_split_032.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Open-Source Tools for Cloud-Native DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804076/chapter/html/615932_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804076/chapter/html/615932_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AI Concepts for Business Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781949991697/chapter/text/09_Chapter_9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781949991697/chapter/text/09_Chapter_9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Privacy and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484299821/chapter/html/611333_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484299821/chapter/html/611333_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Useful Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801074155/chapter/Notes.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801074155/chapter/Notes.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Practice Makes Perfect",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119901990/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119901990/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Cathedral and the Bazaar",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507867/chapter/f_0040.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507867/chapter/f_0040.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Giving Good-Enough Answers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508871/chapter/f_0023.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508871/chapter/f_0023.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13.3 What Are the Programming Languages?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836644934/chapter/13_003.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836644934/chapter/13_003.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "From Human Neurons to Artificial Neurons for Understanding Text",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838989590/chapter/8b2cf540-9825-4ec6-aea3-c2b773c4525f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838989590/chapter/8b2cf540-9825-4ec6-aea3-c2b773c4525f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Data Analytics and Collaborative Robots in Smart Territory: Research Methodology, Applications, and Open Challenges",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394198177/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394198177/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PyTorch Fundamentals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128182/chapter/text/ch005.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128182/chapter/text/ch005.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mapping Innovation: a playbook for navigating a disruptive age",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781259862243/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781259862243/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 What is generative AI and why PyTorch?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436466/chapter/Text/01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436466/chapter/Text/01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Architecture Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836208570/chapter/Text/Chapter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836208570/chapter/Text/Chapter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Airline Prediction Using Customer Feedback and Rating Using Machine Learning and Deep Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394212569/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394212569/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Monitoring and Anomaly Detection for Your Data Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098112035/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098112035/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Malware Data Science: Attack Detection and Attribution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492067672/chapter/xhtml/ch11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492067672/chapter/xhtml/ch11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Big Data, Analytics, and Machine Learning Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146887/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146887/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The End-to-End NLP Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492054047/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492054047/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud-Style VMs on Your Desktop",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835465202/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835465202/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. From sandbox to enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292474731/chapter/xhtml/Chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292474731/chapter/xhtml/Chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The .NET Software You’re Asked to Create",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043607/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043607/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: October 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098190293/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098190293/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Fine-Tuning Large Language Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835462317/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835462317/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Accelerated and Optimized Inferencing Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836203070/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836203070/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Developing a pragmatic learning strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299742/chapter/OEBPS/Text/ch01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299742/chapter/OEBPS/Text/ch01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Technical Interview: Model Training and Evaluation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146535/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146535/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "MLOps and Machine learning Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057680/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057680/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Machine Learning Primer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868811548/chapter/html/625243_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868811548/chapter/html/625243_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Step 6: Deep and Reinforcement Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249475/chapter/html/434293_2_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249475/chapter/html/434293_2_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Exploring Semantic Relationships with Word Embeddings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492074076/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492074076/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Moving LLMs into Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138199425/chapter/ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138199425/chapter/ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Need for Probabilistic Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492097662/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492097662/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Operational Excellence in MLOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810763/chapter/html/609560_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810763/chapter/html/609560_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Open Data Science Landscape",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491990735/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491990735/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Basics of Python Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484268254/chapter/html/496535_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484268254/chapter/html/496535_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code Management and Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491933213/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491933213/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Federated Learning and Data Science",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098129453/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098129453/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801816618/chapter/Text/Chapter_14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801816618/chapter/Text/Chapter_14.xhtml",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

@@ -1,0 +1,3297 @@
+{
+  "skill_name": "terraform",
+  "discovery_timestamp": 1759713943.3937612,
+  "total_books": 470,
+  "books": [
+    {
+      "title": "Terraform: Up and Running, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098116736/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098116736/",
+      "isbn": "9781098116743",
+      "format": "book"
+    },
+    {
+      "title": "Terraform in Depth",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438002/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438002/",
+      "isbn": "9781633438002",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835086018/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835086018/",
+      "isbn": "9781835086018",
+      "format": "book"
+    },
+    {
+      "title": "Terraform Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108458/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108458/",
+      "isbn": "9781098108465",
+      "format": "book"
+    },
+    {
+      "title": "Architecting AWS with Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248561/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248561/",
+      "isbn": "9781803248561",
+      "format": "book"
+    },
+    {
+      "title": "Terraform in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296895/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296895/",
+      "isbn": "9781617296895",
+      "format": "book"
+    },
+    {
+      "title": "Deep-Dive Terraform on Azure: Automated Delivery and Deployment of Azure Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273289/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273289/",
+      "isbn": "9781484273289",
+      "format": "book"
+    },
+    {
+      "title": "Terraform at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341649705/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341649705/",
+      "isbn": "9798341649712",
+      "format": "book"
+    },
+    {
+      "title": "Infrastructure-as-Code Automation Using Terraform, Packer, Vault, Nomad and Consul: Hands-on Deployment, Configuration, and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271292/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271292/",
+      "isbn": "9781484271292",
+      "format": "book"
+    },
+    {
+      "title": "Terraform: Up & Running, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492046899/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492046899/",
+      "isbn": "9781492046905",
+      "format": "book"
+    },
+    {
+      "title": "Terraform Made Easy: Provisioning, Managing and Automating Cloud Infrastructure with Terraform on Google Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810107/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810107/",
+      "isbn": "9798868810107",
+      "format": "book"
+    },
+    {
+      "title": "Beginning HCL Programming: Using Hashicorp Language for Automation and Configuration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266342/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266342/",
+      "isbn": "9781484266342",
+      "format": "book"
+    },
+    {
+      "title": "Terraform Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207554/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207554/",
+      "isbn": "9781800207554",
+      "format": "book"
+    },
+    {
+      "title": "Terraform Cookbook - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804616420/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804616420/",
+      "isbn": "9781804616420",
+      "format": "book"
+    },
+    {
+      "title": "Terraform: Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491977071/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491977071/",
+      "isbn": "9781491977088",
+      "format": "book"
+    },
+    {
+      "title": "The Terraform Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780988820258/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780988820258/",
+      "isbn": "9780988820258",
+      "format": "book"
+    },
+    {
+      "title": "HashiCorp Terraform Associate (003) Exam Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804618844/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804618844/",
+      "isbn": "9781804618844",
+      "format": "book"
+    },
+    {
+      "title": "Terraform for Google Cloud Essential Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804619629/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804619629/",
+      "isbn": "9781804619629",
+      "format": "book"
+    },
+    {
+      "title": "Bootstrapping Microservices with Docker, Kubernetes, and Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297212/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297212/",
+      "isbn": "9781617297212",
+      "format": "book"
+    },
+    {
+      "title": "DevOps Automation with Terraform and VMware",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492073765/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492073765/",
+      "isbn": "9781492073758",
+      "format": "book"
+    },
+    {
+      "title": "DevOps for SharePoint: With Packer, Terraform, Ansible, and Vagrant",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484236888/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484236888/",
+      "isbn": "9781484236888",
+      "format": "book"
+    },
+    {
+      "title": "Practical GitOps: Infrastructure Management Using Terraform, AWS, and GitHub Actions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286739/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286739/",
+      "isbn": "9781484286739",
+      "format": "book"
+    },
+    {
+      "title": "To Terraform or not to Terraform?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787289703/chapter/44c527a8-dc91-47d9-a65c-7e8dbf1e4f56.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787289703/chapter/44c527a8-dc91-47d9-a65c-7e8dbf1e4f56.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Java Microservices and Containers in the Cloud: With Spring Boot, Kafka, PostgreSQL, Kubernetes, Helm, Terraform and AWS EKS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805554/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805554/",
+      "isbn": "9798868805554",
+      "format": "book"
+    },
+    {
+      "title": "Day 2. Cisco SD-Access, Ansible, and Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138214036/chapter/ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138214036/chapter/ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automating Cloud Deployments with Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234243/chapter/Text/Chapter_20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234243/chapter/Text/Chapter_20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. PaC and Terraform IaC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098139179/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098139179/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DevOps Simplified: Zero-Maintenance Strategies for AWS EKS: Efficient Deployment and Management Strategies for AWS EKS Environments with Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810589/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810589/",
+      "isbn": "9798868810589",
+      "format": "book"
+    },
+    {
+      "title": "11. Automate System Deployments with Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484283189/chapter/html/523999_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484283189/chapter/html/523999_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Terraform Cloud in Five Minutes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098101459/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098101459/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying a Docker Swarm to AWS EC2 with Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838987572/chapter/8551a26c-6834-4df6-b392-60a15c20f6ff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838987572/chapter/8551a26c-6834-4df6-b392-60a15c20f6ff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Infrastructure as Code Using Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057086/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057086/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Hands-on Infrastructure as Code with Hashicorp Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286890/chapter/html/519207_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286890/chapter/html/519207_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Go for DevOps: Develop production-grade CLIs, Terraform providers, and cloud-native tools with Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837027330/chapter/text/ch001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837027330/chapter/text/ch001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Terraform and Ansible Dancing Together",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835887981/chapter/Text/B22349_15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835887981/chapter/Text/B22349_15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20. Terraform API with Examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138029777/chapter/ch20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138029777/chapter/ch20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Use Terraform to Create GitHub Issues and Milestones",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651575/chapter/f_0017.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651575/chapter/f_0017.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating Terraform with Azure Cloud Shell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642730/chapter/e551da5a-72cc-4fbf-9627-ffd1f0ce1e3b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642730/chapter/e551da5a-72cc-4fbf-9627-ffd1f0ce1e3b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25 Ansible and Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633435780/chapter/Text/25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633435780/chapter/Text/25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IaC with Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838643577/chapter/6eb3ca98-e386-4eef-b938-9a6875492b3d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838643577/chapter/6eb3ca98-e386-4eef-b938-9a6875492b3d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a custom VM using Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838647438/chapter/a4db62c3-518f-4c43-a9b2-e019066955b8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838647438/chapter/a4db62c3-518f-4c43-a9b2-e019066955b8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Infrastructure as Code with Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789539974/chapter/1528f579-c596-4cda-8f8c-09f2c7772c5e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789539974/chapter/1528f579-c596-4cda-8f8c-09f2c7772c5e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623513/chapter/91744310-0bc6-4259-bee6-2b95dc47fdc9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623513/chapter/91744310-0bc6-4259-bee6-2b95dc47fdc9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Embracing OpenStack orchestration - Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463982/chapter/4bbcbe5b-e568-47b8-8a29-7bce3a3517e6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463982/chapter/4bbcbe5b-e568-47b8-8a29-7bce3a3517e6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying AWS Lambda with Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789134612/chapter/d2568879-c48d-4e93-b93d-4e0e1fa7b01a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789134612/chapter/d2568879-c48d-4e93-b93d-4e0e1fa7b01a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Provisioning IaaS with Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464910/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464910/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Terraform - a tool to build infrastructure as code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787129313/chapter/49f55a2e-0392-4e9b-a831-f76d733be591.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787129313/chapter/49f55a2e-0392-4e9b-a831-f76d733be591.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying and configuring a Mesos cluster using Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886249/chapter/ch05s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886249/chapter/ch05s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploy Terraform templates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786460141/chapter/ch05s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786460141/chapter/ch05s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Event-driven architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136203/chapter/351fe64e-bff6-4540-a3ad-9c3af6ed462a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136203/chapter/351fe64e-bff6-4540-a3ad-9c3af6ed462a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Formation alternatives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623797/chapter/d6fd17a6-b7bd-4ee8-87ce-a0e2f4685ee7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623797/chapter/d6fd17a6-b7bd-4ee8-87ce-a0e2f4685ee7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Infrastructure as code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438569/chapter/OEBPS/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438569/chapter/OEBPS/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pipeline as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297540/chapter/OEBPS/Text/title.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297540/chapter/OEBPS/Text/title.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Oracle Cloud Infrastructure Architect Associate All-in-One Exam Guide (Exam 1Z0-1072)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260452600/chapter/ch7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260452600/chapter/ch7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Infrastructure Automation and Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137902835/chapter/ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137902835/chapter/ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Infrastructure as Code, Patterns and Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298295/chapter/OEBPS/Text/title.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298295/chapter/OEBPS/Text/title.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to do it...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788479509/chapter/e454f1fd-f941-48ac-ae1b-1454bca5b684.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788479509/chapter/e454f1fd-f941-48ac-ae1b-1454bca5b684.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Cloud Management Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810800/chapter/html/623266_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810800/chapter/html/623266_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multivendor Provisioning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134218229/chapter/ch05lev2sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134218229/chapter/ch05lev2sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803237688/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803237688/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Infrastructure as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484260111/chapter/html/496790_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484260111/chapter/html/496790_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Infrastructure as Code (IaC)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484259580/chapter/html/336094_2_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484259580/chapter/html/336094_2_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Automating IAM Policies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868816970/chapter/html/652994_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868816970/chapter/html/652994_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24. Advanced DevOps and Infrastructure Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297896/chapter/html/610217_1_En_24_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297896/chapter/html/610217_1_En_24_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "There's more...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787123243/chapter/3754ceac-3797-4d05-a0da-e7583e6bd67c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787123243/chapter/3754ceac-3797-4d05-a0da-e7583e6bd67c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AWS EKS Essentials: A Comprehensive Guide to Setting Up, Securing, and Scaling EKS Clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813313/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813313/",
+      "isbn": "9798868813313",
+      "format": "book"
+    },
+    {
+      "title": "2. Infrastructure as Code: Setting Up the Gateway",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492090953/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492090953/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AWS for System Administrators",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800201538/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800201538/",
+      "isbn": "9781800201538",
+      "format": "book"
+    },
+    {
+      "title": "Automating host deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787122123/chapter/ch10s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787122123/chapter/ch10s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PostgreSQL with DevOps for Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838648145/chapter/8129c071-ef61-4883-8e2f-e3ef0619f182.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838648145/chapter/8129c071-ef61-4883-8e2f-e3ef0619f182.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B18875_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804612491/chapter/B18875_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804612491/chapter/B18875_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rust Web Programming - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234694/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234694/",
+      "isbn": "9781803234694",
+      "format": "book"
+    },
+    {
+      "title": "Cisco ACI: Zero to Hero: A Comprehensive Guide to Cisco ACI Design, Implementation, Operation, and Troubleshooting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288382/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288382/",
+      "isbn": "9781484288382",
+      "format": "book"
+    },
+    {
+      "title": "8. Deploying Istio in Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815737/chapter/html/640446_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815737/chapter/html/640446_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Related publications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738457635/chapter/8440bibl.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738457635/chapter/8440bibl.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Infrastructure as Code and Service Mesh",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280324/chapter/html/511560_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280324/chapter/html/511560_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Building an Infrastructure Pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492075448/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492075448/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IBM AIX Enhancements and Modernization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738458281/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738458281/",
+      "isbn": "9780738458281",
+      "format": "book"
+    },
+    {
+      "title": "Container runtime",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788477321/chapter/a35b3c6a-242c-4e56-bd94-e8f079b565b9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788477321/chapter/a35b3c6a-242c-4e56-bd94-e8f079b565b9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B19252_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804614136/chapter/B19252_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804614136/chapter/B19252_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Observability with Grafana",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248004/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248004/",
+      "isbn": "9781803248004",
+      "format": "book"
+    },
+    {
+      "title": "Orchestration tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789131499/chapter/85def48a-ee4e-41cd-bea2-db2220d19f64.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789131499/chapter/85def48a-ee4e-41cd-bea2-db2220d19f64.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python for DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057680/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057680/",
+      "isbn": "9781492057642",
+      "format": "book"
+    },
+    {
+      "title": "Adopting Elixir",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505832/chapter/f_0036.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505832/chapter/f_0036.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788295826/chapter/2bb2228a-31f7-4fa0-8ebb-2eceb571df58.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788295826/chapter/2bb2228a-31f7-4fa0-8ebb-2eceb571df58.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Oracle Cloud Infrastructure: Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255063/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255063/",
+      "isbn": "9781484255063",
+      "format": "book"
+    },
+    {
+      "title": "12. Your Application and HA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838820756/chapter/B14870_12_Final_SZ_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838820756/chapter/B14870_12_Final_SZ_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automating Security Detection Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837636419/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837636419/",
+      "isbn": "9781837636419",
+      "format": "book"
+    },
+    {
+      "title": "9. Automation and Orchestration of Container Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262160/chapter/html/491282_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262160/chapter/html/491282_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Kubernetes on Cloud Providers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813252/chapter/html/618701_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813252/chapter/html/618701_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker Certified Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789617375/chapter/03b78027-3a5d-40ff-960d-81a658772261.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789617375/chapter/03b78027-3a5d-40ff-960d-81a658772261.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Migrating from Other Tools to Pulumi",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835467527/chapter/Text/Chapter_15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835467527/chapter/Text/Chapter_15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Stay Sharp in Cloud and DevOps – Join 44,000+ Subscribers of CloudPro",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836203513/chapter/Section0004.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836203513/chapter/Section0004.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Recreating our Hello World example with CloudFormation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466815/chapter/7cfd52bc-9734-4ccb-85ae-a1bfb7fe61ff.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466815/chapter/7cfd52bc-9734-4ccb-85ae-a1bfb7fe61ff.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generate Imaginary Topography",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596007035/chapter/chapter-331.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596007035/chapter/chapter-331.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B10533_11_Final_NM_ePUB",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130935/chapter/B10533_11_Final_NM_ePUB.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130935/chapter/B10533_11_Final_NM_ePUB.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying a multinode production-ready cluster on AWS using Kops",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788394925/chapter/488ee315-3975-41a6-a56f-f2233ead5bc4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788394925/chapter/488ee315-3975-41a6-a56f-f2233ead5bc4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Zero Trust in Resilient Cloud and Network Architectures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138204501/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138204501/",
+      "isbn": "9780138204501",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Auditing Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803243771/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803243771/",
+      "isbn": "9781803243771",
+      "format": "book"
+    },
+    {
+      "title": "7 Coding infrastructure and managing deployments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437616/chapter/OEBPS/Text/07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437616/chapter/OEBPS/Text/07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Identity and Access Management for Cloud and DevOps Engineers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836642312/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836642312/",
+      "isbn": "9781836642312",
+      "format": "book"
+    },
+    {
+      "title": "Further reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789130966/chapter/31a60e56-92a1-4195-ab5a-85e28053df76.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789130966/chapter/31a60e56-92a1-4195-ab5a-85e28053df76.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Cloud Management Platform Integration and Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270837/chapter/html/506147_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270837/chapter/html/506147_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Azure Cloud Native Architecture Mapbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800562325/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800562325/",
+      "isbn": "9781800562325",
+      "format": "book"
+    },
+    {
+      "title": "5. Automate Your Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492062400/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492062400/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IIoT application deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298599/chapter/f1bfb173-e120-4e83-b7ba-8ee2c523d826.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298599/chapter/f1bfb173-e120-4e83-b7ba-8ee2c523d826.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Integrating AWS CodeCommit with Jenkins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280232/chapter/html/516178_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280232/chapter/html/516178_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Über die Autoren",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168971/chapter/xhtml/Author_9783960108337.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168971/chapter/xhtml/Author_9783960108337.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Deploying Azure Kubernetes Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255193/chapter/html/484429_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255193/chapter/html/484429_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Cloud Infrastructure, DevOps, and Monitoring in Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098113315/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098113315/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Docker for Rails Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506730/chapter/f_0089.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506730/chapter/f_0089.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Go Client Library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789619270/chapter/d8e60d7e-d624-4e7f-9987-e0bd90cc31b1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789619270/chapter/d8e60d7e-d624-4e7f-9987-e0bd90cc31b1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Orchestrating cloud resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472906/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472906/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Benefits of moving to the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782177340/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782177340/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring your Kubernetes cluster on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837606/chapter/94783ea6-fb49-4e58-b120-8e0e18940f33.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837606/chapter/94783ea6-fb49-4e58-b120-8e0e18940f33.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. NGINX and NGINX Plus on Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098115852/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098115852/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Generative AI for IaC and Data Provisioning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868816949/chapter/html/657802_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868816949/chapter/html/657802_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Deploying Our Application on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835887769/chapter/text/ch017.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835887769/chapter/text/ch017.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Maintaining deployment state",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837675/chapter/cca2098f-40b0-421e-903e-92ca9fb21394.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837675/chapter/cca2098f-40b0-421e-903e-92ca9fb21394.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472425/chapter/2c238759-396b-4318-824b-32be9b00b3c0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472425/chapter/2c238759-396b-4318-824b-32be9b00b3c0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Infrastructure as code for clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838821562/chapter/7429bf5d-7aed-4b1a-9dfb-7292b76c20f4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838821562/chapter/7429bf5d-7aed-4b1a-9dfb-7292b76c20f4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Elastic MapReduce",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788620642/chapter/5cedd0b2-3d65-4524-8183-4720dc973cfa.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788620642/chapter/5cedd0b2-3d65-4524-8183-4720dc973cfa.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Consul integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789615791/chapter/4f7b641e-87e0-4a18-9089-750b491b451b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789615791/chapter/4f7b641e-87e0-4a18-9089-750b491b451b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Serverless Through the AWS Well-Architected Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484291597/chapter/html/526296_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484291597/chapter/html/526296_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Security in Cloud-Native Applications with a Shift-Left Approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804076/chapter/html/615932_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804076/chapter/html/615932_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing configuration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838823818/chapter/5ec58743-163a-4bbc-80b7-503f5fb3e7c8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838823818/chapter/5ec58743-163a-4bbc-80b7-503f5fb3e7c8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Bootstrapping Service Mesh Implementations with Istio",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803246819/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803246819/",
+      "isbn": "9781803246819",
+      "format": "book"
+    },
+    {
+      "title": "The need for reliable software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788839563/chapter/f5926b52-a1fd-46a6-af25-77aceba43891.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788839563/chapter/f5926b52-a1fd-46a6-af25-77aceba43891.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Go by Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299896/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299896/",
+      "isbn": "9781617299896",
+      "format": "book"
+    },
+    {
+      "title": "12. Google Cloud Networking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492092889/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492092889/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud availability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788625821/chapter/62e105ff-4f97-4204-8f80-241361bcafa3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788625821/chapter/62e105ff-4f97-4204-8f80-241361bcafa3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Creating a Dataproc Cluster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098157692/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098157692/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "23. Cloud Foundations and Landing Zones",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288207/chapter/html/531503_1_En_23_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288207/chapter/html/531503_1_En_23_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Deployment at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288016/chapter/html/533673_1_En_16_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288016/chapter/html/533673_1_En_16_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Deployment and Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258170/chapter/html/487346_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258170/chapter/html/487346_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software defined infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469755/chapter/ch11s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469755/chapter/ch11s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "74. Principles, Patterns, and Practices for Effective Infrastructure as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076728/chapter/ch74.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076728/chapter/ch74.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Evolution of Cloud Native Deployments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491984291/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491984291/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Why Platform Engineering Is Becoming Essential",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098153632/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098153632/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Using Falco for Cloud Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098118563/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098118563/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying and Updating Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804611395/chapter/Text/Chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804611395/chapter/Text/Chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Contributing to CDK",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098158767/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098158767/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Second Life: A Guide to Your Virtual World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321501660/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321501660/",
+      "isbn": "9780321501660",
+      "format": "book"
+    },
+    {
+      "title": "Various approaches to deployment automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808896/chapter/2ba0070a-9ed2-4cab-99de-66d7ccfbaaf9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808896/chapter/2ba0070a-9ed2-4cab-99de-66d7ccfbaaf9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Identifying Early Adopters of Platforms and Delivering Quick Wins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837638055/chapter/text/ch009.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837638055/chapter/text/ch009.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Managing and Securing AVD Solution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484277966/chapter/html/518075_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484277966/chapter/html/518075_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 The self-serve data platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439979/chapter/OEBPS/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439979/chapter/OEBPS/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Databricks Platform Overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804441/chapter/html/625176_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804441/chapter/html/625176_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Given a Scenario, Securely Implement Cloud Capabilities in an Enterprise Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836640974/chapter/Text/10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836640974/chapter/Text/10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801076302/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801076302/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Patterns for Defining Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491924334/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491924334/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. DevOps and Tooling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287613/chapter/html/536446_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287613/chapter/html/536446_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automation as a Service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789958355/chapter/345e844d-75c4-4791-9c01-58ae0d06f50b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789958355/chapter/345e844d-75c4-4791-9c01-58ae0d06f50b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Infrastructure as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299421/chapter/OEBPS/Text/01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299421/chapter/OEBPS/Text/01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Logstash Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780988820210/chapter/ch001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780988820210/chapter/ch001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Green Software Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835885888/chapter/B22122_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835885888/chapter/B22122_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing Costs with FinOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804616734/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804616734/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multicloud Infrastructure Orchestration and Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492050407/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492050407/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "“Full-Stack Developer” Is a Mindset",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491952689/chapter/ch28.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491952689/chapter/ch28.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Thinking of Cloud Platforms as a Software Problem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492095187/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492095187/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Cross-Functional Requirements Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108120/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108120/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuring JMeter slave nodes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787285774/chapter/1f4ddd0d-e425-44b2-a37e-730e660dadfb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787285774/chapter/1f4ddd0d-e425-44b2-a37e-730e660dadfb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting Up a TensorFlow Lab",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800200883/chapter/Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800200883/chapter/Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further readings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838550356/chapter/7f245d71-8f87-4fe6-ad17-1b323ba7098d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838550356/chapter/7f245d71-8f87-4fe6-ad17-1b323ba7098d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Estate Management Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484279847/chapter/html/518154_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484279847/chapter/html/518154_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Setting Up an Environment on GCP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262436/chapter/html/495003_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262436/chapter/html/495003_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Organizing Your Artwork with Layers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137622375/chapter/ch10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137622375/chapter/ch10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Full-Stack Web Development with GraphQL and React",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801077880/chapter/B17337_FM_Final_ASB_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801077880/chapter/B17337_FM_Final_ASB_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Art of Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780988820241/chapter/text/ch001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780988820241/chapter/text/ch001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying to the cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284951/chapter/81414f64-77e0-4be5-bae1-d3f3dde83cd9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284951/chapter/81414f64-77e0-4be5-bae1-d3f3dde83cd9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Deployment and Scaling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295113/chapter/html/603470_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295113/chapter/html/603470_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python Essentials for AWS Cloud Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804610060/chapter/B19195_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804610060/chapter/B19195_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Architecting a Secure Infrastructure for APEX",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281703/chapter/html/523937_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281703/chapter/html/523937_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B16483_TOC_Final_VK_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800568730/chapter/B16483_TOC_Final_VK_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800568730/chapter/B16483_TOC_Final_VK_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Technology Trends for 2025",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341621114/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341621114/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Core Practice: Define Everything as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098114664/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098114664/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration and Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134278308/chapter/CICD.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134278308/chapter/CICD.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Manage and Secure AVS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484283127/chapter/html/525821_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484283127/chapter/html/525821_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Azure Kubernetes Service (AKS)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788833936/chapter/e3ab36e4-c608-4b46-88d2-3b09e9f25938.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788833936/chapter/e3ab36e4-c608-4b46-88d2-3b09e9f25938.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Docker Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780988820203/chapter/text/ch001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780988820203/chapter/text/ch001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: July 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098177713/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098177713/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "LAND INFORMATION FUNCTIONS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470339831/chapter/chapter-63.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470339831/chapter/chapter-63.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning on Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803241807/chapter/B18332_FM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803241807/chapter/B18332_FM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IaC (Infrastructure as Code)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/20201229PAIML/chapter/chapter-16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/20201229PAIML/chapter/chapter-16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Security Exploitation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801819770/chapter/Text/Chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801819770/chapter/Text/Chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Learning Ansible Basic Concepts III: Git, Tags, Managing Files, and Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296240/chapter/html/605402_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296240/chapter/html/605402_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Pentesting the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341620032/chapter/xhtml/chapter16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341620032/chapter/xhtml/chapter16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Infrastructure Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491925935/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491925935/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deepen Your Investigation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650837/chapter/f_0116.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650837/chapter/f_0116.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Cloud Cost Visibility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803888/chapter/html/620203_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803888/chapter/html/620203_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Scaling and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038009/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038009/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. GitOps: Git as the Source of Truth",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098102647/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098102647/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mapping Lambda with S3",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835770/chapter/54699aee-543b-48d5-abb6-4a0a155b24bf.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835770/chapter/54699aee-543b-48d5-abb6-4a0a155b24bf.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Building a Control Plane with Crossplane",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146306/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146306/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Provisioning Resources with Azure DevOps and Azure CLI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282519/chapter/html/523943_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282519/chapter/html/523943_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing Virtual Machines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838551452/chapter/83cb4cab-25aa-4025-8da5-f7fe9ad2e62e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838551452/chapter/83cb4cab-25aa-4025-8da5-f7fe9ad2e62e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Azure Data and AI Architect Handbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234861/chapter/B18253_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234861/chapter/B18253_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring Boot and Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803243214/chapter/B18159_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803243214/chapter/B18159_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Infrastructure, DevOps, and Monitoring with Copilot and AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817847/chapter/html/660323_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817847/chapter/html/660323_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Azure Resource Manager",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297625/chapter/OEBPS/Text/06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297625/chapter/OEBPS/Text/06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Deploying Azure SQL DB Hyperscale Using PowerShell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292259/chapter/html/535743_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292259/chapter/html/535743_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Principle 1: Understand Which Linux VMs Are Adaptable to the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492040934/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492040934/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Useful Links by Topic (1/4)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466579613/chapter/chapter-87.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466579613/chapter/chapter-87.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuration Management in Product Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284261219/chapter/xhtml/9781284261257_CH14_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284261219/chapter/xhtml/9781284261257_CH14_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. How to Manage Your Infrastructure as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174583/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174583/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Embracing the Spirit of Ubuntu",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835465202/chapter/Text/Chapter_19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835465202/chapter/Text/Chapter_19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. SAP S/4HANA on AWS Elastic Compute Cloud – Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281581/chapter/html/515586_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281581/chapter/html/515586_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Cloud Computing Journey",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805122289/chapter/B20994_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805122289/chapter/B20994_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Full-Stack Web Development with TypeScript 5",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835885581/chapter/B22111_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835885581/chapter/B22111_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating clusters in the cloud (GCP, AWS, Azure)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786461001/chapter/ch02s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786461001/chapter/ch02s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Windows Subsystem for Linux 2 (WSL 2) Tips, Tricks, and Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800562448/chapter/B16412_FM_Final_JC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800562448/chapter/B16412_FM_Final_JC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ASP.NET Core and Vue.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800206694/chapter/B15970_FM_ePub_RK.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800206694/chapter/B15970_FM_ePub_RK.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Managing Multiple Clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098142155/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098142155/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Securing the Entire Cloud Native App",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098105631/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098105631/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Elevating skills in Azure Governance and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815270/chapter/html/472358_2_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815270/chapter/html/472358_2_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 A walkthrough of system design concepts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439108/chapter/Text/01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439108/chapter/Text/01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Asset Management and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098127237/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098127237/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Azure for Decision Makers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837639915/chapter/B19712_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837639915/chapter/B19712_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Aligning with the Experience Planes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156213/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156213/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Moving to Agile with Infrastructure as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484275054/chapter/html/521084_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484275054/chapter/html/521084_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Infrastructure as Code and GitOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341627697/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341627697/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Clinical Trial Problem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806109654/chapter/TECHDOME.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806109654/chapter/TECHDOME.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Effective Dependency Management in Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098144623/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098144623/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Speaking Kubernetes and Other Strange-Sounding Names",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098103729/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098103729/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Time for action – take a swim",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849516464/chapter/ch08s17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849516464/chapter/ch08s17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Managing your self-hosted runners",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437302/chapter/OEBPS/Text/07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437302/chapter/OEBPS/Text/07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Implementing aDevOps Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295472/chapter/html/537980_1_En_19_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295472/chapter/html/537980_1_En_19_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Automate Deployment of Database Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815850/chapter/html/541779_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815850/chapter/html/541779_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing Your First Kubernetes Cluster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835464717/chapter/Chapter_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835464717/chapter/Chapter_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A short history of infrastructure management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789135503/chapter/3ded1b62-e383-45bf-91c7-ce91016f93dd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789135503/chapter/3ded1b62-e383-45bf-91c7-ce91016f93dd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Alternative orchestration tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438200/chapter/Text/chapter-9.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438200/chapter/Text/chapter-9.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native Requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491994931/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491994931/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Automating Production Environments for Quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258507/chapter/html/491028_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258507/chapter/html/491028_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Reduce Cyber Security Vulnerabilities: IaaS and Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265314/chapter/html/437067_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265314/chapter/html/437067_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Data Security Design Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098165826/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098165826/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Integrating Generative AI in Software Design and Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810442/chapter/html/630734_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810442/chapter/html/630734_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Developing on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266281/chapter/html/489247_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266281/chapter/html/489247_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing Multiple Clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056461/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056461/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Navigating cloud careers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398616233/chapter/content/19_chapter12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398616233/chapter/content/19_chapter12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25. Managing TLS Certificates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491907993/chapter/ch25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491907993/chapter/ch25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Design Is a Give-and-Take Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284233988/chapter/xhtml/9781284646085_CH17_04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284233988/chapter/xhtml/9781284646085_CH17_04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Evolution of Cloud Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780173580/chapter/33_chapter21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780173580/chapter/33_chapter21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enterprise Integration with Azure Logic Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801074728/chapter/B17395_FM_Final_VK_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801074728/chapter/B17395_FM_Final_VK_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Get Your Hands Dirty on Clean Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128373/chapter/B19916_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128373/chapter/B19916_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Of Builders and Villains…",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119983934/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119983934/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Oracle and Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270325/chapter/html/499897_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270325/chapter/html/499897_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DevOpsSec: Delivering Secure Software through Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491971413/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491971413/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Advanced Use Cases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106133/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106133/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Network Automation and Programmability Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835887486/chapter/B31504_18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835887486/chapter/B31504_18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Raising the Bar, Providing the Right Developer Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169701/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169701/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Security Standards and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809323/chapter/html/609480_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809323/chapter/html/609480_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Object, Block, and Streaming Storage with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492074281/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492074281/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deployment Platforms, Infrastructure, and Continuous Delivery of Java Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491986011/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491986011/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Architecture Patterns and Decisions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098157760/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098157760/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Architectural Reliability Considerations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835084236/chapter/Text/Chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835084236/chapter/Text/Chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Cloud-Native Application Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288320/chapter/html/529951_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288320/chapter/html/529951_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Multi-cloud (app) infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299322/chapter/OEBPS/Text/05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299322/chapter/OEBPS/Text/05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Declarative Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492035527/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492035527/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Cloud Security and Cloud Native Considerations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098158026/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098158026/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Setting Up Oracle GoldenGate on the OCI Marketplace",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803031/chapter/html/600741_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803031/chapter/html/600741_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Modernizing with hybrid cloud and multicloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801077972/chapter/B17153_03_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801077972/chapter/B17153_03_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a Developer Portal",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835086957/chapter/Text/Chapter_19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835086957/chapter/Text/Chapter_19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Azure Well-Architected Framework (WAF)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815454/chapter/html/521227_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815454/chapter/html/521227_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: May 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174637/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174637/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. EKS (Kubernetes) SaaS: Architecture Patterns and Strategies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098140632/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098140632/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 DevSecOps: Microsoft Defender for DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438811/chapter/OEBPS/Text/11.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438811/chapter/OEBPS/Text/11.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Operators and Custom Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815133/chapter/html/644369_1_En_17_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815133/chapter/html/644369_1_En_17_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. The Future of CI/CD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812095/chapter/html/625172_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812095/chapter/html/625172_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Microsoft and Open Source",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098178284/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098178284/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Epilogue: Offworld Prospects for Human Emergence (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781599961675/chapter/chapter-105.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781599961675/chapter/chapter-105.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Culture, Governance, and Organization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098149529/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098149529/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adopting DevOps and Cloud Native Culture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492083177/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492083177/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Architecting SQL-Driven Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341627475/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341627475/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Pitfalls of CI/CD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292280/chapter/html/541012_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292280/chapter/html/541012_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mergers, Acquisitions, and Other Restructuring Activities",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128150764/chapter/B9780128150757099903_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128150764/chapter/B9780128150757099903_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. People and Processes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098127459/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098127459/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radar Trends to Watch: June 2025",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341656574/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341656574/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Deployment Manager",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838555276/chapter/0df68038-a59f-4e76-9733-28e6e4201ea6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838555276/chapter/0df68038-a59f-4e76-9733-28e6e4201ea6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492040750/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492040750/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Self-Service Data Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098127596/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098127596/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Security & IAM, it Starts Day 0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098154752/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098154752/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Continuous Monitoring and Changes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251300/chapter/html/479618_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251300/chapter/html/479618_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. DevOps Architecture Blueprints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264126/chapter/html/501036_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264126/chapter/html/501036_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a Modern Data Platform on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804614426/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804614426/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advantages of using PHP on microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125377/chapter/ch01s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125377/chapter/ch01s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Authentication and Authorization Using Azure Active Directory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271223/chapter/html/510166_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271223/chapter/html/510166_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tags, Labels, and Accounts, Oh My!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492054610/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492054610/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Gray Hat Hacking: The Ethical Hacker’s Handbook, Fifth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260108422/chapter/ch8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260108422/chapter/ch8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "02 Comparing DevOps methods",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398616585/chapter/content/09_chapter02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398616585/chapter/content/09_chapter02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Technology Trends for 2023",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098148744/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098148744/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Building Your First Azure Resource Manager Template",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484277478/chapter/html/508989_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484277478/chapter/html/508989_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B11641_08_Final_AM_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789536058/chapter/B11641_08_Final_AM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789536058/chapter/B11641_08_Final_AM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Deploying Azure SQL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809743/chapter/html/496204_2_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809743/chapter/html/496204_2_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing SRE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492054429/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492054429/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. 2022 Cloud Salary Survey",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098137991/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098137991/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding the Earth texture material",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785887871/chapter/ch06s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785887871/chapter/ch06s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Architecting a Streaming Data Mesh",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098130718/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098130718/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Security, Maintainability, and Reliability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341634749/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341634749/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Lights, Camera, Action!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804274/chapter/html/621646_1_En_19_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804274/chapter/html/621646_1_En_19_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Patterns for AI and ML Adoption",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341623224/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341623224/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Work Time Organization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297957/chapter/html/606766_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297957/chapter/html/606766_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Infrastructure Aspect",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045946/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045946/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Data Journey and Data Storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156008/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156008/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Tags, Labels, and Accounts, Oh My!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492098348/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492098348/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Developing on Databricks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341608245/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341608245/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Azure DevOps Overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803238937/chapter/text/ch002.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803238937/chapter/text/ch002.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Automating Database Deployment on Kubernetes with Helm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098111380/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098111380/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. The Future of Data Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108298/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108298/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Scaling: Hardware, Infrastructure, and Resource Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098154196/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098154196/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Operating AWS Lambda Functions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492041047/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492041047/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Designing and Configuring Infrastructure for Composable Architectures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098178956/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098178956/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuration Specifics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492029496/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492029496/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern Approaches to Security and Compliance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804613672/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804613672/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21 Tools for the modern job hunt",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299070/chapter/OEBPS/Text/ch21_Jones11.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299070/chapter/OEBPS/Text/ch21_Jones11.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. A Day in the Life of an SRE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492090540/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492090540/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a Kubernetes cluster in AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838643546/chapter/244fd5b2-db6a-4d67-86c3-9fe5f2eae1fc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838643546/chapter/244fd5b2-db6a-4d67-86c3-9fe5f2eae1fc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Navigating Challenges in Transitioning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812644/chapter/html/631109_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812644/chapter/html/631109_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Case Study: Strategic Data Transformation at ZEISS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098178826/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098178826/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Vulnerability Management Maturity Model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394221202/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394221202/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Storing your objects: S3",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439160/chapter/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439160/chapter/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CNAPP Design Considerations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836204879/chapter/Text/Chapter_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836204879/chapter/Text/Chapter_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Containerization, Orchestration, and Deployments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146887/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146887/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. SOFTWARE TOOLS TO SUPPORT DIGITAL SOLUTION DELIVERY",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780177137/chapter/html/27_ch12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780177137/chapter/html/27_ch12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Building processors and Fluent Bit extension options",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437470/chapter/Text/chapter-9.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437470/chapter/Text/chapter-9.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. MySQL in the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492080503/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492080503/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Cloud-Native Development within Radical Therapy Philosophy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801877/chapter/html/614301_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801877/chapter/html/614301_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Putting It All Together",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098162412/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098162412/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Infrastructure and Networking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098173401/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098173401/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Scaling Access: An Example Using Teleport",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098131883/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098131883/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Infrastructure and Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137500031/chapter/ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137500031/chapter/ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20: Convert Local Discoveries into Global Improvements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098182281/chapter/44-ch20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098182281/chapter/44-ch20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Which Way Science?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781844070183/chapter/14_Chapter_08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781844070183/chapter/14_Chapter_08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. A Modern Messaging Infrastructure: The Apache Kafka Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098143381/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098143381/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DevOps and Solution Architecture Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838645649/chapter/d655eaa3-491b-487a-a419-e662598e8667.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838645649/chapter/d655eaa3-491b-487a-a419-e662598e8667.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20. The Case for Security Chaos Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043850/chapter/ch20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043850/chapter/ch20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Road to AI-Native DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098171988/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098171988/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Azure Identity, Access, and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098167813/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098167813/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Why Kubernetes exists",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297557/chapter/Text/ch01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297557/chapter/Text/ch01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Implement Infrastructure as a Service (IaaS) Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293003/chapter/html/536931_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293003/chapter/html/536931_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Sources and Sinks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296642/chapter/OEBPS/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296642/chapter/OEBPS/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Protecting Your Runtime",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098141691/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098141691/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Azure Function Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098173487/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098173487/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Deploying to Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262559/chapter/html/501438_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262559/chapter/html/501438_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enabling IBM Cloud Pak for Multicloud Management to Connect Kubernetes Clusters Using IBM Secure Gateway",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459165/chapter/5615paper.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459165/chapter/5615paper.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Network Defense Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254318/chapter/html/483938_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254318/chapter/html/483938_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Cluster Installation and Upgrade",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341608399/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341608399/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. People, Process, and Organizational Structure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098136260/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098136260/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Architectural Patterns for LLM Adoption in Agentic AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815423/chapter/html/631522_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815423/chapter/html/631522_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring Next-Gen MLOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836200338/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836200338/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Planning and Managing AI Solutions in Microsoft Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169251/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169251/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Principle of the Self-Serve Data Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492092384/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492092384/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Migration to Multitenant and Fleet Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810381/chapter/html/214899_5_En_17_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810381/chapter/html/214899_5_En_17_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Writing an infrastructure DSL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437494/chapter/Text/chapter-9.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437494/chapter/Text/chapter-9.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. DevOps and DevSecOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098101787/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098101787/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Foundations in Cloud Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273258/chapter/html/498963_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273258/chapter/html/498963_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Development Life Cycle of a DIApp",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838822293/chapter/dce2532d-dc68-42b1-996e-8b5f3336848e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838822293/chapter/dce2532d-dc68-42b1-996e-8b5f3336848e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Essential Background on Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098167196/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098167196/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Data pipeline continuous integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436855/chapter/Text/chapter-15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436855/chapter/Text/chapter-15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Welcome to The Linux Family",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835881101/chapter/text/ch002.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835881101/chapter/text/ch002.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Software Engineering Background",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138261542/chapter/ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138261542/chapter/ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Other AI-Assisted Programming Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164553/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164553/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Deploying Your Aspire-Based System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815218/chapter/html/641668_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815218/chapter/html/641668_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. AI Information Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262061/chapter/html/496828_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262061/chapter/html/496828_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Designing Cloud Native Architectures for Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098154981/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098154981/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Implementing Adversary Tradecraft",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098143756/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098143756/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Observability and Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098121440/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098121440/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Cloud Native Design Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156411/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156411/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Designing for Your Data Team",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151607/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151607/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "SUSE and IBM Power Systems for SAP HANA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459219/chapter/5620paper.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459219/chapter/5620paper.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Building a Bank in a Year: Starling Bank Case Study",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048893/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048893/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Open Formats and Standards for Data Contracts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836209157/chapter/text/ch006.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836209157/chapter/text/ch006.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Creating a technology and data infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398619609/chapter/content/18_chapter13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398619609/chapter/content/18_chapter13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Artificial intelligence in IT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436428/chapter/Text/chapter-1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436428/chapter/Text/chapter-1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C12620_03_epub_Final_SW",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808285/chapter/C12620_03_epub_Final_SW.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808285/chapter/C12620_03_epub_Final_SW.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Making a New World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596008023/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596008023/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Performance Testing an API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804617908/chapter/Text/Chapter_15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804617908/chapter/Text/Chapter_15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. The Resilient Design Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810329/chapter/html/628571_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810329/chapter/html/628571_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Building Your Own Adventure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133900491/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133900491/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Fitness Function Testing Pyramid: An Analogy for Architectural Tests and Metrics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098112226/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098112226/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Evolution of Data Architectures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098139711/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098139711/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Changes, Automation, and Deployment Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057000/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057000/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Ansible for Kubernetes Cloud Providers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292853/chapter/html/541143_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292853/chapter/html/541143_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Immutable Infrastructure in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042471/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042471/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Automate Development Tasks and Workflow with GitHub Actions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803697/chapter/html/611044_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803697/chapter/html/611044_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Big Data Storage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119690924/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119690924/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "02 Ethereum and DeFi: The creation of crypto’s financial ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398612945/chapter/content/08_chapter02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398612945/chapter/content/08_chapter02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Reactive Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049289/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049289/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Deployment into Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296127/chapter/html/600430_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296127/chapter/html/600430_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Machine Learning Roles and the Interview Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146535/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146535/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Equations for AI Persuasion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168339/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168339/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Data Processing Design – Data Migrations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836641315/chapter/text/ch005.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836641315/chapter/text/ch005.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Kubernetes and OpenShift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835882405/chapter/text/ch003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835882405/chapter/text/ch003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Data Readiness and Accessibility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341623842/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341623842/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Authentication, Authorization, and Admission Control",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835886380/chapter/Text/Chapter_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835886380/chapter/Text/Chapter_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20. When Size Matters: Scalability and the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868811692/chapter/html/628533_1_En_20_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868811692/chapter/html/628533_1_En_20_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tips and Best Practices on How to Get Started",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492073420/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492073420/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. It’s All About Dependability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076322/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076322/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Operational Excellence in MLOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810763/chapter/html/609560_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810763/chapter/html/609560_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18 Deploying Kubernetes: Multinode and multiarchitecture clusters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297984/chapter/Text/18.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297984/chapter/Text/18.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Training, Tuning, and Evaluating Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213054/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213054/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Preferable: establish your preferred future outcome",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789662191/chapter/content/14_chapter03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789662191/chapter/content/14_chapter03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 What is APIOps?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438781/chapter/OEBPS/Text/chapter-1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438781/chapter/OEBPS/Text/chapter-1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Cluster Architecture, Installation, and Configuration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098107215/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098107215/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. ARCHITECTURE AND DIGITAL SOLUTION DESIGN",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780177106/chapter/html/20_ch07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780177106/chapter/html/20_ch07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Incorporating virtual machine workloads into the mesh",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295829/chapter/OEBPS/Text/Ch-13.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295829/chapter/OEBPS/Text/Ch-13.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Deploying Mission-Critical Spark Applications on Spark Standalone",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274521/chapter/html/505711_1_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274521/chapter/html/505711_1_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Proxies, Gateways, and Sidecars",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164874/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164874/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. PostgreSQL on AWS RDS/Azure SQL Database",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868808173/chapter/html/626217_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868808173/chapter/html/626217_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Maturing the Snowflake Data Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293409/chapter/html/537921_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293409/chapter/html/537921_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Inference Pipeline Deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836200079/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836200079/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Securing Cloud Services: A pragmatic guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787782075/chapter/xhtml/Chapter_03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787782075/chapter/xhtml/Chapter_03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Creating and Managing Infrastructure in GCP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238974/chapter/html/464715_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238974/chapter/html/464715_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Practical implementation: from theory to action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398620025/chapter/content/13_chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398620025/chapter/content/13_chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Deploying Your Code to the Web",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838984823/chapter/B15218_14_Final_SMP_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838984823/chapter/B15218_14_Final_SMP_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Financial Data Engineering Clarified",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098159986/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098159986/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Scalability and Architectural Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839214110/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839214110/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Where Programming, Ops, AI, and the Cloud Are Headed in 2021",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098105396/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098105396/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. dbt in Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868818448/chapter/html/540367_2_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868818448/chapter/html/540367_2_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The RCA Approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868816888/chapter/html/658758_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868816888/chapter/html/658758_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Data Operations and Support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098170066/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098170066/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Case Study: Digital Twin Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138108069/chapter/ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138108069/chapter/ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Preparing for Your Migration to the Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492038832/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492038832/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Essential Concepts for Cloud Native Practitioners",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098138936/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098138936/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Testable CFRs and Technology Strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151850/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151850/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Generic Test Automation Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781681989839/chapter/xhtml/chapter3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781681989839/chapter/xhtml/chapter3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing an Enterprise ML Architecture with AWS ML Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805122500/chapter/Text/Chapter_09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805122500/chapter/Text/Chapter_09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Policy and Governance of Hybrid and Multi-cloud Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484294802/chapter/html/515902_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484294802/chapter/html/515902_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25 Ecomodernism: A Way Forward",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119526896/chapter/c25.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119526896/chapter/c25.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Technology Trends for 2022",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492096757/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492096757/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Fundamentals of Biodesign",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491907504/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491907504/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2: Chinese firms venturing abroad",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128170601/chapter/B9780128168578000021.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128170601/chapter/B9780128168578000021.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuring and Deploying Cassandra",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098115159/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098115159/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. DevOps for DataOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251041/chapter/html/476438_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251041/chapter/html/476438_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Integrating Azure DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839215865/chapter/B15432_13_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839215865/chapter/B15432_13_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20 Understanding Atlas and MongoDB security features",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436077/chapter/OEBPS/Text/chapter-20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436077/chapter/OEBPS/Text/chapter-20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Services and API Management: The API Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492054771/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492054771/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Serving Models and Architectures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492097983/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492097983/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Docker Ecosystem: Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491919705/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491919705/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Blockchain: A Groundbreaking Technology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288085/chapter/html/535492_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288085/chapter/html/535492_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Managing Network Operations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293546/chapter/html/521916_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293546/chapter/html/521916_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Guide to Building an App in AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803238951/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803238951/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 The future of everything",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398603837/chapter/content/20_chapter10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398603837/chapter/content/20_chapter10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Configuring and Deploying Cassandra",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492097136/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492097136/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Security for Cloud and Wireless Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789806298/chapter/f452e7e3-d6ce-4d78-bebc-586255da331a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789806298/chapter/f452e7e3-d6ce-4d78-bebc-586255da331a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Securing Workloads on VMWare Cloud on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293645/chapter/html/538118_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293645/chapter/html/538118_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Key Technologies in Supply Chain Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868807992/chapter/html/619909_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868807992/chapter/html/619909_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Cloud Security and SOC Operations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394201600/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394201600/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Container Images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803232591/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803232591/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Network Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492037507/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492037507/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "07 Transformation and culture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789665406/chapter/content/12_chapter07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789665406/chapter/content/12_chapter07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying Containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491915752/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491915752/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Training large language models: How to generate the generator",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437203/chapter/Text/chapter-5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437203/chapter/Text/chapter-5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Implementing Serverless Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098141929/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098141929/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI in Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835083468/chapter/Text/Chapter_09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835083468/chapter/Text/Chapter_09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Importance of Soft Skills",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484250921/chapter/html/482637_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484250921/chapter/html/482637_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Design for Recovery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492083115/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492083115/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Production-Ready LLM Deployment and Observability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837022014/chapter/Text/Chapter_9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837022014/chapter/Text/Chapter_9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Application Migration and Modernization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098116897/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098116897/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Upgrading the Application and Routers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803918/chapter/html/563130_2_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803918/chapter/html/563130_2_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Security Chaos Engineering in the Wild",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098113810/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098113810/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deployment Patterns and Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837631964/chapter/Text/Chapter_05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837631964/chapter/Text/Chapter_05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning and Generative AI in AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836641933/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836641933/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. DevOps and SysOps for SAP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868808906/chapter/html/633000_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868808906/chapter/html/633000_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Kubernetes and Cloud Networking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492081647/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492081647/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Operations and OpSec",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491938836/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491938836/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Addressing Technical Challenges",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098177508/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098177508/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Cloud: On Demand Computing Resources for Scale and Speed",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286586/chapter/html/518274_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286586/chapter/html/518274_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. A-ESA Modeling by Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809927/chapter/html/632491_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809927/chapter/html/632491_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About this document",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738457819/chapter/5530paper.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738457819/chapter/5530paper.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Large language models in the real world",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299445/chapter/Text/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299445/chapter/Text/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

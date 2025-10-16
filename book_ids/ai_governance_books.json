@@ -1,0 +1,2674 @@
+{
+  "skill_name": "ai governance",
+  "discovery_timestamp": 1759673493.9283063,
+  "total_books": 381,
+  "books": [
+    {
+      "title": "The Chief AI Officer's Handbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836200857/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836200857/",
+      "isbn": "9781836200857",
+      "format": "book"
+    },
+    {
+      "title": "AI Product Manager's Handbook - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835882849/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835882849/",
+      "isbn": "9781835882849",
+      "format": "book"
+    },
+    {
+      "title": "AI-Driven Value Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394288823/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394288823/",
+      "isbn": "9781394288823",
+      "format": "book"
+    },
+    {
+      "title": "The AI Revolution in Customer Service and Support: A Practical Guide to Impactful Deployment of AI to Best Serve Your Customers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138286521/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138286521/",
+      "isbn": "9780138286521",
+      "format": "book"
+    },
+    {
+      "title": "HBR Guide to AI Basics for Managers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647824440/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647824440/",
+      "isbn": "9781647824440",
+      "format": "book"
+    },
+    {
+      "title": "The AI-Savvy Leader",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647826246/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647826246/",
+      "isbn": "9781647826246",
+      "format": "book"
+    },
+    {
+      "title": "Building Responsible AI Algorithms: A Framework for Transparency, Fairness, Safety, Privacy, and Robustness",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293065/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293065/",
+      "isbn": "9781484293065",
+      "format": "book"
+    },
+    {
+      "title": "Unleashing the Power of Data with Trusted AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835467893/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835467893/",
+      "isbn": "9781835467893",
+      "format": "book"
+    },
+    {
+      "title": "30 Agents Every AI Engineer Must Build",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806109012/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806109012/",
+      "isbn": "9781806109012",
+      "format": "book"
+    },
+    {
+      "title": "AI Strategy and Security: A Roadmap for Secure, Responsible, and Resilient AI Adoption",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817335/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817335/",
+      "isbn": "9798868817335",
+      "format": "book"
+    },
+    {
+      "title": "Ensuring Data + AI Reliability Through Observability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341649453/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341649453/",
+      "isbn": "9798341649446",
+      "format": "book"
+    },
+    {
+      "title": "Agentic AI in Enterprise: Harnessing Agentic AI for Business Transformation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815423/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815423/",
+      "isbn": "9798868815423",
+      "format": "book"
+    },
+    {
+      "title": "Deploying AI in the Enterprise: IT Approaches for Design, DevOps, Governance, Change Management, Blockchain, and Quantum Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262061/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262061/",
+      "isbn": "9781484262061",
+      "format": "book"
+    },
+    {
+      "title": "AI Demystified",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292474731/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292474731/",
+      "isbn": "9781292474731",
+      "format": "book"
+    },
+    {
+      "title": "Scaling Responsible AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394289646/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394289646/",
+      "isbn": "9781394289646",
+      "format": "book"
+    },
+    {
+      "title": "Responsible AI in Practice: A Practical Guide to Safe and Human AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868811661/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868811661/",
+      "isbn": "9798868811661",
+      "format": "book"
+    },
+    {
+      "title": "Principles of AI Governance and Model Risk Management: Master the Techniques for Ethical and Transparent AI Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809835/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809835/",
+      "isbn": "9798868809835",
+      "format": "book"
+    },
+    {
+      "title": "AI and the Boardroom: Insights into Governance, Strategy, and the Responsible Adoption of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868807961/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868807961/",
+      "isbn": "9798868807961",
+      "format": "book"
+    },
+    {
+      "title": "AI for People and Business",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492036562/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492036562/",
+      "isbn": "9781492036579",
+      "format": "book"
+    },
+    {
+      "title": "Generative Artificial Intelligence in Finance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394271047/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394271047/",
+      "isbn": "9781394271047",
+      "format": "book"
+    },
+    {
+      "title": "Scalable AI and Design Patterns: Design, Develop, and Deploy Scalable AI Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801587/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801587/",
+      "isbn": "9798868801587",
+      "format": "book"
+    },
+    {
+      "title": "AI HORIZONS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781501518485/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781501518485/",
+      "isbn": "9781501518485",
+      "format": "book"
+    },
+    {
+      "title": "Behavioral AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394196869/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394196869/",
+      "isbn": "9781394196869",
+      "format": "book"
+    },
+    {
+      "title": "The De Gruyter Handbook of Artificial Intelligence, Identity and Technology Studies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110721843/",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110721843/",
+      "isbn": "9783110721843",
+      "format": "book"
+    },
+    {
+      "title": "AI-Ready Data Blueprints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341631786/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341631786/",
+      "isbn": "9798341631793",
+      "format": "book"
+    },
+    {
+      "title": "Risk Modeling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119824930/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119824930/",
+      "isbn": "9781119824930",
+      "format": "book"
+    },
+    {
+      "title": "AI-Powered Digital Cyber Resilience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135408599/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135408599/",
+      "isbn": "9780135408599",
+      "format": "book"
+    },
+    {
+      "title": "Structured for Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341653009/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341653009/",
+      "isbn": "9798341652996",
+      "format": "book"
+    },
+    {
+      "title": "Architectures for the Intelligent AI-Ready Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806117154/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806117154/",
+      "isbn": "9781806117154",
+      "format": "book"
+    },
+    {
+      "title": "AI for Nonprofits",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394298419/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394298419/",
+      "isbn": "9781394298419",
+      "format": "book"
+    },
+    {
+      "title": "The Art of AI Product Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437050/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437050/",
+      "isbn": "9781633437050",
+      "format": "book"
+    },
+    {
+      "title": "Nonprofit AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394316649/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394316649/",
+      "isbn": "9781394316649",
+      "format": "book"
+    },
+    {
+      "title": "The Rise of AI-Powered Companies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110775198/",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110775198/",
+      "isbn": "9783110775198",
+      "format": "book"
+    },
+    {
+      "title": "Artificial Intelligence for Audit, Forensic Accounting, and Valuation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119601883/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119601883/",
+      "isbn": "9781119601883",
+      "format": "book"
+    },
+    {
+      "title": "Artificial Intelligence for Asset Management and Investment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119601821/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119601821/",
+      "isbn": "9781119601821",
+      "format": "book"
+    },
+    {
+      "title": "Towards Sustainable Artificial Intelligence: A Framework to Create Value and Understand Risk",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272145/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272145/",
+      "isbn": "9781484272145",
+      "format": "book"
+    },
+    {
+      "title": "The AI Ladder",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492073130/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492073130/",
+      "isbn": "9781492073123",
+      "format": "book"
+    },
+    {
+      "title": "Keeping Your AI Under Control: A Pragmatic Guide to Identifying, Evaluating, and Quantifying Risks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254677/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254677/",
+      "isbn": "9781484254677",
+      "format": "book"
+    },
+    {
+      "title": "The Future of Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492091769/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492091769/",
+      "isbn": "9781492091752",
+      "format": "book"
+    },
+    {
+      "title": "14. Organization and Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296691/chapter/html/605840_1_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296691/chapter/html/605840_1_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. ETHICS AND GOVERNANCE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780176758/chapter/html/14_ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780176758/chapter/html/14_ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Current Trends in Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789357053778/chapter/xhtml/chapter008.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9789357053778/chapter/xhtml/chapter008.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Empowering Defense: Harnessing AI for Next-Generation Warfare",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394233977/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394233977/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Practical Applications and Future Trends",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135429549/chapter/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135429549/chapter/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Securing the Digital Frontier: AI’s Role in Cybersecurity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138293703/chapter/ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138293703/chapter/ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Building an AI Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295021/chapter/html/522265_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295021/chapter/html/522265_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Sustainability and Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098155506/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098155506/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 RISKS AND CHALLENGES TO MANAGE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394245567/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394245567/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Next Generation Healthcare: Leveraging AI for Personalized Diagnosis, Treatment, and Monitoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394229796/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394229796/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Cyber Threat Detection and Mitigation Using Artificial Intelligence – A Cyber‐physical Perspective",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394196449/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394196449/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Standards, Policies, Ethical Guidelines and Governance in Artificial Intelligence: Insights on the Financial Sector",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275281/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275281/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835886526/chapter/index_split_016.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835886526/chapter/index_split_016.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "34 Revolutionizing Government Operations: The Impact of Artificial Intelligence in Public Administration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394200566/chapter/c34.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394200566/chapter/c34.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Integrating IoT, Blockchain, and Quantum Machine Learning: Advancing Multimodal Data Fusion in Healthcare AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394269938/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394269938/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Machine Learning in Healthcare: Unlocking Precision Diagnosis and Continuous Monitoring Through Voice Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394199952/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394199952/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20 Governing Models for Bias and Ethics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213054/chapter/c20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213054/chapter/c20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Business of Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836204831/chapter/Text/B31037_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836204831/chapter/Text/B31037_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21 AI in Public Sector",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000968880/chapter/xhtml/ch21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000968880/chapter/xhtml/ch21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "33 Fractal Natural Language Semantics and Fractal Machine Learning Engineering: Cultural Heritage Generative Management Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394305780/chapter/c33.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394305780/chapter/c33.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Smart governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836067/chapter/b06c9356-4c22-4177-9905-bf0fa269971a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836067/chapter/b06c9356-4c22-4177-9905-bf0fa269971a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Cybersecurity using artificial intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780443264832/chapter/xhtml/Ch008_73-80_B9780443264825000092.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780443264832/chapter/xhtml/Ch008_73-80_B9780443264825000092.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Alternate Futures: Wall-E or Star Trek?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647827533/chapter/xhtml/chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647827533/chapter/xhtml/chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Artificial Intelligence Assisted Internet of Medical Things (AIoMTs) in Sustainable Healthcare Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394286997/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394286997/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Data Governance: The Foundation for Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809590/chapter/html/619107_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809590/chapter/html/619107_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. AI for Marketing and Sales",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804007/chapter/html/613536_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804007/chapter/html/613536_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Value Engineering Competency",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835083505/chapter/Text/Chapter_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835083505/chapter/Text/Chapter_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Building Knowledge Graph from Relational Database",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000911220/chapter/xhtml/chapter8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000911220/chapter/xhtml/chapter8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 At This Speed, Where Will We Go?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003846031/chapter/xhtml/c1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003846031/chapter/xhtml/c1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Organize Your Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492073420/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492073420/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. From Pilot to Product",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151652/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151652/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Strategic and Tactical Approaches to Designing Ethical Futures for Augmentation Technologies and AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000889246/chapter/xhtml/C_019_c8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000889246/chapter/xhtml/C_019_c8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Abhisek Sethy, Nazeer Shaik, Pavan Kumar Yadavalli, S. P. Anandaraj 9 AI: issues, concerns, and ethical considerations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111324166/chapter/content/9783111323565_016268.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111324166/chapter/content/9783111323565_016268.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Market Trends with Cryptocurrency Trading in Industry 4.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119904854/chapter/c15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119904854/chapter/c15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Governance, ethics and safety",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398616219/chapter/content/25_chapter11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398616219/chapter/content/25_chapter11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Relevance of Smart Management of Road Traffic System Using Advanced Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394242535/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394242535/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. What Is Precision Health?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484291627/chapter/html/535410_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484291627/chapter/html/535410_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Stop Tinkering with AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647825850/chapter/ch11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647825850/chapter/ch11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Securing and Protecting AI Environments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484278246/chapter/html/516372_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484278246/chapter/html/516372_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Garbage In, Garbage Out",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257753/chapter/html/470825_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257753/chapter/html/470825_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 The Next Generation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394180608/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394180608/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Challenges of the Era of Trivergence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394226610/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394226610/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. AI Ethics, Biasness, and Reliability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271582/chapter/html/506619_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271582/chapter/html/506619_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. The Way Ahead",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800917/chapter/html/603102_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800917/chapter/html/603102_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Our common home: artificial intelligence + global public health ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780443215964/chapter/xhtml/Ch007_215-241_B978044321597100007X.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780443215964/chapter/xhtml/Ch007_215-241_B978044321597100007X.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Occupant‐Driven Urban Building Energy Efficiency via Ambient Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394172061/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394172061/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding the political power of water engineering: Factors of Japan, America and China in the development of water engineering in Taiwan",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040261415/chapter/xhtml/ch74.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040261415/chapter/xhtml/ch74.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kajal Prajapati, Ravindra Kumar Big data analytics for personalized medicine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110762082/chapter/content/9783110761993_004908.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110762082/chapter/content/9783110761993_004908.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Significance of Consuming 5G‐Built Artificial Intelligence in Smart Cities",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119798767/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119798767/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Personas and Effective Communication Among Them",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098101329/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098101329/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Three Lines of Defense",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280515/chapter/html/513842_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280515/chapter/html/513842_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Strategic Infrastructural Developments to Reinforce Reconfigurable Computing for Indigenous AI Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119857297/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119857297/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting Started on Your AI Journey",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836205890/chapter/Text/Chapter_04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836205890/chapter/Text/Chapter_04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Understanding Energy Security Elements and Challenges",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394271818/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394271818/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "08 Challenges of Adopting AI Technology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398622760/chapter/content/13_chapter08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398622760/chapter/content/13_chapter08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Toward a Smarter Future: The Role of AI in Transforming Automation Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394302673/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394302673/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. The Ethics of AI-Powered Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484254769/chapter/html/472369_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484254769/chapter/html/472369_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Technical Reviewer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813122/chapter/html/Frontmatter_007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813122/chapter/html/Frontmatter_007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Application of AI to a Neurological Disorder",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394347506/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394347506/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Application of AI in Environmental Sustainability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394282524/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394282524/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Artificial Intelligence Tools in Disaster Risk Reduction and Emergency Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394287192/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394287192/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 “AI-Powered Mental Health Innovations”: Handling the Effects of Industry 4.0 on Health",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275045/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275045/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Embrace AI, and Pivot Hard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647829667/chapter/xhtml/chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647829667/chapter/xhtml/chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Selecting and evaluating AI tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633435759/chapter/Text/chapter-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633435759/chapter/Text/chapter-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Leena Arya, Yogesh Kumar Sharma, Ravi Rastogi 5 Privacy and Security for 6G’s IoT-Connected Future in the Age of Quantum Computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111436241/chapter/content/9783111436050_015532.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111436241/chapter/content/9783111436050_015532.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 The future of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398618015/chapter/content/15_chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398618015/chapter/content/15_chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Industry Adapting the Machine Learning Scenario in Recruitment and Selection of Employees",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394314379/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394314379/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Best of Both: Human and Machine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798892790635/chapter/Text/ch001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798892790635/chapter/Text/ch001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Data: From Maximum to Minimum, and Back Again",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647821098/chapter/xhtml/chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647821098/chapter/xhtml/chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18 An Extensive Survey on the Prediction of Bankruptcy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119824473/chapter/c18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119824473/chapter/c18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Future Perspectives and Challenges",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810145/chapter/html/635649_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810145/chapter/html/635649_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Legal and Ethical Considerations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809026/chapter/html/625427_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809026/chapter/html/625427_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. The Cybersecurity Trinity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809477/chapter/html/627780_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809477/chapter/html/627780_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Sustainability Imperative for Utilities",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802027/chapter/html/610841_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802027/chapter/html/610841_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Overcoming Ethical and Social Challenges",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810640/chapter/html/629855_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810640/chapter/html/629855_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Machine Learning: A Key Towards Smart Cyber-Physical Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119836193/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119836193/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Impact of AI in 5G Wireless Technologies and Communication Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119821274/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119821274/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 AI and ethics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398615762/chapter/content/20_chapter13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398615762/chapter/content/20_chapter13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Smart Applications of IoT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119761648/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119761648/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 RPO or in-house?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398614178/chapter/content/13_chapter06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398614178/chapter/content/13_chapter06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 AI, Planning and Control Algorithms for IoRT Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119750598/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119750598/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 IoT-Based Automated Healthcare System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119768869/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119768869/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. A Practical Guide to Building Ethical AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647821760/chapter/xhtml/chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647821760/chapter/xhtml/chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the editors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110760491/chapter/content/9783110755336_000821.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110760491/chapter/content/9783110755336_000821.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Ethics and AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238080/chapter/html/467925_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238080/chapter/html/467925_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Artificial Intelligence for Risk Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781949443523/chapter/texts/06_Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781949443523/chapter/texts/06_Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Synthesis Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045991/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045991/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Use Case: Consumer Products",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098120191/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098120191/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 A MANIFESTO FOR TAMING THE MONSTER",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119785910/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119785910/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Fighting Financial Crimes with Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492052678/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492052678/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Swarm intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472173/chapter/f7d059b4-74e2-44b5-b20b-cabd7ce3873b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472173/chapter/f7d059b4-74e2-44b5-b20b-cabd7ce3873b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Simplest Way to Reach Your Artificial Intelligence Potential",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042075/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042075/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enis Karaarslan, Enis Konacaklı 8 Decentralized solutions for data collection and privacy in healthcare",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110668384/chapter/content/bodymatter-008.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110668384/chapter/content/bodymatter-008.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Prepping for AI Orchestration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492091806/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492091806/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Data citizens: rights and responsibilities in a data republic",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128189399/chapter/XHTML/B9780128183663000022/B9780128183663000022.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128189399/chapter/XHTML/B9780128183663000022/B9780128183663000022.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting Your Data Ready for AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042419/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042419/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Azure Cognitive Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492058632/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492058632/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "HBR’s 10 Must Reads on AI, Analytics, and the New Machine Age",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633696853/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633696853/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ozcan Saritas, Sarah Cheah 2 Systemic Foresight Methodology in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110672923/chapter/content/bodymatter-001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110672923/chapter/content/bodymatter-001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Creating the Model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263853/chapter/html/498035_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263853/chapter/html/498035_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18 Review: What are the Strategies for and Benefits of Effective IT Standardization in Government?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786303738/chapter/c18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786303738/chapter/c18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Artificial Intelligence Governance Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119909279/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119909279/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Smart Computing Applications in Crowdfunding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781351265065/chapter/xhtml/ap01a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781351265065/chapter/xhtml/ap01a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "BUSINESS STRATEGY IN THE ARTIFICIAL INTELLIGENCE ECONOMY",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781948198998/chapter/text/01_Chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781948198998/chapter/text/01_Chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Becoming an AI Company",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633697638/chapter/xhtml/chapter5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633697638/chapter/xhtml/chapter5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Why Companies That Wait to Adopt AI May Never Catch Up",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633697904/chapter/Text/chapter_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633697904/chapter/Text/chapter_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Traffic Management Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118894781/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118894781/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The power of innovative ideas versus capital",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749483401/chapter/chapter-title01-04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749483401/chapter/chapter-title01-04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Dramatic Interactors: Collaboration, Constraints, and Engagement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133390889/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133390889/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Competitive Intelligence for Information Professionals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780081002063/chapter/B9780081002063000022/B9780081002063000022.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780081002063/chapter/B9780081002063000022/B9780081002063000022.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Framework for ML Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098100483/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098100483/",
+      "isbn": "9781098100476",
+      "format": "book"
+    },
+    {
+      "title": "Corporate Governance Matters, 4th Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135463086/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135463086/",
+      "isbn": "9780135463086",
+      "format": "book"
+    },
+    {
+      "title": "GovOps with Microsoft Power Platform and Copilot: Automating Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817960/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817960/",
+      "isbn": "9798868817960",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Microsoft Purview: Unlocking the Power of Governance, Compliance, and Security in the Modern Cloud Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812040/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812040/",
+      "isbn": "9798868812040",
+      "format": "book"
+    },
+    {
+      "title": "AI Gateways in the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341621381/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341621381/",
+      "isbn": "9798341621374",
+      "format": "book"
+    },
+    {
+      "title": "What Is the EU AI Act?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341621268/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341621268/",
+      "isbn": "9798341621251",
+      "format": "book"
+    },
+    {
+      "title": "The AI Engineer's Guide to Surviving the EU AI Act",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098172480/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098172480/",
+      "isbn": "9781098172497",
+      "format": "book"
+    },
+    {
+      "title": "Trustworthy AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119867920/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119867920/",
+      "isbn": "9781119867920",
+      "format": "book"
+    },
+    {
+      "title": "Development of Our Country's IT Industry in the New Period",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123813695/chapter/B9780123813695000015.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123813695/chapter/B9780123813695000015.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Digital Ethics in the Age of AI - Navigating the ethical frontier today and beyond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787785519/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787785519/",
+      "isbn": "9781787785519",
+      "format": "book"
+    },
+    {
+      "title": "Responsible AI: Best Practices for Creating Trustworthy AI Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138073947/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138073947/",
+      "isbn": "9780138073947",
+      "format": "book"
+    },
+    {
+      "title": "Artificial Intelligence - Ethical, social, and security impacts for the present and the future, Second edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787785144/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787785144/",
+      "isbn": "9781787785144",
+      "format": "book"
+    },
+    {
+      "title": "AI for Humanity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394180301/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394180301/",
+      "isbn": "9781394180301",
+      "format": "book"
+    },
+    {
+      "title": "Responsible AI in the Enterprise",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803230528/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803230528/",
+      "isbn": "9781803230528",
+      "format": "book"
+    },
+    {
+      "title": "The AI Wave in Defence Innovation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000875010/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000875010/",
+      "isbn": "9781000875010",
+      "format": "book"
+    },
+    {
+      "title": "Artificial Intelligence - Ethical, social, and security impacts for the present and the future",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787783720/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787783720/",
+      "isbn": "9781787783720",
+      "format": "book"
+    },
+    {
+      "title": "From Trustworthy AI Principles to Public Procurement Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111250434/",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111250434/",
+      "isbn": "9783111250434",
+      "format": "book"
+    },
+    {
+      "title": "Agentic Graph RAG",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341623163/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341623163/",
+      "isbn": "9798341623170",
+      "format": "book"
+    },
+    {
+      "title": "Managing AI Risk - A practical approach to responsibly managing AI with ISO 42001",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787785878/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787785878/",
+      "isbn": "9781787785878",
+      "format": "book"
+    },
+    {
+      "title": "The Low-Code AI Maturity Model: Leading Responsible AI Transformation with Microsoft Power Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817304/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817304/",
+      "isbn": "9798868817304",
+      "format": "book"
+    },
+    {
+      "title": "A Practical Guide to Generative AI Using Amazon Bedrock: Building, Deploying, and Securing Generative AI Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814143/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814143/",
+      "isbn": "9798868814143",
+      "format": "book"
+    },
+    {
+      "title": "Scaling Enterprise Solutions with Large Language Models : Comprehensive End-to-End Generative AI Solutions for Production-Grade Enterprise Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868811548/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868811548/",
+      "isbn": "9798868811548",
+      "format": "book"
+    },
+    {
+      "title": "Successful AI Product Creation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394337842/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394337842/",
+      "isbn": "9781394337842",
+      "format": "book"
+    },
+    {
+      "title": "AI Essentials Guide: Principles for Navigating the Next Tech Renaissance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809118/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809118/",
+      "isbn": "9798868809118",
+      "format": "book"
+    },
+    {
+      "title": "Deep Dive into the Power Platform in the Age of Generative AI: Architectural Insights and Best Practices for Intelligent Business Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868808999/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868808999/",
+      "isbn": "9798868808999",
+      "format": "book"
+    },
+    {
+      "title": "AI and the Law",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492091837/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492091837/",
+      "isbn": "9781492091820",
+      "format": "book"
+    },
+    {
+      "title": "9 System Security Using Artificial Intelligence and Reduction of Data Breach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394212569/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394212569/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. The AI PM’s Day-to-Day",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098152697/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098152697/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Stakeholders and Stakeholder Activism",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136660019/chapter/ch13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136660019/chapter/ch13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Other AI-Assisted Programming Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164553/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164553/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The LLM Mesh",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176631/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176631/",
+      "isbn": "9781098176617",
+      "format": "book"
+    },
+    {
+      "title": "6. The C-Suite and Board Role",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800948/chapter/html/611137_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800948/chapter/html/611137_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Boosting RAG Performance with Expert Human Feedback",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836200918/chapter/Text/Chapter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836200918/chapter/Text/Chapter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Responsible AI governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398614338/chapter/content/12_chapter06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398614338/chapter/content/12_chapter06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Abbreviations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000919950/chapter/xhtml/A_006_abbreviations.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000919950/chapter/xhtml/A_006_abbreviations.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cataloging Unstructured Data in IBM Watson Knowledge Catalog with IBM Spectrum Discover",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738459028/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738459028/",
+      "isbn": "9780738459028",
+      "format": "book"
+    },
+    {
+      "title": "1. Generative AI Use Cases, Fundamentals, and Project Life Cycle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098159214/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098159214/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generative AI with Amazon Bedrock",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247281/chapter/B22045_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247281/chapter/B22045_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Principles of Data Management, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780175935/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780175935/",
+      "isbn": "9781780175935",
+      "format": "book"
+    },
+    {
+      "title": "3. Equations for AI Persuasion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168339/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168339/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Can Your LLM Know Too Much?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098162191/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098162191/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Legal and Regulatory Compliance for AI Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138268442/chapter/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138268442/chapter/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 What’s next for AI and LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437197/chapter/Text/08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437197/chapter/Text/08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Adaptive Projects and AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138297350/chapter/ch06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138297350/chapter/ch06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Disruption and Digital Trends for the Next Decade",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261590/chapter/html/494153_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261590/chapter/html/494153_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Databricks Intelligence Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098178482/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098178482/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Mobilize Your Strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622463/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622463/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18 Technology and the Corporate Board 2020 and Beyond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119537168/chapter/c18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119537168/chapter/c18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19 Director Remuneration in Developing and Emerging Markets (DEMs): Issues, Challenges and Prospects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781351689052/chapter/xhtml/Ch19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781351689052/chapter/xhtml/Ch19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Driven: Harnessing Data and AI to Reinvent Customer Engagement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260441543/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260441543/",
+      "isbn": "9781260441543",
+      "format": "book"
+    },
+    {
+      "title": "4. How Generative AI Could Disrupt Creative Work",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647826406/chapter/xhtml/chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647826406/chapter/xhtml/chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Objects Are Closer Than They Appear",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098160913/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098160913/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Embedding Responsible AI into Your GenAI Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835887608/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835887608/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. GenAI Strategy: A Blueprint for Successful Adoption",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804731/chapter/html/612919_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804731/chapter/html/612919_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Foundations of Ethics in GenAI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394279265/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394279265/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Governance with AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098157562/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098157562/",
+      "isbn": "9781098157555",
+      "format": "book"
+    },
+    {
+      "title": "6 Putting Safeguards Around AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394205783/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394205783/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "From Data To Profit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394196210/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394196210/",
+      "isbn": "9781394196210",
+      "format": "book"
+    },
+    {
+      "title": "M. Abinaya, G. Vadivu, B. Sundaravadivazhagan 10 Future Directions and Open Problems in Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111425511/chapter/content/9783111424637_020796.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111425511/chapter/content/9783111424637_020796.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. The Evolving World of Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802829/chapter/html/616261_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802829/chapter/html/616261_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Advanced Topics for Blockchain-Based Applications: Open Issues, Technical, Legal, and Research Challenges",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394303571/chapter/c15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394303571/chapter/c15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Large language model operations: Building a platform for LLMs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437203/chapter/Text/chapter-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437203/chapter/Text/chapter-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Global Dimensions of Public Administration and Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119026198/chapter/18_chapter09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119026198/chapter/18_chapter09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Information Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118218303/chapter/14_chap05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118218303/chapter/14_chap05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. The AI Gold Rush and the Future of Business",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804564/chapter/html/623057_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804564/chapter/html/623057_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data for All",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438774/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438774/",
+      "isbn": "9781633438774",
+      "format": "book"
+    },
+    {
+      "title": "5 Why Law Firms Need to Embrace Artificial Intelligence to Transform the Indian Legal Industry",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119904878/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119904878/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. AI Safety and Ethics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801105/chapter/html/609718_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801105/chapter/html/609718_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Rise of Logical Data Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176068/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176068/",
+      "isbn": "9781098176044",
+      "format": "book"
+    },
+    {
+      "title": "6. Data Protection and Compliance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804618/chapter/html/621531_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804618/chapter/html/621531_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Fail Fast, Learn Faster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119806226/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119806226/",
+      "isbn": "9781119806226",
+      "format": "book"
+    },
+    {
+      "title": "4 What Navigating Artificial Integrity Transitions Implies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394297986/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394297986/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Auto Code Generation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293676/chapter/html/601962_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293676/chapter/html/601962_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Generative AI Consulting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803185/chapter/html/609577_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803185/chapter/html/609577_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. A Leader’s Guide to Reimagining Process: Five Steps to Getting Started",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647827212/chapter/xhtml/chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647827212/chapter/xhtml/chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. AI Alignment: First Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135346570/chapter/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135346570/chapter/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6: Hold Stakeholders Accountable",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781523004218/chapter/xhtml/ch06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781523004218/chapter/xhtml/ch06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Ethical and Societal Implications of AI in Construction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040096642/chapter/ch10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040096642/chapter/ch10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Responsible Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781606498927/chapter/xhtml/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781606498927/chapter/xhtml/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Technical Fundamentals of Generative AI Models and Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341623279/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341623279/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AI Ethics in Action: A practical guide to building modern organizations through purposeful, ethical AI innovation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835469507/chapter/text/ch001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835469507/chapter/text/ch001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Data Readiness and Accessibility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341623842/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341623842/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Governance of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098165161/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098165161/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Corporate Social Responsibility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9788131758458/chapter/xhtml/chapter011.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9788131758458/chapter/xhtml/chapter011.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Composable Agentic Workflows",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622654/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622654/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Best Practices and Practical Aspects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817182/chapter/html/643098_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817182/chapter/html/643098_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AI Agents in Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805801351/chapter/Text/toc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805801351/chapter/Text/toc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. The Ethical Implications of Vibe Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341634749/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341634749/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Deploying to Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098171988/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098171988/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Defining a Business-Ready Generative AI System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837020690/chapter/Text/Chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837020690/chapter/Text/Chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Ethical Dimensions and Societal Effects of Generative AI: The Portrayal of Ethical Issues of ChatGPT, DALL-E, and Other Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394302901/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394302901/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Future of Generative Models: Beyond Scaling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837022014/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837022014/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Contributor",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806113217/chapter/Contributor.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806113217/chapter/Contributor.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Generative AI Safety and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622388/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622388/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Interface versus Intelligence: Rethinking Chatbots in Real-World Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806112791/chapter/CaseStudy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806112791/chapter/CaseStudy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Enterprise AI: Practical Use Cases and Architectural Insights",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341623224/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341623224/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 APIs: The piping between our components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436626/chapter/Text/chapter-4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436626/chapter/Text/chapter-4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. How Leaders Should Think and Talk About AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288146/chapter/html/537079_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288146/chapter/html/537079_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Transform Your Organization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810619/chapter/html/535510_1_En_17_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810619/chapter/html/535510_1_En_17_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Streamlining Operations with Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809507/chapter/html/615273_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809507/chapter/html/615273_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. AI Adoption in the Enterprise 2022",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098133627/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098133627/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Ethical Dilemmas and Future Potential of Generative AI in the Financial Sphere",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805592/chapter/html/611920_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805592/chapter/html/611920_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Data Science in the Modern Enterprise – An Update",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809149/chapter/html/501717_2_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809149/chapter/html/501717_2_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. The Magic of Prompts: Unleashing Generative AI’s Potential",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868808449/chapter/html/635314_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868808449/chapter/html/635314_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Corporate Governance and Ethics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471738008/chapter/15_chap07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471738008/chapter/15_chap07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Age of Computational AI for Autonomous Vehicles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119847465/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119847465/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AI Data Pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492027805/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492027805/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AI Adoption in the Enterprise 2020",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492081210/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492081210/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 The Smart City Based on AI and Infrastructure: A New Mobility Concepts and Realities",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119871958/chapter/c15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119871958/chapter/c15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Series Information",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000878417/chapter/chapter-03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000878417/chapter/chapter-03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. AI IMPROVING STROKE CARE AT THE ROYAL BERKSHIRE NHS FOUNDATION TRUST",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780175843/chapter/html/23_Ch07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780175843/chapter/html/23_Ch07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Journey to Becoming Data-Driven",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098138851/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098138851/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Distributed Ledger Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110627152/chapter/content/bodymatter-005.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110627152/chapter/content/bodymatter-005.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. What Is Data Governance?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492063483/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492063483/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Future of Generative Models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835083468/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835083468/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Current State of Play: The High-Level View",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817847/chapter/html/660323_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817847/chapter/html/660323_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Data Blueprint: Crafting Effective Strategies for LLM Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836203070/chapter/Text/Chapter_8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836203070/chapter/Text/Chapter_8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Responsible AI: Ethical Considerations in Generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394287468/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394287468/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Driver in the Driverless Car",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781523085552/chapter/xhtml/praise.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781523085552/chapter/xhtml/praise.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9.11 Artificial intelligence, machine learning and artificial neural networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749483753/chapter/chapter-title09-19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749483753/chapter/chapter-title09-19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The future of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788478298/chapter/320a0538-242d-480f-934a-d522ec6d44bc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788478298/chapter/320a0538-242d-480f-934a-d522ec6d44bc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Feeding data to your generative AI models",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436985/chapter/OEBPS/Text/05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436985/chapter/OEBPS/Text/05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Privacy concerns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789611854/chapter/42b8e1a9-c196-43d1-89e3-923769843c1e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789611854/chapter/42b8e1a9-c196-43d1-89e3-923769843c1e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Climate change action and the Paris Agreement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789665611/chapter/content/10_chapter03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789665611/chapter/content/10_chapter03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Assessing the Comparison of Environmental and Social Governance (ESG) Performance of Tourism Companies Worldwide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394303212/chapter/c15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394303212/chapter/c15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835884522/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835884522/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Select Data Stewards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650189/chapter/f_0014.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650189/chapter/f_0014.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The experience of being human",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749483043/chapter/chapter-title09-01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749483043/chapter/chapter-title09-01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "05 Ethics and data management (including AI)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398610286/chapter/content/10_chapter05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398610286/chapter/content/10_chapter05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Wiley and SAS Business Series",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119851424/chapter/f01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119851424/chapter/f01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. A Basic RAG Assistant",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341630147/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341630147/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Current State",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484299661/chapter/html/609720_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484299661/chapter/html/609720_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. The RAG Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341621701/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341621701/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Similarity Search with PostgreSQL and pgvector",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098177584/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098177584/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 LLMs and the need for RAG",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633435858/chapter/OEBPS/Text/chapter-1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633435858/chapter/OEBPS/Text/chapter-1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Database administration and development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436428/chapter/Text/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436428/chapter/Text/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Anchoring the weak signal spirit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110797923/chapter/content/9783110796988_009147.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110797923/chapter/content/9783110796988_009147.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Regulations and Standards for Using ChatGPT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295298/chapter/html/605328_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295298/chapter/html/605328_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Maturing Your Data Governance Program",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492090328/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492090328/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Security and Ethical Considerations When Using ChatGPT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800320/chapter/html/608938_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800320/chapter/html/608938_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Data and Analytics Challenges in Modern Organizations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098145460/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098145460/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Corporate Librarian’s Guide to Information Governance and Data Privacy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781637422465/chapter/text/Backmatter01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781637422465/chapter/text/Backmatter01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Government Librarian’s Guide to Information Governance and Data Privacy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781637422441/chapter/text/Backmatter01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781637422441/chapter/text/Backmatter01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Planning for improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436404/chapter/Text/chapter-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436404/chapter/Text/chapter-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 From Information to Knowledge: Valuing and Innovating",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786305503/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786305503/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Data Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491990797/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491990797/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 MDM Services for Entity and Relationships Resolution and Hierarchy Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071744584/chapter/ch6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071744584/chapter/ch6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Editor",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781482228854/chapter/chapter-05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781482228854/chapter/chapter-05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Cybersecurity Guide to Governance, Risk, and Compliance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394250196/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394250196/",
+      "isbn": "9781394250196",
+      "format": "book"
+    },
+    {
+      "title": "Successful Habits for Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492044116/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492044116/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Security with Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805120483/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805120483/",
+      "isbn": "9781805120483",
+      "format": "book"
+    },
+    {
+      "title": "9. AI and Beyond—the Future of Risk Management in a Digitalized World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098147785/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098147785/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Fundamentals of Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292211/chapter/html/540806_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292211/chapter/html/540806_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Practice Exam",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341607804/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341607804/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. MPM and Responsible AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108687/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108687/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Essentials of Risk Management, Third Edition, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781264258871/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781264258871/",
+      "isbn": "9781264258871",
+      "format": "book"
+    },
+    {
+      "title": "2. Why Is It Complicated?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293195/chapter/html/516189_2_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293195/chapter/html/516189_2_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "02 Technologies and security challenges",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398613508/chapter/content/03_CHAP_C02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398613508/chapter/content/03_CHAP_C02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Machine Learning Engineering on AWS, Second Edition: Operationalize and optimize generative AI systems and LLMOps pipelines in production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835881088/chapter/text/ch001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835881088/chapter/text/ch001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Azure Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272497/chapter/html/499686_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272497/chapter/html/499686_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AFDI Act Reporting Requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781948306058/chapter/aag-dep_appA.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781948306058/chapter/aag-dep_appA.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Machine Learning Solutions Architect Handbook - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805122500/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805122500/",
+      "isbn": "9781805122500",
+      "format": "book"
+    },
+    {
+      "title": "Applications of Blockchain and Artificial Intelligence in Finance and Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040130407/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040130407/",
+      "isbn": "9781040130407",
+      "format": "book"
+    },
+    {
+      "title": "Ethics and Governance in AI-Enabled Marketing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835889404/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835889404/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B31511_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835882863/chapter/B31511_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835882863/chapter/B31511_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Data Science Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789131956/chapter/88825e72-42de-4054-bb6a-6fe23c5aea7d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789131956/chapter/88825e72-42de-4054-bb6a-6fe23c5aea7d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing Online Risk",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780124200555/chapter/XHTML/B9780124200555180016/B9780124200555180016.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780124200555/chapter/XHTML/B9780124200555180016/B9780124200555180016.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Comparing the performance of different artificial intelligence based clustering algorithms in healthcare waste disposal location (1/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138000193/chapter/chapter-48.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138000193/chapter/chapter-48.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "02 BEHAVIOURAL SCIENCE SETS REGULATORS THINKING…",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749478629/chapter/C02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749478629/chapter/C02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Machine Learning on Databricks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801812030/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801812030/",
+      "isbn": "9781801812030",
+      "format": "book"
+    },
+    {
+      "title": "04 Legislative/regulatory risk and the role of legal and compliance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749477981/chapter/C04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749477981/chapter/C04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Low-Code AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146818/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146818/",
+      "isbn": "9781098146825",
+      "format": "book"
+    },
+    {
+      "title": "8. It's a Small World: Effectively Managing Global Trade",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470333174/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470333174/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Information Security Strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804610633/chapter/B19069_02_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804610633/chapter/B19069_02_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Accelerate Machine Learning with a Unified Analytics Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098120313/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098120313/",
+      "isbn": "9781098120306",
+      "format": "book"
+    },
+    {
+      "title": "The Definitive Guide to Machine Learning Operations in AWS: Machine Learning Scalability and Optimization with AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810763/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810763/",
+      "isbn": "9798868810763",
+      "format": "book"
+    },
+    {
+      "title": "9. A Corporate Governance Risk Measure: Stock Price Crash",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492085249/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492085249/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. The Human Side of Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098107956/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098107956/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Economic Crime in the Fishing Industry",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000857085/chapter/xhtml/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000857085/chapter/xhtml/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Inclusion of Security Features for Implications of Electronic Governance Activities",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119654742/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119654742/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Artificial Intelligence, Ethics, Mathematics, Law, and Policy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098107628/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098107628/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Monitoring and reliability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438750/chapter/Text/chapter-14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438750/chapter/Text/chapter-14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How do we know we’ve changed? Assessing and monitoring ­culture and change",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292331300/chapter/xhtml/Chapter03_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292331300/chapter/xhtml/Chapter03_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "HIPAA background",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780738458601/chapter/5591paper.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780738458601/chapter/5591paper.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Identifying Risk Factors and Assessing the Risks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003844655/chapter/html/ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003844655/chapter/html/ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Performance Is Everything",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780870519529/chapter/xhtml/ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780870519529/chapter/xhtml/ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Follow Procedures and Get Out",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249888/chapter/html/471227_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249888/chapter/html/471227_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mini-case II: Digital payments revolution in India",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040052013/chapter/xhtml/chapter103.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040052013/chapter/xhtml/chapter103.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. The End of Compliance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781947308350/chapter/OEBPS/c12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781947308350/chapter/OEBPS/c12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1.3 AI and Machine Learning Trends in 2024",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837025015/chapter/xhtml/xhtml-0-14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837025015/chapter/xhtml/xhtml-0-14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Enhanced Enterprise Risk Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781637423998/chapter/text/backmatter02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781637423998/chapter/text/backmatter02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Resilience Management during the Pandemic Outbreak of COVID-19",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000626605/chapter/xhtml/C_004_c2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000626605/chapter/xhtml/C_004_c2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Ref lections on the future of the operational risk discipline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398617186/chapter/content/22_chapter16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398617186/chapter/content/22_chapter16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ERM Dashboard Reporting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471745198/chapter/c18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471745198/chapter/c18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. A Migration Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151607/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151607/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Machine Learning Pipelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098165222/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098165222/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "HBR’s 10 Must Reads on Managing Risk (with bonus article “Managing 21st-Century Political Risk” by Condoleezza Rice and Amy Zegert)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633698871/chapter/Text/fm001.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633698871/chapter/Text/fm001.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. MLOps and Continuous Delivery for ML (CD4ML)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098144623/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098144623/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How New Risk Management Helps Leaders Master Uncertainty",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781949991611/chapter/text/04_Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781949991611/chapter/text/04_Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Data Management Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106218/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106218/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What’s Next for Machine Learning Interpretability?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803235424/chapter/Text/Chapter_14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803235424/chapter/Text/Chapter_14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Disaster Risk Management in Agriculture: Case Studies in South Asian Countries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781949443165/chapter/xhtml/add.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781949443165/chapter/xhtml/add.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Smart City Governance Using Big Data Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119791751/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119791751/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Essential Guide to LLMOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835887509/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835887509/",
+      "isbn": "9781835887509",
+      "format": "book"
+    },
+    {
+      "title": "2. Getting Up and Running",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492094517/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492094517/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Pushing Boundaries: The Landscape of AI-Driven Drug Discovery and Development with Insights Into Regulatory Aspects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394234165/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394234165/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Contemporary Machine Learning Risk Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098102425/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098102425/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing Machine Learning Pipelines (MLOps) and Their Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837634064/chapter/B19548_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837634064/chapter/B19548_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Privacy-Preserving Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800564671/chapter/B16573_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800564671/chapter/B16573_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Fundamental Aspects of Operational Risk and Insurance Analytics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118573006/chapter/c15a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118573006/chapter/c15a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing MLOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492083283/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492083283/",
+      "isbn": "9781492083290",
+      "format": "book"
+    },
+    {
+      "title": "B18332_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803241807/chapter/B18332_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803241807/chapter/B18332_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20 Genomics and Machine Learning: ML Approaches, Future Directions and Challenges in Genomics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394268801/chapter/c20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394268801/chapter/c20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Collaboration for Effective Risk Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814449035/chapter/xhtml/chapter18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814449035/chapter/xhtml/chapter18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Dynamic Risk Analysis in the Chemical and Petroleum Industry",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128038239/chapter/XHTML/B9780128037652000056/B9780128037652000056.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128038239/chapter/XHTML/B9780128037652000056/B9780128037652000056.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advances in Heavy Tailed Risk Modeling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118909539/chapter/14_chapter04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118909539/chapter/14_chapter04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Post project (sprint Ω)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439023/chapter/OEBPS/Text/10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439023/chapter/OEBPS/Text/10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 An In-Depth Review on Machine Learning Infusion in an Agricultural Production System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394214112/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394214112/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 IoT to Scale-Up Smart Infrastructure in Indian Cities: A New Paradigm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394185849/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394185849/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. AI Case Studies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288177/chapter/html/527966_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288177/chapter/html/527966_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Performance of Machine Learning and Big Data Analytics Paradigms in Cyber Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000878899/chapter/html/ch25.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000878899/chapter/html/ch25.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B16721_TOC_Final_SK_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800566019/chapter/B16721_TOC_Final_SK_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800566019/chapter/B16721_TOC_Final_SK_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6.2 The push for business automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749477899/chapter/C6_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749477899/chapter/C6_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "05 Designing a tailored risk maturity model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749477592/chapter/C05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749477592/chapter/C05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 A Comparison of Machine Learning and Deep Learning Models with Advanced Word Embeddings: The Case of Internal Audit Reports",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789450712/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789450712/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Lay Foibles And Expert Fables In Judgments About Risk",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849714433/chapter/20_chapter8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849714433/chapter/20_chapter8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Sustainability and Technological Innovation in Organizations: The Mediating Role of Green Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394233922/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394233922/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Principle 3: Access and Authorization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470145012/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470145012/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Machine Learning and AI Ethics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265376/chapter/html/459335_2_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265376/chapter/html/459335_2_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 What Is Total Innovation Management Excellence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003822424/chapter/xhtml/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003822424/chapter/xhtml/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Digital Ethics: Toward a Socially Preferable Development of AI Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000615449/chapter/xhtml/Ch13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000615449/chapter/xhtml/Ch13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Advances in Automated Machine Learning for Precision Healthcare and Biomedical Discoveries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394272396/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394272396/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

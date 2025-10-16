@@ -1,0 +1,4291 @@
+{
+  "skill_name": "test driven development (tdd)",
+  "discovery_timestamp": 1759714237.8057086,
+  "total_books": 612,
+  "books": [
+    {
+      "title": "Test-Driven Development with Python, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098148706/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098148706/",
+      "isbn": "9781098148713",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development in Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247878/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247878/",
+      "isbn": "9781803247878",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Testing, Quality, Security, and Feedback",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835462249/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835462249/",
+      "isbn": "9781835462249",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development with Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803236230/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803236230/",
+      "isbn": "9781803236230",
+      "format": "book"
+    },
+    {
+      "title": "Pragmatic Test-Driven Development in C# and .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803230191/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803230191/",
+      "isbn": "9781803230191",
+      "format": "book"
+    },
+    {
+      "title": "Svelte with Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837638338/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837638338/",
+      "isbn": "9781837638338",
+      "format": "book"
+    },
+    {
+      "title": "Learning Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106461/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106461/",
+      "isbn": "9781098106478",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development with C++",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803242002/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803242002/",
+      "isbn": "9781803242002",
+      "format": "book"
+    },
+    {
+      "title": "Modularizing Legacy Projects Using TDD: Test-Driven Development with XCTest for iOS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274286/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274286/",
+      "isbn": "9781484274286",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development with Python, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491958698/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491958698/",
+      "isbn": "9781491958650",
+      "format": "book"
+    },
+    {
+      "title": "The Driving Instructor's Handbook, 22nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398602816/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398602816/",
+      "isbn": "9781398602816",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Java Development - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836111/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836111/",
+      "isbn": "9781788836111",
+      "format": "book"
+    },
+    {
+      "title": "Practical Test-Driven Development using C# 7",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788398787/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788398787/",
+      "isbn": "9781788398787",
+      "format": "book"
+    },
+    {
+      "title": "BDD in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617291654/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617291654/",
+      "isbn": "9781617291654",
+      "format": "book"
+    },
+    {
+      "title": "Test Driven Development for Embedded C",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222997/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222997/",
+      "isbn": "9781680504880",
+      "format": "book"
+    },
+    {
+      "title": "Test Driven Python Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987924/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987924/",
+      "isbn": "9781783987924",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven JavaScript Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782174929/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782174929/",
+      "isbn": "9781782174929",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Java Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987429/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987429/",
+      "isbn": "9781783987429",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449365141/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449365141/",
+      "isbn": "9781449364823",
+      "format": "book"
+    },
+    {
+      "title": "Advanced UFT 12 for Test Engineers Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849688406/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849688406/",
+      "isbn": "9781849688406",
+      "format": "book"
+    },
+    {
+      "title": "Test Driven Development: By Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321146530/",
+      "url": "https://learning.oreilly.com/api/v1/book/0321146530/",
+      "isbn": "0321146530",
+      "format": "book"
+    },
+    {
+      "title": "ATDD by Example: A Practical Guide to Acceptance Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132763219/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132763219/",
+      "isbn": "9780132763219",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven JavaScript Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321684097/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321684097/",
+      "isbn": "9780321684097",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Database Development: Unlocking Agility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132776486/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132776486/",
+      "isbn": "9780132776486",
+      "format": "book"
+    },
+    {
+      "title": "Lean-Agile Acceptance Test-Driven Development: Better Software Through Collaboration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321719478/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321719478/",
+      "isbn": "9780321719478",
+      "format": "book"
+    },
+    {
+      "title": "Professional Test-Driven Development with C#: Developing Real World Applications with TDD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470643204/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470643204/",
+      "isbn": "9780470643204",
+      "format": "book"
+    },
+    {
+      "title": "Design Driven Testing: Test Smarter, Not Harder",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430229438/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430229438/",
+      "isbn": "9781430229438",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven iOS Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132764049/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132764049/",
+      "isbn": "9780132764049",
+      "format": "book"
+    },
+    {
+      "title": "Test Driven",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781932394856/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781932394856/",
+      "isbn": "9781932394856",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development in Microsoft® .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735619484/",
+      "url": "https://learning.oreilly.com/api/v1/book/0735619484/",
+      "isbn": "9780735619487",
+      "format": "book"
+    },
+    {
+      "title": "Test-driven development (TDD)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284746/chapter/1675b7bf-b087-429b-acb5-36a5ddcb9b62.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284746/chapter/1675b7bf-b087-429b-acb5-36a5ddcb9b62.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven iOS Development with Swift 4 - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788475709/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788475709/",
+      "isbn": "9781788475709",
+      "format": "book"
+    },
+    {
+      "title": "11. Advancing with Test-Driven Development (TDD)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651483/chapter/f_0110.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651483/chapter/f_0110.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development with React: Apply Test-Driven Development in Your Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484269725/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484269725/",
+      "isbn": "9781484269725",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development in Swift: Compile Better Code with XCTest and TDD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270028/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270028/",
+      "isbn": "9781484270028",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Angular Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805126089/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805126089/",
+      "isbn": "9781805126089",
+      "format": "book"
+    },
+    {
+      "title": "What Is Test-Driven Development (TDD)?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502251/chapter/f_0105.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502251/chapter/f_0105.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "31. Test-Driven Development and the Cycle of Observation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788628815/chapter/ch31.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788628815/chapter/ch31.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Test-Driven Development (TDD)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255469/chapter/html/491590_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255469/chapter/html/491590_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14.1.5 Test Driven Development (TDD)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789352862061/chapter/chapter-161.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789352862061/chapter/chapter-161.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Scala Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464675/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464675/",
+      "isbn": "9781786464675",
+      "format": "book"
+    },
+    {
+      "title": "7. Test-Driven Development with JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449357023/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449357023/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development with PHP 8",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803230757/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803230757/",
+      "isbn": "9781803230757",
+      "format": "book"
+    },
+    {
+      "title": "Mastering React Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133417/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133417/",
+      "isbn": "9781789133417",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development (TDD) with Docker and ServerSpec",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464910/chapter/ch10s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464910/chapter/ch10s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Test-Driven Development (TDD)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471202837/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471202837/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering React Test-Driven Development - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247120/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247120/",
+      "isbn": "9781803247120",
+      "format": "book"
+    },
+    {
+      "title": "6. Practicing Test-driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784395339/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784395339/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven iOS Development with Swift - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803232485/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803232485/",
+      "isbn": "9781803232485",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven iOS Development with Swift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880735/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880735/",
+      "isbn": "9781785880735",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500844/chapter/f_0039.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500844/chapter/f_0039.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C# and .NET Core Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788292481/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788292481/",
+      "isbn": "9781788292481",
+      "format": "book"
+    },
+    {
+      "title": "Modern C++ Programming with Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222423/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222423/",
+      "isbn": "9781680504026",
+      "format": "book"
+    },
+    {
+      "title": "7 Acting Like a Designer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136619918/chapter/ch07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136619918/chapter/ch07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-on Test-Driven Development: Using Ruby, Ruby on Rails, and RSpec",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297483/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297483/",
+      "isbn": "9781484297483",
+      "format": "book"
+    },
+    {
+      "title": "13. Project Design Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136524007/chapter/ch13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136524007/chapter/ch13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Live in 30 minutes: You now have a website",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297007/chapter/Text/CH02.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297007/chapter/Text/CH02.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Career Development Links to Career Psychology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000867725/chapter/xhtml/C_008_c5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000867725/chapter/xhtml/C_008_c5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Production Concerns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492053507/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492053507/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Addendum: A Successful Career Development Program in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/43574CHAZAUSTIN/chapter/How_to_Find_Work_for-120.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/43574CHAZAUSTIN/chapter/How_to_Find_Work_for-120.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Godot 4 Game Development Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838826079/chapter/B14528_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838826079/chapter/B14528_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Values, Passion, and Purpose",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798892790659/chapter/10717/OEBPS/xhtml/chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798892790659/chapter/10717/OEBPS/xhtml/chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "28. Documentation and Written Communication",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136500018/chapter/ch28.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136500018/chapter/ch28.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Transformer CLO",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647820787/chapter/ch11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647820787/chapter/ch11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 The Culture of Do and Tell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781523092642/chapter/xhtml/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781523092642/chapter/xhtml/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Understanding the Science of Stress and Womanhood: Decoding the Physiological and Emotional Impacts of Stress",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394329472/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394329472/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1: The Focused Leaderby Daniel Goleman",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798892791809/chapter/Text/005_chapter_001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798892791809/chapter/Text/005_chapter_001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5: Outsmart Your Own Biases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798892791892/chapter/Text/012_chapter_008.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798892791892/chapter/Text/012_chapter_008.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Game Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836203094/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836203094/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Know the Core Features of PjBL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287989/chapter/html/535514_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287989/chapter/html/535514_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 The Layered Musical Universe",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394331444/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394331444/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Working with serverless computing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298882/chapter/Text/Ch08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298882/chapter/Text/Ch08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "22 Hiring Career Loopers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394217663/chapter/c22.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394217663/chapter/c22.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "HBR Guide to Managing Up and Across",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633699281/chapter/11218/OEBPS/xhtml/32-chap23.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633699281/chapter/11218/OEBPS/xhtml/32-chap23.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working as a Team",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134668185/chapter/ch11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134668185/chapter/ch11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Ride the Momentum",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647824181/chapter/xhtml/chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647824181/chapter/xhtml/chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Moving at the Speed of Light",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244159/chapter/html/469679_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244159/chapter/html/469679_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Extra: Artificial Intelligence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868808791/chapter/html/476619_2_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868808791/chapter/html/476619_2_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Game Over - The Myth of Sisyphus",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484269176/chapter/html/499184_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484269176/chapter/html/499184_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. PongClone Project Setup",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270394/chapter/html/508392_1_En_16_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270394/chapter/html/508392_1_En_16_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How the Best of the Best Get Better and Better",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647822040/chapter/10189/OEBPS/xhtml/chapter001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647822040/chapter/10189/OEBPS/xhtml/chapter001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Server-Side Action: Node and NPM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257388/chapter/html/491030_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257388/chapter/html/491030_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Things We Knew",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270080/chapter/html/509035_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270080/chapter/html/509035_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Art of Being Indispensable at Work: Win Influence, Beat Overcommitment, and Get the Right Things Done",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633698505/chapter/Text/chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633698505/chapter/Text/chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android How to Program, 3/e",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134489186/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134489186/",
+      "isbn": "9780134444307",
+      "format": "book"
+    },
+    {
+      "title": "8 Everything Is a Tech Startup. Yes, Everything!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119772064/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119772064/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Balance of Features in Mobile Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484294765/chapter/html/533477_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484294765/chapter/html/533477_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Mentoring in a Globally Active Learning Context",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119142881/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119142881/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Tao of Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651391/chapter/f_0015.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651391/chapter/f_0015.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Woman of Influence: 9 Steps to Build Your Brand, Establish Your Legacy, and Thrive",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260458848/chapter/ch4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260458848/chapter/ch4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Bringing in the Big Guns: Gatsby",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261774/chapter/html/497584_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261774/chapter/html/497584_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The (Ancient) Art of Interactive Fiction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249208/chapter/html/474515_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249208/chapter/html/474515_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Create and Test a Database and Table",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238431/chapter/html/314857_2_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238431/chapter/html/314857_2_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Introverted Leader",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781523094325/chapter/xhtml/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781523094325/chapter/xhtml/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. The Promise and Perils of Focus",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633699229/chapter/xhtml/chapter_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633699229/chapter/xhtml/chapter_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. The Journey Continues",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484233245/chapter/html/352797_2_En_17_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484233245/chapter/html/352797_2_En_17_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Introvert's Complete Career Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781632658760/chapter/09_chapter04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781632658760/chapter/09_chapter04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learning Superstitions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781947308381/chapter/OEBPS/c04.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781947308381/chapter/OEBPS/c04.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "08 Learn by doing: The art and science of experimentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398605619/chapter/content/17_chapter08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398605619/chapter/content/17_chapter08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Laying Out a Game",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491999073/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491999073/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. creating a culture of coaching or helping: pathways to transform the organization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633696570/chapter/Text/chapter08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633696570/chapter/Text/chapter08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 The Business Case for a Learning Culture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260466690/chapter/ch9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260466690/chapter/ch9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Get It Together: Ditch the Chaos, Do the Work, and Design your Success",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260142969/chapter/ch6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260142969/chapter/ch6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21 Turning Your Message into a Minimum Viable Product",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780857087607/chapter/c21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780857087607/chapter/c21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Atomic Design: A Tool for Migration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491999950/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491999950/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 You Are Unstoppable",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119606062/chapter/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119606062/chapter/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android™ How to Program, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133802092/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133802092/",
+      "isbn": "9780133802092",
+      "format": "book"
+    },
+    {
+      "title": "Automated tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467041/chapter/79ff08fd-fba3-4bd0-91b8-6e936165bab2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467041/chapter/79ff08fd-fba3-4bd0-91b8-6e936165bab2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430258575/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430258575/",
+      "isbn": "9781430258575",
+      "format": "book"
+    },
+    {
+      "title": "03 How to take control of reputation: strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398600867/chapter/content/04_CHAPTER_C03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398600867/chapter/content/04_CHAPTER_C03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Following Your Passion vs. Providing What People Want",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781632651112/chapter/xhtml/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781632651112/chapter/xhtml/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "I. Twenty-three conversations with",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128125502/chapter/xhtml/chp001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128125502/chapter/xhtml/chp001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Shifting the Mental Model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492058571/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492058571/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "09 From the employee-expert mindset to the entrepreneur-leader mindset",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789665659/chapter/content/21_chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789665659/chapter/content/21_chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Bring Your Human to Work: 10 Surefire Ways to Design a Workplace That’s Good for People, Great for Business, and Just Might Change the World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260118100/chapter/notes.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260118100/chapter/notes.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 The modern career landscape",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789664638/chapter/content/07_chapter02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789664638/chapter/content/07_chapter02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Game Engine Architecture, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466560017/chapter/xhtml/ch12a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466560017/chapter/xhtml/ch12a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783001408/chapter/ch09s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783001408/chapter/ch09s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Essential Guide to Game Audio",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780415706704/chapter/xhtml/Ch010.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780415706704/chapter/xhtml/Ch010.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android™ Application Development in 24 Hours, Sams Teach Yourself, Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133411010/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133411010/",
+      "isbn": "9780133411010",
+      "format": "book"
+    },
+    {
+      "title": "5. The Big Green Check Mark",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484227008/chapter/A432237_1_En_5_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484227008/chapter/A432237_1_En_5_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Managing Your Professional Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781562865733/chapter/OEBPS/c14.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781562865733/chapter/OEBPS/c14.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24 Marine Wages War on Poverty Through Locally-Led Change (Kenya, 2010)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119448129/chapter/c24.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119448129/chapter/c24.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Finding Your Management Style",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781615646258/chapter/xhtml/chapter003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781615646258/chapter/xhtml/chapter003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Fearless and Free",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814437704/chapter/xhtml/ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814437704/chapter/xhtml/ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Maintaining application integrity with tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789538519/chapter/2284ed52-2647-4e62-810e-7f0f9a1f8a0d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789538519/chapter/2284ed52-2647-4e62-810e-7f0f9a1f8a0d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. The Journey Continues",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484227848/chapter/A434545_1_En_15_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484227848/chapter/A434545_1_En_15_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Test-Driven Development vs. Test During Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805721/chapter/html/616006_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805721/chapter/html/616006_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. When You Have to Be a Superhero",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260026474/chapter/xhtml/17_Chapter10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260026474/chapter/xhtml/17_Chapter10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing JavaScript with Jasmine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501445/chapter/f_0057.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501445/chapter/f_0057.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 The makings of brilliant personal development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780273742470/chapter/html/chapter-001.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780273742470/chapter/html/chapter-001.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Universal Principles for Game Creation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133362688/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133362688/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PeopleSoft People Tools: Mobile Applications Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071837767/chapter/ch2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071837767/chapter/ch2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The evolution of JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886300/chapter/ch01s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886300/chapter/ch01s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Game Design Essentials",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118159279/chapter/12_chap03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118159279/chapter/12_chap03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Getting to the Next Level",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134084831/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134084831/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Vision Strategy Execution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133392692/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133392692/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting a Web Development Job For Dummies®",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118967782/chapter/xhtml/toc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118967782/chapter/xhtml/toc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Project Settings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133489521/chapter/ch09lev2sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133489521/chapter/ch09lev2sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Basics of Static Site Generators",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048558/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048558/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Oracle Women Leadership (OWL) Mentoring Program",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119261339/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119261339/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Quiet Influence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781609945626/chapter/xhtml/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781609945626/chapter/xhtml/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Freedom to Change: Four Strategies to Put Your Inner Drive into Overdrive",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119024378/chapter/16_chapter06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119024378/chapter/16_chapter06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. What Could Possibly Go Wrong?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133563757/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133563757/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ensemble's Age of Empires",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781578202140/chapter/11_Chapter_06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781578202140/chapter/11_Chapter_06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Laying Out a Game",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491920794/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491920794/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development while Creating a TODO List",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642655/chapter/4fd82171-9a77-41f3-a699-ff48d77823e6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642655/chapter/4fd82171-9a77-41f3-a699-ff48d77823e6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Email and Text Messaging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133475548/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133475548/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Business Express: Managing upwards successfully",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292063089/chapter/html/chapter-001.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292063089/chapter/html/chapter-001.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Prepare the Perfect Pitch",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780415831673/chapter/xhtml/Ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780415831673/chapter/xhtml/Ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 The Self-Assessment Test",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814421239/chapter/xhtml/chapter02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814421239/chapter/xhtml/chapter02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25. Introspection for C++ Game Engines (1/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781568814377/chapter/chapter-95.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781568814377/chapter/chapter-95.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C. A Retrospective on the First Year of Obtiva’s Apprenticeship Program",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596806842/chapter/app03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596806842/chapter/app03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Active Browser Pages: From JavaScript to AJAX",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470518601/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470518601/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Mobile Business Challenges",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133094954/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133094954/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing Apps for Success",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780415834414/chapter/xhtml/Ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780415834414/chapter/xhtml/Ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8: Advanced Blueprint Concepts (3/12)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781498706254/chapter/chapter-118.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781498706254/chapter/chapter-118.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. The Law of Perception",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814416372/chapter/xhtml/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814416372/chapter/xhtml/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849696548/chapter/pr04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849696548/chapter/pr04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781422184240/chapter/HBSP84233_Chapter06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781422184240/chapter/HBSP84233_Chapter06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "When: The Art of Perfect Timing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118226117/chapter/10_chapter-04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118226117/chapter/10_chapter-04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Empress Has No Clothes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781609946364/chapter/xhtml/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781609946364/chapter/xhtml/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3.7.1 UMTS/WCDMA Versus cdma2000",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780120885602/chapter/chapter-78.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780120885602/chapter/chapter-78.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. The Response Dimension",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780805825862/chapter/xhtml/12_Chapter004.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780805825862/chapter/xhtml/12_Chapter004.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Elements of Influence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814417324/chapter/xhtml/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814417324/chapter/xhtml/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Women Lead: 8 Essential Strategies Successful Women Know",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071781251/chapter/five.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071781251/chapter/five.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Performance Tips",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118348130/chapter/a6_19_9781118348130-ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118348130/chapter/a6_19_9781118348130-ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Career Lattice: Combat Brain Drain, Improve Company Culture, and Attract Top Talent",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071791694/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071791694/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Developing for Windows Phone",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735671324/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735671324/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring the resource editors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849694100/chapter/ch01s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849694100/chapter/ch01s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Deciphering the Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470585788/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470585788/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24 The Production Pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240811796/chapter/035_9780080952246_chapter_twenty_four.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240811796/chapter/035_9780080952246_chapter_twenty_four.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to Land a Top-Paying Federal Job",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814420225/chapter/xhtml/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814420225/chapter/xhtml/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Producing Collateral (Not Damage)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133085754/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133085754/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The StoryDrive Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240807881/chapter/10_Chapter_02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240807881/chapter/10_Chapter_02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Surveying the Mobile Browser Landscape",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118421444/chapter/c04-anchor-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118421444/chapter/c04-anchor-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Mobile Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596806231/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596806231/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sidetracked: Why Our Decisions Get Derailed, and How We Can Stick to the Plan",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781422191385/chapter/HBSP42691_Chapter01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781422191385/chapter/HBSP42691_Chapter01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-World Flash Game Development: How to Follow Best Practices and Keep Your Sanity, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240817682/chapter/xhtml/21_Chapter15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240817682/chapter/xhtml/21_Chapter15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Leveraging Custom iPhone and Android Interface Calls with ActionScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240815688/chapter/xhtml/19_Chap7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240815688/chapter/xhtml/19_Chap7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Games with Flash for the Mobile Market",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240815787/chapter/xhtml/05_chapter1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240815787/chapter/xhtml/05_chapter1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Automation Pipeline for Micro-Frontends: A Case Study",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492082989/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492082989/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Insist on Correctness",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222959/chapter/f_0019.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222959/chapter/f_0019.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Device Databases and Classes: Get with the group",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449324773/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449324773/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Small Batches Reduce Overhead",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449377465/chapter/ch04s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449377465/chapter/ch04s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "LEADERSHIP AND YOUR TEAM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118221129/chapter/chap5-sec01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118221129/chapter/chap5-sec01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Attitude is Everything Rev Ed",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780061910296/chapter/attitudeiseverything_ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780061910296/chapter/attitudeiseverything_ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-Time Collision Detection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781558607323/chapter/xhtml/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781558607323/chapter/xhtml/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Why You Didn’t Get That Promotion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781422172254/chapter/chapter006.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781422172254/chapter/chapter006.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Polishing Up Our App",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780987090843/chapter/Text/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780987090843/chapter/Text/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Testing, Verification, and Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282793/chapter/html/518359_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282793/chapter/html/518359_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Using C# Methods to Solve Problems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735659841/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735659841/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Land the Tech Job You Love",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500158/chapter/f_0052.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500158/chapter/f_0052.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Ajax, RIA, and HTML 5",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596807818/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596807818/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Streaming: Thumping, Pulse-Quickening Game Excitement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430225997/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430225997/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TEN A Tribe, or a Growing Revolution?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781605093536/chapter/xhtml/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781605093536/chapter/xhtml/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Hybrid 3D Graphics with OpenGL and JNI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430226475/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430226475/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Porting Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470744192/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470744192/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Work Your Strengths",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814414071/chapter/xhtml/ch12_app_a.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814414071/chapter/xhtml/ch12_app_a.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Teams and boundaries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296871/chapter/OEBPS/Text/13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296871/chapter/OEBPS/Text/13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Test Automation: Learn to Use Jasmine, RSpec, and Cucumber Effectively for Your TDD and BDD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261415/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261415/",
+      "isbn": "9781484261415",
+      "format": "book"
+    },
+    {
+      "title": "6 - The Turnaround Challenge",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781422152706/chapter/e9781422152706_c06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781422152706/chapter/e9781422152706_c06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "nine: Agendas for the Future",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780061744150/chapter/9780061744150_chapter_09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780061744150/chapter/9780061744150_chapter_09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Stop Whining and Start Winning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780061968105/chapter/stopwhiningandstartwinning_ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780061968105/chapter/stopwhiningandstartwinning_ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Action Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814430002/chapter/xhtml/int.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814430002/chapter/xhtml/int.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "46. Manipulating XML with XSLT and XPath",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321550057/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321550057/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Case Example #1: Diary of a CLO",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781576757802/chapter/chapter9.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781576757802/chapter/chapter9.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Game Hacking 101",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132271912/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132271912/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Apex",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780978963958/chapter/9780978963958_ch10lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780978963958/chapter/9780978963958_ch10lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven React",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507058/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507058/",
+      "isbn": "9781680507058",
+      "format": "book"
+    },
+    {
+      "title": "Next Generation Wireless Applications: Creating Mobile Applications in a Web 2.0 and Mobile 2.0 World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470725061/chapter/07_abbreviations_and_acronyms.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470725061/chapter/07_abbreviations_and_acronyms.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "App Design Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596156695/chapter/ch04s11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596156695/chapter/ch04s11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development for Networks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234618/chapter/Text/Chapter_16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234618/chapter/Text/Chapter_16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24. Ruby on Rails",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136085645/chapter/ch24.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136085645/chapter/ch24.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Mobile Devices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470057384/chapter/12_chap05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470057384/chapter/12_chap05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Pleasure of Finding Things Out—A Look at the Research Behind Success Built to Last",
+      "id": "https://www.safaribooksonline.com/api/v1/book/013228751X/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/013228751X/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Ignition Point 5: The Strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131492489/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131492489/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "26 Would I Make a Good Entrepreneur?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814473641/chapter/xhtml/Chapter26.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814473641/chapter/xhtml/Chapter26.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "S60 Smartphone Quality Assurance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470056851/chapter/15_chap09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470056851/chapter/15_chap09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ASP.NET MVC 1.0 Test Driven Development: Problem - Design - Solution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470447628/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470447628/",
+      "isbn": "9780470447628",
+      "format": "book"
+    },
+    {
+      "title": "20. Working with Databases in Android",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266465/chapter/html/499629_1_En_20_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266465/chapter/html/499629_1_En_20_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deno Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800205666/chapter/B16380_FM_Final_JM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800205666/chapter/B16380_FM_Final_JM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Hardball Manifesto",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781422161869/chapter/Chapter01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781422161869/chapter/Chapter01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Space Out: Paying Tribute to Space Invaders",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768683783/chapter/ch19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768683783/chapter/ch19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Project 1: Competitive Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/059600642X/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/059600642X/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "BUILDING THE GLOBAL GATEWAY",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735712085/chapter/0735712085_ch11lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735712085/chapter/0735712085_ch11lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8.2 Characterizing Entities in the Data Schema",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781558608436/chapter/chapter-89.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781558608436/chapter/chapter-89.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "INTEGRATING INDEPENDENCE AND INTERDEPENDENCE: Be yourself and collaborate with, and contribute to, others",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781605093840/chapter/Chap4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781605093840/chapter/Chap4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Acceptance Test Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238325/chapter/html/453429_1_En_16_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238325/chapter/html/453429_1_En_16_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Why Test-Driven Development Is a Must for Code Quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484267110/chapter/html/501950_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484267110/chapter/html/501950_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "five: crafting experiments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781422160657/chapter/xhtml/chapter005.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781422160657/chapter/xhtml/chapter005.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Monitoring and evaluating",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398612075/chapter/content/10_chapter05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398612075/chapter/content/10_chapter05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Creating XR Experiences",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295854/chapter/html/432415_2_En_18_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295854/chapter/html/432415_2_En_18_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "iOS 14 Programming for Beginners Fifth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800209749/chapter/B16370_FM_Final_SK_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800209749/chapter/B16370_FM_Final_SK_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Applications and Activities and Fragments, Oh My!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118949528/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118949528/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Refining Your Idea",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484242858/chapter/html/475674_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484242858/chapter/html/475674_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Workflow of Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836642237/chapter/img-f21.3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836642237/chapter/img-f21.3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "39. Importance of Test-Driven Development for Coders",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787287037/chapter/ch39.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787287037/chapter/ch39.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133202/chapter/b60c060d-c569-4c91-93bc-268b0194ec16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133202/chapter/b60c060d-c569-4c91-93bc-268b0194ec16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "05 The 5 x 20 life and the redesign of age",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749498672/chapter/content/11_chapter05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749498672/chapter/content/11_chapter05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Test-driven development and dependency injection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298028/chapter/OEBPS/Text/06.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298028/chapter/OEBPS/Text/06.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Groupware Aspects of the BYTE Magazine Docbase",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565925378/chapter/ch05s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1565925378/chapter/ch05s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Application Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449374471/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449374471/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android App Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284092134/chapter/xhtml/04_Preface.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284092134/chapter/xhtml/04_Preface.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Drawing in VR",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484227190/chapter/A432415_1_En_15_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484227190/chapter/A432415_1_En_15_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing and Release",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491910993/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491910993/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Android Design Patterns: UI Design Paradigms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484222683/chapter/A324674_4_En_8_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484222683/chapter/A324674_4_En_8_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21. Testing Your Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134389653/chapter/ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134389653/chapter/ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Testing and Debugging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133924022/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133924022/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Eclipse for Android Software Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449332921/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449332921/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Testing and Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297896/chapter/html/610217_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297896/chapter/html/610217_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789615869/chapter/e257d1be-a785-4c5a-93fb-a8918cc433f6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789615869/chapter/e257d1be-a785-4c5a-93fb-a8918cc433f6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Test-Driven Development with Angular",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296097/chapter/html/600283_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296097/chapter/html/600283_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Programming with Node.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484219522/chapter/A371652_1_En_16_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484219522/chapter/A371652_1_En_16_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beginning with test-driven Julia development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788292740/chapter/9bf262f9-8cb0-4aa4-b3a2-ed38bb574ee0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788292740/chapter/9bf262f9-8cb0-4aa4-b3a2-ed38bb574ee0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "iOS 9 SDK Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501889/chapter/f_0052.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501889/chapter/f_0052.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 6. Model-View-Controller Application Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133994438/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133994438/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Using the Cordova Command-Line Interfaces",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134048284/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134048284/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development: The Diamond Kata",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491923283/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491923283/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-driven development approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994460/chapter/95569049-b2c4-4f64-9214-7a000841a452.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994460/chapter/95569049-b2c4-4f64-9214-7a000841a452.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Testing Android Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133477306/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133477306/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Test-Driven Development: Holding your code accountable",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596527358/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596527358/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Where to Go Next",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133094541/chapter/ch15lev1sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133094541/chapter/ch15lev1sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 23. Building Universal Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133598629/chapter/ch23.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133598629/chapter/ch23.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3.8 Test-Driven Development with Spring Boot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806112296/chapter/03_008.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806112296/chapter/03_008.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Test Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132542913/chapter/ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132542913/chapter/ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Quality Assurance Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240804439/chapter/xhtml/chapter10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240804439/chapter/xhtml/chapter10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Publishing Apps for Android",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449361907/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449361907/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Why Android? Why Now?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222386/chapter/f_0007.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222386/chapter/f_0007.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Make It Interactive – Create the User Experience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782168553/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782168553/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Prepare for a solution deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735677135/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735677135/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing FP using test-driven development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281394/chapter/fbe40537-9e5e-4326-bfc1-e2dfed6101fd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281394/chapter/fbe40537-9e5e-4326-bfc1-e2dfed6101fd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring monads by applying test-driven development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127944/chapter/6eea87a6-2954-459f-b7c9-8b1eb4417b6e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127944/chapter/6eea87a6-2954-459f-b7c9-8b1eb4417b6e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android™ 3 SDK Programming FOR DUMMIES®",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118008256/chapter/31_index.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118008256/chapter/31_index.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. The Android Software Development Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132909693/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132909693/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Introducing the iOS SDK",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133028355/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133028355/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Building with Auto Layout",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133440669/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133440669/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Do Acceptance Test–Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321660534/chapter/ch16sec1lev3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321660534/chapter/ch16sec1lev3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Assembling Views and Animations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133120844/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133120844/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. PhoneGap Development, Testing, and Debugging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132928373/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132928373/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Figures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617290503/chapter/kindle_split_037.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617290503/chapter/kindle_split_037.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development for Functional Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789807332/chapter/f3b31186-dfef-496e-bc6e-82a55eeb0cba.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789807332/chapter/f3b31186-dfef-496e-bc6e-82a55eeb0cba.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Before You Begin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132160261/chapter/pre02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132160261/chapter/pre02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134196664/chapter/ch53lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134196664/chapter/ch53lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "iOS 5 Recipes: A Problem-Solution Approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430240051/chapter/Chapter13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430240051/chapter/Chapter13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "26. The Mobile Software Development Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132484473/chapter/ch26.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132484473/chapter/ch26.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Integrating iOS Applications into Enterprise Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449317768/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449317768/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 24. Publishing on the Android Market",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132786904/chapter/ch24.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132786904/chapter/ch24.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Building User Interfaces and Using Controls",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430232223/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430232223/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pro Android Flash",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430232315/chapter/Chapter02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430232315/chapter/Chapter02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-driven Node.js Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787128149/chapter/5fc8c4aa-3991-46d3-bc28-b0d37d2bb3b5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787128149/chapter/5fc8c4aa-3991-46d3-bc28-b0d37d2bb3b5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Three Ts: Terminology, Technology, and Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321699565/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321699565/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Advanced Build Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430232100/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430232100/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21. Test-Driven Development and Refactoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131489062/chapter/ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131489062/chapter/ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Core Data Migration and Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470636176/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470636176/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Is It Tapworthy?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449381677/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449381677/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 15. Adding Network Support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768696349/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768696349/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. The Mobile Software Development Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321619686/chapter/ch19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321619686/chapter/ch19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Optimizing Test-Driven React Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835015/chapter/d9c6eb39-afe4-4f3e-8758-993ea9e1efe1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835015/chapter/d9c6eb39-afe4-4f3e-8758-993ea9e1efe1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. How Effective Is Test-Driven Development?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596808310/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596808310/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Getting to Know Android",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596156220/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596156220/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing and test-driven development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987306/chapter/ch11s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987306/chapter/ch11s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Story Test-Driven Development with Fit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321269349/chapter/ch17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/0321269349/chapter/ch17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Acceptance test-driven development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735669536/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735669536/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-driven development in Vue CLI 3",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789950342/chapter/ea86190a-2a42-45ec-9f74-ce89a007950e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789950342/chapter/ea86190a-2a42-45ec-9f74-ce89a007950e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Test Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470447611/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470447611/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Uncle Bob's three rules of test-driven development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463951/chapter/85d7bdf0-f385-430f-8719-fc40e0a5bdc3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463951/chapter/85d7bdf0-f385-430f-8719-fc40e0a5bdc3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Test-Driven Development with ASP.NET Core MVC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484204276/chapter/A331495_2_En_7_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484204276/chapter/A331495_2_En_7_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Applications Using Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430237624/chapter/Chapter28.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430237624/chapter/Chapter28.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Design and Test Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470496640/chapter/9780470496640_design_and_test_driven_development.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470496640/chapter/9780470496640_design_and_test_driven_development.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Test Driven Development with ASP.NET MVC",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470643181/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470643181/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. TDD in High Gear and Low Gear",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492052197/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492052197/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Interlude: Test-Driven Plug-In Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321205758/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321205758/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Acceptance test-driven development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125230/chapter/a022a926-1e74-4646-8218-6fe124c16ee8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125230/chapter/a022a926-1e74-4646-8218-6fe124c16ee8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C/SIDE Test-driven development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298704/chapter/ch21s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298704/chapter/ch21s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-driven development for cookbooks using ChefSpec",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786465351/chapter/ch02s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786465351/chapter/ch02s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding software testing and test-driven development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782164623/chapter/ch08s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782164623/chapter/ch08s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-driven development with Chef",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783981564/chapter/ch13s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783981564/chapter/ch13s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adopting Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849694728/chapter/apas08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849694728/chapter/apas08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10.3.6 An Example of Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780763785345/chapter/chapter-155.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780763785345/chapter/chapter-155.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing and TDD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801819992/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801819992/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Jasmine tests using TDD and BDD processes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784397166/chapter/ch02s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784397166/chapter/ch02s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing, TDD, BDD, and NodeJS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121720/chapter/ch15s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121720/chapter/ch15s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TDD and BDD with Codeception",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784390310/chapter/ch05s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784390310/chapter/ch05s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. The Context-Driven Approach to Software Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471081128/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471081128/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491905562/chapter/ch25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491905562/chapter/ch25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-driven design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788622011/chapter/a2d6ef7c-845d-4c4b-b2b6-bc376632a7af.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788622011/chapter/a2d6ef7c-845d-4c4b-b2b6-bc376632a7af.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tabula Rasa – Approaching an Application with TDD in Mind",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838558383/chapter/f3dd76f9-b015-448d-a4f6-05ebb9d26e36.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838558383/chapter/f3dd76f9-b015-448d-a4f6-05ebb9d26e36.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Benefits of TDD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288645/chapter/fc9f4b4e-c4a0-4e1e-bd9f-d4b574e0aeb1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288645/chapter/fc9f4b4e-c4a0-4e1e-bd9f-d4b574e0aeb1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TDD of the register page",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836968/chapter/846972a3-4ebd-473e-ab23-04d5d5bb0b64.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836968/chapter/846972a3-4ebd-473e-ab23-04d5d5bb0b64.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Contract testing for event-driven architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437241/chapter/Text/chapter-8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437241/chapter/Text/chapter-8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The why and what of TDD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788392822/chapter/2f63db46-ae04-4649-961e-29b5370b0122.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788392822/chapter/2f63db46-ae04-4649-961e-29b5370b0122.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Build an Application Exploring TDD Using Jest and Enzyme",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789954937/chapter/5071754a-94af-4af0-9f0f-eacc53b358a4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789954937/chapter/5071754a-94af-4af0-9f0f-eacc53b358a4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using tests to think through your code TDT (Test Driven Thinking)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462084/chapter/ch08s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462084/chapter/ch08s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Keith Zambelich's Test Plan Driven Testing Framework for Mercury Interactive Users",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130084689/chapter/0130084689_ch07lev1sec14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130084689/chapter/0130084689_ch07lev1sec14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Deploying your game to players’ devices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299339/chapter/OEBPS/Text/C013.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299339/chapter/OEBPS/Text/C013.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learn Rust in a Month of Lunches",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438231/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438231/",
+      "isbn": "9781633438231",
+      "format": "book"
+    },
+    {
+      "title": "A Frontend Web Developer's Guide to Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803238319/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803238319/",
+      "isbn": "9781803238319",
+      "format": "book"
+    },
+    {
+      "title": "Powerful Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098175696/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098175696/",
+      "isbn": "9781098175702",
+      "format": "book"
+    },
+    {
+      "title": "Build Your Own Test Framework: A Practical Guide to Writing Better Automated Tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292471/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292471/",
+      "isbn": "9781484292471",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Automated Testing with Playwright",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806106479/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806106479/",
+      "isbn": "9781806106479",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Topics – Gizmos, Automated Testing, and More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805123026/chapter/Text/Chapter_19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805123026/chapter/Text/Chapter_19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Dynamic Motion: Implementing Movement and Spawning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835085714/chapter/text/ch007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835085714/chapter/text/ch007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating Animations with Animator, Cinemachine, and Timeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803236919/chapter/Text/Chapter_17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803236919/chapter/Text/Chapter_17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. What Is Gained Through Automation, the Highlights!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295083/chapter/html/602654_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295083/chapter/html/602654_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Architecture with .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138203443/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138203443/",
+      "isbn": "9780138203443",
+      "format": "book"
+    },
+    {
+      "title": "3. The Future of AI and Ethical Implications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289983/chapter/html/536770_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289983/chapter/html/536770_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Measuring and Governing Architecture Characteristics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098175504/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098175504/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building ETL Pipelines with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804615256/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804615256/",
+      "isbn": "9781804615256",
+      "format": "book"
+    },
+    {
+      "title": "Write Powerful Rust Macros",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437494/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437494/",
+      "isbn": "9781633437494",
+      "format": "book"
+    },
+    {
+      "title": "Microservice APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298417/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298417/",
+      "isbn": "9781617298417",
+      "format": "book"
+    },
+    {
+      "title": "Bonus Level 3: Game Design Document TemplateGame Design Document Template",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394298761/chapter/b03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394298761/chapter/b03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Topics - Gizmos, Automated Testing, and More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839217616/chapter/ab38c5a4-e6e0-4670-9fe8-17f966a0a101.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839217616/chapter/ab38c5a4-e6e0-4670-9fe8-17f966a0a101.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Game Mechanics Must Be in Balance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781351803632/chapter/xhtml/C16_chapter13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781351803632/chapter/xhtml/C16_chapter13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Radically Collaborative Patterns for Software Makers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492063308/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492063308/",
+      "isbn": "9781492063292",
+      "format": "book"
+    },
+    {
+      "title": "1. Creating Computer Games",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484256503/chapter/html/488486_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484256503/chapter/html/488486_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Agile: Back to Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135782002/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135782002/",
+      "isbn": "9780135782002",
+      "format": "book"
+    },
+    {
+      "title": "B16016_03_Final_AM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800203389/chapter/B16016_03_Final_AM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800203389/chapter/B16016_03_Final_AM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Efficient Node.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098145187/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098145187/",
+      "isbn": "9781098145194",
+      "format": "book"
+    },
+    {
+      "title": "3. Setting Up ML Agents Toolkit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265031/chapter/html/502041_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265031/chapter/html/502041_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136083238/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136083238/",
+      "isbn": "9780136083238",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Game Application Development: With Xamarin.Forms and ASP.NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484242643/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484242643/",
+      "isbn": "9781484242643",
+      "format": "book"
+    },
+    {
+      "title": "Principles of Solution Architecture Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835084236/chapter/Text/Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835084236/chapter/Text/Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Designing Your Game",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484245330/chapter/html/435550_2_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484245330/chapter/html/435550_2_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Microservices with Dapr and .NET - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248127/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248127/",
+      "isbn": "9781803248127",
+      "format": "book"
+    },
+    {
+      "title": "3 The Basics of Action Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040020814/chapter/xhtml/C_007_c3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040020814/chapter/xhtml/C_007_c3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Software Architecture Demystified: Let’s Get Started!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098134341/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098134341/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Xamarin Development for the Mac: Create iOS, watchOS, and Apple tvOS apps with Xamarin.iOS and Visual Studio for Mac",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484231326/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484231326/",
+      "isbn": "9781484231326",
+      "format": "book"
+    },
+    {
+      "title": "Building Distributed Applications in Gin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801074858/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801074858/",
+      "isbn": "9781801074858",
+      "format": "book"
+    },
+    {
+      "title": "Building Microservices with Micronaut®",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800564237/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800564237/",
+      "isbn": "9781800564237",
+      "format": "book"
+    },
+    {
+      "title": "6. Build the Silver Layer",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098178826/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098178826/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rust Web Development with Rocket",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800561304/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800561304/",
+      "isbn": "9781800561304",
+      "format": "book"
+    },
+    {
+      "title": "Preparing for Gameplay",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491944738/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491944738/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Topic 41. Test to Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135956977/chapter/f_0065.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135956977/chapter/f_0065.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Serverless Development on AWS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098141929/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098141929/",
+      "isbn": "9781098141936",
+      "format": "book"
+    },
+    {
+      "title": "Initial Game Board",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785287473/chapter/ch03s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785287473/chapter/ch03s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tweaking properties with remote settings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288713/chapter/41de416d-d3b6-4fc6-9f2b-9dcc7ac2115c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288713/chapter/41de416d-d3b6-4fc6-9f2b-9dcc7ac2115c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JavaScript: Novice to Ninja, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492023623/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492023623/",
+      "isbn": "9781492064237",
+      "format": "book"
+    },
+    {
+      "title": "The big picture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788471909/chapter/40dbbbdc-c02f-4f17-85a4-68acd4a74e86.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788471909/chapter/40dbbbdc-c02f-4f17-85a4-68acd4a74e86.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Behavior-Driven Development with Cucumber: Better Collaboration for Better Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132748544/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132748544/",
+      "isbn": "9780132748544",
+      "format": "book"
+    },
+    {
+      "title": "9 Modular CSS and scope",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437555/chapter/Text/chapter-9.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437555/chapter/Text/chapter-9.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 The Role of Audio in Interactive and Immersive Environments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781351731126/chapter/xhtml/Ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781351731126/chapter/xhtml/Ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The SaaS Mindset",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098140632/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098140632/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. An Architecture Advice Forum",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098151850/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098151850/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Rule the World – Level Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287897/chapter/html/527673_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287897/chapter/html/527673_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Performance and Optimization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781317622710/chapter/xhtml/15_Chapter08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781317622710/chapter/xhtml/15_Chapter08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Agile Technical Practices Distilled",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838980849/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838980849/",
+      "isbn": "9781838980849",
+      "format": "book"
+    },
+    {
+      "title": "Advanced JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789800104/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789800104/",
+      "isbn": "9781789800104",
+      "format": "book"
+    },
+    {
+      "title": "F# in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439535/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439535/",
+      "isbn": "9781633439535",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code with C# - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837635191/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837635191/",
+      "isbn": "9781837635191",
+      "format": "book"
+    },
+    {
+      "title": "Dish: Metal Vehicle Doom",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466581401/chapter/K18872_C012.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466581401/chapter/K18872_C012.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing Event-Driven Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057888/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057888/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learn Selenium",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838983048/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838983048/",
+      "isbn": "9781838983048",
+      "format": "book"
+    },
+    {
+      "title": "Building Microservices with Node.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838985936/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838985936/",
+      "isbn": "9781838985936",
+      "format": "book"
+    },
+    {
+      "title": "Mastering Microservices with Java - Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530728/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530728/",
+      "isbn": "9781789530728",
+      "format": "book"
+    },
+    {
+      "title": "8. Serverless Processing Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106058/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106058/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Code reviews and pair programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438125/chapter/Text/chapter-11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438125/chapter/Text/chapter-11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cast of Supporting Characters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135344248/chapter/app03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135344248/chapter/app03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Taking the lead",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438071/chapter/OEBPS/Text/10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438071/chapter/OEBPS/Text/10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AN ARCHITECTURAL APPROACH TO LEVEL DESIGN",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466585416/chapter/xhtml/13_Chapter04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466585416/chapter/xhtml/13_Chapter04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Dictionaries and Sets",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056348/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056348/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Microservices with Rust",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789342758/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789342758/",
+      "isbn": "9781789342758",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121799/chapter/5ff7e037-0141-473c-91f3-e33b63cc5138.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121799/chapter/5ff7e037-0141-473c-91f3-e33b63cc5138.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Files: operations on external data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110692501/chapter/content/9783110692297_012537.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110692501/chapter/content/9783110692297_012537.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Remote Procedure Calls",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800209220/chapter/B16183_17_Final_SZ_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800209220/chapter/B16183_17_Final_SZ_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 What is collaborative modeling?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439252/chapter/OEBPS/Text/02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439252/chapter/OEBPS/Text/02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Instructional Strategies for Purposeful Play: Gameplay and Analysis in the Classroom",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000779530/chapter/chapter04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000779530/chapter/chapter04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Type-Driven Development with Idris",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617293023/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617293023/",
+      "isbn": "9781617293023",
+      "format": "book"
+    },
+    {
+      "title": "Python Microservices Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785881114/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785881114/",
+      "isbn": "9781785881114",
+      "format": "book"
+    },
+    {
+      "title": "Building Microservices with ASP.NET Core",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491961728/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491961728/",
+      "isbn": "9781491961735",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Domain-Specific Languages with Xtext and Xtend - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464965/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464965/",
+      "isbn": "9781786464965",
+      "format": "book"
+    },
+    {
+      "title": "4. Costs and Benefits of AI-Driven Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098105983/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098105983/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Thoughtful Machine Learning with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491924129/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491924129/",
+      "isbn": "9781491924136",
+      "format": "book"
+    },
+    {
+      "title": "3. Automated Functional Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108120/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108120/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exploring the Genre",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430234227/chapter/Chapter01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430234227/chapter/Chapter01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8.1. Model Driven Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781905209590/chapter/sec-8.1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781905209590/chapter/sec-8.1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android™ for Programmers: An App-Driven Approach, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133570960/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133570960/",
+      "isbn": "9780133570960",
+      "format": "book"
+    },
+    {
+      "title": "The Cucumber for Java Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500677/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500677/",
+      "isbn": "9781680504989",
+      "format": "book"
+    },
+    {
+      "title": "Calculate Complexity Trends from Your Code’s Shape",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650837/chapter/f_0037.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650837/chapter/f_0037.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IV. Organizations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492077534/chapter/part04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492077534/chapter/part04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Making Deep Games",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781317607700/chapter/xhtml/17_Chapter07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781317607700/chapter/xhtml/17_Chapter07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Introducing Behavior-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297533/chapter/OEBPS/Text/02.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297533/chapter/OEBPS/Text/02.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B19532_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837638024/chapter/B19532_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837638024/chapter/B19532_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Architecture with C# 12 and .NET 8 - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805127659/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805127659/",
+      "isbn": "9781805127659",
+      "format": "book"
+    },
+    {
+      "title": "Data-Driven Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804617908/chapter/Text/Chapter_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804617908/chapter/Text/Chapter_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Planning and Iteration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449338015/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449338015/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to Disagree with the Rules",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098133108/chapter/preface03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098133108/chapter/preface03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real World Agility: Practical Guidance for Agile Practitioners",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134191768/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134191768/",
+      "isbn": "9780134191768",
+      "format": "book"
+    },
+    {
+      "title": "8. Testing in Agile Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295144/chapter/html/604917_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295144/chapter/html/604917_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JavaScript Domain-Driven Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784394325/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784394325/",
+      "isbn": "9781784394325",
+      "format": "book"
+    },
+    {
+      "title": "10 Simulation‐Based Cyber Wargaming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119604785/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119604785/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Testing Throughout the Software Life Cycle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786309822/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786309822/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "OS X App Development with CloudKit and Swift",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484218808/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484218808/",
+      "isbn": "9781484218808",
+      "format": "book"
+    },
+    {
+      "title": "Cucumber Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785286001/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785286001/",
+      "isbn": "9781785286001",
+      "format": "book"
+    },
+    {
+      "title": "5. Private Builds and Metrics: Tools for Surviving DevOps Transitions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098112226/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098112226/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Jasmine JavaScript Testing Update",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785282041/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785282041/",
+      "isbn": "9781785282041",
+      "format": "book"
+    },
+    {
+      "title": "7 Working with Keras: A deep dive",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296864/chapter/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296864/chapter/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "E. Abbreviations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781681989839/chapter/xhtml/bm1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781681989839/chapter/xhtml/bm1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing API Tests with Karate",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837638260/chapter/B19421_Frontmatter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837638260/chapter/B19421_Frontmatter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Guidelines for the TDD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789950847/chapter/ecf42ab1-135b-4893-b04e-d6826ae284d9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789950847/chapter/ecf42ab1-135b-4893-b04e-d6826ae284d9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Software Architecture with Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207301/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207301/",
+      "isbn": "9781800207301",
+      "format": "book"
+    },
+    {
+      "title": "10 Preschoolers (3–5 Years)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780415729178/chapter/xhtml/Ch010.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780415729178/chapter/xhtml/Ch010.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 LOOKING AHEAD: OTHER PARALLEL SYSTEMS AND PARALLEL PROGRAMMING MODELS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098141370/chapter/xhtml/ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098141370/chapter/xhtml/ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "React Native for Mobile Development: Harness the Power of React Native to Create Stunning iOS and Android Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484244548/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484244548/",
+      "isbn": "9781484244548",
+      "format": "book"
+    },
+    {
+      "title": "Rapid Application Development with AWS Amplify",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207233/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207233/",
+      "isbn": "9781800207233",
+      "format": "book"
+    },
+    {
+      "title": "Agile Estimating and Planning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137126347/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137126347/",
+      "isbn": "9780137126347",
+      "format": "book"
+    },
+    {
+      "title": "Critical Testing Processes: Plan, Prepare, Perform, Perfect",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201748681/",
+      "url": "https://learning.oreilly.com/api/v1/book/0201748681/",
+      "isbn": "0201748681",
+      "format": "book"
+    },
+    {
+      "title": "Writing BDD-style tests with Mocha",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785280092/chapter/ch06s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785280092/chapter/ch06s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Preparing a TDD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838556877/chapter/40a1f988-49b4-48cb-bc73-485669dc2b9d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838556877/chapter/40a1f988-49b4-48cb-bc73-485669dc2b9d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Developing a Problem Structuring Sensibility in Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119744825/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119744825/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Release It! Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680504552/chapter/f_0041.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680504552/chapter/f_0041.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Performance Testing in the Software Lifecycle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272558/chapter/html/510444_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272558/chapter/html/510444_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20. Testing Event-Driven Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341622180/chapter/ch20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341622180/chapter/ch20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Domain-Driven Design with Java - A Practitioner’s Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800560734/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800560734/",
+      "isbn": "9781800560734",
+      "format": "book"
+    },
+    {
+      "title": "iOS 8 for Programmers: An App-Driven Approach with Swift, 3rd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133965315/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133965315/",
+      "isbn": "9780133965315",
+      "format": "book"
+    },
+    {
+      "title": "Agile Principles, Patterns, and Practices in C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131857258/",
+      "url": "https://learning.oreilly.com/api/v1/book/0131857258/",
+      "isbn": "0131857258",
+      "format": "book"
+    },
+    {
+      "title": "Practical PHP and MySQL Website Databases: A Simplified Approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430260769/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430260769/",
+      "isbn": "9781430260769",
+      "format": "book"
+    },
+    {
+      "title": "Writing Testable Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838554590/chapter/160259bc-b601-4854-9aa9-cabe2c4fd691.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838554590/chapter/160259bc-b601-4854-9aa9-cabe2c4fd691.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JavaScript in Web Browsers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491952016/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491952016/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern CSS with Tailwind, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509892/chapter/f_0067.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509892/chapter/f_0067.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Design a dashboard of top 10 products on Amazon by sales volume",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439108/chapter/Text/17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439108/chapter/Text/17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Testing with pytest",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098139575/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098139575/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Keeping up to date with trends vs. cost of maintenance of your code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299209/chapter/Text/ch13_Lelek.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299209/chapter/Text/ch13_Lelek.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JavaScript Testing with Jasmine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449356729/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449356729/",
+      "isbn": "9781449356378",
+      "format": "book"
+    },
+    {
+      "title": "5. Implementation and Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293850/chapter/html/600187_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293850/chapter/html/600187_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. What to Learn",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297957/chapter/html/606766_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297957/chapter/html/606766_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testable JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449323516/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449323516/",
+      "isbn": "9781449323394",
+      "format": "book"
+    },
+    {
+      "title": "26 Guide to Effective Auto-Generated Spatial Queries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781351647748/chapter/xhtml/40_Chapter26.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781351647748/chapter/xhtml/40_Chapter26.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Domain-Specific Languages with Xtext and Xtend",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782160304/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782160304/",
+      "isbn": "9781782160304",
+      "format": "book"
+    },
+    {
+      "title": "8 Alzheimer’s Detection and Classification Using Fine-Tuned Convolutional Neural Network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394174539/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394174539/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Understanding Performant Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098165956/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098165956/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 The Publishing Team",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240810706/chapter/21_Bookpart12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240810706/chapter/21_Bookpart12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Automating Repetitive Tasks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266250/chapter/html/497711_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266250/chapter/html/497711_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. How Do You Practice Trunk-Based Development?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146658/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146658/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Building a Sample Game: From Design to Completion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273777/chapter/html/334805_2_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273777/chapter/html/334805_2_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Framework Components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781299444744/chapter/chapter-25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781299444744/chapter/chapter-25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Guaranteeing Software Quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289693/chapter/html/531518_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289693/chapter/html/531518_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. GAME DESIGN DOCUMENT TEMPLATE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470688670/chapter/ch20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470688670/chapter/ch20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. WHAT WILL A SUPER USER DO?...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780176123/chapter/html/14_chapter04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780176123/chapter/html/14_chapter04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kanban in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617291050/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617291050/",
+      "isbn": "9781617291050",
+      "format": "book"
+    },
+    {
+      "title": "Structuring tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788622592/chapter/893363e4-efbf-4191-9023-682600822f6e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788622592/chapter/893363e4-efbf-4191-9023-682600822f6e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pro Agile .NET Development with Scrum",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430235330/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430235330/",
+      "isbn": "9781430235330",
+      "format": "book"
+    },
+    {
+      "title": "Pro Kotlin Web Apps from Scratch: Building Production-Ready Web Apps Without a Framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290576/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290576/",
+      "isbn": "9781484290576",
+      "format": "book"
+    },
+    {
+      "title": "7 Building a concurrent system",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438514/chapter/OEBPS/Text/ch07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438514/chapter/OEBPS/Text/ch07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. The Proper Way to Define Requirements Governance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484298305/chapter/html/420090_2_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484298305/chapter/html/420090_2_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "28. Database Programming with the PDO Library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341620049/chapter/xhtml/chapter28.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341620049/chapter/xhtml/chapter28.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ActionScript Developer's Guide to Robotlegs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449311193/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449311193/",
+      "isbn": "9781449311193",
+      "format": "book"
+    },
+    {
+      "title": "5. Evaluating the Emergence of Flow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492075882/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492075882/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Node.js Web Development - Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788626859/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788626859/",
+      "isbn": "9781788626859",
+      "format": "book"
+    },
+    {
+      "title": "Solution Architecture Document",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838645649/chapter/aa9f4fa8-910c-4dfc-a24a-57de0ec3bd11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838645649/chapter/aa9f4fa8-910c-4dfc-a24a-57de0ec3bd11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ruby on Rails Tutorial: Learn Web Development with Rails, 7th Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138050061/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138050061/",
+      "isbn": "9780138050061",
+      "format": "book"
+    },
+    {
+      "title": "13. The Future of Individual Contributors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341638167/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341638167/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134757681/chapter/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134757681/chapter/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Expressions and Control Flow in PHP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098152345/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098152345/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Data Science, Random Numbers, and Statistics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119418474/chapter/c15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119418474/chapter/c15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Animation Using Arrays and Parallel Structures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281949/chapter/html/461835_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281949/chapter/html/461835_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Node.js Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788393935/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788393935/",
+      "isbn": "9781788393935",
+      "format": "book"
+    },
+    {
+      "title": "14. Supervised 3D Machine Learning Fundamentals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098161323/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098161323/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Business language driven development: Joining business process models to automated tests (3/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780415631310/chapter/chapter-47.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780415631310/chapter/chapter-47.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B15546_06_PreFinal_SW",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839214356/chapter/B15546_06_PreFinal_SW.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839214356/chapter/B15546_06_PreFinal_SW.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Shells and Scripting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108939/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108939/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Infrastructure Aspect",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045946/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045946/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. DELIVERING DIGITAL SOLUTIONS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780177106/chapter/html/22_ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780177106/chapter/html/22_ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Individuals and Interactions: An Agile Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321719195/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321719195/",
+      "isbn": "9780321719195",
+      "format": "book"
+    },
+    {
+      "title": "3. “I can trust you, right?” “No.”: Begin with Trust",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647826451/chapter/xhtml/chapter_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647826451/chapter/xhtml/chapter_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Testing, Debugging, and Optimizing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098113544/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098113544/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Write Great Code, Volume 3: Engineering Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125660/chapter/xhtml/ch14_glossary.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125660/chapter/xhtml/ch14_glossary.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Decoupled MPA Micro Frontends: App Federation via @micro-frame/marko",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814839/chapter/html/635180_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814839/chapter/html/635180_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Developers “Falling into the Pit of Success”",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484269336/chapter/html/504026_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484269336/chapter/html/504026_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "30. Working as a Software Architect",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132906135/chapter/ch30.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132906135/chapter/ch30.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a Race Standings App",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801810494/chapter/B17815_02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801810494/chapter/B17815_02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Putting Evolutionary Architecture into Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491986356/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491986356/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building LLVM and Understanding the Directory Structure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837637782/chapter/Text/Chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837637782/chapter/Text/Chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Architectural X Factors: Environment, Organization, and Teams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868804106/chapter/html/608076_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868804106/chapter/html/608076_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Microservices Architecture Pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491971437/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491971437/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Art of UNIX Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131429019/",
+      "url": "https://learning.oreilly.com/api/v1/book/0131429019/",
+      "isbn": "9780131429017",
+      "format": "book"
+    },
+    {
+      "title": "Additional Statistical Modeling Techniques for Time Series",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805124283/chapter/text/ch012.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805124283/chapter/text/ch012.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Techniques for AI-Driven Experience Management in Interactive Narratives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781482254792/chapter/K23980_C042.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781482254792/chapter/K23980_C042.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. The Audience: Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271643/chapter/html/508933_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271643/chapter/html/508933_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Testing and prompt engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633435995/chapter/Text/chapter-6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633435995/chapter/Text/chapter-6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Low-Code and the Democratization of Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098112592/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098112592/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring in Ruby",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321647917/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321647917/",
+      "isbn": "9780321647917",
+      "format": "book"
+    },
+    {
+      "title": "3. On the Catwalk",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098109424/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098109424/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Tile-Based Game Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430227397/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430227397/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Web Test Automation in an Enterprise Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290101/chapter/html/537048_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290101/chapter/html/537048_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Basic State Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838823382/chapter/494c02c5-59a3-4862-aea2-63a5b38e11ae.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838823382/chapter/494c02c5-59a3-4862-aea2-63a5b38e11ae.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing Object-Oriented Programs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801077262/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801077262/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mastering RESTful Web Services with Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835466100/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835466100/",
+      "isbn": "9781835466100",
+      "format": "book"
+    },
+    {
+      "title": "15. AI Inference and Serving",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098156343/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098156343/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 DETAILED UNCERTAINTY ANALYSIS: DETERMINING SYSTEMATIC UNCERTAINTIES IN RESULTS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119417514/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119417514/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Descriptive analysis and statistical inference supported by generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437210/chapter/Text/chapter-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437210/chapter/Text/chapter-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learning Node, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491943113/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491943113/",
+      "isbn": "9781491943076",
+      "format": "book"
+    },
+    {
+      "title": "Visual Studio Team System: Better Software Development for Agile Teams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321418500/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321418500/",
+      "isbn": "9780321418500",
+      "format": "book"
+    },
+    {
+      "title": "8. JavaScript MV* Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098139865/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098139865/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. It Begins with CSS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262030/chapter/html/433530_2_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262030/chapter/html/433530_2_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Object-Oriented Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098129842/chapter/toc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098129842/chapter/toc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Testing and Continuous Quality Improvement",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781351722209/chapter/xhtml/ch31.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781351722209/chapter/xhtml/ch31.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code in C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838982973/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838982973/",
+      "isbn": "9781838982973",
+      "format": "book"
+    },
+    {
+      "title": "10. Building Zephyr RTOS Applications Using Renode",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801075/chapter/html/600499_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801075/chapter/html/600499_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Agile Development, Quality, and Testing Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119931355/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119931355/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Drupal 8: Enterprise Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787283190/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787283190/",
+      "isbn": "9781787283190",
+      "format": "book"
+    },
+    {
+      "title": "D JavaScript Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394193219/chapter/b04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394193219/chapter/b04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "RESTful Web API Design with Node.js - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469137/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469137/",
+      "isbn": "9781786469137",
+      "format": "book"
+    },
+    {
+      "title": "1. A Primer on Selenium",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098109998/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098109998/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "React Native for iOS Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484213957/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484213957/",
+      "isbn": "9781484213957",
+      "format": "book"
+    },
+    {
+      "title": "Monitoring for Results",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650868/chapter/f_0126.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650868/chapter/f_0126.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Automated testing for microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438569/chapter/OEBPS/Text/09.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438569/chapter/OEBPS/Text/09.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Defining Your Interfaces",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098100650/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098100650/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Essential Guide to Web3",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801813471/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801813471/",
+      "isbn": "9781801813471",
+      "format": "book"
+    },
+    {
+      "title": "3. Type Inference and Control Flow Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098155056/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098155056/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 What is a domain-specific language?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296475/chapter/Text/chapter-1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296475/chapter/Text/chapter-1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Software Testing—Vol. 1, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457189517/chapter/Text/chapter01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457189517/chapter/Text/chapter01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Flutter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507621/chapter/f_0099.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507621/chapter/f_0099.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Overcoming the Challenges in Quality Assurance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274682/chapter/html/517201_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274682/chapter/html/517201_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Product Development: A Synergy of Teams and Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286586/chapter/html/518274_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286586/chapter/html/518274_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Maintaining Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492034421/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492034421/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code with the Wisdom of the Crowd",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506297/chapter/f_0018.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506297/chapter/f_0018.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Traditional Supervised Learning Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247762/chapter/Text/Chapter_7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247762/chapter/Text/Chapter_7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Design X-Rays",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505795/chapter/f_0035.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505795/chapter/f_0035.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. The Architecture Design Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134390857/chapter/ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134390857/chapter/ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Formal Verification",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128008157/chapter/xhtml/chp001.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128008157/chapter/xhtml/chp001.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Effective Haskell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650400/chapter/f_0144.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650400/chapter/f_0144.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tools of the Trade",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491921968/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491921968/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. AGILE PHILOSOPHY AND PRINCIPLES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780176192/chapter/xhtml/14_ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780176192/chapter/xhtml/14_ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780764596742/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780764596742/",
+      "isbn": "9780764596742",
+      "format": "book"
+    },
+    {
+      "title": "Testing considerations for new technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788299541/chapter/ch44s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788299541/chapter/ch44s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Selecting Our System to Test",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650127/chapter/f_0015.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650127/chapter/f_0015.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Solution Architecture and Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121690/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121690/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Driving Design with Tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501513/chapter/f_0014.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501513/chapter/f_0014.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Practical Guide to Linux® Commands, Editors, and Shell Programming, Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134774626/chapter/ch18b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134774626/chapter/ch18b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 24. The Future of Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135895610/chapter/ch24.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135895610/chapter/ch24.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Securing Your System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098109028/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098109028/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Getting Value from Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098130787/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098130787/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Building a RESTful web service",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298608/chapter/OEBPS/Text/03.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298608/chapter/OEBPS/Text/03.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B17975_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803245966/chapter/B17975_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803245966/chapter/B17975_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tools and utilities",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783552481/chapter/ch08s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783552481/chapter/ch08s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C#: A Beginner's Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071835831/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071835831/",
+      "isbn": "9780071835817",
+      "format": "book"
+    },
+    {
+      "title": "13. Debugging and Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098121310/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098121310/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Trend Follower for Blockchain Trading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296660/chapter/html/533099_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296660/chapter/html/533099_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Process of Performance Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491900536/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491900536/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Challenges Addressed by New Languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492082590/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492082590/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Serverless Nanoservices Using Azure Functions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837637133/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837637133/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Developing a pragmatic learning strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299742/chapter/OEBPS/Text/ch01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299742/chapter/OEBPS/Text/ch01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "MOBILE TESTING An ASTQB-BCS foundation guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780174044/chapter/15_index.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780174044/chapter/15_index.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pytest for DevOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492057680/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492057680/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Contributors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132488617/chapter/app07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132488617/chapter/app07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hands-On Automation Testing with Java for Beginners",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789534603/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789534603/",
+      "isbn": "9781789534603",
+      "format": "book"
+    },
+    {
+      "title": "Automating Tasks with Shell Scripts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804616925/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804616925/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Agile Framework Adaptation Issues in Various Sectors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119896395/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119896395/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 SCIENTIFIC MACHINE LEARNING",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098168544/chapter/xhtml/ch13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098168544/chapter/xhtml/ch13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Architecture and Design of the Linux Storage Stack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837639960/chapter/B19430_FM.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837639960/chapter/B19430_FM.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cloud Native Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449374631/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449374631/",
+      "isbn": "9781449374594",
+      "format": "book"
+    },
+    {
+      "title": "1 The basics of Dependency Injection: What, why, and how",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294730/chapter/OEBPS/Text/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294730/chapter/OEBPS/Text/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Event-Driven Architecture in Golang",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803238012/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803238012/",
+      "isbn": "9781803238012",
+      "format": "book"
+    },
+    {
+      "title": "B22089_TOC_ePub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835889640/chapter/B22089_TOC_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835889640/chapter/B22089_TOC_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Level 9: Optimizing & Packaging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492065401/chapter/Text/chap9.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492065401/chapter/Text/chap9.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. SOLUTION TECHNOLOGY DEFINITION",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780175676/chapter/html/16_chapter07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780175676/chapter/html/16_chapter07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TDD Is the Easiest Way to Integrate Testing into Your Project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500257/chapter/f_0138.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500257/chapter/f_0138.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Successful ProgWriter Survey",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484239704/chapter/html/468516_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484239704/chapter/html/468516_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Applied WebAssembly: Decentralized Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492089834/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492089834/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mocking is a Code Smell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836644637/chapter/chap23.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836644637/chapter/chap23.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Node.js Recipes: A Problem-Solution Approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430260585/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430260585/",
+      "isbn": "9781430260585",
+      "format": "book"
+    },
+    {
+      "title": "Using Visualizations for the Identification of Unexpected Values",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803239873/chapter/Text/Chapter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803239873/chapter/Text/Chapter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Creating a Fedora Server Virtual Machine (VM)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801464/chapter/html/492721_2_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801464/chapter/html/492721_2_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Testing your Rust application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299001/chapter/OEBPS/Text/11.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299001/chapter/OEBPS/Text/11.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B20912_TOC_epub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805126638/chapter/B20912_TOC_epub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805126638/chapter/B20912_TOC_epub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Your First Command-Line Program in Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509311/chapter/f_0013.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509311/chapter/f_0013.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-Time Rendering: Computer Graphics with Control Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466583603/chapter/xhtml/C019_chapter7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466583603/chapter/xhtml/C019_chapter7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Data Access with SQLite and Data Binding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484240304/chapter/html/394196_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484240304/chapter/html/394196_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "M27_Selenium Webdriver_C27 (5/6)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332541610/chapter/chapter-107.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332541610/chapter/chapter-107.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Staying Up to Date and the Future of Data Science",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801071970/chapter/Text/Chapter_21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801071970/chapter/Text/Chapter_21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Rails, Angular, Postgres, and Bootstrap, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502657/chapter/f_0052.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502657/chapter/f_0052.xhtml",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

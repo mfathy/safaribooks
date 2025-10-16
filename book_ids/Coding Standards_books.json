@@ -1,0 +1,4333 @@
+{
+  "skill_name": "Coding Standards",
+  "discovery_timestamp": 1759701174.5059578,
+  "total_books": 618,
+  "books": [
+    {
+      "title": "Sentient Strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000850598/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000850598/",
+      "isbn": "9781000850598",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Standardized Work",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466563643/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466563643/",
+      "isbn": "9781466563643",
+      "format": "book"
+    },
+    {
+      "title": "Clean Craftsmanship: Disciplines, Standards, and Ethics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136915805/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136915805/",
+      "isbn": "9780136915805",
+      "format": "book"
+    },
+    {
+      "title": "A Software Engineer’s Guide to Seniority: A Guide to Technical Leadership",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287835/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287835/",
+      "isbn": "9781484287835",
+      "format": "book"
+    },
+    {
+      "title": "Software Quality Assurance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118501825/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118501825/",
+      "isbn": "9781118501825",
+      "format": "book"
+    },
+    {
+      "title": "The CERT® Oracle® Secure Coding Standard for Java™",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132882842/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132882842/",
+      "isbn": "9780132882842",
+      "format": "book"
+    },
+    {
+      "title": "Write Great Code, Volume 3",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125660/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125660/",
+      "isbn": "9781098125660",
+      "format": "book"
+    },
+    {
+      "title": "The CERT ® C Coding Standard: 98 Rules for Developing Safe, Reliable, and Secure Systems, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133812275/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133812275/",
+      "isbn": "9780133812275",
+      "format": "book"
+    },
+    {
+      "title": "Improving the Quality of ABAP Code: Striving for Perfection",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484267110/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484267110/",
+      "isbn": "9781484267110",
+      "format": "book"
+    },
+    {
+      "title": "Managing Feature Flags",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492028598/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492028598/",
+      "isbn": "9781492028581",
+      "format": "book"
+    },
+    {
+      "title": "The CERT® C Secure Coding Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321603197/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321603197/",
+      "isbn": "9780321603197",
+      "format": "book"
+    },
+    {
+      "title": "Coding Interviews: Questions, Analysis & Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430247616/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430247616/",
+      "isbn": "9781430247616",
+      "format": "book"
+    },
+    {
+      "title": "Programming in Go: Creating Applications for the 21st Century",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132764100/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132764100/",
+      "isbn": "9780132764100",
+      "format": "book"
+    },
+    {
+      "title": "5 Writing technical documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438071/chapter/OEBPS/Text/05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438071/chapter/OEBPS/Text/05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Computer Science for Kids",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119912514/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119912514/",
+      "isbn": "9781119912514",
+      "format": "book"
+    },
+    {
+      "title": "About This eBook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135328262/chapter/pref00.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135328262/chapter/pref00.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Big Teams Need Strong Conventions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098133108/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098133108/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Avoiding bad code and cognitive load: Two frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298677/chapter/Text/ch09.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298677/chapter/Text/ch09.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Tackling the personal side of coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299704/chapter/OEBPS/Text/ch05.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299704/chapter/OEBPS/Text/ch05.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Supplementing or Replacing Standard Requirements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484298305/chapter/html/420090_2_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484298305/chapter/html/420090_2_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 To the streets",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298370/chapter/Text/ch01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298370/chapter/Text/ch01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Creative state of mind",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439054/chapter/OEBPS/Text/ch07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439054/chapter/OEBPS/Text/ch07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Exceptions vs. other patterns of handling errors in your code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299209/chapter/Text/ch03_Lelek.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299209/chapter/Text/ch03_Lelek.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Automated Code Remediation Journey",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150884/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150884/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Benefits of cloud thinking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294358/chapter/Text/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294358/chapter/Text/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding in the Classroom",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125714/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125714/",
+      "isbn": "9781098125714",
+      "format": "book"
+    },
+    {
+      "title": "3. Our First Storybook Stories",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266250/chapter/html/497711_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266250/chapter/html/497711_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Open Source Projects - Beyond Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837636884/chapter/B19366_Frontmatter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837636884/chapter/B19366_Frontmatter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. But What About...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146658/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146658/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Building Today Thinking of Tomorrow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289693/chapter/html/531518_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289693/chapter/html/531518_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Career Growth & Leveling Up",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341638167/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341638167/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Interviews Exposed",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119418474/chapter/ffirs.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119418474/chapter/ffirs.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B15546_03_PreFinal_SW",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839214356/chapter/B15546_03_PreFinal_SW.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839214356/chapter/B15546_03_PreFinal_SW.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 THE INTERNAL LANGUAGE OF COMPUTERS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098122515/chapter/xhtml/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098122515/chapter/xhtml/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "BCS, The Chartered Institute for It",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780174990/chapter/html/02_fm02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780174990/chapter/html/02_fm02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. What Is Developer Relations?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271643/chapter/html/508933_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271643/chapter/html/508933_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Low-Code and the Democratization of Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098112592/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098112592/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Virtuous Cycle: The Principles That Lead to Success",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098130589/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098130589/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "List of Figures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296291/chapter/Text/kindle_split_030.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296291/chapter/Text/kindle_split_030.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Useful Websites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780175034/chapter/html/20_Bm04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780175034/chapter/html/20_Bm04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Cyber security at the board level",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398611931/chapter/content/22_chapter12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398611931/chapter/content/22_chapter12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Formal Verification",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128008157/chapter/xhtml/chp007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128008157/chapter/xhtml/chp007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Design X-Rays",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505795/chapter/f_0014.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505795/chapter/f_0014.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code with the Wisdom of the Crowd",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506297/chapter/f_0009.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506297/chapter/f_0009.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Automate Your Coding Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596809515/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596809515/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About This E-Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135895610/chapter/pref00.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135895610/chapter/pref00.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The twilight zone",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787287037/chapter/ch12s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787287037/chapter/ch12s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Layout and Structure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234112/chapter/html/455320_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234112/chapter/html/455320_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Note Regarding Supplemental Files",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449318482/chapter/examples_page.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449318482/chapter/examples_page.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Evaluate the Growth Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500813/chapter/f_0043.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500813/chapter/f_0043.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Building an Awesome Team Culture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449329839/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449329839/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing a Rigorous Approach Toward Problem Solving",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491943816/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491943816/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4.3. Your Location on the Technology Wave",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735619670/chapter/ch04s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735619670/chapter/ch04s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Day-to-Day Dreyfus",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500196/chapter/f_0018.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500196/chapter/f_0018.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Systematic Reviews in Software Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596808310/chapter/ch03s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596808310/chapter/ch03s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24 Deadly Sins Of Software Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071626750/chapter/xhtml/about.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071626750/chapter/xhtml/about.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting the Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593271190/chapter/ch02s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593271190/chapter/ch02s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. The Hundred-Year Language",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596006624/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596006624/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Calculator Project: A Case Study",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470259245/chapter/9780470259245_calculator_project_colon_a_case_study.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470259245/chapter/9780470259245_calculator_project_colon_a_case_study.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Purpose of Metrics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449312664/chapter/ch02s01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449312664/chapter/ch02s01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Code Quality in an Agile World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735625921/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735625921/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Additional Reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593271831/chapter/ch08s12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593271831/chapter/ch08s12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Flowcode Program Installation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781856176033/chapter/B9781856176033000014.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781856176033/chapter/B9781856176033000014.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Engineering Documentation Control / Configuration Management Standards Manual",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119479031/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119479031/",
+      "isbn": "9781119479031",
+      "format": "book"
+    },
+    {
+      "title": "2.3.3 Quality of development process (2/2)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750660754/chapter/chapter-30.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750660754/chapter/chapter-30.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4.24 More on the C/C++ standard library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750660808/chapter/chapter-55.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750660808/chapter/chapter-55.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Establishing the Vision",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201709139/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201709139/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Fundamental Requirement Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735623989/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735623989/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. String Data Types",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1593270658/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1593270658/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25. Using Other Values in Tables",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321269349/chapter/ch25.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/0321269349/chapter/ch25.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5.1. Deciding Whether to Use Multiple Encryption Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596003943/chapter/ch05s01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596003943/chapter/ch05s01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B. Java Coding Standard Template",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130812463/chapter/apb.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130812463/chapter/apb.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Experience—The Best Indicator of Project Success",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201733862/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201733862/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ISO 14001 Step by Step - A practical guide - Second edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787780347/chapter/xhtml/Appendix_C.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787780347/chapter/xhtml/Appendix_C.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "34. Consistency and Conventions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130601233/chapter/ch34.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130601233/chapter/ch34.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Data Types and Variables",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457189838/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457189838/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3D Game Programming for Kids, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506242/chapter/f_0074.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506242/chapter/f_0074.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Helping Kids with Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119380672/chapter/01_9781119380665-ffirs.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119380672/chapter/01_9781119380665-ffirs.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Conditions (What If?)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457189890/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457189890/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Operations on two numbers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782175063/chapter/ch03s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782175063/chapter/ch03s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring with C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835089989/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835089989/",
+      "isbn": "9781835089989",
+      "format": "book"
+    },
+    {
+      "title": "14 The Code Review Checklist",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768685855/chapter/chapter14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768685855/chapter/chapter14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ISO 50001 Energy Management Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781631570100/chapter/Kals_9781631570094_Chapters.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781631570100/chapter/Kals_9781631570094_Chapters.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "API Design Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295850/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295850/",
+      "isbn": "9781617295850",
+      "format": "book"
+    },
+    {
+      "title": "Changing Things",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222430/chapter/f_0062.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222430/chapter/f_0062.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating Software with Modern Diagramming Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650219/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650219/",
+      "isbn": "9781680509830",
+      "format": "book"
+    },
+    {
+      "title": "C++ Coding Standards: 101 Rules, Guidelines, and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321113586/",
+      "url": "https://learning.oreilly.com/api/v1/book/0321113586/",
+      "isbn": "0321113586",
+      "format": "book"
+    },
+    {
+      "title": "Design Patterns in Modern C++20: Reusable Approaches for Object-Oriented Software Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272954/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272954/",
+      "isbn": "9781484272954",
+      "format": "book"
+    },
+    {
+      "title": "17.3: Upgrading the firmware",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738496987/chapter/chapter-213.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738496987/chapter/chapter-213.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical UI Patterns for Design Systems: Fast-Track Interaction Design for a Seamless User Experience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249383/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249383/",
+      "isbn": "9781484249383",
+      "format": "book"
+    },
+    {
+      "title": "Go: Design Patterns for Real-World Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390552/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390552/",
+      "isbn": "9781788390552",
+      "format": "book"
+    },
+    {
+      "title": "3. Fibre Channel Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/158705065X/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/158705065X/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How File Redirection Works",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672324040/chapter/0672324040_ch04lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672324040/chapter/0672324040_ch04lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Problem Isolation in SANs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321136500/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321136500/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Basic Principles of Magnetic Recording",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130927392/chapter/0130927392_ch03lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130927392/chapter/0130927392_ch03lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing the Documentation Maze: Answers to Questions You Didn't Even Know to Ask",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470467084/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470467084/",
+      "isbn": "9780470467084",
+      "format": "book"
+    },
+    {
+      "title": "Hour 18 Web Pages with HTML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768686678/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768686678/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Did We Get to Networking Storage Anyway?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130279595/chapter/0130279595_ch02lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130279595/chapter/0130279595_ch02lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Well-Managed Collections: The Iterator and Composite Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492077992/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492077992/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Information Development: Managing Your Documentation Projects, Portfolio, and People",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471777113/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471777113/",
+      "isbn": "9780471777113",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring HTML: Improving the Design of Existing Web Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321552044/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321552044/",
+      "isbn": "9780321552044",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development in Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803247878/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803247878/",
+      "isbn": "9781803247878",
+      "format": "book"
+    },
+    {
+      "title": "Android Design Patterns and Best Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467218/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467218/",
+      "isbn": "9781786467218",
+      "format": "book"
+    },
+    {
+      "title": "4. AI Use Cases For Mass-Scale Refactoring and Analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098175849/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098175849/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring Workbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321109295/",
+      "url": "https://learning.oreilly.com/api/v1/book/0321109295/",
+      "isbn": "0321109295",
+      "format": "book"
+    },
+    {
+      "title": "13 Make bad code look bad",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298318/chapter/OEBPS/Text/13.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298318/chapter/OEBPS/Text/13.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-Driven Development with C++",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803242002/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803242002/",
+      "isbn": "9781803242002",
+      "format": "book"
+    },
+    {
+      "title": "7. Accessibility and Inclusion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295946/chapter/html/600103_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295946/chapter/html/600103_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "SOA Design Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136135166/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136135166/",
+      "isbn": "9780136135166",
+      "format": "book"
+    },
+    {
+      "title": "8. Crafting Public Style Guides",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293287/chapter/html/517087_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293287/chapter/html/517087_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The LabVIEW Style Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131458353/",
+      "url": "https://learning.oreilly.com/api/v1/book/0131458353/",
+      "isbn": "0131458353",
+      "format": "book"
+    },
+    {
+      "title": "Enterprise Patterns and MDA: Building Better Software with Archetype Patterns and UML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/032111230X/",
+      "url": "https://learning.oreilly.com/api/v1/book/032111230X/",
+      "isbn": "032111230X",
+      "format": "book"
+    },
+    {
+      "title": "DDD Patterns for Continuous Integration and Continuous Refactoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835889107/chapter/Chapter_09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835889107/chapter/Chapter_09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Common Design Patterns for Symbian OS: The Foundations of Smartphone Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470516355/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470516355/",
+      "isbn": "9780470516355",
+      "format": "book"
+    },
+    {
+      "title": "How Code Degrades",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492075523/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492075523/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Free (or Open?) Hyperdocumentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786306449/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786306449/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Design Patterns in C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321126971/",
+      "url": "https://learning.oreilly.com/api/v1/book/0321126971/",
+      "isbn": "0321126971",
+      "format": "book"
+    },
+    {
+      "title": "Swap and the standard template library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788832564/chapter/23eb1028-6eb2-434c-abff-32f58d6bdf44.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788832564/chapter/23eb1028-6eb2-434c-abff-32f58d6bdf44.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Use Cases: Patterns and Blueprints",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131451340/",
+      "url": "https://learning.oreilly.com/api/v1/book/0131451340/",
+      "isbn": "9780131451346",
+      "format": "book"
+    },
+    {
+      "title": "Practice: Adhere to a Coding Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781628256581/chapter/practice04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781628256581/chapter/practice04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "31. Variables and Syntax in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137579921/chapter/ch31.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137579921/chapter/ch31.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Joy of Patterns: Using Patterns for Enterprise Development, The",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201657597/",
+      "url": "https://learning.oreilly.com/api/v1/book/0201657597/",
+      "isbn": "9780201657593",
+      "format": "book"
+    },
+    {
+      "title": "Core J2EE™ Patterns: Best Practices and Design Strategies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130648841/",
+      "url": "https://learning.oreilly.com/api/v1/book/0130648841/",
+      "isbn": "9780130648846",
+      "format": "book"
+    },
+    {
+      "title": "The Practical Guide to Defect Prevention",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735622531/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735622531/",
+      "isbn": "9780735622531",
+      "format": "book"
+    },
+    {
+      "title": "1. The Art of Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261620/chapter/html/485619_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261620/chapter/html/485619_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "36. Respect for Fellow Programmers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135398586/chapter/ch36.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135398586/chapter/ch36.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Factory Method Pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815676/chapter/html/647401_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815676/chapter/html/647401_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What you need for this book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466204/chapter/pr07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466204/chapter/pr07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Microservice architecture with an example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463593/chapter/45fc99e2-b817-4d78-b930-f3fa857be785.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463593/chapter/45fc99e2-b817-4d78-b930-f3fa857be785.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "09 The ADI Standards Check",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398602816/chapter/content/14_chapter09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398602816/chapter/content/14_chapter09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "24. Simple Factory Pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484240786/chapter/html/395506_2_En_24_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484240786/chapter/html/395506_2_En_24_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reproducing concurrency problems in Apex",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782173656/chapter/ch05s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782173656/chapter/ch05s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test-First Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430227274/chapter/Chapter05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430227274/chapter/Chapter05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuration with environment variables",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788620642/chapter/b474ccc6-a1cf-43e2-a40a-7f21208f4a59.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788620642/chapter/b474ccc6-a1cf-43e2-a40a-7f21208f4a59.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Standards compliance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738498149/chapter/chapter-17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738498149/chapter/chapter-17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. The Iterator and Composite Patterns: Well-Managed Collections",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596007124/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596007124/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Future Prospects of Durability into Software Engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000887075/chapter/ch11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000887075/chapter/ch11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Patterns for Processing Static Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782177340/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782177340/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Three Laws of Objects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596008740/chapter/0596008740_prefactoring-CHP-6-SECT-2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596008740/chapter/0596008740_prefactoring-CHP-6-SECT-2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C15102_02_Epub_Final_NT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838982560/chapter/C15102_02_Epub_Final_NT.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838982560/chapter/C15102_02_Epub_Final_NT.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B. A Brief History of the Three Languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106461/chapter/app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106461/chapter/app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About the Technical Reviewers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430264217/chapter/9781430264217_About_the_Technical_Reviewers.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430264217/chapter/9781430264217_About_the_Technical_Reviewers.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Successfully Leading Teams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439862162/chapter/OEBPS/9781439861868_epub_c04_r1.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439862162/chapter/OEBPS/9781439861868_epub_c04_r1.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing a standard action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788398787/chapter/154e1558-5e01-4ccf-ba17-4e1a49caa4c0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788398787/chapter/154e1558-5e01-4ccf-ba17-4e1a49caa4c0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Layering Your Application and Separating Your Concerns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470292785/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470292785/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1.1 The Concept of a Software Pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470697344/chapter/9780470697344_the_concept_of_a_software_pattern.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470697344/chapter/9780470697344_the_concept_of_a_software_pattern.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beyond Legacy Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501827/chapter/f_0104.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501827/chapter/f_0104.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Prologue: Yet Another Design Book?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430209737/chapter/9781430209737_FM_7_Preface.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430209737/chapter/9781430209737_FM_7_Preface.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Fault Tolerant Mindset",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470319796/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470319796/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Standard Object-Oriented Solution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201715945/chapter/0201715945_ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201715945/chapter/0201715945_ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "II. UNIFIED MODELING LANGUAGE (UML)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780203496213/chapter/9781135506117_Part12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780203496213/chapter/9781135506117_Part12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Holub on Patterns: Learning Design Patterns by Looking at Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430207252/chapter/Chapter01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430207252/chapter/Chapter01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25. The Template Pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201485397/chapter/ch25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201485397/chapter/ch25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Road to a Resilient Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321268881/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321268881/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TDD and Functional Programming – A Perfect Match",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836111/chapter/d4bb5683-7d39-47c6-b751-816bda2a8a27.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836111/chapter/d4bb5683-7d39-47c6-b751-816bda2a8a27.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "I. Design Pattern Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201699567/chapter/pt01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201699567/chapter/pt01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. A Medical Informatics System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201776405/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201776405/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.1. Origins of UML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596004273/chapter/ch02s01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596004273/chapter/ch02s01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. The Facade Iteration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321154983/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321154983/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Query syntax support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738498289/chapter/chapter-51.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738498289/chapter/chapter-51.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Put the Knowledge to Work",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222997/chapter/f_0135.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222997/chapter/f_0135.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding test-driven development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782174929/chapter/ch01s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782174929/chapter/ch01s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Abstract Factories for Look-and-Feel",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201743973/chapter/0201743973_ch17lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201743973/chapter/0201743973_ch17lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Mocking – Removing External Dependencies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987429/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987429/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing a test automation framework",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849688406/chapter/ch10s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849688406/chapter/ch10s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Physical Object-Oriented Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/020163385X/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/020163385X/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Starting Our Interface",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789722615/chapter/0789722615_ch02lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789722615/chapter/0789722615_ch02lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding Standards and Principles in C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838982973/chapter/a4f4138a-4433-4066-9d3d-e6dbdece21bd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838982973/chapter/a4f4138a-4433-4066-9d3d-e6dbdece21bd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PROFESSIONAL Test-Driven Development with C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470643204/chapter/23-chapter10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470643204/chapter/23-chapter10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Beyond Today’s Test-Driven Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132764049/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132764049/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test Driven: Practical TDD and Acceptance TDD for Java Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781932394856/chapter/kindle_split_031.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781932394856/chapter/kindle_split_031.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Incorporating JavaScript Secure Coding Standards and Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284206173/chapter/xhtml/9781284236361_CH09_05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284206173/chapter/xhtml/9781284236361_CH09_05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789531282/chapter/7f101922-c5c4-4229-84c8-da46450c30ec.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789531282/chapter/7f101922-c5c4-4229-84c8-da46450c30ec.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Following Coding Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849517867/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849517867/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Python coding standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785889196/chapter/ch04s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785889196/chapter/ch04s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10.7 DOLBY AUDIO CODING STANDARDS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471791478/chapter/ch010-sec007.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471791478/chapter/ch010-sec007.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Building SQL Server Standards and PowerShell Coding Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470477281/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470477281/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ansible configuration management coding standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789532937/chapter/ffb16922-8cd8-4875-8100-f11e836fa659.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789532937/chapter/ffb16922-8cd8-4875-8100-f11e836fa659.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The API site and coding standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789612363/chapter/b5b88d06-f2a6-4522-b2bf-37e6b3fc9b1d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789612363/chapter/b5b88d06-f2a6-4522-b2bf-37e6b3fc9b1d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Java coding standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784396497/chapter/apas14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784396497/chapter/apas14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. UNDERSTANDING THE GNU CODING STANDARDS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593272067/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593272067/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21. Detecting and Enforcing Coding Standards with Checkstyle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596527938/chapter/ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596527938/chapter/ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4.5. Process Coding Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596008430/chapter/ch04s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596008430/chapter/ch04s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Electrical Codes, Standards, Recommended Practices and Regulations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780815520450/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780815520450/",
+      "isbn": "9780815520450",
+      "format": "book"
+    },
+    {
+      "title": "11 Ethics, Privacy and Security, and Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398609051/chapter/content/15_CHAP_C11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398609051/chapter/content/15_CHAP_C11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PL/SQL Coding Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596515676/chapter/chapter-143.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596515676/chapter/chapter-143.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adherence to coding rules and standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788995474/chapter/ae52c4f1-7d5a-432c-9678-da7933e52470.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788995474/chapter/ae52c4f1-7d5a-432c-9678-da7933e52470.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Code of Honor",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275861/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275861/",
+      "isbn": "9781394275861",
+      "format": "book"
+    },
+    {
+      "title": "10 Standards of coding and creating maintainable ML code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298714/chapter/OEBPS/Text/ch10_Wilson.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298714/chapter/OEBPS/Text/ch10_Wilson.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Legacy coding style",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123725110/chapter/chapter-187.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123725110/chapter/chapter-187.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reducing Coding Effort by Relying on Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838642884/chapter/f3ded24f-cc4e-4d68-b643-28cf7ea16ac0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838642884/chapter/f3ded24f-cc4e-4d68-b643-28cf7ea16ac0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Game Boy Coding Adventure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0642572230166/",
+      "url": "https://learning.oreilly.com/api/v1/book/0642572230166/",
+      "isbn": "9781718503908",
+      "format": "book"
+    },
+    {
+      "title": "Voluntary Consensus Standards and Codes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119466178/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119466178/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Azure Infrastructure as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299421/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299421/",
+      "isbn": "9781617299421",
+      "format": "book"
+    },
+    {
+      "title": "Distributed Source Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780080922744/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780080922744/",
+      "isbn": "9780080922744",
+      "format": "book"
+    },
+    {
+      "title": "Reducing the Coding Effort by Relying on Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293037/chapter/e8021c0e-e762-4e43-8d9b-5c7040a453f3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293037/chapter/e8021c0e-e762-4e43-8d9b-5c7040a453f3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The GameMaker Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781317514688/chapter/xhtml/index.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781317514688/chapter/xhtml/index.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835831/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835831/",
+      "isbn": "9781788835831",
+      "format": "book"
+    },
+    {
+      "title": "8 How to Critique Without Being Critical",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394150533/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394150533/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Error Control Coding For B3G/4G Wireless Systems: Paving the Way to IMT-Advanced Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470779354/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470779354/",
+      "isbn": "9780470779354",
+      "format": "book"
+    },
+    {
+      "title": "Converting String to Instant",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789801415/chapter/686de4e6-03fd-4a72-aa2d-12786467f925.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789801415/chapter/686de4e6-03fd-4a72-aa2d-12786467f925.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Pipeline as code with Jenkins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297540/chapter/OEBPS/Text/02.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297540/chapter/OEBPS/Text/02.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Kotlin Standard Library Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837668/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837668/",
+      "isbn": "9781788837668",
+      "format": "book"
+    },
+    {
+      "title": "Designing With Web Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735712018/",
+      "url": "https://learning.oreilly.com/api/v1/book/0735712018/",
+      "isbn": "9780735712010",
+      "format": "book"
+    },
+    {
+      "title": "Go Standard Library Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788475273/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788475273/",
+      "isbn": "9781788475273",
+      "format": "book"
+    },
+    {
+      "title": "1 Introducing generative AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437272/chapter/Text/chapter-1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437272/chapter/Text/chapter-1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. The 70% Problem: AI-Assisted Workflows That Actually Work",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341634749/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341634749/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Interactive TV Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240806662/chapter/xhtml/06_ack.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240806662/chapter/xhtml/06_ack.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Securing Your Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098127459/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098127459/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding with Minecraft®: Build Taller, Farm Faster, Mine Deeper, and Automate the Boring Stuff",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492067603/chapter/xhtml/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492067603/chapter/xhtml/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Python Standard Library by Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132778633/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132778633/",
+      "isbn": "9780132778633",
+      "format": "book"
+    },
+    {
+      "title": "Infrastructure as Code with Azure Bicep",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801813747/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801813747/",
+      "isbn": "9781801813747",
+      "format": "book"
+    },
+    {
+      "title": "Code like a Pro in C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298028/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298028/",
+      "isbn": "9781617298028",
+      "format": "book"
+    },
+    {
+      "title": "Patterns for Updating and Changing Servers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491924334/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491924334/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Innovation Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781523084784/chapter/xhtml/bm01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781523084784/chapter/xhtml/bm01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Inspiration Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814437902/chapter/xhtml/chapter01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814437902/chapter/xhtml/chapter01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Case Study: Microsoft (Nasdaq: MSFT) (3/8)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780126635539/chapter/chapter-38.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780126635539/chapter/chapter-38.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Coding the Front End",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321549785/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321549785/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern Python Standard Library Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788830829/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788830829/",
+      "isbn": "9781788830829",
+      "format": "book"
+    },
+    {
+      "title": "Adventure 10: Making and Using Sounds and Music",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119232681/chapter/13_9781119232681-ch10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119232681/chapter/13_9781119232681-ch10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Need More Leads?: How to Build Websites and Landing Pages That Consistently Capture Internet Leads",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119211884/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119211884/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Designing with Web Standards, Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321679765/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321679765/",
+      "isbn": "9780321679765",
+      "format": "book"
+    },
+    {
+      "title": ".NET Standard 2.0 Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834667/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834667/",
+      "isbn": "9781788834667",
+      "format": "book"
+    },
+    {
+      "title": "Coding Constructs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735613567/chapter/0735613567_IDAZSIT.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735613567/chapter/0735613567_IDAZSIT.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the C++ Standard Template Libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484200049/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484200049/",
+      "isbn": "9781484200049",
+      "format": "book"
+    },
+    {
+      "title": "Diversification Over Specialization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222904/chapter/f_0016.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222904/chapter/f_0016.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Diversity Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814416327/chapter/xhtml/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814416327/chapter/xhtml/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Going Live with GenAI: Logging, Monitoring, and Errors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836645290/chapter/Text/Chapter_15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836645290/chapter/Text/Chapter_15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CSS Mastery: Advanced Web Standards Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781590596142/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781590596142/",
+      "isbn": "9781590596142",
+      "format": "book"
+    },
+    {
+      "title": "Records and Record Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837633944/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837633944/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Three: Rule 2: Make Things Happen",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781422140307/chapter/xhtml/chapter003.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781422140307/chapter/xhtml/chapter003.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Begin to Code with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781509304547/chapter/ch14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781509304547/chapter/ch14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "36. Set an Example/Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/013187036X/chapter/ch36.html",
+      "url": "https://learning.oreilly.com/api/v1/book/013187036X/chapter/ch36.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Driving systemic change",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789957648/chapter/8b9e7dd4-1df6-4263-ac81-104c3ca15e2d.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789957648/chapter/8b9e7dd4-1df6-4263-ac81-104c3ca15e2d.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 The Moment of Truth",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119673088/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119673088/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Writing Clean Functions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835889565/chapter/text/ch003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835889565/chapter/text/ch003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Policy as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835467527/chapter/Text/Chapter_14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835467527/chapter/Text/Chapter_14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837637782/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837637782/chapter/Text/Other_Books_You_May_Enjoy.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Working with Extensions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119588184/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119588184/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Hypertext Markup Language (HTML)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136870661/chapter/ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136870661/chapter/ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Effective Cybersecurity: A Guide to Using Best Practices and Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134772929/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134772929/",
+      "isbn": "9780134772929",
+      "format": "book"
+    },
+    {
+      "title": "INFORMATION SECURITY POLICIES, PROCEDURES, AND STANDARDS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781482245912/chapter/xhtml/18_Index01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781482245912/chapter/xhtml/18_Index01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Static Libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508420/chapter/f_0017.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508420/chapter/f_0017.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Python 3 Standard Library by Example, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134291154/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134291154/",
+      "isbn": "9780134291154",
+      "format": "book"
+    },
+    {
+      "title": "Joint Source-Channel Decoding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123744494/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123744494/",
+      "isbn": "9780080922447",
+      "format": "book"
+    },
+    {
+      "title": "Joe Celko's Data, Measurements and Standards in SQL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123747228/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123747228/",
+      "isbn": "9780080884455",
+      "format": "book"
+    },
+    {
+      "title": "2. What is programming?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781509301188/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781509301188/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Testing and Writing Better Infrastructure Code with Chef and Puppet",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464910/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464910/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ES6 for Humans: The Latest Standard of JavaScript: ES2015 and Beyond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484226230/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484226230/",
+      "isbn": "9781484226230",
+      "format": "book"
+    },
+    {
+      "title": "Web Standards: Mastering HTML5, CSS3, and XML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430240419/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430240419/",
+      "isbn": "9781430240419",
+      "format": "book"
+    },
+    {
+      "title": "Web Coding & Development All-in-One For Dummies, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394197026/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394197026/",
+      "isbn": "9781394197026",
+      "format": "book"
+    },
+    {
+      "title": "Defining code lists (controlled vocabulary)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780750668392/chapter/chapter-40.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780750668392/chapter/chapter-40.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Deploying Generated Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484222119/chapter/A395717_1_En_6_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484222119/chapter/A395717_1_En_6_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Improving Code Quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491985106/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491985106/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. The Science of Synchronization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098144999/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098144999/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The C++ Standard Library: A Tutorial and Reference",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201379260/",
+      "url": "https://learning.oreilly.com/api/v1/book/0201379260/",
+      "isbn": "9780201379266",
+      "format": "book"
+    },
+    {
+      "title": "3. Schedule Model Good Practices Overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781628255621/chapter/chapter03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781628255621/chapter/chapter03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modulation and Coding Techniques in Wireless Communications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470976715/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470976715/",
+      "isbn": "9780470976715",
+      "format": "book"
+    },
+    {
+      "title": "7 READING AND WRITING FILES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098129033/chapter/xhtml/ch07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098129033/chapter/xhtml/ch07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Next Steps in Your AI Journey",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146818/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146818/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Building Clusters as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098114664/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098114664/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Little Book of HTML/CSS Coding Guidelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048459/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048459/",
+      "isbn": "9781491942567",
+      "format": "book"
+    },
+    {
+      "title": "The C++ Standard Library Extensions A Tutorial and Reference",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321412990/",
+      "url": "https://learning.oreilly.com/api/v1/book/0321412990/",
+      "isbn": "0321412990",
+      "format": "book"
+    },
+    {
+      "title": "Algebraic and Stochastic Coding Theory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466505629/chapter/xhtml/08_Chapter01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466505629/chapter/xhtml/08_Chapter01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Corporate Information Security Processes and Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484277997/chapter/html/513593_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484277997/chapter/html/513593_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. 8 recursion and dictionaries: Beyond Iteration and Indices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491958858/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491958858/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C++ Standard Library, The: A Tutorial and Reference, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132978286/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132978286/",
+      "isbn": "9780132978286",
+      "format": "book"
+    },
+    {
+      "title": "C++: A Dialog Programming with the C++ Standard Library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130094021/",
+      "url": "https://learning.oreilly.com/api/v1/book/0130094021/",
+      "isbn": "9780130094025",
+      "format": "book"
+    },
+    {
+      "title": "Wiley 2018 Interpretation and Application of IFRS Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119461500/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119461500/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Debugging and Testing Python Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484248782/chapter/html/476669_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484248782/chapter/html/476669_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Context, Baggage, and Propagators",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290750/chapter/html/536843_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290750/chapter/html/536843_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Macro-Econometric Analysis of Quality of Life Within the Framework of Evaluating the Effectiveness of Socio-Economic Policy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110382068/chapter/text/chapter3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110382068/chapter/text/chapter3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20. AI Ethics, Fairness, and Privacy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492078180/chapter/ch20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492078180/chapter/ch20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Typed PHP: Stronger Types For Cleaner Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484221143/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484221143/",
+      "isbn": "9781484221143",
+      "format": "book"
+    },
+    {
+      "title": "2. Getting Your Styles to Hit the Target",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430223979/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430223979/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Security and compliance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298295/chapter/OEBPS/Text/08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298295/chapter/OEBPS/Text/08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The base2 JavaScript Framework: Bridging Browser Incompatibilities with Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470422366/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470422366/",
+      "isbn": "9780470422366",
+      "format": "book"
+    },
+    {
+      "title": "3. Prepare to Estimate",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781628256420/chapter/09_Chapter3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781628256420/chapter/09_Chapter3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Guide to JCT Standard Building Contract 2016",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000701371/chapter/xhtml/Ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000701371/chapter/xhtml/Ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "z/TPF Application Modernization using Standard and Open Middleware",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738438200/",
+      "url": "https://learning.oreilly.com/api/v1/book/0738438200/",
+      "isbn": "0738438200",
+      "format": "book"
+    },
+    {
+      "title": "The Decency Code: The Leader's Path to Building Integrity and Trust",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781260455403/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781260455403/",
+      "isbn": "9781260455403",
+      "format": "book"
+    },
+    {
+      "title": "Supply Chain Process Performance Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134136936/chapter/b5_ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134136936/chapter/b5_ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Coding-free and Coding-based Approaches to Machine Learning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119897606/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119897606/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Pitfalls and sand in the gears",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437814/chapter/OEBPS/Text/03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437814/chapter/OEBPS/Text/03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding for Penetration Testers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128054734/chapter/xhtml/chp004.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128054734/chapter/xhtml/chp004.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Findability, Syndication, Blogs, Podcasts, the Long Tail, Ajax (and Other Reasons Standards Are Winning)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321385551/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321385551/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Deploying Applications to Azure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484294840/chapter/html/474995_3_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484294840/chapter/html/474995_3_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "WCF Coding Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491944820/chapter/app06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491944820/chapter/app06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Modeling Landscape",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484222164/chapter/A421575_1_En_1_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484222164/chapter/A421575_1_En_1_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Making Sense of People: Decoding the Mysteries of Personality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132172851/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132172851/",
+      "isbn": "9780132172851",
+      "format": "book"
+    },
+    {
+      "title": "Perl Medic: Transforming Legacy Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201795264/",
+      "url": "https://learning.oreilly.com/api/v1/book/0201795264/",
+      "isbn": "0201795264",
+      "format": "book"
+    },
+    {
+      "title": "From Culture to Code: Leading Software Engineering Teams Effectively",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814280/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814280/",
+      "isbn": "9798868814280",
+      "format": "book"
+    },
+    {
+      "title": "Core JSTL: Mastering the JSP™ Standard Tag Library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131001531/",
+      "url": "https://learning.oreilly.com/api/v1/book/0131001531/",
+      "isbn": "0131001531",
+      "format": "book"
+    },
+    {
+      "title": "Java™ Coding Guidelines: 75 Recommendations for Reliable and Secure Programs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133439526/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133439526/",
+      "isbn": "9780133439526",
+      "format": "book"
+    },
+    {
+      "title": "PSR-1 - basic coding standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785882814/chapter/b05af073-4b63-496f-b29e-b938fe54c7dc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785882814/chapter/b05af073-4b63-496f-b29e-b938fe54c7dc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Instant Messaging Attacks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/156592682X/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/156592682X/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Source Code Analytics With Roslyn and JavaScript Data Visualization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484219256/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484219256/",
+      "isbn": "9781484219256",
+      "format": "book"
+    },
+    {
+      "title": "Extending and Modifying LAMMPS Writing Your Own Source Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800562264/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800562264/",
+      "isbn": "9781800562264",
+      "format": "book"
+    },
+    {
+      "title": "Win32 Perl Programming: The Standard Extensions, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/157870216X/",
+      "url": "https://learning.oreilly.com/api/v1/book/157870216X/",
+      "isbn": "157870216X",
+      "format": "book"
+    },
+    {
+      "title": "Scripting with Other Executable Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780764588204/chapter/9780764588204_scripting_with_other_executable_code.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780764588204/chapter/9780764588204_scripting_with_other_executable_code.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Coding attention mechanisms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437166/chapter/Text/chapter-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437166/chapter/Text/chapter-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Standards for code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788622011/chapter/dfb7d4e1-2f1b-4354-95cd-90bf2863a2d2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788622011/chapter/dfb7d4e1-2f1b-4354-95cd-90bf2863a2d2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Verilog Coding for Logic Synthesis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471429760/chapter/12_chap02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471429760/chapter/12_chap02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multidimensional Signal, Image, and Video Processing and Coding, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123814203/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123814203/",
+      "isbn": "9780123814203",
+      "format": "book"
+    },
+    {
+      "title": "Modularity and Code Organization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789724685/chapter/0789724685_ch01lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789724685/chapter/0789724685_ch01lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C++17 Standard Library Quick Reference: A Pocket Guide to Data Structures, Algorithms, and Functions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249239/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249239/",
+      "isbn": "9781484249239",
+      "format": "book"
+    },
+    {
+      "title": "Creating QR and Tag Codes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133118353/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133118353/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. The Ripple Effect",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484258088/chapter/html/493448_1_En_15_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484258088/chapter/html/493448_1_En_15_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. The Object Modeling Process in a Nutshell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290606/chapter/html/78624_3_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290606/chapter/html/78624_3_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tools for Signal Compression: Applications to Speech and Audio Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118616628/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118616628/",
+      "isbn": "9781848212558",
+      "format": "book"
+    },
+    {
+      "title": "Coding iPhone Apps for Kids",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492020370/chapter/ch06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492020370/chapter/ch06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Art of Decoding Microservices: An In-Depth Exploration of Modern Software Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812675/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812675/",
+      "isbn": "9798868812675",
+      "format": "book"
+    },
+    {
+      "title": "11 Development of Standards, Codes, and Regulations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439852866/chapter/xhtml/22_Chapter11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439852866/chapter/xhtml/22_Chapter11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cleaning the lint trap (checking code standards)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788476607/chapter/74925cf1-e63e-4dc8-9206-6bed06ece9da.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788476607/chapter/74925cf1-e63e-4dc8-9206-6bed06ece9da.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. IoT Cloud Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272718/chapter/html/517610_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272718/chapter/html/517610_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Containers to Connect Your Go Code to Other Components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491998830/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491998830/",
+      "isbn": "9781491998823",
+      "format": "book"
+    },
+    {
+      "title": "Web Design with Muse (code name) from Adobe®",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132929097/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132929097/",
+      "isbn": "9780132929097",
+      "format": "book"
+    },
+    {
+      "title": "Decoding Customer Value at the Bottom of the Pyramid",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781948976121/chapter/texts/01_Chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781948976121/chapter/texts/01_Chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "R Code Style Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449358204/chapter/ch06s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449358204/chapter/ch06s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "GMPLS Signaling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201753014/chapter/0201753014_ch07lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201753014/chapter/0201753014_ch07lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Putting Findability Into Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321562609/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321562609/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Multimedia Fundamentals Volume 1: Media Coding and Content Processing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132442435/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132442435/",
+      "isbn": "9780132442435",
+      "format": "book"
+    },
+    {
+      "title": "7. Training a State-of-the-Art Model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045519/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045519/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CREATIVE CODING",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781590596173/chapter/chap02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781590596173/chapter/chap02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "F. WCF Coding Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449382476/chapter/apf.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449382476/chapter/apf.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Web Coding & Development All-in-One For Dummies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119473923/chapter/f01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119473923/chapter/f01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Design an application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138065508/chapter/ch07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138065508/chapter/ch07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Finding the Meaning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234860/chapter/html/463663_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234860/chapter/html/463663_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "E. C# Coding Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596102070/chapter/ape.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596102070/chapter/ape.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "All-Purpose Network Connection Gadget: Netcat",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131014056/chapter/0131014056_ch05lev1sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131014056/chapter/0131014056_ch05lev1sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Beyond the Prompt: How Codebases Evolve at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341627635/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341627635/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Roblox Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234670/chapter/Text/Chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234670/chapter/Text/Chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C. WCF Coding Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596526997/chapter/apc.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596526997/chapter/apc.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "National Coded Character Set Standards Overview",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596156114/chapter/chapter-52.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596156114/chapter/chapter-52.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119096726/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119096726/",
+      "isbn": "9781119096726",
+      "format": "book"
+    },
+    {
+      "title": "10 Creating a coding copilot project: This would have helped you earlier",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437203/chapter/Text/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437203/chapter/Text/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Message Authentication Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131402641/chapter/0131402641_ch03lev1sec6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131402641/chapter/0131402641_ch03lev1sec6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. How AI Coding Technology Works",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164553/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164553/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Portable Executable and Executable and Linking Formats",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781597492379/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781597492379/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Using Conventions and Configurations for Database Mappings",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449317867/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449317867/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11.3.3.3 Wide Area Network",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781299444713/chapter/chapter-100.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781299444713/chapter/chapter-100.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DEV-01: Set standards and guidelines before writing any code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596100892/chapter/re01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596100892/chapter/re01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Basic Coding in C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098158354/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098158354/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding Standard",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201708426/chapter/0201708426_ch11lev1sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201708426/chapter/0201708426_ch11lev1sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 COMPUTER PERIPHERAL BUSES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125646/chapter/xhtml/ch13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125646/chapter/xhtml/ch13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Project Management Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781628256642/chapter/p01-chapter03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781628256642/chapter/p01-chapter03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Coding with Copilot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164645/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164645/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "VLSI Architectures for Modern Error-Correcting Codes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781482229653/chapter/xhtml/C005_chapter1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781482229653/chapter/xhtml/C005_chapter1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Zero Trust Architecture Standards, Frameworks, and Guidelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492096580/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492096580/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Legal Frameworks and Global Standards Shaping the Future Development of AI Agents",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135352939/chapter/ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135352939/chapter/ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Java Sockets (1/9)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781597490054/chapter/chapter-45.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781597490054/chapter/chapter-45.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Coding the Aspect-Oriented Way",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275724/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275724/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Naming: Simple Techniques for Better Software Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814112/chapter/html/622969_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814112/chapter/html/622969_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125653/chapter/xhtml/footnotes.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125653/chapter/xhtml/footnotes.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Industry Compliance Standards and Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098127237/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098127237/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Process Improvement with CMMI® v1.2 and ISO Standards; Edition 1",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781420052848/chapter/xhtml/18_Appendix02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781420052848/chapter/xhtml/18_Appendix02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Addison-Wesley Object Technology Series",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201485672/chapter/pref01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201485672/chapter/pref01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Functions and coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436893/chapter/OEBPS/Text/11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436893/chapter/OEBPS/Text/11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Software Quality, Metrics, and Processes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282793/chapter/html/518359_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282793/chapter/html/518359_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Standards and Regulations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780443137389/chapter/XHTML/B9780443137372000154/CH0014_447-465_B9780443137372000154.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780443137389/chapter/XHTML/B9780443137372000154/CH0014_447-465_B9780443137372000154.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hugging Face AutoTrain: Training Vision Models without Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128724/chapter/Text/Chapter_18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128724/chapter/Text/Chapter_18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Exploiting Server Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201786958/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201786958/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Public-Key Cryptography",
+      "id": "https://www.safaribooksonline.com/api/v1/book/157870166X/chapter/157870166X_ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/157870166X/chapter/157870166X_ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding carrier standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838643508/chapter/e1b55634-0d92-4fbe-a45b-a216e4179ca8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838643508/chapter/e1b55634-0d92-4fbe-a45b-a216e4179ca8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "DEV-01: Set standards and guidelines before writing any code.",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596001215/chapter/re01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596001215/chapter/re01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Best Practices in Coding C# 12",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805127659/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805127659/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Secure Coding Practices for Identity Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098158026/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098158026/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Communicating with Others",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672328178/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672328178/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Low-Level Memory Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484240274/chapter/html/430794_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484240274/chapter/html/430794_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. More Loops, and More Elegant Methods to Flash an LED",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484235102/chapter/html/463778_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484235102/chapter/html/463778_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 ASHRAE STANDARDS AND PRACTICES FOR DATA CENTERS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119597506/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119597506/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Lab Connections to STEM Classroom Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780760396247/chapter/xhtml/14_Lab.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780760396247/chapter/xhtml/14_Lab.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 CODING AND PROGRAMMING: THE AI REVOLUTION",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394245567/chapter/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394245567/chapter/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 International employment law, labor standards, and ethics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780429806124/chapter/xhtml/Ch06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780429806124/chapter/xhtml/Ch06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Related Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106737/chapter/app03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106737/chapter/app03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Hands-on Infrastructure as Code with Hashicorp Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286890/chapter/html/519207_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286890/chapter/html/519207_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Artificial Intelligence Governance Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119909279/chapter/c14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119909279/chapter/c14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 The Moment of Truth: Decoding Purchase Decisions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118345597/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118345597/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding for Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837630646/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837630646/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding with Streams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839214110/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839214110/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Standards Organizations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284220742/chapter/xhtml/9781284220735_CH13_01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284220742/chapter/xhtml/9781284220735_CH13_01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "05.01 Repeat Your Last Search",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735662155/chapter/ch05s01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735662155/chapter/ch05s01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Interoperability Through Standards: IFC, Concepts and Methods",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789451108/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789451108/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Copilot Chronicles: Coding with a Digital Companion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868802768/chapter/html/612513_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868802768/chapter/html/612513_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Signal Digitizing – Sampling and Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394182664/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394182664/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Role of the Law and Ethical Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284249002/chapter/xhtml/9781284249118_CH01_05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284249002/chapter/xhtml/9781284249118_CH01_05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Building Secure Products and Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470745755/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470745755/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practical Code Generation in .NET: Covering Visual Studio 2005, 2008, and 2010",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321617620/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321617620/",
+      "isbn": "9780321617620",
+      "format": "book"
+    },
+    {
+      "title": "8. Dealing with problems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262641/chapter/html/499545_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262641/chapter/html/499545_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Higher Order Functions and Lambdas",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286982/chapter/html/524041_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286982/chapter/html/524041_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21 Professional Coaching Industry Standards and Ethics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781003837800/chapter/xhtml/C_031_c21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781003837800/chapter/xhtml/C_031_c21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Our First Program",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255254/chapter/html/488924_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255254/chapter/html/488924_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Risk Assessment Standards and Definitions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119755920/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119755920/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Secure coding practices and automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295959/chapter/OEBPS/Text/13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295959/chapter/OEBPS/Text/13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Automation coding best practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299551/chapter/OEBPS/Text/10.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299551/chapter/OEBPS/Text/10.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Stop Coding and Start Writing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484288672/chapter/html/471418_2_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484288672/chapter/html/471418_2_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284261219/chapter/xhtml/9781284261257_CH13_09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284261219/chapter/xhtml/9781284261257_CH13_09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Management System Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789354494307/chapter/xhtml/chapter004.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9789354494307/chapter/xhtml/chapter004.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Low-Code AI Maturity Model: Leading Responsible AI Transformation with Microsoft Power Platform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817304/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817304/",
+      "isbn": "9798868817304",
+      "format": "book"
+    },
+    {
+      "title": "7 Performance Presentation Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119831945/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119831945/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Understanding JSP Custom Tags",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672324504/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672324504/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Regulations and Standards for Using ChatGPT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295298/chapter/html/605328_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295298/chapter/html/605328_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18 Industry cybersecurity standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000459371/chapter/xhtml/chapter18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000459371/chapter/xhtml/chapter18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Introducing Swift Playgrounds",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484226476/chapter/A432267_1_En_1_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484226476/chapter/A432267_1_En_1_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Start Your Engines: From Quantum Random Numbers to Teleportation and Super Dense Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484299913/chapter/html/469026_2_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484299913/chapter/html/469026_2_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Sales Agility Code: Deploy Situational Fluency to Win More Sales",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781264969654/chapter/ch01a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781264969654/chapter/ch01a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.10 FM Maturity: Research, Standards, and Influence",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394213283/chapter/c02_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394213283/chapter/c02_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Review of IoT-Based Smart City and Smart Homes Security Standards in Smart Cities and Home Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119871958/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119871958/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Regulation and Governance of Ethical Standards and Expectations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119832096/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119832096/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "IEEE 802.11 Family of Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284200126/chapter/xhtml/20_chapter10_02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284200126/chapter/xhtml/20_chapter10_02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. The New Features of C# 8.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484248560/chapter/html/478788_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484248560/chapter/html/478788_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ethereum Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491971932/chapter/app02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491971932/chapter/app02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ACTIVITY 39: Eliminate Double Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119930204/chapter/c39.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119930204/chapter/c39.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Brand Enigma: Decoding the Secrets of your Brand",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470779606/chapter/13_chapter08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470779606/chapter/13_chapter08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "ISO/IEC Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284236613/chapter/xhtml/9781284248814_CH04_05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284236613/chapter/xhtml/9781284248814_CH04_05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Implementation and Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293850/chapter/html/600187_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293850/chapter/html/600187_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Chandrashekhar Patel, Bhanu Priya Yadav, Aditi Saxena An energy-efficient FPGA-based implementation of AES algorithm using HSTL IO standards for new digital age technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783111229638/chapter/content/9783111228006_004497.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783111229638/chapter/content/9783111228006_004497.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "48 Set personal standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292439686/chapter/xhtml/Chapter48.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292439686/chapter/xhtml/Chapter48.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Standards and Guidelines for Compliance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284183726/chapter/xhtml/12_chapter03_04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284183726/chapter/xhtml/12_chapter03_04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Need For Accounting Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9788131797563/chapter/chapter-247.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9788131797563/chapter/chapter-247.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Software and Technology Standards as Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000683257/chapter/28_ch14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000683257/chapter/28_ch14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Blockchain and Industry Use Cases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261378/chapter/html/497553_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261378/chapter/html/497553_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 The Role of Standards in the Responsibility and Rewards of Medical Technology Industry Leadership: Identify Your Objectives to Build Your Path in Leading the Future of Medical Technology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000828542/chapter/xhtml/c16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000828542/chapter/xhtml/c16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Set personal standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292432137/chapter/xhtml/11_Chapter-03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292432137/chapter/xhtml/11_Chapter-03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. C# Coding Style Conventions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135896457/chapter/app01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135896457/chapter/app01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CASE STUDY 2: Bar Coding, the Most Ubiquitous and Most Critical IIoT Technology",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119846611/chapter/b02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119846611/chapter/b02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Open Formats and Standards for Data Contracts",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836209157/chapter/text/ch006.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836209157/chapter/text/ch006.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Handbook of Information Security: Key Concepts, Infrastructure, Standards, and Protocols, Volume 1",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471648307/chapter/40_chapter-29.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471648307/chapter/40_chapter-29.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Share Your Tomorrows: Become Truly Sustainable by Allying with Your Suppliers to Meet Environmental, Social, and Governance Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647821401/chapter/html/18_8__Share_Your_Tomorrows__Become.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647821401/chapter/html/18_8__Share_Your_Tomorrows__Become.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Object Calisthenics, Coding Styles, and Refactoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266229/chapter/html/501322_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266229/chapter/html/501322_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Ethics, Standards, Evaluation, and Support of Creative Research in Academia",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000928129/chapter/xhtml/chapter3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000928129/chapter/xhtml/chapter3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Refactoring and Standards Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868807794/chapter/html/555356_7_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868807794/chapter/html/555356_7_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pro Functional PHP Programming: Application Development Strategies for Performance Optimization, Concurrency, Testability, and Code Brevity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484229583/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484229583/",
+      "isbn": "9781484229583",
+      "format": "book"
+    },
+    {
+      "title": "3. Contemporary Azure Naming Conventions and Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815270/chapter/html/472358_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815270/chapter/html/472358_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "02 What you need to know to be compliant: Standards, guidelines and laws",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398621855/chapter/content/11_chapter02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398621855/chapter/content/11_chapter02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Standards and Regulations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786307507/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786307507/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Open BIM Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786307033/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786307033/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Standards for the LAPP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119010135/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119010135/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. AI Global Standards and Guidelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868815362/chapter/html/645140_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868815362/chapter/html/645140_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Post-Quantum Cryptography: The New NIST Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135436004/chapter/ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135436004/chapter/ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Information Security Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284211733/chapter/xhtml/9781284211726_CH04_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284211733/chapter/xhtml/9781284211726_CH04_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18 Standards Capabilities: Common Language for Circularity to Circulate Locally",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398620698/chapter/content/27_chapter18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398620698/chapter/content/27_chapter18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 20. Coding Camera Movements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136829836/chapter/xhtml/ch20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136829836/chapter/xhtml/ch20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ethical Standards and Dilemmas Around the World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136763017/chapter/xhtml/fileP7001015718000000000000000001A5A.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136763017/chapter/xhtml/fileP7001015718000000000000000001A5A.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Open data standards and BIM on the cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000613230/chapter/xhtml/ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000613230/chapter/xhtml/ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Embracing the Era of Experience: Transformers for Planning, Reasoning, and Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098167004/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098167004/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Best Practices in Coding C# 10",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803235257/chapter/Text/Chapter_20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803235257/chapter/Text/Chapter_20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Security Standards and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868809323/chapter/html/609480_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868809323/chapter/html/609480_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Secure Coding Guidelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265864/chapter/html/496528_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265864/chapter/html/496528_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding, Testing, and Documentation: the Virtuous Cycle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801076302/chapter/Text/Chapter_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801076302/chapter/Text/Chapter_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "03 Risk management standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398618671/chapter/content/12_chapter03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398618671/chapter/content/12_chapter03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Coding and Testing for Observability",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492033431/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492033431/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 / Finding Standards That Affect Your Invention",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000939217/chapter/xhtml/ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000939217/chapter/xhtml/ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "34. Exception Coding Details",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449355722/chapter/ch34.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449355722/chapter/ch34.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Sense of Style",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272053/chapter/html/462726_2_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272053/chapter/html/462726_2_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Coding a Monolithic Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271704/chapter/html/509649_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271704/chapter/html/509649_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Performing zero-coding – capping the variable at zero",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789806311/chapter/0aee93e5-c3a6-44ef-bbc7-45907840fd5b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789806311/chapter/0aee93e5-c3a6-44ef-bbc7-45907840fd5b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Using an AI Coding Agent",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817847/chapter/html/660323_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817847/chapter/html/660323_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 CODING FUNDAMENTALS EXPLAINED THROUGH EXCEL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0642572230159/chapter/xhtml/ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/0642572230159/chapter/xhtml/ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Challenges, Standards, and Solutions for Secure and Intelligent 5G Internet of Things (IoT) Scenarios",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119682509/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119682509/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Game Development – Industry Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281826/chapter/html/523918_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281826/chapter/html/523918_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Firmware Secure Coding Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261064/chapter/html/488723_1_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261064/chapter/html/488723_1_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Mitigating Pollution Attacks in Network Coding-Enabled Mobile Small Cells for Enhanced 5G Services in Rural Areas",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394305223/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394305223/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ethical Standards are Different from Cultural Traits",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789354498824/chapter/chapter-19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789354498824/chapter/chapter-19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Annexure A: Important Terms Used in the Standards on Auditing (2/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789356066496/chapter/chapter-370.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789356066496/chapter/chapter-370.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "02 ESG Data: Standards, Rating Agencies, and Value",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398614253/chapter/content/11_chapter02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398614253/chapter/content/11_chapter02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Value of Standards, Measurement, and Manufacturing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000806908/chapter/xhtml/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000806908/chapter/xhtml/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Tracing Standards and Ecosystem",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788628464/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788628464/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 AU-C 200 Overall Objectives of the Independent Auditor and the Conduct of an Audit in Accordance with Generally Accepted Auditing Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119875017/chapter/c01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119875017/chapter/c01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Performance, Profiling, and Optimizations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484243602/chapter/html/470051_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484243602/chapter/html/470051_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Standards for Rainwater Catchment Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119478959/chapter/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119478959/chapter/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Concurrent Programming in General Coding Interviews",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868811982/chapter/html/633327_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868811982/chapter/html/633327_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Coding the Lambda Function",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274491/chapter/html/504229_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274491/chapter/html/504229_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Ethereum Use Cases",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484240755/chapter/html/470312_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484240755/chapter/html/470312_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Standards, Guides and Regulatory Aspects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786304216/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786304216/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Sustainability Standards and Instruments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000284096/chapter/ch07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000284096/chapter/ch07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What is erasure coding?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789610703/chapter/87814981-4302-4620-a7a6-de8e14c91644.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789610703/chapter/87814981-4302-4620-a7a6-de8e14c91644.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "03 Ethical principles, standards and practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781398610286/chapter/content/08_chapter03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781398610286/chapter/content/08_chapter03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Secure coding industry best practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788995504/chapter/15c24b0e-77a8-4043-994b-55aa97a74633.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788995504/chapter/15c24b0e-77a8-4043-994b-55aa97a74633.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Completion, handover and operation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118378182/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118378182/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding ERC20 and ERC721 smart contract standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838829094/chapter/bd6f0639-c7ff-4c7a-9ec8-bb48d5d5da32.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838829094/chapter/bd6f0639-c7ff-4c7a-9ec8-bb48d5d5da32.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "43: Power Electronics Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128114087/chapter/B9780128114070000489.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128114087/chapter/B9780128114070000489.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding the TextureHolder Class and Building a Horde of Zombies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835081747/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835081747/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding tips and tricks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838824914/chapter/d93a9ef5-0ce7-4f8b-9451-92c908549d4c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838824914/chapter/d93a9ef5-0ce7-4f8b-9451-92c908549d4c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Start Coding the First Test",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238325/chapter/html/453429_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238325/chapter/html/453429_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7: Standards and Data Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128156100/chapter/B9780128156094000078.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128156100/chapter/B9780128156094000078.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Software Implementation: Coding and Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439813683/chapter/xhtml/C017_chapter8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439813683/chapter/xhtml/C017_chapter8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Genres of Historical Games and Academic Standards of History and Social Studies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000779530/chapter/chapter03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000779530/chapter/chapter03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Software and Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098144784/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098144784/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Defining standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474030/chapter/7c833d58-2172-4702-b6a9-146e1b27ae32.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474030/chapter/7c833d58-2172-4702-b6a9-146e1b27ae32.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": ".NET Framework Standard Library Annotated Reference, Volume 1: Base Class Library and Extended Numerics Library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321154894/",
+      "url": "https://learning.oreilly.com/api/v1/book/0321154894/",
+      "isbn": "9780321154897",
+      "format": "book"
+    },
+    {
+      "title": "2. Open Source and Open Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281277/chapter/html/520460_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281277/chapter/html/520460_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Functional Coding in C# 7 and Beyond",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492097068/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492097068/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding bean classes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838821470/chapter/cb7805c2-b9ff-4a20-b5ca-61f2e72b5133.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838821470/chapter/cb7805c2-b9ff-4a20-b5ca-61f2e72b5133.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Industry Compliance Standards and Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491960370/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491960370/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Best Practices in Coding C# 9",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800566040/chapter/Text/Chapter_17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800566040/chapter/Text/Chapter_17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding the sort",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789131895/chapter/1daf2762-62cb-4817-88eb-b64526017e34.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789131895/chapter/1daf2762-62cb-4817-88eb-b64526017e34.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Minimal Coding for the Complex Editor",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484264829/chapter/html/449652_2_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484264829/chapter/html/449652_2_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.2 HTML Coding Conventions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781284091809/chapter/xhtml/11_Chapter02_02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781284091809/chapter/xhtml/11_Chapter02_02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modern C++ standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788399999/chapter/8bc6f9ec-ba97-4cd0-b86d-b12f63707700.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788399999/chapter/8bc6f9ec-ba97-4cd0-b86d-b12f63707700.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Standards and All that Jazz: Getting Serious with HTML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449324469/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449324469/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Start Your Engines: From Quantum Random Numbers to Teleportation, Pit Stop at Super Dense Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484242186/chapter/html/469026_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484242186/chapter/html/469026_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Channel Coding for Disturbed Transmission Channels",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786305411/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786305411/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Rules of Wealth",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292441108/chapter/xhtml/06_FM2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292441108/chapter/xhtml/06_FM2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. New York Magazine: My, What a Classy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781590598030/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781590598030/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Coding skills for accountants",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000777055/chapter/xhtml/C_019_c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000777055/chapter/xhtml/C_019_c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "New application controller foreground startup",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738437379/chapter/chapter-105.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738437379/chapter/chapter-105.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "28. Additional XQuery-Related Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491915080/chapter/ch28.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491915080/chapter/ch28.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. App Store Listing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484242858/chapter/html/475674_1_En_17_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484242858/chapter/html/475674_1_En_17_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding our rule and generating a prototype and result",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121423/chapter/c42a00d1-bcf6-46d6-955e-7cccd8f5e485.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121423/chapter/c42a00d1-bcf6-46d6-955e-7cccd8f5e485.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Coding and Computation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119625278/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119625278/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. STANDARDS, TOOLS, METHODS AND TECHNIQUES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780173948/chapter/19_ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780173948/chapter/19_ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Line Coding and Digital Modulation (3/7)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466517271/chapter/chapter-24.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466517271/chapter/chapter-24.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "No.35 Web Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780676425/chapter/41_chapter-title-35.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780676425/chapter/41_chapter-title-35.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Management Skill Builder Building High Ethical Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135175156/chapter/xhtml/fileP7001015690000000000000000001416.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135175156/chapter/xhtml/fileP7001015690000000000000000001416.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tracking PL/SQL coding information",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785284809/chapter/ch10s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785284809/chapter/ch10s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building on Airbnb standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835015/chapter/5232c6c0-983a-47e9-93d9-382e545b2af4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835015/chapter/5232c6c0-983a-47e9-93d9-382e545b2af4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Do the Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263884/chapter/html/501963_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263884/chapter/html/501963_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AICPA Yellow Book: Government Auditing Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119512394/chapter/fcopyright.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119512394/chapter/fcopyright.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Error Detection and Correction for Coding Schemes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781482210101/chapter/xhtml/13_Chapter06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781482210101/chapter/xhtml/13_Chapter06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The J2EE Components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130355712/chapter/0130355712_ch02lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130355712/chapter/0130355712_ch02lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Industry Standards and Trends",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780429621819/chapter/chapter-100.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780429621819/chapter/chapter-100.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Federal Laws, Executive Orders, Policies, Directives, Regulations, Standards and Guidelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128096871/chapter/xhtml/chp009_a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128096871/chapter/xhtml/chp009_a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Regulations and Industry Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134422404/chapter/xhtml/fileP70004990330000000000000000040C8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134422404/chapter/xhtml/fileP70004990330000000000000000040C8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Improvements and Debugging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484256503/chapter/html/488486_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484256503/chapter/html/488486_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Open source and open standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788994521/chapter/2818255c-403d-481b-9a7d-d387fa843583.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788994521/chapter/2818255c-403d-481b-9a7d-d387fa843583.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding style convention for TensorFlow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530759/chapter/27d50c1f-bca8-4a3b-8f52-42e48eadddb5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530759/chapter/27d50c1f-bca8-4a3b-8f52-42e48eadddb5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Composite Classes, Revisited",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430210887/chapter/9781430210887_composite_classes_comma_revisited.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430210887/chapter/9781430210887_composite_classes_comma_revisited.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16 Multiple Regression Analysis and Effect Coding: Further Issues",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134840437/chapter/ch16.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134840437/chapter/ch16.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11.8 Deriving Team Standards for TDD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222423/chapter/f_0142.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222423/chapter/f_0142.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adopting a consistent coding style",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472678/chapter/c4c1fc6d-c755-4f3d-b5a4-3c6edbaedb8e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472678/chapter/c4c1fc6d-c755-4f3d-b5a4-3c6edbaedb8e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "28. Coding a Snake Game Using Everything We Have Learned So Far",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789538502/chapter/ch28.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789538502/chapter/ch28.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Wiley 2017 Interpretation and Application of IFRS Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119340225/chapter/c11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119340225/chapter/c11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 NETWORKING PROTOCOLS AND STANDARDS FOR INTERNET OF THINGS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119173649/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119173649/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4.0. Functional Safety Standards: IEC 61508",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128038215/chapter/XHTML/B9780128037638000066/sec-s0090.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128038215/chapter/XHTML/B9780128037638000066/sec-s0090.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Quantization and Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119470670/chapter/c05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119470670/chapter/c05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Some simple coding modifications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298704/chapter/ch18s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298704/chapter/ch18s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding a table view",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786461698/chapter/391e8b98-ba58-47f7-a45e-d9e55f3d5738.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786461698/chapter/391e8b98-ba58-47f7-a45e-d9e55f3d5738.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "07 Technical standards and technical aspects of operation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789665048/chapter/content/11_chapter07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789665048/chapter/content/11_chapter07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Eclipse Series",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321334612/chapter/pr02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321334612/chapter/pr02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Web Designer’s Guide to iOS Apps: Create iPhone, iPod touch, and iPad Apps with Web Standards (HTML5, CSS3, and JavaScript)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132562829/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132562829/",
+      "isbn": "9780132562829",
+      "format": "book"
+    },
+    {
+      "title": "6. Secure Coding Guidelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263679/chapter/html/493660_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263679/chapter/html/493660_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2.7 Worldwide Standards for Analog and Digital Television",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781317396291/chapter/xhtml/Ch10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781317396291/chapter/xhtml/Ch10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Standards for Access Service Request",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128092491/chapter/XHTML/B978012805319500006X/B978012805319500006X.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128092491/chapter/XHTML/B978012805319500006X/B978012805319500006X.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Coding JavaScript in MongoDB",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839210648/chapter/B15507_08_Final_SMP_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839210648/chapter/B15507_08_Final_SMP_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Higher-Order Directional Audio Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119252597/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119252597/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 CODING FOR IMPROVED COMMUNICATIONS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470408520/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470408520/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Blazor Server vs. Blazor WebAssembly",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257470/chapter/html/492761_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257470/chapter/html/492761_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Firmware Coding in the C++ and Script Languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484219195/chapter/A417236_1_En_7_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484219195/chapter/A417236_1_En_7_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beginning iOS Storyboarding with Xcode: Easily Design and Develop Your App, from Concept and Vision to Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430242727/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430242727/",
+      "isbn": "9781430242727",
+      "format": "book"
+    },
+    {
+      "title": "9 Error Control Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119091257/chapter/c09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119091257/chapter/c09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding the class_ppo.py file",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789533583/chapter/07037b41-3bd9-4815-8f7d-1bb2639da058.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789533583/chapter/07037b41-3bd9-4815-8f7d-1bb2639da058.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "22. The Future, Standards, and IP: Please Stop Killing Us",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484218891/chapter/A370793_1_En_22_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484218891/chapter/A370793_1_En_22_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Advanced Coding and Memory Handling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491903513/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491903513/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "¦¦ Convergence of Indian Accounting Standards with IFRS (2/4)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789353064730/chapter/chapter-133.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789353064730/chapter/chapter-133.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Beginner’s Path",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800863/chapter/html/538894_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800863/chapter/html/538894_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18: Standards for electric vehicle batteries and associated testing procedures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782423980/chapter/B9781782423775000182.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782423980/chapter/B9781782423775000182.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Design Standards Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128000229/chapter/B9780128000229000176.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128000229/chapter/B9780128000229000176.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Best practices and standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298599/chapter/23329597-771a-473b-a9d5-e628f3ca4065.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298599/chapter/23329597-771a-473b-a9d5-e628f3ca4065.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Standards, Philosophies, and Finances",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491958360/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491958360/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Error Control Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118995624/chapter/c06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118995624/chapter/c06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding the inanimate and decorative components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788839150/chapter/ch23s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788839150/chapter/ch23s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Key value coding (KVC)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787120211/chapter/908007f7-5d22-4447-b845-895d4e60a2be.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787120211/chapter/908007f7-5d22-4447-b845-895d4e60a2be.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "This Book and C++ Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132781145/chapter/ch01lev2sec7.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132781145/chapter/ch01lev2sec7.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating web standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783983667/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783983667/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Supplement C: What’s So Difficult About Setting Financial Accounting Standards?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781631577949/chapter/part3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781631577949/chapter/part3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "AMD and CommonJS: Competing, but Equally Valid Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449334840/chapter/ch11s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449334840/chapter/ch11s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Model-Driven Engineering for Distributed Real-Time Systems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118619551/chapter/Text/07_chapter2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118619551/chapter/Text/07_chapter2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The benefits of application-layer standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788397483/chapter/474cfbbd-fab5-4b13-94ea-90e2ce45ed3a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788397483/chapter/474cfbbd-fab5-4b13-94ea-90e2ce45ed3a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Exploiting Network Coding for Smart Healthcare",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466582064/chapter/xhtml/C024_chapter13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466582064/chapter/xhtml/C024_chapter13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133795257/chapter/ch09lev2sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133795257/chapter/ch09lev2sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "47 Set personal standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292088112/chapter/html/chapter-047.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292088112/chapter/html/chapter-047.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding the playbooks and roles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121638/chapter/ch06s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121638/chapter/ch06s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Core Coding – AngularJS By Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786465788/chapter/pt02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786465788/chapter/pt02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Green meeting standards: A conceptual review",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110398625/chapter/xhtml/chapter12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110398625/chapter/xhtml/chapter12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Does a Company Establish Ethical Standards?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332511255/chapter/xhtml/c10s11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332511255/chapter/xhtml/c10s11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Day 11. Wired and Wireless Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134392448/chapter/ch21.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134392448/chapter/ch21.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6: Standardization Activities Related to TV White Space: PHY/MAC Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439848807/chapter/OEBPS/9781466551459_epub_c06_r1.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439848807/chapter/OEBPS/9781466551459_epub_c06_r1.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Information Security Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780763790257/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780763790257/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Linear Data Structures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257258/chapter/html/491634_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257258/chapter/html/491634_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the memory-aware coding style",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789132359/chapter/5182c7e3-9c44-4232-bfad-831947fad5ac.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789132359/chapter/5182c7e3-9c44-4232-bfad-831947fad5ac.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding with Closures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502572/chapter/f_0055.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502572/chapter/f_0055.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. The Development and Applications of E-Learning Technology Standards (2/5)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781926895109/chapter/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781926895109/chapter/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Native Coding in Android",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785288951/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785288951/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Standards for Protocols: The Quickest Way to Reproducibility",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098105563/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098105563/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding Web Services with Web API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134133164/chapter/ch01lev2sec17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134133164/chapter/ch01lev2sec17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding pragmatic solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787124813/chapter/ch18s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787124813/chapter/ch18s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding to binary",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781483104256/chapter/chapter-10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781483104256/chapter/chapter-10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1.3 The Importance of Data Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781612909912/chapter/spriskmonfrauddet/html/n1m3rvficqf6bon1gvx1raxgw2kq.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781612909912/chapter/spriskmonfrauddet/html/n1m3rvficqf6bon1gvx1raxgw2kq.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Business Process Standards Initiatives",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123735683/chapter/9780123735683_ch15lev1sec6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123735683/chapter/9780123735683_ch15lev1sec6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 22. Good Coding Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134172163/chapter/ch22.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134172163/chapter/ch22.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19.2: Integrated standards-base programming models and extensions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738436186/chapter/chapter-341.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738436186/chapter/chapter-341.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10: Metadata and Data Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123737175/chapter/OEBPS/B9780123737175000105.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123737175/chapter/OEBPS/B9780123737175000105.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Requirement 10: Logging and Monitoring for the PCI Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439887400/chapter/K14041_C017.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439887400/chapter/K14041_C017.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5.2 Serial standards (1/5)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781483183770/chapter/chapter-51.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781483183770/chapter/chapter-51.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Standards/Procedures Followed",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134084473/chapter/ch42lev2sec7.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134084473/chapter/ch42lev2sec7.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Secure Software Implementation/Coding",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470461907/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470461907/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Supporting CSS4 standards within Less",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782160663/chapter/ch01s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782160663/chapter/ch01s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Security policies and standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849685962/chapter/ch03s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849685962/chapter/ch03s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Google Analytics Compliance with WAA Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449394608/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449394608/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Working with Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280980/chapter/html/515103_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280980/chapter/html/515103_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Human Memory Modeled With Standard Analog and Digital Circuits: Inspiration for Man-made Computers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470424353/chapter/14_chapter-09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470424353/chapter/14_chapter-09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Coding and Documentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9788131758694/chapter/xhtml/chapter011.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9788131758694/chapter/xhtml/chapter011.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Standards as human factors best practice for industry",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138000421/chapter/chapter-13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138000421/chapter/chapter-13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. GUI Coding Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449398712/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449398712/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Industrial standards (1/4)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781843347927/chapter/chapter-48.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781843347927/chapter/chapter-48.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Describing Wireless Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118097595/chapter/chap09-sec019.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118097595/chapter/chap09-sec019.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Impact of Standards on the Hybrid Cloud",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118235003/chapter/a17_26_9781118235003-ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118235003/chapter/a17_26_9781118235003-ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1.10 Worldwide Standards for Digital Radio",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240807515/chapter/023_9780240807515_chapter1.10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240807515/chapter/023_9780240807515_chapter1.10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding Beyond Logic",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449371142/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449371142/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Study of stereo vision measurement methods based on coding structured light",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781138027725/chapter/chapter-173.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781138027725/chapter/chapter-173.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8: Image Representation: Coding and Formats",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781848218475/chapter/chapter08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781848218475/chapter/chapter08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10.1 Helpful Standards for Obsolescence Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118275467/chapter/xhtml/sec48.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118275467/chapter/xhtml/sec48.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Simple Coding—Knowing a Little Can Be a Big Help",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781607282815/chapter/OEBPS/9781607282815_epub_c05_r1.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781607282815/chapter/OEBPS/9781607282815_epub_c05_r1.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "I Don’t Care Which Standards-Compliant Tools You Use",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596527211/chapter/pr04s02s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596527211/chapter/pr04s02s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Multiple Regression Analysis and Effect Coding: Further Issues",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133824001/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133824001/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Efficient Coding Using Vectorization Technique",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789332537484/chapter/xhtml/chapter009.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9789332537484/chapter/xhtml/chapter009.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 International standards and first principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749473969/chapter/c10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749473969/chapter/c10.xhtml",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

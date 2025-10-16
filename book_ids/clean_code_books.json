@@ -1,0 +1,4151 @@
+{
+  "skill_name": "clean code",
+  "discovery_timestamp": 1759700894.5422661,
+  "total_books": 592,
+  "books": [
+    {
+      "title": "Clean Code Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098144715/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098144715/",
+      "isbn": "9781098144722",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code with C# - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837635191/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837635191/",
+      "isbn": "9781837635191",
+      "format": "book"
+    },
+    {
+      "title": "The Art of Clean Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098141349/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098141349/",
+      "isbn": "9781718502185",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Effective Code Reviews: How to Build and Maintain Clean Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261620/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261620/",
+      "isbn": "9781484261620",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135398586/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135398586/",
+      "isbn": "9780135398586",
+      "format": "book"
+    },
+    {
+      "title": "Clean Coder, The: A Code of Conduct for Professional Programmers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132542913/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132542913/",
+      "isbn": "9780132542913",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code in PHP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804613870/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804613870/",
+      "isbn": "9781804613870",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code in JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789957648/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789957648/",
+      "isbn": "9781789957648",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code with Typescript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835889565/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835889565/",
+      "isbn": "9781835889565",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code in C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838982973/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838982973/",
+      "isbn": "9781838982973",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788835831/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788835831/",
+      "isbn": "9781788835831",
+      "format": "book"
+    },
+    {
+      "title": "18. Infrastructure Code Testing Implementation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150341/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150341/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Maintaining a clean and standardized Terraform code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464910/chapter/ch03s09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464910/chapter/ch03s09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code in Python - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800560215/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800560215/",
+      "isbn": "9781800560215",
+      "format": "book"
+    },
+    {
+      "title": "4 Deploying ARM templates",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299421/chapter/OEBPS/Text/04.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299421/chapter/OEBPS/Text/04.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Building Servers as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098114664/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098114664/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Business Solutions with Infrastructure as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286890/chapter/html/519207_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286890/chapter/html/519207_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Maintainable, Testable, and Scalable Code in Pulumi",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835467527/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835467527/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Current Landscape",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484253984/chapter/html/482606_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484253984/chapter/html/482606_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Software Engineering Practices for Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491924334/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491924334/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Kyverno and Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098139179/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098139179/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136083238/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136083238/",
+      "isbn": "9780136083238",
+      "format": "book"
+    },
+    {
+      "title": "8. Production-Grade Terraform Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098116736/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098116736/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 Testing and refactoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438002/chapter/OEBPS/Text/09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438002/chapter/OEBPS/Text/09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Terraform Syntax Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108458/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108458/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Apex Code: Software Design for Salesforce Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868814112/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868814112/",
+      "isbn": "9798868814112",
+      "format": "book"
+    },
+    {
+      "title": "5 Serverless made easy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296895/chapter/OEBPS/Text/Ch-05.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296895/chapter/OEBPS/Text/Ch-05.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Crafting Clean Code with JavaScript and React: A Practical Guide to Sustainable Front-End Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810046/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810046/",
+      "isbn": "9798868810046",
+      "format": "book"
+    },
+    {
+      "title": "5. Debugging for Import Issues and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800740/chapter/html/602536_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800740/chapter/html/602536_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Effective Use of Logic",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341649705/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341649705/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Automating Public Cloud Services Using Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271292/chapter/html/492265_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271292/chapter/html/492265_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Terraform Tips and Tricks: Loops, If-Statements, Deployment, and Gotchas",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492046899/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492046899/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Testing and Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810107/chapter/html/621897_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810107/chapter/html/621897_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the Terraform CLI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207554/chapter/28206182-81b8-4cf3-90f2-abd6c16f64ec.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207554/chapter/28206182-81b8-4cf3-90f2-abd6c16f64ec.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Applying a Basic Terraform Workflow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804616420/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804616420/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Scaling and Updating Infrastructure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623537/chapter/7704d071-bc6a-4ba0-b522-9ace47be86b4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623537/chapter/7704d071-bc6a-4ba0-b522-9ace47be86b4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to Use Terraform as a Team",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491977071/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491977071/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building a multi-environment architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780988820258/chapter/text/ch007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780988820258/chapter/text/ch007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Terraform Commands and State Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781804618844/chapter/B19160_04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781804618844/chapter/B19160_04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beautiful C++: 30 Core Guidelines for Writing Clean, Safe, and Fast Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137647767/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137647767/",
+      "isbn": "9780137647767",
+      "format": "book"
+    },
+    {
+      "title": "1. The Qualities of Clean Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255469/chapter/html/491590_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255469/chapter/html/491590_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Python: Elegant Coding in Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484248782/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484248782/",
+      "isbn": "9781484248782",
+      "format": "book"
+    },
+    {
+      "title": "Code Smells and Clean Code Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786461629/chapter/edc2d410-2ab7-486b-81f8-f15e01d34551.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786461629/chapter/edc2d410-2ab7-486b-81f8-f15e01d34551.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding how to write clean code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838984762/chapter/4c076fcd-ea6f-4fc2-ad47-f1f1583af507.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838984762/chapter/4c076fcd-ea6f-4fc2-ad47-f1f1583af507.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Write Clean Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491955987/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491955987/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Clean Code Using ScalaTest",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464675/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464675/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Creating Clean Code with OOP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785880544/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785880544/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "CLEAN CODE PRINCIPLES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470643204/chapter/ch003-sec005.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470643204/chapter/ch003-sec005.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Typed PHP: Stronger Types For Cleaner Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484221143/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484221143/",
+      "isbn": "9781484221143",
+      "format": "book"
+    },
+    {
+      "title": "Clean Android Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234588/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234588/",
+      "isbn": "9781803234588",
+      "format": "book"
+    },
+    {
+      "title": "11. Creating Clean and Maintainable Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838641917/chapter/B14377_11_Final_RK.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838641917/chapter/B14377_11_Final_RK.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Architecture with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836642893/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836642893/",
+      "isbn": "9781836642893",
+      "format": "book"
+    },
+    {
+      "title": "Clean Up Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789530179/chapter/17d18c42-ede5-4e54-a858-29077152a9fd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789530179/chapter/17d18c42-ede5-4e54-a858-29077152a9fd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Clean Up Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464538/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464538/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Clean and Lean Code with Vue",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788839792/chapter/b1e97ad4-c1f8-4868-b9df-c708d5a1b233.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788839792/chapter/b1e97ad4-c1f8-4868-b9df-c708d5a1b233.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Keep the Code Clean—Refactor as You Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222997/chapter/f_0043.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222997/chapter/f_0043.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Using Observers to Clean Up Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321574305/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321574305/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Agile: Back to Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135782002/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135782002/",
+      "isbn": "9780135782002",
+      "format": "book"
+    },
+    {
+      "title": "Keeping Code Clean with Mixins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222928/chapter/f_0031.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222928/chapter/f_0031.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Up HTML Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470612620/chapter/9780470612620_clean_up_html_code.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470612620/chapter/9780470612620_clean_up_html_code.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Best Practices for Writing Clean and Maintainable Go Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838554491/chapter/96fb70cb-8134-4156-bd3e-48ca53224683.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838554491/chapter/96fb70cb-8134-4156-bd3e-48ca53224683.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3.1 Funding future energy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780749470425/chapter/C3.1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780749470425/chapter/C3.1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Keep Your Code Clean and Robust",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130084689/chapter/0130084689_ch07lev1sec12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130084689/chapter/0130084689_ch07lev1sec12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding Clean, Reliable, and Safe REST APIs with ASP.NET Core 8: Develop Robust Minimal APIs with .NET 8",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484299791/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484299791/",
+      "isbn": "9781484299791",
+      "format": "book"
+    },
+    {
+      "title": "Refactor the Code and Clean Up the Project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508543/chapter/f_0097.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508543/chapter/f_0097.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Layers of abstraction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298936/chapter/OEBPS/Text/Ch-02.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298936/chapter/OEBPS/Text/Ch-02.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Java Coding Problems",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789801415/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789801415/",
+      "isbn": "9781789801415",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Clean and Compact Code Using SQLJ",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789723387/chapter/0789723387_ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0789723387/chapter/0789723387_ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting the latest code and ensuring a clean Git status",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788398510/chapter/17456b79-110d-4561-aae8-f2b437a62374.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788398510/chapter/17456b79-110d-4561-aae8-f2b437a62374.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 The Power of the Past",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394150533/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394150533/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to make your code neat and clean",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788477413/chapter/c194c750-efc0-4042-b8df-612b2cce1042.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788477413/chapter/c194c750-efc0-4042-b8df-612b2cce1042.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Pipeline as code with Jenkins",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297540/chapter/OEBPS/Text/02.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297540/chapter/OEBPS/Text/02.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean-up on aisle code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849695268/chapter/ch12s25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849695268/chapter/ch12s25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Get Your Hands Dirty on Clean Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839211966/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839211966/",
+      "isbn": "9781839211966",
+      "format": "book"
+    },
+    {
+      "title": "5. Controlling Access Through Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098127459/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098127459/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding with Minecraft®: Build Taller, Farm Faster, Mine Deeper, and Automate the Boring Stuff",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492067603/chapter/xhtml/back01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492067603/chapter/xhtml/back01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Statistical Data Cleaning with Applications in R",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118897157/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118897157/",
+      "isbn": "9781118897157",
+      "format": "book"
+    },
+    {
+      "title": "1. A Regular Expression Matcher",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596510046/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596510046/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adventure 8: Using Graphics and the Pen",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119232681/chapter/11_9781119232681-ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119232681/chapter/11_9781119232681-ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to Pitch Using the “Feature, Benefit, Tie-Down Technique” and Identify Exactly When to Close",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119211884/chapter/c13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119211884/chapter/c13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Biofuels And Biomaterials",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780061740466/chapter/9780061740466_chapter_03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780061740466/chapter/9780061740466_chapter_03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Machine Learning Libraries and Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098146818/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098146818/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Technology Behind the Scenes of Auto-Remediation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150884/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150884/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. The Finer Points",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449356088/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449356088/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Do You Do It?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781601632531/chapter/xhtml/h3_id_11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781601632531/chapter/xhtml/h3_id_11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Work in Small, Autonomous Teams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222904/chapter/f_0036.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222904/chapter/f_0036.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Contributing to LLVM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837637782/chapter/Text/Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837637782/chapter/Text/Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Diversity Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780814416327/chapter/xhtml/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780814416327/chapter/xhtml/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Stay away from comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298318/chapter/OEBPS/Text/08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298318/chapter/OEBPS/Text/08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean C++20: Sustainable Software Development Patterns and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484259498/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484259498/",
+      "isbn": "9781484259498",
+      "format": "book"
+    },
+    {
+      "title": "Clean Energy for Sustainable Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128054246/chapter/XHTML/B978012805423900017X/sec-s0085.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128054246/chapter/XHTML/B978012805423900017X/sec-s0085.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Compiling Object Files",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508420/chapter/f_0016.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508420/chapter/f_0016.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Three: Rule 2: Make Things Happen",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781422140307/chapter/xhtml/chapter003.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781422140307/chapter/xhtml/chapter003.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Begin to Code with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781509304547/chapter/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781509304547/chapter/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 The Moment of Truth",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119673088/chapter/c02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119673088/chapter/c02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring Code with GenAI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836645290/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836645290/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Beyond Legacy Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501827/chapter/f_0105.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501827/chapter/f_0105.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Understanding Generated Code: Review, Refine, Own",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341634749/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341634749/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Taking the Measure of Your Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803239873/chapter/Text/Chapter_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803239873/chapter/Text/Chapter_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Improving Code Quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491985106/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491985106/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code with the Wisdom of the Crowd",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506297/chapter/f_0061.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506297/chapter/f_0061.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "I. Surface-Level Improvements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449318482/chapter/pt01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449318482/chapter/pt01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. The Science of Synchronization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098144999/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098144999/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 ORGANIZING VALUES USING SETS AND DICTIONARIES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098129033/chapter/xhtml/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098129033/chapter/xhtml/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "About This eBook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133597592/chapter/pref00.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133597592/chapter/pref00.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A Data Scientist's Guide to Acquiring, Cleaning, and Managing Data in R",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119080022/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119080022/",
+      "isbn": "9781119080022",
+      "format": "book"
+    },
+    {
+      "title": "Code: The Hidden Language of Computer Hardware and Software, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137909261/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137909261/",
+      "isbn": "9780137909261",
+      "format": "book"
+    },
+    {
+      "title": "A. Dangerous APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735617228/chapter/apa.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735617228/chapter/apa.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The “Secret” of Success in Life and Business",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780061977084/chapter/xhtml/frontmatter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780061977084/chapter/xhtml/frontmatter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Regular Expression Puzzles and AI Coding Assistants",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437814/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437814/",
+      "isbn": "9781633437814",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134757681/chapter/ch02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134757681/chapter/ch02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Input and Output (I/O)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1593270038/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1593270038/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839212062/chapter/B15403_BackMatter_Final_JM_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839212062/chapter/B15403_BackMatter_Final_JM_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Concurrency – Virtual Threads and Structured Concurrency",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837633944/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837633944/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Design in Construction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735619670/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735619670/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Removing Malicious IM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/156592682X/chapter/ch07s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/156592682X/chapter/ch07s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Nanotechnology Applications for Clean Water",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781455731169/chapter/xhtml/CHP028.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781455731169/chapter/xhtml/CHP028.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Refactoring to Cleaner Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651483/chapter/f_0080.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651483/chapter/f_0080.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Green design – clean environment or clean conscious?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470510667/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470510667/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Write Great Code, Volume 3: Engineering Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125660/chapter/xhtml/ch07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125660/chapter/xhtml/ch07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Getting to Know the Environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484294840/chapter/html/474995_3_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484294840/chapter/html/474995_3_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Loops Are Fun (You Can Say That Again)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457189890/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457189890/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. An Extended Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484222164/chapter/A421575_1_En_6_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484222164/chapter/A421575_1_En_6_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Algebraic and Stochastic Coding Theory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466505629/chapter/xhtml/26_Chapter19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466505629/chapter/xhtml/26_Chapter19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cleaning Up the Data Lake with an Operational Data Hub",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492027386/chapter/copyright-page01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492027386/chapter/copyright-page01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Evaluate Communication Costs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500813/chapter/f_0083.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500813/chapter/f_0083.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cleaning Up Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803233109/chapter/Text/Chapter_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803233109/chapter/Text/Chapter_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Compile cleanly at high warning levels",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321113586/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321113586/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learn to Code HTML and CSS: Develop and Style Websites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133477597/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133477597/",
+      "isbn": "9780133477597",
+      "format": "book"
+    },
+    {
+      "title": "Poisoning the Source",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131014056/chapter/0131014056_ch06lev1sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131014056/chapter/0131014056_ch06lev1sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Modeling the Static/Data Aspects of the System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290606/chapter/html/78624_3_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290606/chapter/html/78624_3_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing code for R packages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491965290/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491965290/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Following Coding Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849517867/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849517867/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developments in Surface Contamination and Cleaning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780323431736/chapter/xhtml/chp003.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780323431736/chapter/xhtml/chp003.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the Execute Around Method Pattern to Clean Up Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650424/chapter/f_0061.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650424/chapter/f_0061.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Looping Over the Wrong Things",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138320997/chapter/ch01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138320997/chapter/ch01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Layering and Clean Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805123385/chapter/Text/Chapter_14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805123385/chapter/Text/Chapter_14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9.1 Network and PHY Layers May Jointly Help the Application Layer (1/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123744494/chapter/chapter-80.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123744494/chapter/chapter-80.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Decoding Customer Value at the Bottom of the Pyramid",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781948976121/chapter/texts/02_Chapter_2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781948976121/chapter/texts/02_Chapter_2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding for Penetration Testers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128054734/chapter/xhtml/chp005.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128054734/chapter/xhtml/chp005.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. From Model to Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492045519/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492045519/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Using Convention and Configuration for Relationships",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449317867/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449317867/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9.4 HARMONIC AND INDIVIDUAL LINES PLUS NOISE CODER (HILN)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471791478/chapter/ch009-sec004.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471791478/chapter/ch009-sec004.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Checking Values of Character Variables",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781599946597/chapter/Chapter_1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781599946597/chapter/Chapter_1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to Containerize Your Go Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491982310/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491982310/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Why Good People Write Bad Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596002424/chapter/0596002424_securecdng-CHP-1-SECT-3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596002424/chapter/0596002424_securecdng-CHP-1-SECT-3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Clean, Transform, and Load the Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484290132/chapter/html/532800_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484290132/chapter/html/532800_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Clean up your codebase",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299001/chapter/OEBPS/Text/05.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299001/chapter/OEBPS/Text/05.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Use Components to Keep Your User Interface Clean",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650738/chapter/f_0062.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650738/chapter/f_0062.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 MISCELLANEOUS INPUT AND OUTPUT DEVICES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125646/chapter/xhtml/ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125646/chapter/xhtml/ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6.3 Modes of Operation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136758181/chapter/xhtml/fileP700101677500000000000000000104A.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136758181/chapter/xhtml/fileP700101677500000000000000000104A.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Technology Behind the Scenes of Auto-Remediation at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341627635/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341627635/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. The Usual Suspects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137464302/chapter/C17_ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137464302/chapter/C17_ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Clean Up Messy Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492085997/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492085997/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Cleaning Up Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484222416/chapter/A419627_1_En_14_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484222416/chapter/A419627_1_En_14_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Gluing It All Together",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868811579/chapter/html/520873_2_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868811579/chapter/html/520873_2_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Swift Recipes for iOS Developers: Real-Life Code from App Store Apps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280980/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280980/",
+      "isbn": "9781484280980",
+      "format": "book"
+    },
+    {
+      "title": "4. Safeguarding Data with Clean Rooms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098160203/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098160203/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Why Object-Oriented Programming Is a Must for Code Quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484267110/chapter/html/501950_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484267110/chapter/html/501950_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exercise 18: Cleaning up the Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789539660/chapter/a8a871b1-1a75-43e4-8c58-7e35aca0842c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789539660/chapter/a8a871b1-1a75-43e4-8c58-7e35aca0842c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125653/chapter/xhtml/ch15.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125653/chapter/xhtml/ch15.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Evolving a Design and Keeping It Clean",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680505481/chapter/f_0121.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680505481/chapter/f_0121.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cleaning the lint trap (checking code standards)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788476607/chapter/74925cf1-e63e-4dc8-9206-6bed06ece9da.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788476607/chapter/74925cf1-e63e-4dc8-9206-6bed06ece9da.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cleaning boilerplates code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838551063/chapter/75f39a22-305f-4b68-b2b1-d11d49cf9790.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838551063/chapter/75f39a22-305f-4b68-b2b1-d11d49cf9790.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Software Quality—More Than a Dream",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735624351/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735624351/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Showing the Behind-the-Scenes Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118370711/chapter/a2_13_9781118370711-ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118370711/chapter/a2_13_9781118370711-ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A cleaner code approach to NSLayout",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785887444/chapter/ch04s13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785887444/chapter/ch04s13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Functions and Procedures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1593270658/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/1593270658/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing cleaner asynchronous code using promises",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785280092/chapter/ch08s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785280092/chapter/ch08s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Preparing Data Is Half the Battle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234860/chapter/html/463663_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234860/chapter/html/463663_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Keeping it clean",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788470940/chapter/773d3d91-9531-42df-8e68-ba00c4c2bb7f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788470940/chapter/773d3d91-9531-42df-8e68-ba00c4c2bb7f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Promoting Clean Technology: Theory",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394307951/chapter/c17.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394307951/chapter/c17.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Up Dangling Docker Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651575/chapter/f_0071.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651575/chapter/f_0071.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Holy Cross and the Energy Transition: You Don’t Get to Clean Energy Unless You Get to Democracy First",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647829766/chapter/Text/ch006.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647829766/chapter/Text/ch006.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "VLSI Architectures for Modern Error-Correcting Codes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781482229653/chapter/xhtml/C013_chapter9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781482229653/chapter/xhtml/C013_chapter9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sanwar A. Sunny, Steve Trost 10 Society’s Relationship to Social Entrepreneurship: A Study of Clean Technology Ventures and the Role of Public Policy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783110795530/chapter/content/9783110795356_020648.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9783110795530/chapter/content/9783110795356_020648.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Explore the Complexity Dimension",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650837/chapter/f_0025.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650837/chapter/f_0025.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using object models to create cleaner code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783280254/chapter/ch05s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783280254/chapter/ch05s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Coding iPhone Apps for Kids",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492020370/chapter/res01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492020370/chapter/res01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exporting the clean DataFrame",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788993753/chapter/c231287a-b327-4b30-b467-e90145f604ab.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788993753/chapter/c231287a-b327-4b30-b467-e90145f604ab.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Transformation to Clean Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491938911/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491938911/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installation_Clean_Disk",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800561830/chapter/Text/Installation_Clean_Disk.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800561830/chapter/Text/Installation_Clean_Disk.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10: Standardization in IEEE 802.11, 802.16",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470976715/chapter/OEBPS/9780470976715_epub_ch_10.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470976715/chapter/OEBPS/9780470976715_epub_ch_10.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Toward Exploring Future Programming Directions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868810671/chapter/html/625526_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868810671/chapter/html/625526_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "THE PROCESSING ENVIRONMENT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781590596173/chapter/chap05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781590596173/chapter/chap05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The go clean command",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125643/chapter/bca10c9b-6f46-43b9-8f63-f3523ff4922e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125643/chapter/bca10c9b-6f46-43b9-8f63-f3523ff4922e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the Maven Clean plugin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785286124/chapter/ch04s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785286124/chapter/ch04s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Refactoring existing code(or Refactoring doesn’t mean rewriting code)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299704/chapter/OEBPS/Text/ch04.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299704/chapter/OEBPS/Text/ch04.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Virtuous Cycle: The Principles That Lead to Success",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098130589/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098130589/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Exploiting Server Software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201786958/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0201786958/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Uninstalling the plugin to clean the resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789342871/chapter/b941ce73-5798-42cf-ac93-5b297ed55104.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789342871/chapter/b941ce73-5798-42cf-ac93-5b297ed55104.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Keeping your history clean",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788299671/chapter/609d5b9a-b086-45f7-9f6d-a8068322f6b5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788299671/chapter/609d5b9a-b086-45f7-9f6d-a8068322f6b5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Upgrade Using Plan B: Clean Install",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492071969/chapter/text/ch011.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492071969/chapter/text/ch011.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean-up actions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293181/chapter/b9963faf-61d7-4040-a2c8-c92dd81f1419.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293181/chapter/b9963faf-61d7-4040-a2c8-c92dd81f1419.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. DOM and DHTML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0768666775/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0768666775/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7.3.5 Preparing to Build a Clean Method for the Tag Model slug Field",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133812497/chapter/ch07lev2sec5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133812497/chapter/ch07lev2sec5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean architecture with Page Objects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788299572/chapter/852dba76-3096-4a15-aa34-afbf23305124.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788299572/chapter/852dba76-3096-4a15-aa34-afbf23305124.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Architecture Pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468956/chapter/f4d00cd2-ccd9-427f-808f-15e7f72c9151.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468956/chapter/f4d00cd2-ccd9-427f-808f-15e7f72c9151.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Clean The impairment of Big Four auditing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781523098033/chapter/xhtml/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781523098033/chapter/xhtml/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7.4 Predefined Clean-up Actions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789352862061/chapter/chapter-121.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789352862061/chapter/chapter-121.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Remembering Users (Cookies and Sessions)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672328178/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672328178/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Installing RHEL 8 on a Clean Disk Drive",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800201200/chapter/Text/Installation_Clean_Disk.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800201200/chapter/Text/Installation_Clean_Disk.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Defining Structures and Classes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672324075/chapter/0672324075_ch01lev1sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672324075/chapter/0672324075_ch01lev1sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using an after advice to clean up resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783985807/chapter/ch12s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783985807/chapter/ch12s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Best Code Practices: How to Organize Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287835/chapter/html/537982_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287835/chapter/html/537982_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using regular expressions and GREL to clean up data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783551668/chapter/ch01s12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783551668/chapter/ch01s12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating fixtures to perform setup and teardown tasks for running clean tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789532227/chapter/9ac38cf9-df87-4fb0-924f-bc4aea4a5287.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789532227/chapter/9ac38cf9-df87-4fb0-924f-bc4aea4a5287.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Ensuring a clean slate for test runs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787128149/chapter/8e092f1d-f8cd-44b6-bf1d-71ba530f046c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787128149/chapter/8e092f1d-f8cd-44b6-bf1d-71ba530f046c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Lambda Expressions to Clean Up Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222690/chapter/f_0051.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222690/chapter/f_0051.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Recommended Reading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118345597/chapter/both02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118345597/chapter/both02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Forcing a clean Python virtual environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783981205/chapter/ch08s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783981205/chapter/ch08s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Step 1: Collect, Capture and Clean Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781629600444/chapter/spbstatintro/html/p0klggcwusk9gun1dfmvpw046gso.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781629600444/chapter/spbstatintro/html/p0klggcwusk9gun1dfmvpw046gso.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 18. Creating a Game Loop",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136829515/chapter/ch18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136829515/chapter/ch18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing clean JavaScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886751/chapter/0c0555b0-62dc-434c-94ad-f60cb86dbcbc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886751/chapter/0c0555b0-62dc-434c-94ad-f60cb86dbcbc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Converting CUDA code into cross-platform HIP code with hipify",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341072/chapter/c7cb9807-a7a0-4c26-bc15-87203caaaaab.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341072/chapter/c7cb9807-a7a0-4c26-bc15-87203caaaaab.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Checking Ranges for Dates (Using PROC PRINT)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781580256001/chapter/9781580256001_ch04lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781580256001/chapter/9781580256001_ch04lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Idea to visuals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262641/chapter/html/499545_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262641/chapter/html/499545_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Configurable Firmware Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282793/chapter/html/518359_1_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282793/chapter/html/518359_1_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Higher Order Functions and Lambdas",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286982/chapter/html/524041_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286982/chapter/html/524041_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Shellcode I (3/7)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781597490054/chapter/chapter-79.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781597490054/chapter/chapter-79.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Adding clean URLS for the users profile page",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786462084/chapter/ch09s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786462084/chapter/ch09s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Low-Code Development with Xomega.NET: Generate .NET Apps for Blazor, MAUI, WPF, ASP.NET, and TypeScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817908/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817908/",
+      "isbn": "9798868817908",
+      "format": "book"
+    },
+    {
+      "title": "3. Data Preparation – Clean",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849685467/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849685467/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Creating a Data Quality Project to Clean Data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735668300/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735668300/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Building a Complex Playground",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484226476/chapter/A432267_1_En_9_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484226476/chapter/A432267_1_En_9_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. The New Features of C# 8.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484248560/chapter/html/478788_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484248560/chapter/html/478788_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Brand Enigma: Decoding the Secrets of your Brand",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470779606/chapter/15_chapter10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470779606/chapter/15_chapter10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Blockchain and Other Emerging Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261378/chapter/html/497553_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261378/chapter/html/497553_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understand Your Scope",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133017007/chapter/ch03lev2sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133017007/chapter/ch03lev2sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Clean Technology and Creative Destruction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133445510/chapter/book1_ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133445510/chapter/book1_ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pipeline code to perform static code analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788479356/chapter/75b26757-f7df-4ec7-9df7-83cff6459e6c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788479356/chapter/75b26757-f7df-4ec7-9df7-83cff6459e6c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Creating Application Flows",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484298138/chapter/html/605046_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484298138/chapter/html/605046_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "25. Implementing a Software Clean Room",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137035793/chapter/ch25.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137035793/chapter/ch25.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Crossing the Energy Divide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780137038879/chapter/back1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780137038879/chapter/back1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cleaning Up the Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672323095/chapter/0672323095_ch08lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0672323095/chapter/0672323095_ch08lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Using Files for Making a Holiday Card",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281949/chapter/html/461835_2_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281949/chapter/html/461835_2_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Listening to Mr. Clean's MP3 list!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849515689/chapter/ch05s11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849515689/chapter/ch05s11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Item 4: Ensuring Your Distribution Packages Are Clean",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593272067/chapter/ch11s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593272067/chapter/ch11s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Data Wrangling: Clean, Transform, Merge, Reshape",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449323592/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449323592/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Strictly Clean-room Reverse-engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9788131731857/chapter/chapter-66.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9788131731857/chapter/chapter-66.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Up Your Act",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596809997/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596809997/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a Battle Royale Game",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803234670/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803234670/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Modularity: Keeping It Clean, Keeping It Simple",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131429019/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131429019/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "I.4. Upgrades, Clean Installs, Transfers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470487631/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470487631/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Advanced Programming in Oraclize and IPFS, and Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484240755/chapter/html/470312_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484240755/chapter/html/470312_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Keeping Coders Happy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484227008/chapter/A432237_1_En_9_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484227008/chapter/A432237_1_En_9_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean and Green: Environmentally Friendly Cleaning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596806460/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596806460/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Managed Memory Model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735625921/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735625921/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Completion, handover and operation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118378182/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118378182/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Text and Binary Files",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135160275/chapter/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135160275/chapter/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Extending the Clean Process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735626287/chapter/ch09s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735626287/chapter/ch09s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Up the Supplier Master File",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470081822/chapter/9780470081822_ch03lev1sec52.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470081822/chapter/9780470081822_ch03lev1sec52.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "42. Keep the Build Clean",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596809515/chapter/ch42.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596809515/chapter/ch42.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Anybody can be wealthy - you just need to apply yourself",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292441108/chapter/xhtml/Chapter1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292441108/chapter/xhtml/Chapter1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hack #88. Clean Up at the End of a Scope",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596526741/chapter/ch09s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596526741/chapter/ch09s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Do the Basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263884/chapter/html/501963_1_En_1_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263884/chapter/html/501963_1_En_1_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "31. Clean Music Metadata at the Command Line",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596100760/chapter/ch02s20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596100760/chapter/ch02s20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "UML Notation: Modeling the Static Aspects of an Abstraction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430210887/chapter/9781430210887_uml_notation_colon_modeling_the_static_a.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430210887/chapter/9781430210887_uml_notation_colon_modeling_the_static_a.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Clean Up XHTML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321336267/chapter/0321336267_ch16lev1sec12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0321336267/chapter/0321336267_ch16lev1sec12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Holub on Patterns: Learning Design Patterns by Looking at Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430207252/chapter/Appendix.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430207252/chapter/Appendix.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Up U.S. Addresses",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596007035/chapter/chapter-263.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596007035/chapter/chapter-263.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean User Interface and Strong Visual Presentation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131460994/chapter/0131460994_ch26lev1sec2.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0131460994/chapter/0131460994_ch26lev1sec2.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Up for a Google Visit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596008570/chapter/ch08s11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596008570/chapter/ch08s11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "52. Clean Up Your ID3 Tags",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596007787/chapter/ch04s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596007787/chapter/ch04s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Get Super-Clean Type for the Web",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735713561/chapter/chapter-116.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0735713561/chapter/chapter-116.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13.2.2. Error Handling and Clean Up",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596002114/chapter/ch13s02s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596002114/chapter/ch13s02s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Changing Tests with Fixtures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484270028/chapter/html/501287_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484270028/chapter/html/501287_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "96. Be Aware of Your Responsibilities and Stick to Your Principles",
+      "id": "https://www.safaribooksonline.com/api/v1/book/013187036X/chapter/ch96.html",
+      "url": "https://learning.oreilly.com/api/v1/book/013187036X/chapter/ch96.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 8. Cracking the Code: Working in Code View",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132953627/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132953627/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119096726/chapter/37_afterword.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119096726/chapter/37_afterword.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Cracking the Code: Working in Code View",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768695663/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768695663/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Without Steve Jobs, Can Apple Stay Powerful?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781422184448/chapter/Text/Pfeffer.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781422184448/chapter/Text/Pfeffer.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Format a clean S/390 DASD",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738423513/chapter/chapter-109.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738423513/chapter/chapter-109.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. My Code Runs Faster Than Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596514105/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596514105/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Code Examples and IntelliJ IDEA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098145521/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098145521/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Use the Unreferenced Interface to Clean Up Allocated Server State",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596003846/chapter/ch06s02s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596003846/chapter/ch06s02s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. App Store Listing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484242858/chapter/html/475674_1_En_17_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484242858/chapter/html/475674_1_En_17_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reliable JavaScript®",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119028727/chapter/f_07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119028727/chapter/f_07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to Read a Client from Across the Room: Win More Business with the Proven CHARACTER CODE SYSTEM to Decode Verbal & Nonverbal Communication",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071803533/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071803533/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Decoding the New Consumer Mind: How and Why We Shop and Buy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118647684/chapter/17_notes.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118647684/chapter/17_notes.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Cracking the Sales Management Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071765732/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071765732/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. How to Version, Build, and Test Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174583/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174583/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Better code maintenance with developer tooling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437340/chapter/Text/chapter-4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437340/chapter/Text/chapter-4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code and Code Explanation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470192429/chapter/9780470192429_code_and_code_explanation-006.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470192429/chapter/9780470192429_code_and_code_explanation-006.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Clean Selected Data out of a Table",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130796239/chapter/0130796239_ch12lev1sec8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130796239/chapter/0130796239_ch12lev1sec8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Managed Code Analysis and Code Metrics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470484265/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470484265/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Topic 41. Test to Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135956977/chapter/f_0065.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135956977/chapter/f_0065.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exception Throwing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470259245/chapter/9780470259245_exception_throwing.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470259245/chapter/9780470259245_exception_throwing.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Multifaceted Solutions Across the Platform with Lightning Bolt Solutions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484248713/chapter/html/326969_2_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484248713/chapter/html/326969_2_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 Reflection, code generation, and advanced Go",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633436886/chapter/Text/chapter-13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633436886/chapter/Text/chapter-13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. VR Production Tools, Workflow, and Pipeline",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484243602/chapter/html/470051_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484243602/chapter/html/470051_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Working with Python Frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273449/chapter/html/514155_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273449/chapter/html/514155_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Testing and building your code from tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438231/chapter/OEBPS/Text/14.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438231/chapter/OEBPS/Text/14.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. It’s Not Enough to Be Good",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780062230645/chapter/Text/32019_TheConfidenceCode_Chapter01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780062230645/chapter/Text/32019_TheConfidenceCode_Chapter01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Code and project organization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299599/chapter/OEBPS/Text/02.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299599/chapter/OEBPS/Text/02.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Code Generation and Autocompletion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098162269/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098162269/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Layout and Structure",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484234112/chapter/html/455320_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484234112/chapter/html/455320_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20.3.3. Separate Work Code from UI Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596007663/chapter/ch20s03s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596007663/chapter/ch20s03s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. About Static .NET Assembly",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251133/chapter/html/482513_1_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251133/chapter/html/482513_1_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Emerging: Data Readiness and Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817304/chapter/html/648677_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817304/chapter/html/648677_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Bilingual PySpark: Blending Python and SQL code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297205/chapter/OEBPS/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297205/chapter/OEBPS/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Annotation Driven Code with Project Lombok",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275724/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275724/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Two Classic Microprocessors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735634688/chapter/ch19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735634688/chapter/ch19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Serving Ruby Code to the Web",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650684/chapter/f_0146.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650684/chapter/f_0146.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Functions, the Building Blocks of Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835882948/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835882948/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "88 Stand back and take in the view",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292435800/chapter/xhtml/Chapter88.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292435800/chapter/xhtml/Chapter88.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "37 Set clear targets",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781292435787/chapter/xhtml/Chapter37.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781292435787/chapter/xhtml/Chapter37.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Value List Iterator Pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130355712/chapter/0130355712_ch05lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0130355712/chapter/0130355712_ch05lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. What Is Good Code?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098136192/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098136192/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Sharing Code and Resources",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835465912/chapter/Text/Chapter_09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835465912/chapter/Text/Chapter_09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10 Test code quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439931/chapter/OEBPS/Text/10.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439931/chapter/OEBPS/Text/10.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code Tweaks and Data Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805129936/chapter/Text/Chapter_08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805129936/chapter/Text/Chapter_08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Code Reusability in C# 12",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805127659/chapter/Text/Chapter_5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805127659/chapter/Text/Chapter_5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Implementing frontend code and reacting to changes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296284/chapter/Text/ch12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296284/chapter/Text/ch12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Making code small",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437999/chapter/OEBPS/Text/02.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437999/chapter/OEBPS/Text/02.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Infrastructure as Code with Azure Bicep",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098173487/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098173487/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Source Code Management Using Git",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837635207/chapter/Text/Chaoter_3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837635207/chapter/Text/Chaoter_3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Exercise 47. Automated Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134693866/chapter/ch47.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134693866/chapter/ch47.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Structuring and Refactoring Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492091493/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492091493/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Generating code from the AST",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296475/chapter/Text/chapter-8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296475/chapter/Text/chapter-8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "23. Platform Interoperability and Unsafe Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138219550/chapter/ch23.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138219550/chapter/ch23.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Infrastructure as code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438569/chapter/OEBPS/Text/07.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438569/chapter/OEBPS/Text/07.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17 Tools and resources for better code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296468/chapter/OEBPS/Text/ch17_Robey.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296468/chapter/OEBPS/Text/ch17_Robey.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Elevating Code Quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805431/chapter/html/627148_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805431/chapter/html/627148_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Supercharging Your Code Editor with Simple Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098144623/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098144623/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Code Blocks and Methods",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484297209/chapter/html/486227_2_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484297209/chapter/html/486227_2_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 MACHINE CODE AND ASSEMBLY LANGUAGE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098128227/chapter/xhtml/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098128227/chapter/xhtml/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Separation between code and data",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298578/chapter/OEBPS/Text/02.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298578/chapter/OEBPS/Text/02.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Code Reviews Are Good for Three Reasons",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098133108/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098133108/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 API conformance: Generating code and API definitions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438781/chapter/OEBPS/Text/chapter-6.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438781/chapter/OEBPS/Text/chapter-6.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Re-implementing critical code with Cython",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297939/chapter/OEBPS/Text/05.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297939/chapter/OEBPS/Text/05.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "D. vi and Vim: Source Code and Building",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492078791/chapter/app04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492078791/chapter/app04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Applied WebAssembly: Legacy Code in the Browser",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492089834/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492089834/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Where Can I Write SQL Code?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492090397/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492090397/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Writing loosely coupled code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294730/chapter/OEBPS/Text/c03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294730/chapter/OEBPS/Text/c03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Releasing secure code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439818/chapter/OEBPS/Text/04.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439818/chapter/OEBPS/Text/04.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Packaging applications from source code into Docker Images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297052/chapter/OEBPS/Text/04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297052/chapter/OEBPS/Text/04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Building Quality Object-Oriented Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800566491/chapter/B16385_02_ePub.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800566491/chapter/B16385_02_ePub.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Scripts are code, too",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298257/chapter/OEBPS/Text/12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298257/chapter/OEBPS/Text/12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Infrastructure as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484293034/chapter/html/527969_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484293034/chapter/html/527969_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Applying the template pattern to eliminate boilerplate code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788299459/chapter/b7dffae3-67ee-4664-b56f-06fd7e23fb91.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788299459/chapter/b7dffae3-67ee-4664-b56f-06fd7e23fb91.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Packaging and Distributing Python Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801071109/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801071109/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "19. Visual Studio Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098101596/chapter/ch19.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098101596/chapter/ch19.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Code Injection, Process Hollowing, and API Hooking",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261934/chapter/html/491809_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261934/chapter/html/491809_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Functions and Enums: Reusing Code on Demand",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491923184/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491923184/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Schedules and Code Organization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680509373/chapter/f_0020.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680509373/chapter/f_0020.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Automating code quality tooling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617299919/chapter/OEBPS/Text/06.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617299919/chapter/OEBPS/Text/06.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Writing production code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298714/chapter/OEBPS/Text/ch14_Wilson.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298714/chapter/OEBPS/Text/ch14_Wilson.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Processing Big Data with Functional PHP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484229583/chapter/A447397_1_En_9_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484229583/chapter/A447397_1_En_9_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. code quality assurance: Automated Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491969540/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491969540/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14 Help from AI: Improving our code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438897/chapter/Text/14.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438897/chapter/Text/14.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21 OBFUSCATED CODE ANALYSIS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125684/chapter/xhtml/ch21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125684/chapter/xhtml/ch21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Testable Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838554590/chapter/160259bc-b601-4854-9aa9-cabe2c4fd691.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838554590/chapter/160259bc-b601-4854-9aa9-cabe2c4fd691.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Automating Code Generation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492047094/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492047094/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Make Code Simple and Readable",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491952689/chapter/ch56.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491952689/chapter/ch56.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Prompt Engineering with AI Coding Agents",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868817847/chapter/html/660323_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868817847/chapter/html/660323_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TCP server code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789349863/chapter/eeee8b1d-6c1d-4465-8782-04eeb9d48320.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789349863/chapter/eeee8b1d-6c1d-4465-8782-04eeb9d48320.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Decorators – Enabling Code Reuse by Decorating",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800207721/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800207721/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Guidance in legacy code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294358/chapter/Text/c12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294358/chapter/Text/c12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Code Is Data, Too!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098152260/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098152260/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Test, Code, Test",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484298435/chapter/html/455463_2_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484298435/chapter/html/455463_2_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Electronics: Basic Skills and Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484291979/chapter/html/521066_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484291979/chapter/html/521066_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 Writing reusable code with functions and subroutines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295287/chapter/OEBPS/Text/03.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295287/chapter/OEBPS/Text/03.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Skills for Data Science: Start Writing Code to Wrangle, Analyze, and Visualize Data with R",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135159071/chapter/ch20.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135159071/chapter/ch20.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Compliance as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098106294/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098106294/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Managing Transient Failures Through Smarter Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650554/chapter/f_0018.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650554/chapter/f_0018.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Code splitting with Suspense",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297632/chapter/OEBPS/Text/11.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297632/chapter/OEBPS/Text/11.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Infrastructure as Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133415087/chapter/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133415087/chapter/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9 WRITING AND PORTING EXPLOIT CODE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098122645/chapter/xhtml/ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098122645/chapter/xhtml/ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Source Control: In Search of a Better Code Review",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484296097/chapter/html/600283_1_En_17_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484296097/chapter/html/600283_1_En_17_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Validation, Checking Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295083/chapter/html/602654_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295083/chapter/html/602654_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Applied Cryptography, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471117094/chapter/38_afterword.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471117094/chapter/38_afterword.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Writing composable, pure code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617295867/chapter/OEBPS/Text/04.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617295867/chapter/OEBPS/Text/04.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Testing LDAP Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800023/chapter/html/319409_2_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800023/chapter/html/319409_2_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Writing Machine Learning Code More Productively",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484281215/chapter/html/518852_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484281215/chapter/html/518852_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Real-World Python: A Hacker’s Guide to Solving Problems with Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098125721/chapter/xhtml/bm02.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098125721/chapter/xhtml/bm02.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Activity 31. Code Review",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502923/chapter/f_0149.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502923/chapter/f_0149.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code Examples and IntelliJ IDEA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492056263/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492056263/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. The Monster Behind the Door: Technical Debt and Legacy Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289693/chapter/html/531518_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289693/chapter/html/531518_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Entity Framework: Code First",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484273012/chapter/html/491632_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484273012/chapter/html/491632_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13 WRITE LESS, CODE MORE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492071211/chapter/xhtml/ch13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492071211/chapter/xhtml/ch13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Code Reusability in C# 10",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803235257/chapter/Text/Chapter_12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803235257/chapter/Text/Chapter_12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code Testing and Profiling",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801079310/chapter/Text/Chapter_11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801079310/chapter/Text/Chapter_11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Infrastructure as Code and Service Mesh",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484280324/chapter/html/511560_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484280324/chapter/html/511560_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Leaving comments in our Kotlin code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789615401/chapter/ch02s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789615401/chapter/ch02s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Wise Use of Code Comments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287378/chapter/html/513659_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287378/chapter/html/513659_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Applying DDD to the Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484271704/chapter/html/509649_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484271704/chapter/html/509649_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Organising Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780173641/chapter/html/22_Ch09.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780173641/chapter/html/22_Ch09.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Strengthening the Source Code with Domain Knowledge",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341640108/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341640108/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Measuring and Reducing Your Code’s Carbon Footprint",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098149154/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098149154/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 ORGANIZING YOUR CODE WITH CLASSES",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0642572230159/chapter/xhtml/ch11.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/0642572230159/chapter/xhtml/ch11.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Step 2 – writing the code to train and test our model",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788990820/chapter/564b1446-0ae9-4d0f-8bc9-514fcf98afe8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788990820/chapter/564b1446-0ae9-4d0f-8bc9-514fcf98afe8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pull Requests and Code Reviews",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836206057/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836206057/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Write Testable Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263822/chapter/html/496602_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263822/chapter/html/496602_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "D. Working with the Code Examples and Containerizing Projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098173135/chapter/app04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098173135/chapter/app04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using concurrent.futures to Run Code Concurrently",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508635/chapter/f_0027.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508635/chapter/f_0027.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Generating Code with OpenAPI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835466100/chapter/Text/B21843_04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835466100/chapter/Text/B21843_04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11 Good Code, 2nd Dan: Modularization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806100576/chapter/11_001.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806100576/chapter/11_001.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Operations As Code with Kubernetes Operators and GitOps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484279427/chapter/html/514847_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484279427/chapter/html/514847_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Bugs caused by the way we write code and design our software",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787280205/chapter/d91dd100-57fd-4c79-b150-a44bdd7e6fbb.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787280205/chapter/d91dd100-57fd-4c79-b150-a44bdd7e6fbb.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Expressive Code with Lambdas",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835881149/chapter/Text/Chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835881149/chapter/Text/Chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Vectorial Pixels: Visual Aesthetics of Binary Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781040342428/chapter/xhtml/C_010_c4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781040342428/chapter/xhtml/C_010_c4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "67. Source Code Management for Software Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076728/chapter/ch67.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076728/chapter/ch67.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Building, Managing and Deploying Code Into Enterprise Environments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780174990/chapter/html/21_chapter14.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780174990/chapter/html/21_chapter14.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How Code Degrades",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492075523/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492075523/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building and Deploying Go Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789805789/chapter/c20222c4-26c2-4ea3-837b-5c55227b22b8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789805789/chapter/c20222c4-26c2-4ea3-837b-5c55227b22b8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Code Organization and Bazel",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251942/chapter/html/481224_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251942/chapter/html/481224_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code 8. Build a Relationship from the Future",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781647825584/chapter/xhtml/chapter_10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781647825584/chapter/xhtml/chapter_10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21.3 Source Code Version Management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836642237/chapter/21_003.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836642237/chapter/21_003.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a network with code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789955316/chapter/af451c31-f387-4e29-aa50-98f7683c07f8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789955316/chapter/af451c31-f387-4e29-aa50-98f7683c07f8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing the code so far",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789535365/chapter/429c10c8-d49e-4834-a7d7-322eca599519.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789535365/chapter/429c10c8-d49e-4834-a7d7-322eca599519.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Backdooring the code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788627962/chapter/ch12s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788627962/chapter/ch12s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Writing Tests and Code Quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680508291/chapter/f_0089.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680508291/chapter/f_0089.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Separating configuration from application code using ConfigMaps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788992329/chapter/8b1a78f2-1000-453b-ac62-ca3eccf21a2b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788992329/chapter/8b1a78f2-1000-453b-ac62-ca3eccf21a2b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Tracing code to get a look under the hood",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390552/chapter/ch23s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390552/chapter/ch23s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Managing code quality",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437968/chapter/Text/chapter-1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437968/chapter/Text/chapter-1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modifications to the main code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789340365/chapter/13ddfd2d-aba9-4924-b4d3-6224f0cb6d89.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789340365/chapter/13ddfd2d-aba9-4924-b4d3-6224f0cb6d89.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Share functionality, not code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789340761/chapter/ffa85585-eb43-4693-b6b5-9d7dafa9f25a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789340761/chapter/ffa85585-eb43-4693-b6b5-9d7dafa9f25a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Using Bluetooth with PIR Motion Sensors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484272305/chapter/html/512435_1_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484272305/chapter/html/512435_1_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Refactor Every Time You Touch Code or Tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502947/chapter/f_0086.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502947/chapter/f_0086.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Application code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788832502/chapter/842d098a-bb55-4fa8-97a6-cf50ea22bd90.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788832502/chapter/842d098a-bb55-4fa8-97a6-cf50ea22bd90.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. A Library of Reusable Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484242094/chapter/html/463790_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484242094/chapter/html/463790_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Reusing test code with fixtures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789347562/chapter/cd70421c-27c8-4b43-ae7a-d2098711d743.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789347562/chapter/cd70421c-27c8-4b43-ae7a-d2098711d743.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Let's add some code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463920/chapter/251ff5a9-ffdd-4dcb-8531-3b7c797c99fd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463920/chapter/251ff5a9-ffdd-4dcb-8531-3b7c797c99fd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How do we break the code?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125988/chapter/713cb944-deed-4e7e-a292-2806719bd0bd.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125988/chapter/713cb944-deed-4e7e-a292-2806719bd0bd.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code Review for Security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491938836/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491938836/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3 GETTING DATA WITH CODE",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098122621/chapter/xhtml/ch03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098122621/chapter/xhtml/ch03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TaskAgile code design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836968/chapter/4ff68287-c231-4f26-ae2a-b4adb654f13b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836968/chapter/4ff68287-c231-4f26-ae2a-b4adb654f13b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pipeline-as-code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788393850/chapter/22d5e2be-8a35-44af-a060-8b65664a3970.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788393850/chapter/22d5e2be-8a35-44af-a060-8b65664a3970.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Implementing Code Reusability in C# 9",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781800566040/chapter/Text/Chapter_13.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781800566040/chapter/Text/Chapter_13.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Isolating test code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838828103/chapter/559fb892-fb9f-4d22-9f00-8120b7328e1e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838828103/chapter/559fb892-fb9f-4d22-9f00-8120b7328e1e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integrating the REST API with scraping code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787285217/chapter/7f5769c9-9881-4ef6-bd75-52a21c76ccc8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787285217/chapter/7f5769c9-9881-4ef6-bd75-52a21c76ccc8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing Great Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491933213/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491933213/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Knowing your code and hot spots",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787120952/chapter/6f6e93f6-2058-4f46-88d9-a278f515ed01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787120952/chapter/6f6e93f6-2058-4f46-88d9-a278f515ed01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Visual Studio Code and Other Editors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787121430/chapter/e4c90ad3-3a88-4f13-8153-ff17fcefe091.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787121430/chapter/e4c90ad3-3a88-4f13-8153-ff17fcefe091.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Formatting your DAX code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838824303/chapter/8089df69-b903-4ede-aeeb-48e4061b015b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838824303/chapter/8089df69-b903-4ede-aeeb-48e4061b015b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Improving code quality and style with ESLint",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127463/chapter/01e3987b-f7db-4d51-9272-fb8219d36b4c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127463/chapter/01e3987b-f7db-4d51-9272-fb8219d36b4c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The backend code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783554393/chapter/d5c8ae58-ed46-4e5f-aa6b-715e9b428620.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783554393/chapter/d5c8ae58-ed46-4e5f-aa6b-715e9b428620.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Finding Vulnerabilities in Source Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118026472/chapter/9781118175248c19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118026472/chapter/9781118175248c19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "High-Level Code and Data Design",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491922996/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491922996/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Morse code transmitters",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098128456/chapter/xhtml/ch04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098128456/chapter/xhtml/ch04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Open Closed Principle and legacy code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838558383/chapter/445ada94-bea7-41fb-9f92-046acae0c884.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838558383/chapter/445ada94-bea7-41fb-9f92-046acae0c884.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Displaying Annotations on a MapKit Map",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484260838/chapter/html/485790_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484260838/chapter/html/485790_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Static code analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468666/chapter/d5cfd71f-0b2a-413c-b4da-bf88604a16d0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468666/chapter/d5cfd71f-0b2a-413c-b4da-bf88604a16d0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Continuous Integration – maintaining code repository",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788477581/chapter/0d8597da-4b44-4fbd-89d4-27a794152f19.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788477581/chapter/0d8597da-4b44-4fbd-89d4-27a794152f19.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuration as code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390071/chapter/ae6cbca2-2a46-4e66-a458-877294f70865.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390071/chapter/ae6cbca2-2a46-4e66-a458-877294f70865.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Recommended code attributes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789342758/chapter/bf593e77-717d-4d7d-bfb0-b33e524e2320.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789342758/chapter/bf593e77-717d-4d7d-bfb0-b33e524e2320.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "TSLint/static code analyzers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788830751/chapter/398ffad2-7fad-4164-91c8-25fac9804dd2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788830751/chapter/398ffad2-7fad-4164-91c8-25fac9804dd2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Spring Boot's DevTools for hot code reloading",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463784/chapter/ed60eadb-eb80-4fe7-96e9-a7bc593d581b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463784/chapter/ed60eadb-eb80-4fe7-96e9-a7bc593d581b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up a project in echo and organizing code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789139433/chapter/3c550b1b-4bad-4575-b804-6e98551f37f0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789139433/chapter/3c550b1b-4bad-4575-b804-6e98551f37f0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "What we can do to prevent bad code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788292481/chapter/f2e9344e-c7a3-4848-a51f-843520850137.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788292481/chapter/f2e9344e-c7a3-4848-a51f-843520850137.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Back to our code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788832823/chapter/59318bef-ffd0-4392-84a0-2030d14b1010.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788832823/chapter/59318bef-ffd0-4392-84a0-2030d14b1010.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing your code for Pods and Containers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788834759/chapter/59ef257e-47dc-4842-a957-2aa0af90d7ef.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788834759/chapter/59ef257e-47dc-4842-a957-2aa0af90d7ef.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "21. Platform Interoperability and Unsafe Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781509303595/chapter/ch21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781509303595/chapter/ch21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Testability – Writing Testable Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468529/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468529/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Applying the legacy code algorithm",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836111/chapter/be2638ed-b38e-47fc-a9e3-85842a6b4156.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836111/chapter/be2638ed-b38e-47fc-a9e3-85842a6b4156.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating the source code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837866/chapter/fe1203e5-4c61-4a4a-b4c9-6ef5faeb1275.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837866/chapter/fe1203e5-4c61-4a4a-b4c9-6ef5faeb1275.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Tackling the Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492092438/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492092438/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Importing Java libraries and exporting code in projects as a JAR file",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789537550/chapter/992c56b0-6945-4fa2-8e2c-3dbc7ffcae8e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789537550/chapter/992c56b0-6945-4fa2-8e2c-3dbc7ffcae8e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Best practices in writing optimized code in C#",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788470049/chapter/6ba57dd7-c003-411b-9af9-530bf4135583.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788470049/chapter/6ba57dd7-c003-411b-9af9-530bf4135583.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Infrastructure as Code with CloudFormation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787129191/chapter/d3e07a17-f104-4702-83fe-8a5d94166675.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787129191/chapter/d3e07a17-f104-4702-83fe-8a5d94166675.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Static and Dynamic Libraries: Hot-swappable code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449335649/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449335649/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Leaving comments in our Java code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789538502/chapter/ch02s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789538502/chapter/ch02s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Organizing Our Code with Classes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801815925/chapter/Text/Chapter_4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801815925/chapter/Text/Chapter_4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Shaping Code with Kotlin Functional Programming Features",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837668/chapter/28b29d37-7b8b-4812-9cc8-532d92b99068.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837668/chapter/28b29d37-7b8b-4812-9cc8-532d92b99068.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing the code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788993401/chapter/6b4a1d07-907b-43c0-94fd-cd79224bfd06.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788993401/chapter/6b4a1d07-907b-43c0-94fd-cd79224bfd06.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing and static code analysis",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623445/chapter/754f15e6-a5bd-46ef-8e90-8cf8b6d52fba.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623445/chapter/754f15e6-a5bd-46ef-8e90-8cf8b6d52fba.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Anti-patterns and Handling Legacy Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788298704/chapter/ch27.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788298704/chapter/ch27.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Explaining the code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838829902/chapter/84a7a268-63ff-4bb5-bbd3-a52761c8a2e2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838829902/chapter/84a7a268-63ff-4bb5-bbd3-a52761c8a2e2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "45. Should I Learn to Code? – A Balanced Perspective on Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787287037/chapter/ch45.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787287037/chapter/ch45.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. LXC Code Integration with Python",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785888946/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785888946/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring the HTML code using DSL",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788390804/chapter/7b115422-c5fe-4490-a1ed-156c4ef8a329.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788390804/chapter/7b115422-c5fe-4490-a1ed-156c4ef8a329.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Increase modularity and code reuse",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789950069/chapter/ch05s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789950069/chapter/ch05s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Source code management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468192/chapter/3e9f201d-7f41-4ec5-bdc0-3cafd0f7b739.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468192/chapter/3e9f201d-7f41-4ec5-bdc0-3cafd0f7b739.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "PHP7, To Code It Better",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127746/chapter/a9520046-cc27-42d5-bb35-db474dd77a75.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127746/chapter/a9520046-cc27-42d5-bb35-db474dd77a75.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Running the code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787287945/chapter/ebd4e77f-e233-43a9-80e3-f69ff87e5594.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787287945/chapter/ebd4e77f-e233-43a9-80e3-f69ff87e5594.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Installing Visual Studio Code (IDE)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474290/chapter/9abfe683-01c9-4fe6-ab30-6aef090a7a84.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474290/chapter/9abfe683-01c9-4fe6-ab30-6aef090a7a84.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "22. Building Reusable Code Components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484266830/chapter/html/449557_2_En_22_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484266830/chapter/html/449557_2_En_22_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code repository usage guidelines",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623797/chapter/96856ffb-cc6e-4157-9484-240cf406ad6f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623797/chapter/96856ffb-cc6e-4157-9484-240cf406ad6f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learning fundamental code quality techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127838/chapter/65b0110a-dc51-4082-8bdc-221244edc164.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127838/chapter/65b0110a-dc51-4082-8bdc-221244edc164.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Direct Taxes Code (DTC)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9789353944278/chapter/chapter-120.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9789353944278/chapter/chapter-120.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Troubleshooting code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788830409/chapter/67050c74-ad33-45de-a798-1a0eb1c60fd5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788830409/chapter/67050c74-ad33-45de-a798-1a0eb1c60fd5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Understanding the fundamentals of high-quality code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788292542/chapter/cfaf7434-61e1-4d15-84d9-6cfee7d6f0ea.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788292542/chapter/cfaf7434-61e1-4d15-84d9-6cfee7d6f0ea.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Internationalization: in Python code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787281141/chapter/ch18s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787281141/chapter/ch18s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 13. Making Decisions in Visual Basic Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134191874/chapter/ch13.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134191874/chapter/ch13.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing the code for a Qt project",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788472395/chapter/9105aee9-b465-4638-bf32-41cc41fb24b7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788472395/chapter/9105aee9-b465-4638-bf32-41cc41fb24b7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Starting to Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457187070/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457187070/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Running the Code Examples",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500677/chapter/f_0012.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500677/chapter/f_0012.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Starting to Code with the CLI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484232798/chapter/html/458962_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484232798/chapter/html/458962_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using generics to write generic and reusable code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786460981/chapter/7c5d91ed-4422-4408-b773-a15d2d9624c8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786460981/chapter/7c5d91ed-4422-4408-b773-a15d2d9624c8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Test, Code, Test",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484232163/chapter/A455463_1_En_9_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484232163/chapter/A455463_1_En_9_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Working with Visual Studio Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484231500/chapter/A338050_7_En_13_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484231500/chapter/A338050_7_En_13_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Component in code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788291200/chapter/a90f19d3-9ed9-46f1-81e3-5864210114be.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788291200/chapter/a90f19d3-9ed9-46f1-81e3-5864210114be.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Security as Code: Security Tools and Practices in Continuous Delivery",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491971413/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491971413/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Linting and code formatting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787288096/chapter/239aede6-4cad-4aab-801b-960868107825.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787288096/chapter/239aede6-4cad-4aab-801b-960868107825.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code description",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886188/chapter/9f123116-84f0-413d-8e56-f55fe85189c7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886188/chapter/9f123116-84f0-413d-8e56-f55fe85189c7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Complete R Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788621878/chapter/2137ec87-a2c7-4ba2-9382-fa9e97f970e4.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788621878/chapter/2137ec87-a2c7-4ba2-9382-fa9e97f970e4.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The demo application – time for code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783554775/chapter/ch02s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783554775/chapter/ch02s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Starting to Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457186820/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457186820/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Optimizing the code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788293464/chapter/f2276b9c-e62a-4896-a7d1-af9a58827bee.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788293464/chapter/f2276b9c-e62a-4896-a7d1-af9a58827bee.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A. Building the Source Code for This Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134030920/chapter/app01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134030920/chapter/app01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Pipeline as a Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484229132/chapter/A429849_1_En_5_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484229132/chapter/A429849_1_En_5_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Visual Studio Code as a development environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788476638/chapter/579a6894-8d2a-4db1-8e0c-0fc6cf84863b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788476638/chapter/579a6894-8d2a-4db1-8e0c-0fc6cf84863b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Writing Code the Swift Way – Design Patterns and Techniques",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787120242/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787120242/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating the controller code (with tests)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284197/chapter/1bebf054-d66d-44fb-8104-4b06f805203b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284197/chapter/1bebf054-d66d-44fb-8104-4b06f805203b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Account Creation and Tracking Code Installation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119144014/chapter/c04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119144014/chapter/c04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Modular JDK and Source Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484227138/chapter/A431534_1_En_3_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484227138/chapter/A431534_1_En_3_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Basics: The Building Blocks of Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780429810268/chapter/xhtml/09_Chapter04.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780429810268/chapter/xhtml/09_Chapter04.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Your Code Doesn’t Smell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680502596/chapter/f_0007.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680502596/chapter/f_0007.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "When the HTML code needs to change",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886966/chapter/ch10s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886966/chapter/ch10s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "20. Platform Interoperability and Unsafe Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134176147/chapter/ch20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134176147/chapter/ch20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing Go Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789800982/chapter/cb7c8622-a1b1-4df9-8440-e39991229a91.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789800982/chapter/cb7c8622-a1b1-4df9-8440-e39991229a91.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Detecting duplicate code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785887260/chapter/ch04s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785887260/chapter/ch04s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "26. A Meta Code Style Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449365028/chapter/ch26.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449365028/chapter/ch26.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Learning AWS SDK for Java and basic S3 operations with sample code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785280702/chapter/ch01s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785280702/chapter/ch01s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Plan how you're going to maintain and debug your code when you write it",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789132878/chapter/d208be99-5ec8-4a91-aa90-1af3efec6f0c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789132878/chapter/d208be99-5ec8-4a91-aa90-1af3efec6f0c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Debugging remote code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789951547/chapter/3e89c74f-a131-4392-aef6-fc2eec26ce95.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789951547/chapter/3e89c74f-a131-4392-aef6-fc2eec26ce95.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 18. Code Efficiency",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134288819/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134288819/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code review, refactoring, and cleanup",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788622011/chapter/12a7d0f1-0875-4bcf-8027-a6d2e175d1f9.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788622011/chapter/12a7d0f1-0875-4bcf-8027-a6d2e175d1f9.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Basics: The Building Blocks of Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466586529/chapter/K20297_C004.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466586529/chapter/K20297_C004.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Working with Legacy Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987924/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987924/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Preparing Jenkins code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786460141/chapter/ch05s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786460141/chapter/ch05s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Debugging code execution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787125681/chapter/ch07s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787125681/chapter/ch07s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C++ Source Code Formatting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132781145/chapter/ch02lev2sec7.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132781145/chapter/ch02lev2sec7.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating code contract Assert and Assume methods",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467300/chapter/ch08s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467300/chapter/ch08s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Integration with source code configuration management",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786468550/chapter/ch09s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786468550/chapter/ch09s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Code Analysis Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735671348/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735671348/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Interacting with a Java monitor from native code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785883248/chapter/ch09s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785883248/chapter/ch09s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Optimizing Your R Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449358204/chapter/ch24s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449358204/chapter/ch24s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Well-Behaved Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119225386/chapter/c18.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119225386/chapter/c18.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "D. Code and Utilities",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133892123/chapter/app04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133892123/chapter/app04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Further Notes on Writing Component Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134133164/chapter/ch06lev2sec20.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134133164/chapter/ch06lev2sec20.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building the Spark source code with Maven",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987061/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987061/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "JavaScript for Sound Artists: Learn to Code with the Web Audio API",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781317334934/chapter/xhtml/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781317334934/chapter/xhtml/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Code-Behind Pages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132565851/chapter/h4_59.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132565851/chapter/h4_59.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 A Morse Code Decoder",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071834063/chapter/ch8.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071834063/chapter/ch8.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Organizing your code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464507/chapter/ch10s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464507/chapter/ch10s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing as you code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784396459/chapter/ch10s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784396459/chapter/ch10s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Internationalization and Localization Let's Translate Our Code!",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430232254/chapter/Chapter03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430232254/chapter/Chapter03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deconstructing the code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788396905/chapter/b64c4488-0767-4fc9-bec7-aafbdc1f67c8.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788396905/chapter/b64c4488-0767-4fc9-bec7-aafbdc1f67c8.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Sending Code to the Browser: JavaScript and CoffeeScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491926185/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491926185/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. GHC Internals and Code Generation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786464217/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786464217/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Sharing Code between Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785282904/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785282904/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to Write Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048534/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048534/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Primes Code with Race Conditions FIXED",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128010372/chapter/xhtml/app001_a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128010372/chapter/xhtml/app001_a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Timeit – comparing code snippet performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785289729/chapter/ch12s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785289729/chapter/ch12s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working with greenfield code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783982509/chapter/ch09s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783982509/chapter/ch09s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Configuration, credentials, and code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788391443/chapter/d96585b5-0888-4ecc-89d0-8c7e5082cf4a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788391443/chapter/d96585b5-0888-4ecc-89d0-8c7e5082cf4a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code folding in MonoDevelop with #region and #endregion",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784390655/chapter/ch04s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784390655/chapter/ch04s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building, packaging, and running SoapUI from the source code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784394219/chapter/ch11s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784394219/chapter/ch11s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying your code to OpenShift Online",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784392413/chapter/ch14s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784392413/chapter/ch14s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "R10K code deployment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284715/chapter/c56f36e7-17dc-42c9-98dc-30f80d331df0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284715/chapter/c56f36e7-17dc-42c9-98dc-30f80d331df0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Testing Frontend Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785282041/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785282041/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Malicious Code and Activity",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780763790257/chapter/ch11.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780763790257/chapter/ch11.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 7. Iterating Code with Loops",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134386478/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134386478/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Code Maintenance: Human Fueling and Supplements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449336912/chapter/ch10.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449336912/chapter/ch10.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Compiling JT Harness from the source code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849698405/chapter/ch09s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849698405/chapter/ch09s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Organizing our test code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784392642/chapter/ch03s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784392642/chapter/ch03s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hour 7. Using Loops to Repeat Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133354461/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133354461/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Making Code Modifications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491900468/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491900468/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Reusable Code: Closures",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134431642/chapter/ch06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134431642/chapter/ch06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Targeted profiling of code segments",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785884580/chapter/ch01s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785884580/chapter/ch01s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Markup and Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735671751/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735671751/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "RxJava in Your Android Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048343/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048343/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Refactoring Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133364972/chapter/ch04lev1sec1.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133364972/chapter/ch04lev1sec1.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Connecting from Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457192807/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457192807/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 ½. Building your Code: Insert tab a into slot b...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596527358/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596527358/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Structuring the Thomas Was Late code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466198/chapter/ch12s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466198/chapter/ch12s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3.3. Enhancing the code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781935182849/chapter/ch03lev1sec3.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781935182849/chapter/ch03lev1sec3.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Avoiding code bloat",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781782160663/chapter/ch05s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781782160663/chapter/ch05s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Basic Code Transformations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781593273750/chapter/ch07s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781593273750/chapter/ch07s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Protecting Our Code with Source Control",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500844/chapter/f_0111.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500844/chapter/f_0111.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test Python Code Using Lettuce",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222607/chapter/f_0059.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222607/chapter/f_0059.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Data Structures, Algorithms, and Code Simplification",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768687040/chapter/ch15.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768687040/chapter/ch15.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Writing Asynchronous Code Manually",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449337155/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449337155/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Commenting the code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849688208/chapter/ch13s09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849688208/chapter/ch13s09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Introducing JavaScript and the DOM: A Little Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449314712/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449314712/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Replace Awkward XSLT 1.0 Code with XSLT 2.0 Features",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596527211/chapter/apgs03s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596527211/chapter/apgs03s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Time Code and DV Tapes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780240809359/chapter/Chapter09_2c.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780240809359/chapter/Chapter09_2c.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Code constructs in x86 disassembly",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785281518/chapter/ch02s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785281518/chapter/ch02s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Digging into the Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133845136/chapter/ch01lev1sec28.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133845136/chapter/ch01lev1sec28.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A typical FMS query application: auto code creation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849682367/chapter/ch06s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849682367/chapter/ch06s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hiding Test-Setup Code from Release",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781941222508/chapter/f_0047.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781941222508/chapter/f_0047.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Finding Vulnerabilities in Source Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470170779/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470170779/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Code Case Studies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780735669932/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780735669932/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "18. Writing Smarter Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449359447/chapter/ch18.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449359447/chapter/ch18.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Invoking Java code from the BPEL process",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849689205/chapter/ch09s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849689205/chapter/ch09s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Separate Configuration Data from Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449328092/chapter/ch09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449328092/chapter/ch09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Source code for plugin_sample.c (2/3)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0738435724/chapter/chapter-168.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0738435724/chapter/chapter-168.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "70. Should I Look at My Web Code?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118018811/chapter/ch010-sec003.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118018811/chapter/ch010-sec003.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. The Enigma Machine and Navajo Code (5/10)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466569041/chapter/chapter-23.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466569041/chapter/chapter-23.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Decreasing Code Size",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596009836/chapter/ch14s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/0596009836/chapter/ch14s02.html",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}

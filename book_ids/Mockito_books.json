@@ -1,0 +1,994 @@
+{
+  "skill_name": "mockito",
+  "discovery_timestamp": 1759708344.3966825,
+  "total_books": 141,
+  "books": [
+    {
+      "title": "Mockito Made Clear",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650127/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650127/",
+      "isbn": "9781680509670",
+      "format": "book"
+    },
+    {
+      "title": "Mockito for Spring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783983780/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783983780/",
+      "isbn": "9781783983780",
+      "format": "book"
+    },
+    {
+      "title": "MOCKITO COOKBOOK",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783982745/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783982745/",
+      "isbn": "9781783982745",
+      "format": "book"
+    },
+    {
+      "title": "Mockito Essentials",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783983605/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783983605/",
+      "isbn": "9781783983605",
+      "format": "book"
+    },
+    {
+      "title": "Injecting Mocks with Mockito",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888651483/chapter/f_0041.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888651483/chapter/f_0041.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mocking dependencies with the Mockito Kotlin library",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788837668/chapter/6668a1e7-d0b9-49bf-ae3c-339e084435e1.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788837668/chapter/6668a1e7-d0b9-49bf-ae3c-339e084435e1.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using Mockito for mocking services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127562/chapter/ee189f73-dff5-4185-a902-ba5163a7fb4b.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127562/chapter/ee189f73-dff5-4185-a902-ba5163a7fb4b.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Getting set up with Mockito",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284661/chapter/6c62d039-9283-43ca-a680-631dd64122bc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284661/chapter/6c62d039-9283-43ca-a680-631dd64122bc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Simulating dependencies with mocks using Mockito",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783985807/chapter/ch07s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783985807/chapter/ch07s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating tests using Mockito to mock DB",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785284151/chapter/ch05s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785284151/chapter/ch05s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test Dependencies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780135257555/chapter/ch20s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780135257555/chapter/ch20s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Using the changed testing support",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789136159/chapter/b4739e44-2387-467a-ab21-8b64f20942ac.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789136159/chapter/b4739e44-2387-467a-ab21-8b64f20942ac.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How it works...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623797/chapter/a27b2a67-abf6-4ca9-9821-d930145c7388.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623797/chapter/a27b2a67-abf6-4ca9-9821-d930145c7388.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Simplifying Testing Using a Mock Tool",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680500769/chapter/f_0089.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680500769/chapter/f_0089.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Executing console commands",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788471305/chapter/8c6fa140-5b67-4062-a8e4-537c45511870.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788471305/chapter/8c6fa140-5b67-4062-a8e4-537c45511870.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Verifying Mock invocation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788471459/chapter/0d252b7b-d845-4b47-a80e-91b652d1e7fc.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788471459/chapter/0d252b7b-d845-4b47-a80e-91b652d1e7fc.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "How to do it...",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787129825/chapter/a1a34e90-4d32-49b1-9258-301c20c8c63f.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787129825/chapter/a1a34e90-4d32-49b1-9258-301c20c8c63f.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Flutter",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507621/chapter/f_0073.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507621/chapter/f_0073.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Android application testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788474542/chapter/cd63f98f-c82f-4d55-a5ff-2450100a05a5.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788474542/chapter/cd63f98f-c82f-4d55-a5ff-2450100a05a5.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Mocking objects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783983360/chapter/ch08s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783983360/chapter/ch08s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Extensive use of mock objects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781784395339/chapter/ch03s06.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781784395339/chapter/ch03s06.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Observer pattern usage example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787284951/chapter/e88dde3a-117c-4a3a-9d98-c159ce1d2fe0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787284951/chapter/e88dde3a-117c-4a3a-9d98-c159ce1d2fe0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing in practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788291200/chapter/eec38b3d-abb8-4a8c-b2c7-128d3a023794.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788291200/chapter/eec38b3d-abb8-4a8c-b2c7-128d3a023794.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Spring Boot Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484292945/chapter/html/340891_3_En_8_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484292945/chapter/html/340891_3_En_8_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14.7. Finding Scala Libraries",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449340292/chapter/ch14s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449340292/chapter/ch14s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Agile software testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787127555/chapter/ch06s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787127555/chapter/ch06s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Developing Middleware in Java EE 8",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788391078/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788391078/",
+      "isbn": "9781788391078",
+      "format": "book"
+    },
+    {
+      "title": "Using the Apex Stub API with mocking frameworks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789956719/chapter/b0744e6e-8a12-44b0-a048-e5fb47ad2342.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789956719/chapter/b0744e6e-8a12-44b0-a048-e5fb47ad2342.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Functional Programming in Java, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650424/chapter/f_0139.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650424/chapter/f_0139.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Emulators and testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789341799/chapter/f64434e6-af00-4b42-8b3d-68a65afa23f7.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789341799/chapter/f64434e6-af00-4b42-8b3d-68a65afa23f7.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "A.6 Dependency Upgrades",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806112296/chapter/A_006.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806112296/chapter/A_006.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing in Spring Boot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781838822361/chapter/b4661aa8-1bd7-4c8f-a959-660f3cf6af21.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781838822361/chapter/b4661aa8-1bd7-4c8f-a959-660f3cf6af21.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Effective Haskell",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798888650400/chapter/f_0144.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798888650400/chapter/f_0144.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7 Testing Your Code with Automated Testing Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394275724/chapter/c07.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394275724/chapter/c07.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing WebFlux controllers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786463784/chapter/ab9dae69-5fb3-42a8-b22b-382cf54d1e4c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786463784/chapter/ab9dae69-5fb3-42a8-b22b-382cf54d1e4c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Testing Spring Boot Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484287927/chapter/html/447991_2_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484287927/chapter/html/447991_2_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Testing LDAP Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800023/chapter/html/319409_2_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800023/chapter/html/319409_2_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Testing Quarkus applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633438958/chapter/Text/chapter-5.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633438958/chapter/Text/chapter-5.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Clients and Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274774/chapter/html/332520_2_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274774/chapter/html/332520_2_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Testing with mock objects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297045/chapter/Text/08.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297045/chapter/Text/08.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Java Testing with Spock",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617292538/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617292538/",
+      "isbn": "9781617292538",
+      "format": "book"
+    },
+    {
+      "title": "Create RegistrationApiControllerTests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788836968/chapter/f250a8b6-73c5-4f87-9cc2-91824f3b572e.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788836968/chapter/f250a8b6-73c5-4f87-9cc2-91824f3b572e.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15. Testing Spring Boot Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484229316/chapter/A447991_1_En_15_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484229316/chapter/A447991_1_En_15_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing in Scala",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788392822/chapter/15398642-9701-447e-a650-2f21213e770c.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788392822/chapter/15398642-9701-447e-a650-2f21213e770c.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Dependency Injection, Mocking, Testing Traits, and Grouping Tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484230152/chapter/A429029_1_En_4_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484230152/chapter/A429029_1_En_4_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Testing Batch Processes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430234524/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430234524/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6 Test doubles and mocks",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633439931/chapter/OEBPS/Text/06.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633439931/chapter/OEBPS/Text/06.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Annotating properties",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787123687/chapter/bd7b6551-1517-45c0-821f-3a74aa8768e0.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787123687/chapter/bd7b6551-1517-45c0-821f-3a74aa8768e0.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Testing Spring Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251362/chapter/html/336364_2_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251362/chapter/html/336364_2_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring Boot in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617292545/chapter/kindle_split_021.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617292545/chapter/kindle_split_021.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing RabbitMQ applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783984565/chapter/ch06s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783984565/chapter/ch06s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Dependency trees",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788475891/chapter/455a7003-9d93-41af-a18e-490a916ba006.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788475891/chapter/455a7003-9d93-41af-a18e-490a916ba006.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Going Deeper with Reactive",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492076971/chapter/ch12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492076971/chapter/ch12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing Your Backend",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805122463/chapter/Text/Chapter_6.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805122463/chapter/Text/Chapter_6.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Building a RESTful Client and Testing RESTful Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484231982/chapter/A436970_1_En_6_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484231982/chapter/A436970_1_En_6_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Testing Batch Processes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484237243/chapter/html/215885_2_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484237243/chapter/html/215885_2_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Basics of Spring Boot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868801136/chapter/html/464036_2_En_2_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868801136/chapter/html/464036_2_En_2_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Packaging and Testing jOOQ",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274316/chapter/html/500754_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274316/chapter/html/500754_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Testing with Copilot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098164645/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098164645/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Testing with TestContainers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813962/chapter/html/531256_2_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813962/chapter/html/531256_2_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Test Quarkus Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484260326/chapter/html/493703_1_En_6_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484260326/chapter/html/493703_1_En_6_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Testing and Debugging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484249826/chapter/html/479501_1_En_14_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484249826/chapter/html/479501_1_En_14_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing and debugging",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785885617/chapter/ch01s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785885617/chapter/ch01s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Setting up the development environment",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785882500/chapter/ch01s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785882500/chapter/ch01s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Increasing Test Coverage Through AI Generation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098176129/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098176129/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Modularizing your code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783982400/chapter/ch07s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783982400/chapter/ch07s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Pro Spring MVC: With Web Flow",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430241553/chapter/Chapter09.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430241553/chapter/Chapter09.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Testing Java Applications Using Testcontainers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868813009/chapter/html/625177_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868813009/chapter/html/625177_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Java-Based Azure Functions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484282519/chapter/html/523943_1_En_3_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484282519/chapter/html/523943_1_En_3_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Writing our first Cucumber test case",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786461629/chapter/546e6aa2-5198-4a7d-a600-275b334daac3.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786461629/chapter/546e6aa2-5198-4a7d-a600-275b334daac3.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Dependencies injection pattern",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783985845/chapter/ch05s08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783985845/chapter/ch05s08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Testing of Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789133608/chapter/b19eb33b-7a34-49bf-8244-8d378783009a.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789133608/chapter/b19eb33b-7a34-49bf-8244-8d378783009a.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Test Lab for Android",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788624718/chapter/41191e81-3134-4e0d-bedb-6e7efd89d230.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788624718/chapter/41191e81-3134-4e0d-bedb-6e7efd89d230.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Starters with Maven",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788838382/chapter/8403b76c-0322-472f-99f3-14caa15064b2.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788838382/chapter/8403b76c-0322-472f-99f3-14caa15064b2.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Replace Collaborators",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133017007/chapter/ch08lev1sec4.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133017007/chapter/ch08lev1sec4.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Organizing our projects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783288625/chapter/ch02s05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783288625/chapter/ch02s05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Interviewing Software Craftsmen",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134052625/chapter/ch10.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134052625/chapter/ch10.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. The Basic Spring Boot Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484231654/chapter/A458480_1_En_2_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484231654/chapter/A458480_1_En_2_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "11. Writing a Plugin for NetBeans",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484253700/chapter/html/479166_1_En_11_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484253700/chapter/html/479166_1_En_11_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing Node.js",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781788623322/chapter/3af853f4-5d8e-405e-b74d-a2fcbea2a846.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781788623322/chapter/3af853f4-5d8e-405e-b74d-a2fcbea2a846.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "The Business Rules Engine",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491967164/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491967164/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "14. Development Environment Best Practices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470484302/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470484302/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12 Developing reactive APIs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297571/chapter/Text/12.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297571/chapter/Text/12.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Testing and Tracing Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783983209/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783983209/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Testing with Spring Boot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484236765/chapter/html/340891_2_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484236765/chapter/html/340891_2_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing your Akka actors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786465023/chapter/ch02s07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786465023/chapter/ch02s07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "17. Mocks to Maps",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492082262/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492082262/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "B15547_07_Final_SZ",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781839211966/chapter/B15547_07_Final_SZ.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781839211966/chapter/B15547_07_Final_SZ.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Advanced Spring Configuration and Spring Boot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484286401/chapter/html/315511_6_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484286401/chapter/html/315511_6_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. Debugging, Testing, and Documenting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484237786/chapter/html/463938_1_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484237786/chapter/html/463938_1_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Testing, Debugging, and Refactoring",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449370831/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449370831/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Managing Apache Kafka Programmatically",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492043072/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492043072/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Preparing for Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098109998/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098109998/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Testing the messaging applications (Advanced)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783283477/chapter/ch01s12.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783283477/chapter/ch01s12.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "RestfulWebService using Spring Boot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783987320/chapter/ch09s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783987320/chapter/ch09s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Deploying the Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491924709/chapter/ch14.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491924709/chapter/ch14.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Testing, Deploying, and Scaling Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868812675/chapter/html/639857_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868812675/chapter/html/639857_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Creating a Set of Cooperating Microservices",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781805128694/chapter/Text/Chapter_03.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781805128694/chapter/Text/Chapter_03.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2. Software Development, Testing, and Maintenance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098169961/chapter/ch02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098169961/chapter/ch02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Testing in Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868816185/chapter/html/638469_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868816185/chapter/html/638469_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Building RESTful APIs with Spring Boot (Java)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868803093/chapter/html/617304_1_En_7_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868803093/chapter/html/617304_1_En_7_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "2 Large language models and prompt engineering",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781633437364/chapter/OEBPS/Text/02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781633437364/chapter/OEBPS/Text/02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Working Locally (Like It Was Production)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491986011/chapter/ch08.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491986011/chapter/ch08.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "16. Improving domain logic",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781933988054/chapter/ch16.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781933988054/chapter/ch16.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Project dependencies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781783982363/chapter/ch03s03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781783982363/chapter/ch03s03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "6. Testing with Spring Boot",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484214312/chapter/A340891_1_En_6_Chapter.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484214312/chapter/A340891_1_En_6_Chapter.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Programming Kotlin",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680507287/chapter/f_0149.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680507287/chapter/f_0149.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Developing a MapReduce Application",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596521974/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596521974/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "15 Testing your Spring app",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298691/chapter/Text/ch15.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298691/chapter/Text/ch15.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Spring in Action, Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781935182351/chapter/kindle_split_027.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781935182351/chapter/kindle_split_027.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "7. Testing and Troubleshooting",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491931646/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491931646/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Modeling Your Entities and Data with JPA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484263426/chapter/html/499303_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484263426/chapter/html/499303_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "13. Testing Your Code",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484274224/chapter/html/328789_3_En_13_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484274224/chapter/html/328789_3_En_13_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Technology Behind the Scenes of Auto-Remediation at Scale",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341627635/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341627635/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5 Pulsar IO connectors",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617296888/chapter/OEBPS/Text/05.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617296888/chapter/OEBPS/Text/05.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "C09581_01_Final_Commercial_NT",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789801736/chapter/C09581_01_Final_Commercial_NT.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789801736/chapter/C09581_01_Final_Commercial_NT.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Technology Behind the Scenes of Auto-Remediation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098150884/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098150884/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. Product Quality Assurance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868805431/chapter/html/627148_1_En_5_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868805431/chapter/html/627148_1_En_5_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "9. API Testing Strategy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800542/chapter/html/340883_2_En_9_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800542/chapter/html/340883_2_En_9_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8 Leveraging your delivery pipeline for security",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294358/chapter/Text/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294358/chapter/Text/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Debugging and Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119089254/chapter/c08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119089254/chapter/c08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Node Package Manager",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786469137/chapter/ch02s02.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786469137/chapter/ch02s02.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 Introducing C# and .NET",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298028/chapter/OEBPS/Text/01.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298028/chapter/OEBPS/Text/01.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Building modular applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781933988559/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781933988559/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. A Robust Approach to Team Collaboration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098107345/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098107345/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4 Interaction testing using mock objects",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297489/chapter/OEBPS/Text/ch04.htm",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297489/chapter/OEBPS/Text/ch04.htm",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. Digital Workplace Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484255124/chapter/html/481576_1_En_4_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484255124/chapter/html/481576_1_En_4_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. Modern Web Integration Patterns",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265284/chapter/html/499768_1_En_12_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265284/chapter/html/499768_1_En_12_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "10. Transforming Legacy Banking Applications to Banking Experience Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484243039/chapter/html/467863_1_En_10_Chapter.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484243039/chapter/html/467863_1_En_10_Chapter.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "12. SOFTWARE TOOLS TO SUPPORT DIGITAL SOLUTION DELIVERY",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780177137/chapter/html/27_ch12.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780177137/chapter/html/27_ch12.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. The Build and Pre-Deployment Testing Steps of Continuous Integration",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098171988/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098171988/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "4. AI Architectures for Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098174491/chapter/ch04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098174491/chapter/ch04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "5. AI-based Test Automation",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781780175782/chapter/html/13_Ch05.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781780175782/chapter/html/13_Ch05.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Running gRPC in Production",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492058328/chapter/ch07.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492058328/chapter/ch07.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Hudson Continuous Integration in Practice",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071804288/chapter/ch05.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071804288/chapter/ch05.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Practice points for microservices development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786466686/chapter/ch10s04.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786466686/chapter/ch10s04.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "8. Case Study: Hotel Pricing System",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780138108069/chapter/ch08.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9780138108069/chapter/ch08.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "Building Projects with sbt",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492051534/chapter/ch17.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492051534/chapter/ch17.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1 First piece of the puzzle",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617294280/chapter/OEBPS/Text/01.xhtml",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617294280/chapter/OEBPS/Text/01.xhtml",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "3. Automated Functional Testing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098108120/chapter/ch03.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098108120/chapter/ch03.html",
+      "isbn": "",
+      "format": "book"
+    },
+    {
+      "title": "1. Getting Started: Compiling and Running Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492072577/chapter/ch01.html",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492072577/chapter/ch01.html",
+      "isbn": "",
+      "format": "book"
+    }
+  ]
+}
