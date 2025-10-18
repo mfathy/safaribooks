@@ -1,0 +1,343 @@
+{
+  "skill_name": "Web Performance",
+  "discovery_timestamp": 1760820676.9847271,
+  "total_books": 48,
+  "books": [
+    {
+      "title": "How to Make Things Faster",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098147051/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098147051/",
+      "isbn": "9781098147013",
+      "format": "book"
+    },
+    {
+      "title": "Modern Web Performance Optimization: Methods, Tools, and Patterns to Speed Up Digital Platforms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484265284/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484265284/",
+      "isbn": "9781484265284",
+      "format": "book"
+    },
+    {
+      "title": "Web Performance Engineering in the Age of AI",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341660182/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341660182/",
+      "isbn": "9798341660199",
+      "format": "book"
+    },
+    {
+      "title": "Jump Start Web Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781098122799/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781098122799/",
+      "isbn": "9781925836332",
+      "format": "book"
+    },
+    {
+      "title": "Web performance basics",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492029243/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492029243/",
+      "isbn": "9781492029236",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Compression",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491961520/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491961520/",
+      "isbn": "9781491961483",
+      "format": "book"
+    },
+    {
+      "title": "Intelligent Caching",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492049067/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492049067/",
+      "isbn": "9781491966815",
+      "format": "book"
+    },
+    {
+      "title": "Web Performance in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617293771/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617293771/",
+      "isbn": "9781617293771",
+      "format": "book"
+    },
+    {
+      "title": "Conversion rate optimization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492030430/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492030430/",
+      "isbn": "9781492030423",
+      "format": "book"
+    },
+    {
+      "title": "Front-end Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492069706/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492069706/",
+      "isbn": "9781925836103",
+      "format": "book"
+    },
+    {
+      "title": "Hacking Web Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492039426/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492039426/",
+      "isbn": "9781492039419",
+      "format": "book"
+    },
+    {
+      "title": "Web Performance as a Competitive Advantage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492039921/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492039921/",
+      "isbn": "9781492039921",
+      "format": "book"
+    },
+    {
+      "title": "Back-end Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492069362/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492069362/",
+      "isbn": "9781492069362",
+      "format": "book"
+    },
+    {
+      "title": "Speed as competitive advantage",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492030454/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492030454/",
+      "isbn": "9781492030447",
+      "format": "book"
+    },
+    {
+      "title": "Frontend Optimization Handbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491985038/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491985038/",
+      "isbn": "9781491985038",
+      "format": "book"
+    },
+    {
+      "title": "Performance Tools",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492069744/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492069744/",
+      "isbn": "9781492069744",
+      "format": "book"
+    },
+    {
+      "title": "Understanding Web Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492029809/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492029809/",
+      "isbn": "9781492029793",
+      "format": "book"
+    },
+    {
+      "title": "Web Performance and the Customer Experience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492030829/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492030829/",
+      "isbn": "9781492030829",
+      "format": "book"
+    },
+    {
+      "title": "Web performance is user experience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492029823/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492029823/",
+      "isbn": "9781492029816",
+      "format": "book"
+    },
+    {
+      "title": "What Is Web Performance?",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492039952/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492039952/",
+      "isbn": "9781492039938",
+      "format": "book"
+    },
+    {
+      "title": "Optimizing images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492030393/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492030393/",
+      "isbn": "9781492030386",
+      "format": "book"
+    },
+    {
+      "title": "AMP: Building Accelerated Mobile Pages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781786467317/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781786467317/",
+      "isbn": "9781786467317",
+      "format": "book"
+    },
+    {
+      "title": "Measurement tools for high performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492030331/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492030331/",
+      "isbn": "9781492030324",
+      "format": "book"
+    },
+    {
+      "title": "Full Stack Web Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491991640/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491991640/",
+      "isbn": "9781491988442",
+      "format": "book"
+    },
+    {
+      "title": "High Performance Mobile Web",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491912546/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491912546/",
+      "isbn": "9781491913666",
+      "format": "book"
+    },
+    {
+      "title": "Time Is Money",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491928783/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491928783/",
+      "isbn": "9781491928806",
+      "format": "book"
+    },
+    {
+      "title": "High Performance Images",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491925799/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491925799/",
+      "isbn": "9781491925805",
+      "format": "book"
+    },
+    {
+      "title": "Architecting High Performing, Scalable and Available Enterprise Web Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128022580/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128022580/",
+      "isbn": "9780128025284",
+      "format": "book"
+    },
+    {
+      "title": "Using WebPageTest",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491902783/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491902783/",
+      "isbn": "9781491902806",
+      "format": "book"
+    },
+    {
+      "title": "Professional Website Performance: Optimizing the Front-End and Back-End",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118551721/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118551721/",
+      "isbn": "9781118487525",
+      "format": "book"
+    },
+    {
+      "title": "Developing with Web Standards",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321647559/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321647559/",
+      "isbn": "9780321647559",
+      "format": "book"
+    },
+    {
+      "title": "Lean Websites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781457192883/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781457192883/",
+      "isbn": "9781457192883",
+      "format": "book"
+    },
+    {
+      "title": "Web Performance Warrior",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048114/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048114/",
+      "isbn": "9781491919613",
+      "format": "book"
+    },
+    {
+      "title": "Responsive & Fast",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491912935/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491912935/",
+      "isbn": "9781491912430",
+      "format": "book"
+    },
+    {
+      "title": "Web Performance Daybook Volume 2",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449337667/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449337667/",
+      "isbn": "9781449337681",
+      "format": "book"
+    },
+    {
+      "title": "Even Faster Web Sites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596803773/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596803773/",
+      "isbn": "9780596555849",
+      "format": "book"
+    },
+    {
+      "title": "High Performance Web Sites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596529307/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596529307/",
+      "isbn": "9780596550691",
+      "format": "book"
+    },
+    {
+      "title": "Web Sites Do-It-Yourself for Dummies®, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470565209/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470565209/",
+      "isbn": "9780470565209",
+      "format": "book"
+    },
+    {
+      "title": "Squid: The Definitive Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596001622/",
+      "url": "https://learning.oreilly.com/api/v1/book/0596001622/",
+      "isbn": "9780596001629",
+      "format": "book"
+    },
+    {
+      "title": "Internet Explorer 8 and Its Impact on Your ASP.NET Web Sites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470457276/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470457276/",
+      "isbn": "9780470457276",
+      "format": "book"
+    },
+    {
+      "title": "System Performance Tuning, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/059600284X/",
+      "url": "https://learning.oreilly.com/api/v1/book/059600284X/",
+      "isbn": "9780596002848",
+      "format": "book"
+    },
+    {
+      "title": "HP-UX 11i Tuning and Performance",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131433490/",
+      "url": "https://learning.oreilly.com/api/v1/book/0131433490/",
+      "isbn": "0131433490",
+      "format": "book"
+    },
+    {
+      "title": "Web Caching",
+      "id": "https://www.safaribooksonline.com/api/v1/book/156592536X/",
+      "url": "https://learning.oreilly.com/api/v1/book/156592536X/",
+      "isbn": "9781565925366",
+      "format": "book"
+    },
+    {
+      "title": "Performance Analysis for Java™ Web Sites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201844540/",
+      "url": "https://learning.oreilly.com/api/v1/book/0201844540/",
+      "isbn": "0201844540",
+      "format": "book"
+    },
+    {
+      "title": "Web Performance Tuning, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/059600172X/",
+      "url": "https://learning.oreilly.com/api/v1/book/059600172X/",
+      "isbn": "9781491950692",
+      "format": "book"
+    },
+    {
+      "title": "Web Caching and Replication",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201615703/",
+      "url": "https://learning.oreilly.com/api/v1/book/0201615703/",
+      "isbn": "9780201615708",
+      "format": "book"
+    },
+    {
+      "title": "Web Performance Tuning",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565923790/",
+      "url": "https://learning.oreilly.com/api/v1/book/1565923790/",
+      "isbn": "9781565923799",
+      "format": "book"
+    },
+    {
+      "title": "Webmaster in a Nutshell, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565923251/",
+      "url": "https://learning.oreilly.com/api/v1/book/1565923251/",
+      "isbn": "9781565923256",
+      "format": "book"
+    }
+  ]
+}

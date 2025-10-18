@@ -1,0 +1,15 @@
+{
+  "deduplication_summary": {
+    "timestamp": "2025-10-18T23:00:33.041947",
+    "total_files_processed": 286,
+    "total_duplicates_removed": 47,
+    "unique_books_total": 16163,
+    "duplicates_per_file": {
+      "ml_ai_books.json": 38,
+      "web_development_books.json": 5,
+      "web_mapping_books.json": 1,
+      "web_performance_books.json": 2,
+      "web_scalability_books.json": 1
+    }
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "skill_name": "Web Development",
+  "discovery_timestamp": 1760820676.680563,
+  "total_books": 86,
+  "books": [
+    {
+      "title": "Building Production-Grade Web Applications with Supabase",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837630684/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837630684/",
+      "isbn": "9781837630684",
+      "format": "book"
+    },
+    {
+      "title": "Blazor Web Development Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835460788/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835460788/",
+      "isbn": "9781835460788",
+      "format": "book"
+    },
+    {
+      "title": "Web App Development Made Simple with Streamlit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781835086315/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781835086315/",
+      "isbn": "9781835086315",
+      "format": "book"
+    },
+    {
+      "title": "Web Coding & Development All-in-One For Dummies, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781394197026/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781394197026/",
+      "isbn": "9781394197026",
+      "format": "book"
+    },
+    {
+      "title": "Full Stack Web Development with Remix",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801075299/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801075299/",
+      "isbn": "9781801075299",
+      "format": "book"
+    },
+    {
+      "title": "Microsoft Power Pages in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781837630455/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781837630455/",
+      "isbn": "9781837630455",
+      "format": "book"
+    },
+    {
+      "title": "Hugo in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617297007/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617297007/",
+      "isbn": "9781617297007",
+      "format": "book"
+    },
+    {
+      "title": "Web Development with Node and Express, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492053507/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492053507/",
+      "isbn": "9781492053514",
+      "format": "book"
+    },
+    {
+      "title": "Web Development with Julia and Genie",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781801811132/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781801811132/",
+      "isbn": "9781801811132",
+      "format": "book"
+    },
+    {
+      "title": "Fluent Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798341608672/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798341608672/",
+      "isbn": "9798341608689",
+      "format": "book"
+    },
+    {
+      "title": "The Jamstack Book",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617298882/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617298882/",
+      "isbn": "9781617298882",
+      "format": "book"
+    },
+    {
+      "title": "Full Stack Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781836644934/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781836644934/",
+      "isbn": "9781836644934",
+      "format": "book"
+    },
+    {
+      "title": "Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484257388/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484257388/",
+      "isbn": "9781484257388",
+      "format": "book"
+    },
+    {
+      "title": "A Blueprint for Production-Ready Web Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781803248509/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781803248509/",
+      "isbn": "9781803248509",
+      "format": "book"
+    },
+    {
+      "title": "Practical JAMstack: Blazing Fast, Simple, and Secure Web Development, the Modern Way",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484261774/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484261774/",
+      "isbn": "9781484261774",
+      "format": "book"
+    },
+    {
+      "title": "Using Gatsby and Netlify CMS: Build Blazing Fast JAMstack Apps Using Gatsby and Netlify CMS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484262979/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484262979/",
+      "isbn": "9781484262979",
+      "format": "book"
+    },
+    {
+      "title": "Practical PHP 7, MySQL 8, and MariaDB Website Databases: A Simplified Approach to Developing Database-Driven Websites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484238431/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484238431/",
+      "isbn": "9781484238431",
+      "format": "book"
+    },
+    {
+      "title": "Jumpstart UIKit: Learn to Build Enterprise-Level, Feature-Rich Websites that Work Elegantly with Minimum Fuss",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484260296/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484260296/",
+      "isbn": "9781484260296",
+      "format": "book"
+    },
+    {
+      "title": "Coding For Dummies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119293323/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119293323/",
+      "isbn": "9781119293323",
+      "format": "book"
+    },
+    {
+      "title": "Practical Application Development with AppRun: Building Reliable, High-Performance Web Apps Using Elm-Inspired Architecture, Event Pub-Sub, and Components",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484240694/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484240694/",
+      "isbn": "9781484240694",
+      "format": "book"
+    },
+    {
+      "title": "Atomic Migration Strategy for Web Teams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491999950/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491999950/",
+      "isbn": "9781491999943",
+      "format": "book"
+    },
+    {
+      "title": "Web Coding & Development All-in-One For Dummies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119473923/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119473923/",
+      "isbn": "9781119473923",
+      "format": "book"
+    },
+    {
+      "title": "Web Development with Go: Building Scalable Web Apps and RESTful Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484210529/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484210529/",
+      "isbn": "9781484210529",
+      "format": "book"
+    },
+    {
+      "title": "Modern Web Development: Understanding domains, technologies, and user experience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781509300532/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781509300532/",
+      "isbn": "9781509300532",
+      "format": "book"
+    },
+    {
+      "title": "Modern Web Development on the JAMstack",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492058571/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492058571/",
+      "isbn": "9781492058564",
+      "format": "book"
+    },
+    {
+      "title": "Web Development with ReasonML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680506884/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680506884/",
+      "isbn": "9781680506891",
+      "format": "book"
+    },
+    {
+      "title": "Introducing Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484224991/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484224991/",
+      "isbn": "9781484224991",
+      "format": "book"
+    },
+    {
+      "title": "Learning Web App Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449371388/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449371388/",
+      "isbn": "9781449370190",
+      "format": "book"
+    },
+    {
+      "title": "SPA Design and Architecture",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617292439/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617292439/",
+      "isbn": "9781617292439",
+      "format": "book"
+    },
+    {
+      "title": "Go: Building Web Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781787123496/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781787123496/",
+      "isbn": "9781787123496",
+      "format": "book"
+    },
+    {
+      "title": "Working with the DOM",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491966358/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491966358/",
+      "isbn": "9781491966341",
+      "format": "book"
+    },
+    {
+      "title": "The Little Book of Website Quality Control",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492042860/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492042860/",
+      "isbn": "9781491966334",
+      "format": "book"
+    },
+    {
+      "title": "Collaborative Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491996096/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491996096/",
+      "isbn": "9781491955581",
+      "format": "book"
+    },
+    {
+      "title": "Beginning Oracle WebCenter Portal 12c: Build next-generation enterprise portals with Oracle WebCenter Portal",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484225325/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484225325/",
+      "isbn": "9781484225325",
+      "format": "book"
+    },
+    {
+      "title": "Working with Static Sites",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491960936/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491960936/",
+      "isbn": "9781491960943",
+      "format": "book"
+    },
+    {
+      "title": "Web Development Recipes, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781680501445/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781680501445/",
+      "isbn": "9781680505184",
+      "format": "book"
+    },
+    {
+      "title": "MEAN Web Development - Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781785886300/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781785886300/",
+      "isbn": "9781785886300",
+      "format": "book"
+    },
+    {
+      "title": "Web Development with Node and Express",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491902288/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491902288/",
+      "isbn": "9781491902288",
+      "format": "book"
+    },
+    {
+      "title": "Getting a Web Development Job For Dummies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118967782/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118967782/",
+      "isbn": "9781118967782",
+      "format": "book"
+    },
+    {
+      "title": "Bandit Algorithms for Website Optimization",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449341565/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449341565/",
+      "isbn": "9781449341565",
+      "format": "book"
+    },
+    {
+      "title": "Static Site Generators",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781492048558/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781492048558/",
+      "isbn": "9781492048558",
+      "format": "book"
+    },
+    {
+      "title": "Coding For Dummies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781118951309/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781118951309/",
+      "isbn": "9781118951309",
+      "format": "book"
+    },
+    {
+      "title": "Enterprise Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449357023/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449357023/",
+      "isbn": "9781449356811",
+      "format": "book"
+    },
+    {
+      "title": "Bridging UX and Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780124202450/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780124202450/",
+      "isbn": "9780128007877",
+      "format": "book"
+    },
+    {
+      "title": "Web Application Architecture: Principles, Protocols and Practices, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470518601/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470518601/",
+      "isbn": "9780470518601",
+      "format": "book"
+    },
+    {
+      "title": "Express Web Application Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781849696548/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781849696548/",
+      "isbn": "9781849696548",
+      "format": "book"
+    },
+    {
+      "title": "Foundation Version Control for Web Developers",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430239727/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430239727/",
+      "isbn": "9781430239727",
+      "format": "book"
+    },
+    {
+      "title": "Adobe® ColdFusion® Web Application Construction Kit: ColdFusion® 10 Enhancements and Improvements",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780133352528/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780133352528/",
+      "isbn": "9780133352528",
+      "format": "book"
+    },
+    {
+      "title": "Pro SharePoint 2013 Branding and Responsive Web Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430250289/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430250289/",
+      "isbn": "9781430250289",
+      "format": "book"
+    },
+    {
+      "title": "Development with the Force.com Platform: Building Business Applications in the Cloud, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132685047/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132685047/",
+      "isbn": "9780132685047",
+      "format": "book"
+    },
+    {
+      "title": "Web Operations",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449377465/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449377465/",
+      "isbn": "9781449394158",
+      "format": "book"
+    },
+    {
+      "title": "Developing Large Web Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449380090/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449380090/",
+      "isbn": "9780596803025",
+      "format": "book"
+    },
+    {
+      "title": "Software Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781439812914/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781439812914/",
+      "isbn": "9781439884607",
+      "format": "book"
+    },
+    {
+      "title": "Adobe ColdFusion 9 Web Application Construction Kit, Volume 2: Application Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321694447/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321694447/",
+      "isbn": "9780321694447",
+      "format": "book"
+    },
+    {
+      "title": "Designing for XOOPS",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449309534/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449309534/",
+      "isbn": "9781449308964",
+      "format": "book"
+    },
+    {
+      "title": "Website Owner's Manual",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781933988450/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781933988450/",
+      "isbn": "9781933988450",
+      "format": "book"
+    },
+    {
+      "title": "Building the Realtime User Experience",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781449382292/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781449382292/",
+      "isbn": "9781449395940",
+      "format": "book"
+    },
+    {
+      "title": "Introducing ColdFusion 9",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132089609/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132089609/",
+      "isbn": "9780132089609",
+      "format": "book"
+    },
+    {
+      "title": "Build a Website for Free",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768687163/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768687163/",
+      "isbn": "9780768687163",
+      "format": "book"
+    },
+    {
+      "title": "Web Development with TIBCO General Interface: Building AJAX Clients for Enterprise SOA",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321592064/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321592064/",
+      "isbn": "9780321592064",
+      "format": "book"
+    },
+    {
+      "title": "Adobe ColdFusion 8 Web Application Construction Kit, Volume 3: Advanced Application Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321550057/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321550057/",
+      "isbn": "9780321550057",
+      "format": "book"
+    },
+    {
+      "title": "Facebook Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596156695/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596156695/",
+      "isbn": "9780596554095",
+      "format": "book"
+    },
+    {
+      "title": "FBML Essentials",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780596519186/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780596519186/",
+      "isbn": "9781449379421",
+      "format": "book"
+    },
+    {
+      "title": "Adobe AIR in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781933988481/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781933988481/",
+      "isbn": "9781933988481",
+      "format": "book"
+    },
+    {
+      "title": "Internet & World Wide Web: How to Program, Fourth Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780136085645/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780136085645/",
+      "isbn": "9780136085645",
+      "format": "book"
+    },
+    {
+      "title": "Adobe ColdFusion 8 Web Application Construction Kit, Volume 2: Application Development",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321550040/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321550040/",
+      "isbn": "9780321550040",
+      "format": "book"
+    },
+    {
+      "title": "The New Language of Business: SOA & Web 2.0",
+      "id": "https://www.safaribooksonline.com/api/v1/book/013195654X/",
+      "url": "https://learning.oreilly.com/api/v1/book/013195654X/",
+      "isbn": "013195654X",
+      "format": "book"
+    },
+    {
+      "title": "Dotnetnuke™ For Dummies®",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780471798439/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780471798439/",
+      "isbn": "9780471798439",
+      "format": "book"
+    },
+    {
+      "title": "Web Standards Programmer's Reference: HTML, CSS, JavaScript®, Perl, Python®, and PHP",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780764588204/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780764588204/",
+      "isbn": "9780764588204",
+      "format": "book"
+    },
+    {
+      "title": "Code Generation in Action",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781930110977/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781930110977/",
+      "isbn": "9781930110977",
+      "format": "book"
+    },
+    {
+      "title": "Practical Web Technologies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201750767/",
+      "url": "https://learning.oreilly.com/api/v1/book/0201750767/",
+      "isbn": "0201750767",
+      "format": "book"
+    },
+    {
+      "title": "Web Site Cookbook",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596101090/",
+      "url": "https://learning.oreilly.com/api/v1/book/0596101090/",
+      "isbn": "9780596553524",
+      "format": "book"
+    },
+    {
+      "title": "Head Rush Ajax",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596102259/",
+      "url": "https://learning.oreilly.com/api/v1/book/0596102259/",
+      "isbn": "9780596102258",
+      "format": "book"
+    },
+    {
+      "title": "Developing Enterprise Web Services: An Architect's Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0131401602/",
+      "url": "https://learning.oreilly.com/api/v1/book/0131401602/",
+      "isbn": "0131401602",
+      "format": "book"
+    },
+    {
+      "title": "macromedia® Coldfusion® MX 7 Web Application Construction Kit",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321223675/",
+      "url": "https://learning.oreilly.com/api/v1/book/0321223675/",
+      "isbn": "9780321223678",
+      "format": "book"
+    },
+    {
+      "title": "Real World Web Services",
+      "id": "https://www.safaribooksonline.com/api/v1/book/059600642X/",
+      "url": "https://learning.oreilly.com/api/v1/book/059600642X/",
+      "isbn": "9780596006426",
+      "format": "book"
+    },
+    {
+      "title": "Beyond Borders: Web Globalization Strategies",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0735712085/",
+      "url": "https://learning.oreilly.com/api/v1/book/0735712085/",
+      "isbn": "0735712085",
+      "format": "book"
+    },
+    {
+      "title": "Designing Data-Intensive Web Applications",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781558608436/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781558608436/",
+      "isbn": "9780080503936",
+      "format": "book"
+    },
+    {
+      "title": "Programming ColdFusion MX, 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0596003803/",
+      "url": "https://learning.oreilly.com/api/v1/book/0596003803/",
+      "isbn": "9781491909485",
+      "format": "book"
+    },
+    {
+      "title": "Web Database Development Step by Step .NET Edition, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/073561637X/",
+      "url": "https://learning.oreilly.com/api/v1/book/073561637X/",
+      "isbn": "073561637X",
+      "format": "book"
+    },
+    {
+      "title": "SOAP: Cross Platform Web Service Development Using XML",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130907634/",
+      "url": "https://learning.oreilly.com/api/v1/book/0130907634/",
+      "isbn": "9780130907639",
+      "format": "book"
+    },
+    {
+      "title": "Essential ASP for Web Professionals",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0130304999/",
+      "url": "https://learning.oreilly.com/api/v1/book/0130304999/",
+      "isbn": "9780130304995",
+      "format": "book"
+    },
+    {
+      "title": "Learning WML, and WMLScript",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565929470/",
+      "url": "https://learning.oreilly.com/api/v1/book/1565929470/",
+      "isbn": "9781565929470",
+      "format": "book"
+    },
+    {
+      "title": "Sams Teach Yourself ColdFusion® in 21 Days",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0672317966/",
+      "url": "https://learning.oreilly.com/api/v1/book/0672317966/",
+      "isbn": "0672317966",
+      "format": "book"
+    },
+    {
+      "title": "Practical Internet Groupware",
+      "id": "https://www.safaribooksonline.com/api/v1/book/1565925378/",
+      "url": "https://learning.oreilly.com/api/v1/book/1565925378/",
+      "isbn": "9781565925373",
+      "format": "book"
+    },
+    {
+      "title": "CGI Programming on the World Wide Web",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781565921689/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781565921689/",
+      "isbn": "9781565921689",
+      "format": "book"
+    }
+  ]
+}

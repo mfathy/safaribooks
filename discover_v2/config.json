@@ -1,0 +1,25 @@
+{
+  "book_ids_directory": "book_ids",
+  "max_pages_per_skill": 100,
+  "books_per_page": 100,
+  "max_workers": 3,
+  "discovery_delay": 1,
+  "resume": true,
+  "skills_file": "../favorite_skills_with_counts.json",
+  "progress_file": "output/discovery_progress.json",
+  "verbose": false,
+  "retry_failed": true,
+  "max_retries": 3,
+  "retry_delay": 5,
+  "exclude_skills": [],
+  "priority_skills": [
+    "Python",
+    "Machine Learning",
+    "AI & ML",
+    "Data Science",
+    "Deep Learning",
+    "Artificial Intelligence (AI)",
+    "Engineering Leadership"
+  ]
+}
+
