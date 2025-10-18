@@ -224,22 +224,6 @@ class BookIDDiscoverer:
         
         if expected_book_count:
             self.logger.info(f"📊 Expected book count: {expected_book_count}")
-            
-            # Skip if book count is greater than 500
-            if expected_book_count > 500:
-                self.logger.warning(f"⏭️  Skipping '{skill_name}': Book count ({expected_book_count}) exceeds 500")
-                with self.progress_lock:
-                    self.skipped_skills.add(skill_name)
-                return {
-                    'skill': skill_name,
-                    'total_books': 0,
-                    'expected_books': expected_book_count,
-                    'book_ids': [],
-                    'books_info': [],
-                    'success': True,
-                    'skipped': True,
-                    'reason': 'Book count exceeds 500'
-                }
         
         try:
             all_books = []
@@ -579,7 +563,6 @@ class BookIDDiscoverer:
             'total_books_expected': sum(s['books'] for s in skills_data),
             'successful_skills': 0,
             'failed_skills': 0,
-            'skipped_skills': 0,
             'skill_results': {}
         }
         
@@ -602,9 +585,7 @@ class BookIDDiscoverer:
                         total_results['skill_results'][skill_name] = result
                         total_results['skills_processed'] += 1
                         
-                        if result.get('skipped', False):
-                            total_results['skipped_skills'] += 1
-                        elif result['success']:
+                        if result['success']:
                             total_results['successful_skills'] += 1
                             total_results['total_books_discovered'] += result['total_books']
                         else:
@@ -633,9 +614,7 @@ class BookIDDiscoverer:
                 total_results['skill_results'][skill_name] = result
                 total_results['skills_processed'] += 1
                 
-                if result.get('skipped', False):
-                    total_results['skipped_skills'] += 1
-                elif result['success']:
+                if result['success']:
                     total_results['successful_skills'] += 1
                     total_results['total_books_discovered'] += result['total_books']
                 else:
@@ -655,9 +634,6 @@ class BookIDDiscoverer:
         self.logger.info(f"Skills processed: {total_results['skills_processed']}")
         self.logger.info(f"Successful skills: {total_results['successful_skills']}")
         self.logger.info(f"Failed skills: {total_results['failed_skills']}")
-        self.logger.info(f"Skipped skills (>500 books): {total_results['skipped_skills']}")
-        if len(self.skipped_skills) > 0:
-            self.logger.info(f"  Skipped skill list: {', '.join(sorted(self.skipped_skills))}")
         self.logger.info(f"Total books discovered: {total_results['total_books_discovered']:,}")
         self.logger.info(f"Total books expected: {total_results['total_books_expected']:,}")
         diff = total_results['total_books_discovered'] - total_results['total_books_expected']
@@ -686,7 +662,6 @@ class BookIDDiscoverer:
             f.write(f"Total Skills Processed: {results['skills_processed']}\n")
             f.write(f"Successful Skills: {results['successful_skills']}\n")
             f.write(f"Failed Skills: {results['failed_skills']}\n")
-            f.write(f"Skipped Skills (>500 books): {results.get('skipped_skills', 0)}\n")
             f.write(f"Total Books Discovered: {results['total_books_discovered']:,}\n")
             f.write(f"Total Books Expected: {results.get('total_books_expected', 0):,}\n")
             diff = results['total_books_discovered'] - results.get('total_books_expected', 0)
