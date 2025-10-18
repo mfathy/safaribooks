@@ -213,17 +213,21 @@ class BookIDDiscoverer:
         # Remove duplicates and return
         return list(set(variants))
     
-    def discover_books_for_skill(self, skill_name: str, expected_book_count: int = None) -> Dict:
+    def discover_books_for_skill(self, skill_name: str, expected_book_count: int = None, progress_info: str = "") -> Dict:
         """Discover all books for a specific skill using the O'Reilly v1 API
         
         Args:
             skill_name: Name of the skill to discover
             expected_book_count: Expected number of books (from JSON), used for validation
+            progress_info: Optional progress string like "[3/50]" for logging
         """
-        self.logger.info(f"🔍 Discovering books for skill: {skill_name}")
+        progress_prefix = f"{progress_info} " if progress_info else ""
+        self.logger.info(f"\n{'='*70}")
+        self.logger.info(f"{progress_prefix}🔍 STARTING: {skill_name}")
+        self.logger.info(f"{'='*70}")
         
         if expected_book_count:
-            self.logger.info(f"📊 Expected book count: {expected_book_count}")
+            self.logger.info(f"📊 Expected book count: {expected_book_count:,}")
         
         try:
             all_books = []
@@ -261,11 +265,12 @@ class BookIDDiscoverer:
                     self.logger.info(f"📄 Page {page} of '{skill_name}': No more results found, stopping pagination")
                     break
                 
-                # Log with target count if available
-                if target_book_count:
-                    self.logger.info(f"📄 Page {page} of '{skill_name}': Found {len(results)} books (Total so far: {len(all_books)} of {target_book_count} target)")
-                else:
-                    self.logger.info(f"📄 Page {page} of '{skill_name}': Found {len(results)} books (Total so far: {len(all_books)})")
+                # Log page progress (only every 5 pages to reduce noise)
+                if page % 5 == 0 or page == 1:
+                    if target_book_count:
+                        self.logger.info(f"   📄 Page {page}: {len(all_books)}/{target_book_count} books discovered so far...")
+                    else:
+                        self.logger.info(f"   📄 Page {page}: {len(all_books)} books discovered so far...")
                 
                 # Track books added on this page
                 books_added_on_this_page = 0
@@ -395,7 +400,7 @@ class BookIDDiscoverer:
                 # Update consecutive pages counter
                 if books_added_on_this_page == 0:
                     consecutive_pages_without_matches += 1
-                    self.logger.info(f"⚠️  Page {page}: No books matched skill '{skill_name}' (consecutive: {consecutive_pages_without_matches}/{max_consecutive_pages_without_matches})")
+                    self.logger.debug(f"⚠️  Page {page}: No books matched (consecutive: {consecutive_pages_without_matches}/{max_consecutive_pages_without_matches})")
                 else:
                     consecutive_pages_without_matches = 0  # Reset counter
                     self.logger.debug(f"✅ Page {page}: Added {books_added_on_this_page} books")
@@ -549,13 +554,19 @@ class BookIDDiscoverer:
         else:
             self.logger.info(f"🔄 Update mode: Will re-discover all skills including existing ones")
         
-        # Prioritize skills if specified
+        # Sort skills by book count (smallest first for faster initial results)
+        skills_data = sorted(skills_data, key=lambda x: x['books'])
+        self.logger.info(f"📊 Sorted skills by book count (smallest first)")
+        self.logger.info(f"   Smallest: {skills_data[0]['title']} ({skills_data[0]['books']} books)")
+        self.logger.info(f"   Largest: {skills_data[-1]['title']} ({skills_data[-1]['books']} books)")
+        
+        # Prioritize skills if specified (overrides sorting)
         priority_skills = self.config.get('priority_skills', [])
         if priority_skills:
             priority_found = [s for s in skills_data if s['title'] in priority_skills]
             other_skills = [s for s in skills_data if s['title'] not in priority_skills]
             skills_data = priority_found + other_skills
-            self.logger.info(f"Prioritized {len(priority_found)} skills")
+            self.logger.info(f"🎯 Prioritized {len(priority_found)} skills (overriding sort order)")
         
         total_results = {
             'skills_processed': 0,
@@ -566,20 +577,34 @@ class BookIDDiscoverer:
             'skill_results': {}
         }
         
-        self.logger.info(f"Starting discovery for {len(skills_data)} skills")
-        self.logger.info(f"Total expected books: {total_results['total_books_expected']:,}")
+        total_skills = len(skills_data)
+        self.logger.info(f"\n{'='*70}")
+        self.logger.info(f"🚀 STARTING DISCOVERY")
+        self.logger.info(f"{'='*70}")
+        self.logger.info(f"📚 Total skills to process: {total_skills}")
+        self.logger.info(f"📖 Total expected books: {total_results['total_books_expected']:,}")
+        self.logger.info(f"👷 Workers: {self.config['max_workers']}")
+        self.logger.info(f"{'='*70}\n")
         start_time = time.time()
         
         if self.config['max_workers'] > 1:
-            # Parallel discovery
+            # Parallel discovery with progress tracking
             with ThreadPoolExecutor(max_workers=self.config['max_workers']) as executor:
-                future_to_skill = {
-                    executor.submit(self.discover_books_for_skill, skill['title'], skill['books']): skill['title']
-                    for skill in skills_data
-                }
+                # Submit all tasks with progress info
+                future_to_skill = {}
+                for idx, skill in enumerate(skills_data, 1):
+                    progress = f"[{idx}/{total_skills}]"
+                    future = executor.submit(self.discover_books_for_skill, skill['title'], skill['books'], progress)
+                    future_to_skill[future] = {'name': skill['title'], 'index': idx, 'books': skill['books']}
                 
+                completed_count = 0
                 for future in as_completed(future_to_skill):
-                    skill_name = future_to_skill[future]
+                    skill_info = future_to_skill[future]
+                    skill_name = skill_info['name']
+                    skill_idx = skill_info['index']
+                    completed_count += 1
+                    remaining = total_skills - completed_count
+                    
                     try:
                         result = future.result()
                         total_results['skill_results'][skill_name] = result
@@ -588,8 +613,23 @@ class BookIDDiscoverer:
                         if result['success']:
                             total_results['successful_skills'] += 1
                             total_results['total_books_discovered'] += result['total_books']
+                            status_icon = "✅"
                         else:
                             total_results['failed_skills'] += 1
+                            status_icon = "❌"
+                        
+                        # Progress summary
+                        elapsed = time.time() - start_time
+                        avg_time = elapsed / completed_count
+                        eta_seconds = avg_time * remaining
+                        eta_minutes = eta_seconds / 60
+                        
+                        self.logger.info(f"\n{'─'*70}")
+                        self.logger.info(f"{status_icon} COMPLETED [{completed_count}/{total_skills}]: {skill_name}")
+                        self.logger.info(f"   📚 Books found: {result.get('total_books', 0):,} (expected: {skill_info['books']:,})")
+                        self.logger.info(f"   ⏱️  Progress: {completed_count}/{total_skills} ({completed_count/total_skills*100:.1f}%)")
+                        self.logger.info(f"   ⏳ Remaining: {remaining} skills | ETA: ~{eta_minutes:.1f} minutes")
+                        self.logger.info(f"{'─'*70}")
                             
                     except Exception as e:
                         self.logger.error(f"Exception processing skill {skill_name}: {e}")
@@ -606,19 +646,37 @@ class BookIDDiscoverer:
                     # Add delay between discoveries
                     time.sleep(self.config['discovery_delay'])
         else:
-            # Sequential discovery
-            for skill_data in skills_data:
+            # Sequential discovery with progress tracking
+            for idx, skill_data in enumerate(skills_data, 1):
                 skill_name = skill_data['title']
                 expected_books = skill_data['books']
-                result = self.discover_books_for_skill(skill_name, expected_books)
+                remaining = total_skills - idx
+                progress = f"[{idx}/{total_skills}]"
+                
+                result = self.discover_books_for_skill(skill_name, expected_books, progress)
                 total_results['skill_results'][skill_name] = result
                 total_results['skills_processed'] += 1
                 
                 if result['success']:
                     total_results['successful_skills'] += 1
                     total_results['total_books_discovered'] += result['total_books']
+                    status_icon = "✅"
                 else:
                     total_results['failed_skills'] += 1
+                    status_icon = "❌"
+                
+                # Progress summary
+                elapsed = time.time() - start_time
+                avg_time = elapsed / idx
+                eta_seconds = avg_time * remaining
+                eta_minutes = eta_seconds / 60
+                
+                self.logger.info(f"\n{'─'*70}")
+                self.logger.info(f"{status_icon} COMPLETED [{idx}/{total_skills}]: {skill_name}")
+                self.logger.info(f"   📚 Books found: {result.get('total_books', 0):,} (expected: {expected_books:,})")
+                self.logger.info(f"   ⏱️  Progress: {idx}/{total_skills} ({idx/total_skills*100:.1f}%)")
+                self.logger.info(f"   ⏳ Remaining: {remaining} skills | ETA: ~{eta_minutes:.1f} minutes")
+                self.logger.info(f"{'─'*70}")
                 
                 # Save progress
                 self._save_progress()
