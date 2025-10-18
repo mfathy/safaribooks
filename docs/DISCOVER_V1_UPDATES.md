@@ -136,23 +136,36 @@ def _get_skill_variants(self, skill_name: str) -> List[str]:
 
 ---
 
-### 7. Updated Pagination Logic - Loop Until Exact Count (Lines 360-363)
-**Before:**
+### 7. Updated Pagination Logic - Smart Stopping Conditions (Lines 251-428)
+**New Logic:**
 ```python
-if target_book_count and len(all_books) >= target_book_count:
-    self.logger.info(f"✓ '{skill_name}': Reached target count ({len(all_books)}/{target_book_count} with 10% buffer)")
-    if page > estimated_pages:
-        break
-```
+# Track consecutive pages without matching books
+consecutive_pages_without_matches = 0
+max_consecutive_pages_without_matches = 3
 
-**After:**
-```python
+# During pagination, track books added per page
+books_added_on_this_page = 0
+
+# After processing each page
+if books_added_on_this_page == 0:
+    consecutive_pages_without_matches += 1
+else:
+    consecutive_pages_without_matches = 0  # Reset counter
+
+# Stop if reached target count
 if target_book_count and len(all_books) >= target_book_count:
-    self.logger.info(f"✓ '{skill_name}': Reached target count ({len(all_books)}/{target_book_count})")
+    break
+
+# Stop if 3 consecutive pages have no matching books
+if consecutive_pages_without_matches >= max_consecutive_pages_without_matches:
+    self.logger.warning(f"Stopping - {consecutive_pages_without_matches} consecutive pages without matching books")
     break
 ```
 
-**Rationale:** Stops pagination immediately when the exact count is reached, improving efficiency.
+**Rationale:** 
+- Stops immediately when exact count is reached
+- Also stops if 3 consecutive pages have no books matching the skill in subjects/topics
+- This prevents wasting time on irrelevant results when the API returns books outside the skill domain
 
 ---
 

@@ -42,10 +42,16 @@ Successfully updated the O'Reilly Book Discovery v1 script (`discover_book_ids.p
   - Plus: "engineering+leadership"
 - **Example**: "Engineering Leadership" → 4 variants with different separators
 
-### 7. **Exact Count Pagination**
-- **Lines**: 360-363
-- **Change**: Stops immediately when target count is reached (no extra page)
-- **Impact**: Improved efficiency, faster discovery
+### 7. **Smart Pagination with Dual Stopping Conditions**
+- **Lines**: 251-428
+- **Changes**: 
+  - Tracks consecutive pages without matching books
+  - Stops when target count is reached (exact match)
+  - Also stops after 3 consecutive pages with no matching books
+- **Impact**: 
+  - Improved efficiency - stops early when results become irrelevant
+  - Prevents wasting time on pages outside skill domain
+  - Faster discovery for focused skills
 
 ### 8. **Skip Large Skills (>500 books)**
 - **Lines**: 201-215
@@ -59,7 +65,8 @@ Successfully updated the O'Reilly Book Discovery v1 script (`discover_book_ids.p
   - Added skipped_skills counter
   - Shows list of skipped skills in logs
   - Includes skipped count in summary file
-- **Impact**: Better visibility into what was skipped and why
+  - Logs consecutive pages without matches
+- **Impact**: Better visibility into what was skipped and why, plus insight into early stopping
 
 ---
 

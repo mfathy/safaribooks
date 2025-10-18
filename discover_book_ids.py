@@ -248,6 +248,10 @@ class BookIDDiscoverer:
             rows_per_request = 100  # Request parameter (API may return fewer)
             results_per_page = 15  # Typical results per page from v1 API
             
+            # Track consecutive pages without matching books
+            consecutive_pages_without_matches = 0
+            max_consecutive_pages_without_matches = 3
+            
             # Calculate estimated pages needed based on expected count
             if expected_book_count:
                 target_book_count = expected_book_count  # No buffer
@@ -278,6 +282,9 @@ class BookIDDiscoverer:
                     self.logger.info(f"📄 Page {page} of '{skill_name}': Found {len(results)} books (Total so far: {len(all_books)} of {target_book_count} target)")
                 else:
                     self.logger.info(f"📄 Page {page} of '{skill_name}': Found {len(results)} books (Total so far: {len(all_books)})")
+                
+                # Track books added on this page
+                books_added_on_this_page = 0
                 
                 # Process each book with validation
                 for book in results:
@@ -398,11 +405,26 @@ class BookIDDiscoverer:
                             'format': book.get('format', 'book')
                         }
                         all_books.append(book_info)
+                        books_added_on_this_page += 1
                         self.logger.debug(f"✅ Added book: {title}")
+                
+                # Update consecutive pages counter
+                if books_added_on_this_page == 0:
+                    consecutive_pages_without_matches += 1
+                    self.logger.info(f"⚠️  Page {page}: No books matched skill '{skill_name}' (consecutive: {consecutive_pages_without_matches}/{max_consecutive_pages_without_matches})")
+                else:
+                    consecutive_pages_without_matches = 0  # Reset counter
+                    self.logger.debug(f"✅ Page {page}: Added {books_added_on_this_page} books")
                 
                 # Check if we've reached the target count (exact match)
                 if target_book_count and len(all_books) >= target_book_count:
                     self.logger.info(f"✓ '{skill_name}': Reached target count ({len(all_books)}/{target_book_count})")
+                    break
+                
+                # Check if we've had too many consecutive pages without matches
+                if consecutive_pages_without_matches >= max_consecutive_pages_without_matches:
+                    self.logger.warning(f"🛑 '{skill_name}': Stopping - {consecutive_pages_without_matches} consecutive pages without matching books")
+                    self.logger.info(f"   This likely means we've exhausted relevant results for this skill")
                     break
                 
                 # Move to next page
