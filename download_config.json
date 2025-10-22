@@ -6,7 +6,7 @@
   "max_pages_per_skill": 100,
   "download_delay": 10,
   "discovery_delay": 10,
-  "max_workers": 2,
+  "max_workers": 1,
   "epub_format": "dual",
   "resume": true,
   "force_redownload": false,

@@ -12,6 +12,7 @@ import json
 import time
 import argparse
 import re
+import threading
 from pathlib import Path
 from typing import List, Dict, Set
 import logging
@@ -49,12 +50,26 @@ class BookDownloader:
         self.downloaded_books: Set[str] = set(self.progress_tracker.data['completed_items'])
         self.failed_books: Dict[str, str] = dict(self.progress_tracker.data['failed_items'])
         
+        # Thread safety for parallel downloads (CRITICAL: prevents cookie race conditions)
+        self.cookie_lock = threading.Lock()  # Protects cookie updates
+        self.session_lock = threading.Lock()  # Protects session operations
+        self.file_lock = threading.Lock()     # Protects file I/O (cookies.json)
+        
         # Initialize shared session (CRITICAL FIX: reuse session to maintain fresh cookies)
         self.logger.info("Initializing shared authentication session...")
         self.display = Display("batch_download.log", PATH)
         self.auth_manager = AuthManager(self.display)
         self.session = self.auth_manager.initialize_session()
         self.books_downloaded_since_save = 0
+        
+        # Warn about parallel downloads if enabled
+        max_workers = self.config.get('max_workers', 1)
+        if max_workers > 1:
+            self.logger.warning(f"⚠️  Parallel downloads disabled in current implementation (max_workers={max_workers})")
+            self.logger.warning("    Reason: Shared session requires serial processing for cookie safety")
+            self.logger.warning("    Downloads will run serially to prevent token conflicts")
+            self.config['max_workers'] = 1  # Force serial for now
+        
         self.logger.info("Authentication session established successfully")
     
     def _load_config(self, config_file: str) -> Dict:
@@ -193,25 +208,27 @@ class BookDownloader:
             return str(book_id_raw)
     
     def _save_cookies(self):
-        """Save current session cookies to file (keeps tokens fresh)"""
-        try:
-            with open(COOKIES_FILE, 'w') as f:
-                json.dump(self.session.cookies.get_dict(), f, indent=2)
-            self.logger.debug("Cookies saved to file")
-        except Exception as e:
-            self.logger.warning(f"Failed to save cookies: {e}")
+        """Save current session cookies to file (keeps tokens fresh) - THREAD-SAFE"""
+        with self.file_lock:  # Prevent simultaneous file writes
+            try:
+                with open(COOKIES_FILE, 'w') as f:
+                    json.dump(self.session.cookies.get_dict(), f, indent=2)
+                self.logger.debug("Cookies saved to file")
+            except Exception as e:
+                self.logger.warning(f"Failed to save cookies: {e}")
     
     def _update_cookies_from_headers(self, set_cookie_headers):
-        """Update session cookies from Set-Cookie headers (like safaribooks.py does)"""
-        for morsel in set_cookie_headers:
-            # Handle Float 'max-age' Cookie (O'Reilly sometimes sends float values)
-            if self.COOKIE_FLOAT_MAX_AGE_PATTERN.search(morsel):
-                try:
-                    cookie_key, cookie_value = morsel.split(";")[0].split("=", 1)
-                    self.session.cookies.set(cookie_key, cookie_value)
-                    self.logger.debug(f"Updated cookie: {cookie_key}")
-                except Exception as e:
-                    self.logger.debug(f"Failed to parse cookie: {e}")
+        """Update session cookies from Set-Cookie headers (like safaribooks.py does) - THREAD-SAFE"""
+        with self.cookie_lock:  # CRITICAL: Only one worker can update cookies at a time
+            for morsel in set_cookie_headers:
+                # Handle Float 'max-age' Cookie (O'Reilly sometimes sends float values)
+                if self.COOKIE_FLOAT_MAX_AGE_PATTERN.search(morsel):
+                    try:
+                        cookie_key, cookie_value = morsel.split(";")[0].split("=", 1)
+                        self.session.cookies.set(cookie_key, cookie_value)
+                        self.logger.debug(f"Updated cookie: {cookie_key} [thread-safe]")
+                    except Exception as e:
+                        self.logger.debug(f"Failed to parse cookie: {e}")
     
     def _check_epub_exists(self, skill_dir: Path, book_id: str, epub_format: str) -> bool:
         """Check if EPUB file(s) already exist for this book"""
