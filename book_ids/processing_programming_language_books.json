@@ -1,6 +1,6 @@
 {
   "skill_name": "Processing (programming language)",
-  "discovery_timestamp": 1760820641.690419,
+  "discovery_timestamp": "2025-10-19 16:32:14",
   "total_books": 7,
   "books": [
     {
@@ -8,49 +8,63 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781457186769/",
       "url": "https://learning.oreilly.com/api/v1/book/9781457186769/",
       "isbn": "9781457186738",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Processing (programming language)",
+      "secondary_topics": []
     },
     {
       "title": "Coding Art: The Four Steps to Creative Programming with the Processing Language",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484262641/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484262641/",
       "isbn": "9781484262641",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Processing (programming language)",
+      "secondary_topics": []
     },
     {
       "title": "Programming 101: The How and Why of Programming Revealed Using the Processing Programming Language",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484236970/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484236970/",
       "isbn": "9781484236970",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Processing (programming language)",
+      "secondary_topics": []
     },
     {
       "title": "Make: Getting Started with Processing, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781457187070/",
       "url": "https://learning.oreilly.com/api/v1/book/9781457187070/",
       "isbn": "9781457187087",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Processing (programming language)",
+      "secondary_topics": []
     },
     {
       "title": "Getting Started with Processing.py",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781457186820/",
       "url": "https://learning.oreilly.com/api/v1/book/9781457186820/",
       "isbn": "9781457186790",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Processing (programming language)",
+      "secondary_topics": []
     },
     {
       "title": "Getting Started with Processing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449379827/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449379827/",
       "isbn": "9781449379827",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Processing (programming language)",
+      "secondary_topics": []
     },
     {
       "title": "Learning Processing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780080920061/",
       "url": "https://learning.oreilly.com/api/v1/book/9780080920061/",
       "isbn": "9780080920061",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Processing (programming language)",
+      "secondary_topics": []
     }
   ]
 }

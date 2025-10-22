@@ -1,6 +1,6 @@
 {
   "skill_name": "Chaos Engineering",
-  "discovery_timestamp": 1760820556.385877,
+  "discovery_timestamp": "2025-10-19 15:26:51",
   "total_books": 8,
   "books": [
     {
@@ -8,56 +8,72 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098113810/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098113810/",
       "isbn": "9781098113827",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chaos Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Chaos Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492043850/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492043850/",
       "isbn": "9781492043867",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chaos Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Chaos Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617297755/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617297755/",
       "isbn": "9781617297755",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chaos Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Security Chaos Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492080350/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492080350/",
       "isbn": "9781492080343",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chaos Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Learning Chaos Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492050995/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492050995/",
       "isbn": "9781492051008",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chaos Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Chaos Engineering Observability",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492051046/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492051046/",
       "isbn": "9781492051046",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chaos Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Chaos Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491988459/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491988459/",
       "isbn": "9781491988459",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chaos Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Chaotic Secure Communication",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110433265/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110433265/",
       "isbn": "9783110433265",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chaos Engineering",
+      "secondary_topics": []
     }
   ]
 }

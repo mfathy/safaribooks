@@ -1,875 +1,1141 @@
 {
   "skill_name": "DevOps",
-  "discovery_timestamp": 1760820581.9202402,
-  "total_books": 124,
+  "discovery_timestamp": "2025-10-19 16:50:26",
+  "total_books": 126,
   "books": [
     {
       "title": "Fundamentals of DevOps and Software Delivery",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098174583/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098174583/",
       "isbn": "9781098174590",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The DevOps Handbook, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098182281/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098182281/",
       "isbn": "9781950508433",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The Modern Developer Experience",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098169701/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098169701/",
       "isbn": "9781098169695",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The Linux DevOps Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803245669/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803245669/",
       "isbn": "9781803245669",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Azure DevOps Explained - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803238937/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803238937/",
       "isbn": "9781803238937",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Modern DevOps Practices - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781805121824/",
       "url": "https://learning.oreilly.com/api/v1/book/9781805121824/",
       "isbn": "9781805121824",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Mastering DevOps on Microsoft Power Platform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835880845/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835880845/",
       "isbn": "9781835880845",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Embracing DevOps Release Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835461853/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835461853/",
       "isbn": "9781835461853",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps for the Desperate",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098130251/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098130251/",
       "isbn": "9781718502482",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps for Databases",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837637300/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837637300/",
       "isbn": "9781837637300",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "A Complete Guide to DevOps with AWS: Deploy, Build, and Scale Services with AWS Tools and Techniques",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484293034/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484293034/",
       "isbn": "9781484293034",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Go for DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801818896/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801818896/",
       "isbn": "9781801818896",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "CodeMosaic: Learn AI-Driven Development and Modern Best Practices for Enterprise",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868802768/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868802768/",
       "isbn": "9798868802768",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Practical GitOps: Infrastructure Management Using Terraform, AWS, and GitHub Actions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484286739/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484286739/",
       "isbn": "9781484286739",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Argo CD in Practice",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803233321/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803233321/",
       "isbn": "9781803233321",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Automating and Orchestrating Networks with NetDevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137997169/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137997169/",
       "isbn": "9780137997169",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The Phoenix Project",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781457191350/",
       "url": "https://learning.oreilly.com/api/v1/book/9781457191350/",
       "isbn": "9780988262508",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Visual Studio Code Distilled: Evolved Code Editing for Windows, macOS, and Linux",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484294840/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484294840/",
       "isbn": "9781484294840",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Atlassian DevOps Toolchain Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835463789/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835463789/",
       "isbn": "9781835463789",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "AWS DevOps Simplified",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837634460/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837634460/",
       "isbn": "9781837634460",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The DevOps Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781457191381/",
       "url": "https://learning.oreilly.com/api/v1/book/9781457191381/",
       "isbn": "9781457191381",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Podman for DevOps.",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803248233/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803248233/",
       "isbn": "9781803248233",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Mobile DevOps Playbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803242552/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803242552/",
       "isbn": "9781803242552",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "50 Kubernetes Concepts Every DevOps Engineer Should Know",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804611470/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804611470/",
       "isbn": "9781804611470",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps Tools for Java Developers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492084013/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492084013/",
       "isbn": "9781492084020",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Learning DevOps - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801818964/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801818964/",
       "isbn": "9781801818964",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Reinventing ITIL® and DevOps with Digital Transformation: Essential Guidance to Accelerate the Process",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484290729/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484290729/",
       "isbn": "9781484290729",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "SAFe® for DevOps Practitioners",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803231426/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803231426/",
       "isbn": "9781803231426",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Google Anthos in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633439573/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633439573/",
       "isbn": "9781633439573",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps Adoption Strategies: Principles, Processes, Tools, and Trends",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801076326/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801076326/",
       "isbn": "9781801076326",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Lean DevOps: A Practical Guide to On Demand Service Delivery",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133853643/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133853643/",
       "isbn": "9780133853643",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Model-Driven DevOps: Increasing agility and security in your physical network through DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137644711/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137644711/",
       "isbn": "9780137644711",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Modern DevOps Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800562387/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800562387/",
       "isbn": "9781800562387",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise DevOps for Architects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801812153/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801812153/",
       "isbn": "9781801812153",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119552222/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119552222/",
       "isbn": "9781119552222",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Policy Design in the Age of Digital Adoption",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801811743/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801811743/",
       "isbn": "9781801811743",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The DevOps Career Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803230948/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803230948/",
       "isbn": "9781803230948",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Podman for DevOps - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835886625/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835886625/",
       "isbn": "9781835886625",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Azure DevOps Explained",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800563513/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800563513/",
       "isbn": "9781800563513",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Go for DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837027330/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837027330/",
       "isbn": "9781837027330",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Operations Anti-Patterns, DevOps Solutions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296987/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296987/",
       "isbn": "9781617296987",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Identity and Access Management for Cloud and DevOps Engineers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781836642312/",
       "url": "https://learning.oreilly.com/api/v1/book/9781836642312/",
       "isbn": "9781836642312",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Transforming Healthcare with DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801817318/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801817318/",
       "isbn": "9781801817318",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Effective Platform Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633436497/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633436497/",
       "isbn": "9781633436497",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Building Enterprise-Ready Azure Infrastructure: Learn Security, Scalability, and Reliability with IaC & DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868818110/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868818110/",
       "isbn": "9798868818110",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Beginning DevOps on AWS for iOS Development: Xcode, Jenkins, and Fastlane Integration on the Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484280232/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484280232/",
       "isbn": "9781484280232",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Driving DevOps with Value Stream Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801078061/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801078061/",
       "isbn": "9781801078061",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "NoOps: How AI Agents Are Reinventing DevOps and Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868816949/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868816949/",
       "isbn": "9798868816949",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Developer Experience Unleashed: The Art of Creating Efficient Developer Environments",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868802423/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868802423/",
       "isbn": "9798868802423",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Industrializing Financial Services with DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804614341/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804614341/",
       "isbn": "9781804614341",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "AI Integration in Software Development and Operations: Transformation Through AI Infusion in DevOps, Testing, and SRE",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868810442/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868810442/",
       "isbn": "9798868810442",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps Simplified: Zero-Maintenance Strategies for AWS EKS: Efficient Deployment and Management Strategies for AWS EKS Environments with Terraform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868810589/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868810589/",
       "isbn": "9798868810589",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Kubernetes - A Complete DevOps Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838828042/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838828042/",
       "isbn": "9781838828042",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Learning DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838642730/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838642730/",
       "isbn": "9781838642730",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Feature Management with LaunchDarkly",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800562974/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800562974/",
       "isbn": "9781800562974",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Confident DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398616585/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398616585/",
       "isbn": "9781398616585",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "What Is DevOps?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492039891/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492039891/",
       "isbn": "9781492039877",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps: Continuous Delivery, Integration, and Deployment with DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789132991/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789132991/",
       "isbn": "9781789132991",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Hands-on Azure Boards: Configuring and Customizing Process Workflows in Azure DevOps Services",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484250464/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484250464/",
       "isbn": "9781484250464",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Security in DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788995504/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788995504/",
       "isbn": "9781788995504",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484244838/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484244838/",
       "isbn": "9781484244838",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Effective DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491926291/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491926291/",
       "isbn": "9781491926307",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Azure DevOps for Web Developers: Streamlined Application Development Using Azure DevOps Features",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484264126/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484264126/",
       "isbn": "9781484264126",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Reinventing ITIL® in the Age of DevOps: Innovative Techniques to Make Processes Agile and Relevant",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484239766/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484239766/",
       "isbn": "9781484239766",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The DevOps 2.5 Toolkit",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838647513/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838647513/",
       "isbn": "9781838647513",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Achieving DevOps: A Novel About Delivering the Best of Agile, DevOps, and Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484243886/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484243886/",
       "isbn": "9781484243886",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps and DNS",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492049241/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492049241/",
       "isbn": "9781492049241",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Collaborating in DevOps Culture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492052470/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492052470/",
       "isbn": "9781492052463",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps Automation with Terraform and VMware",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492073765/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492073765/",
       "isbn": "9781492073758",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps with Kubernetes - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789533996/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789533996/",
       "isbn": "9781789533996",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps for the Modern Enterprise",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781457191442/",
       "url": "https://learning.oreilly.com/api/v1/book/9781457191442/",
       "isbn": "9781942788195",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The DevOps 2.4 Toolkit",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838643546/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838643546/",
       "isbn": "9781838643546",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Generic Pipelines Using Docker: The DevOps Guide to Building Reusable, Platform Agnostic CI/CD Frameworks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484236550/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484236550/",
       "isbn": "9781484236550",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The DevOps Adoption Playbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119308744/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119308744/",
       "isbn": "9781119308744",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Industrial Internet Application Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788298599/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788298599/",
       "isbn": "9781788298599",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Effective DevOps with AWS - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789539974/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789539974/",
       "isbn": "9781789539974",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps Culture and Practice with OpenShift",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800202368/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800202368/",
       "isbn": "9781800202368",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Practical DevOps - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788392570/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788392570/",
       "isbn": "9781788392570",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Mobile DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788296243/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788296243/",
       "isbn": "9781788296243",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Project Reliability Engineering: Pro Skills for Next Level Maker Projects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484250198/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484250198/",
       "isbn": "9781484250198",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to DevOps with Kubernetes",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781789808285/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781789808285/",
+      "isbn": "9781789808285",
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps for Serverless Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788623445/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788623445/",
       "isbn": "9781788623445",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Implementing Azure: Putting Modern DevOps to Use",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788833936/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788833936/",
       "isbn": "9781788833936",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps and Business",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492036609/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492036609/",
       "isbn": "9781492036593",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Ballerina: A Language for Network-Distributed Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492061168/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492061168/",
       "isbn": "9781492061151",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Learning DevOps: Continuously Deliver Better Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787126619/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787126619/",
       "isbn": "9781787126619",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The Kitty Hawk Venture: A Novel About Continuous Testing in DevOps to Support Continuous Delivery and Business Success",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484236611/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484236611/",
       "isbn": "9781484236611",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Effective DevOps with AWS",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786466815/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786466815/",
       "isbn": "9781786466815",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise DevOps Framework: Transforming IT Operations",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484236123/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484236123/",
       "isbn": "9781484236123",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps for Networking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786464859/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786464859/",
       "isbn": "9781786464859",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The DevOps 2.3 Toolkit",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789135503/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789135503/",
       "isbn": "9781789135503",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps with Kubernetes",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788396646/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788396646/",
       "isbn": "9781788396646",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "The DevOps 2.2 Toolkit",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788991278/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788991278/",
       "isbn": "9781788991278",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps: A Software Architect's Perspective",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134049885/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134049885/",
       "isbn": "9780134049885",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps Paradox",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789133639/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789133639/",
       "isbn": "9781789133639",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise DevOps Playbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492030065/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492030065/",
       "isbn": "9781491974179",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps tools: ecosystem overview",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492028932/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492028932/",
       "isbn": "9781492028925",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps Bootcamp",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787285965/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787285965/",
       "isbn": "9781787285965",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps Defined",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492030515/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492030515/",
       "isbn": "9781492030508",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to DevOps with Chocolate, LEGO and Scrum Game",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484225653/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484225653/",
+      "isbn": "9781484225653",
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps for Web Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786465702/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786465702/",
       "isbn": "9781786465702",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps Troubleshooting: Linux® Server Best Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133035513/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133035513/",
       "isbn": "9780133035513",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Implementing DevOps with Microsoft Azure",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787127029/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787127029/",
       "isbn": "9781787127029",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Practical DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785882876/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785882876/",
       "isbn": "9781785882876",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps for Media and Entertainment",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491987483/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491987483/",
       "isbn": "9781491987476",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Continuous Delivery and DevOps - A Quickstart Guide - Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788995474/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788995474/",
       "isbn": "9781788995474",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Implementing DevOps on AWS",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786460141/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786460141/",
       "isbn": "9781786460141",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "2017 Ops Salary Survey",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491989715/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491989715/",
       "isbn": "9781491989708",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps for Finance",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492049883/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492049883/",
       "isbn": "9781492049883",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps for VMware Administrators",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133795301/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133795301/",
       "isbn": "9780133795301",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps with Windows Server 2016",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786468550/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786468550/",
       "isbn": "9781786468550",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "BMC Control-M 7: A Journey from Traditional Batch Scheduling to Workload Automation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849682565/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849682565/",
       "isbn": "9781849682565",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps on the Microsoft Stack",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484214466/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484214466/",
       "isbn": "9781484214466",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Implementing Modern DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786466877/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786466877/",
       "isbn": "9781786466877",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "CICS and DevOps: What You Need to Know",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780738441382/",
       "url": "https://learning.oreilly.com/api/v1/book/9780738441382/",
       "isbn": "9780738441382",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Release and Deployment: An ITSM narrative",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849287791/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849287791/",
       "isbn": "9781849287791",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Antifragile Systems and Teams",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491908587/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491908587/",
       "isbn": "9781491908587",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps for Developers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430245698/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430245698/",
       "isbn": "9781430245698",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Pro Website Development and Operations: Streamlining DevOps for large-scale websites",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430239697/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430239697/",
       "isbn": "9781430239697",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "5 Unsung Tools of DevOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491946848/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491946848/",
       "isbn": "9781449367015",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Building a DevOps Culture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449368340/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449368340/",
       "isbn": "9781449368364",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "DevOps Hiring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491908570/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491908570/",
       "isbn": "9781449365868",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "What is DevOps?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449340346/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449340346/",
       "isbn": "9781449339104",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Release It!",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680500264/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680500264/",
       "isbn": "9780978739218",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Practicing Organization Development: A Guide for Leading Change: A Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470523926/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470523926/",
       "isbn": "9780470523926",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     },
     {
       "title": "Development with the Force.com Platform: Building Business Applications in the Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321648143/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321648143/",
       "isbn": "9780321648143",
-      "format": "book"
+      "format": "book",
+      "main_topic": "DevOps",
+      "secondary_topics": []
     }
   ]
 }

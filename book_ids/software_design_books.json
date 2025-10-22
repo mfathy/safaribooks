@@ -1,56 +1,79 @@
 {
   "skill_name": "Software Design",
-  "discovery_timestamp": 1760820663.271444,
-  "total_books": 7,
+  "discovery_timestamp": "2025-10-19 17:15:15",
+  "total_books": 8,
   "books": [
     {
       "title": "System Design Guide for Software Professionals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781805124993/",
       "url": "https://learning.oreilly.com/api/v1/book/9781805124993/",
       "isbn": "9781805124993",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Design",
+      "secondary_topics": []
     },
     {
       "title": "Collaborative Software Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633439252/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633439252/",
       "isbn": "9781633439252",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Design",
+      "secondary_topics": []
     },
     {
       "title": "Software Development, Design, and Coding: With Patterns, Debugging, Unit Testing, and Refactoring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868802850/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868802850/",
       "isbn": "9798868802850",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Design",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to Software Testing: A Practical Guide to Testing, Design, Automation, and Execution",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484295144/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484295144/",
+      "isbn": "9781484295144",
+      "format": "book",
+      "main_topic": "Software Design",
+      "secondary_topics": []
     },
     {
       "title": "Software Test Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804612569/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804612569/",
       "isbn": "9781804612569",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Design",
+      "secondary_topics": []
     },
     {
       "title": "Super User Networks for Software Projects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780176123/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780176123/",
       "isbn": "9781780176123",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Design",
+      "secondary_topics": []
     },
     {
       "title": "Real-World Event Sourcing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798888651612/",
       "url": "https://learning.oreilly.com/api/v1/book/9798888651612/",
       "isbn": "9798888651612",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Design",
+      "secondary_topics": []
     },
     {
       "title": "The Laws of Software Process",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780203505649/",
       "url": "https://learning.oreilly.com/api/v1/book/9780203505649/",
       "isbn": "9780203505649",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Design",
+      "secondary_topics": []
     }
   ]
 }

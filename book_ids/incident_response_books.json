@@ -1,6 +1,6 @@
 {
   "skill_name": "Incident Response",
-  "discovery_timestamp": 1760820599.888001,
+  "discovery_timestamp": "2025-10-19 17:15:15",
   "total_books": 26,
   "books": [
     {
@@ -8,182 +8,234 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098120672/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098120672/",
       "isbn": "9781098120689",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Combatting Cyber Terrorism - A guide to understanding the cyber threat landscape and incident response planning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787785212/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787785212/",
       "isbn": "9781787785212",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Incident Response with Threat Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801072953/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801072953/",
       "isbn": "9781801072953",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Incident Response for Windows",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804619322/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804619322/",
       "isbn": "9781804619322",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Applied Incident Response",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119560265/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119560265/",
       "isbn": "9781119560265",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Incident Response in the Age of Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800569218/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800569218/",
       "isbn": "9781800569218",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Becoming Resilient",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781637424438/",
       "url": "https://learning.oreilly.com/api/v1/book/9781637424438/",
       "isbn": "9781637424438",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Blue Team Handbook: Incident Response",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341649767/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341649767/",
       "isbn": "9798341661264",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Cyber Breach Response That Actually Works",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119679325/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119679325/",
       "isbn": "9781119679325",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Cybersecurity Incident Response: How to Contain, Eradicate, and Recover from Incidents",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484238707/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484238707/",
       "isbn": "9781484238707",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Intelligence-Driven Incident Response",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491935187/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491935187/",
       "isbn": "9781491935194",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Incident Management for Operations",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491917619/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491917619/",
       "isbn": "9781491917626",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Incident Response & Computer Forensics, Third Edition, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071798686/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071798686/",
       "isbn": "9780071798686",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Hands-on Incident Response and Digital Forensics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780174204/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780174204/",
       "isbn": "9781780174228",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Cyber Mayday and the Day After",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119835301/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119835301/",
       "isbn": "9781119835301",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Incident Response Primer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492073659/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492073659/",
       "isbn": "9781492073642",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Data Breach Preparation and Response",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128034507/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128034507/",
       "isbn": "9780128034507",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Computer Incident Response and Forensics Team Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597499965/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597499965/",
       "isbn": "9780124047259",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Managing the Insider Threat",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439872932/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439872932/",
       "isbn": "9781439872932",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "The Computer Incident Response Planning Handbook: Executable Plans for Protecting Information at Risk",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071790390/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071790390/",
       "isbn": "9780071790390",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Case Study: Real World Effects of Cyber-Attacks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749475307/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749475307/",
       "isbn": "9780749475307",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Computer Incident Response and Product Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132491518/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132491518/",
       "isbn": "9780132491518",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Internet Denial of Service: Attack and Defense Mechanisms",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131475738/",
       "url": "https://learning.oreilly.com/api/v1/book/0131475738/",
       "isbn": "0131475738",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Effective Incident Response Team, The",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201761750/",
       "url": "https://learning.oreilly.com/api/v1/book/0201761750/",
       "isbn": "9780201761757",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Incident Response",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596001304/",
       "url": "https://learning.oreilly.com/api/v1/book/0596001304/",
       "isbn": "9780596001308",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     },
     {
       "title": "Incident Response: A Strategic Guide to Handling System and Network Security Breaches",
       "id": "https://www.safaribooksonline.com/api/v1/book/1578702569/",
       "url": "https://learning.oreilly.com/api/v1/book/1578702569/",
       "isbn": "1578702569",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Incident Response",
+      "secondary_topics": []
     }
   ]
 }

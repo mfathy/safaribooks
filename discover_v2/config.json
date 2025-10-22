@@ -12,14 +12,7 @@
   "max_retries": 3,
   "retry_delay": 5,
   "exclude_skills": [],
-  "priority_skills": [
-    "Python",
-    "Machine Learning",
-    "AI & ML",
-    "Data Science",
-    "Deep Learning",
-    "Artificial Intelligence (AI)",
-    "Engineering Leadership"
-  ]
+  "priority_skills": []
 }
+
 

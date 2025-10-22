@@ -87,6 +87,36 @@ python3 discover_book_ids_v2.py --config my_config.json
 
 See `config.json` for available options.
 
+### Skills File Formats
+
+The script supports two skills file formats:
+
+**Format 1: With Book Counts** (`favorite_skills_with_counts.json`)
+```json
+{
+  "skills": [
+    {"title": "Python", "books": 666},
+    {"title": "Machine Learning", "books": 958}
+  ]
+}
+```
+- Includes expected book counts
+- Allows validation against expected numbers
+- Default configuration
+
+**Format 2: Simple List** (`skills_facets.json`)
+```json
+{
+  "Python": "Python",
+  "Machine Learning": "Machine Learning"
+}
+```
+- Simple key-value pairs
+- No expected counts
+- Use with: `--config config_skills_facets.json`
+
+Both formats work identically for discovery, only difference is reporting.
+
 ## Output
 
 The script generates the following:
@@ -180,4 +210,5 @@ python3 discover_book_ids_v2.py --skills "Python" "Go" "Rust" --workers 3
 ```bash
 python3 discover_book_ids_v2.py --update --verbose --workers 4
 ```
+
 

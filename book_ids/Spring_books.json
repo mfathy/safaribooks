@@ -1,630 +1,835 @@
 {
   "skill_name": "Spring",
-  "discovery_timestamp": 1760820666.815933,
-  "total_books": 89,
+  "discovery_timestamp": "2025-10-19 17:16:23",
+  "total_books": 92,
   "books": [
     {
       "title": "Spring Start Here",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617298691/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617298691/",
       "isbn": "9781617298691",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring in Action, Sixth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617297571/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617297571/",
       "isbn": "9781617297571",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring 6 Recipes: A Problem-Solution Approach to Spring Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484286494/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484286494/",
       "isbn": "9781484286494",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Modern API Development with Spring 6 and Spring Boot 3 - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804613276/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804613276/",
       "isbn": "9781804613276",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Microservices in Action, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296956/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296956/",
       "isbn": "9781617296956",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Spring 6: From Beginner to Pro",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484298336/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484298336/",
       "isbn": "9781484298336",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring 5 Design Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788299459/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788299459/",
       "isbn": "9781788299459",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Spring 6 with Kotlin: An In-depth Guide to Using Kotlin APIs in Spring Framework 6",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484295571/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484295571/",
       "isbn": "9781484295571",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Microsoft Azure for Java Developers: Deploying Java Applications through Azure WebApp, Azure Kubernetes Service, Azure Functions, and Azure Spring Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484282519/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484282519/",
       "isbn": "9781484282519",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
+    },
+    {
+      "title": "Pivotal Certified Professional Core Spring 5 Developer Exam: A Study Guide Using Spring Framework 5",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484251362/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484251362/",
+      "isbn": "9781484251362",
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Introducing Spring Framework 6: Learning and Building Java-based Applications With Spring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484286371/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484286371/",
       "isbn": "9781484286371",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Modern API Development with Spring and Spring Boot",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800562479/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800562479/",
       "isbn": "9781800562479",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Practical Spring LDAP: Using Enterprise Java-Based LDAP in Spring Data and Spring Framework 6",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868800023/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868800023/",
       "isbn": "9798868800023",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Quick Reference Guide: A Pocket Handbook for Spring Framework, Spring Boot, and More",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484261446/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484261446/",
       "isbn": "9781484261446",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Practical Microservices Architectural Patterns: Build Highly Scalable Distributed Applications with Spring Boot 3 and Spring Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868816062/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868816062/",
       "isbn": "9798868816062",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Reactive Programming in Spring 5",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787284951/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787284951/",
       "isbn": "9781787284951",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Microservices with Spring Boot and Spring Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789613476/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789613476/",
       "isbn": "9781789613476",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Software Architecture with Spring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835880609/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835880609/",
       "isbn": "9781835880609",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Boot 3 and Spring Framework 6",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781806112296/",
       "url": "https://learning.oreilly.com/api/v1/book/9781806112296/",
       "isbn": "9781806112296",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring System Design in Practice",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803249018/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803249018/",
       "isbn": "9781803249018",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Spring AI : A Quick Guide to AI Engineering in Spring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868812910/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868812910/",
       "isbn": "9798868812910",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring in Action, Fifth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617294945/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617294945/",
       "isbn": "9781617294945",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Spring Boot 3 with Kotlin: In-Depth Guide to Best Practices for Cloud-Native and Microservices Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868811319/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868811319/",
       "isbn": "9798868811319",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Boot in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617292545/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617292545/",
       "isbn": "9781617292545",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Cloud Data Flow: Native Cloud Orchestration Services for Microservice Applications on Modern Runtimes",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484212394/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484212394/",
       "isbn": "9781484212394",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Rapid Java Persistence and Microservices: Persistence Made Easy Using Java EE8, JPA and Spring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484244760/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484244760/",
       "isbn": "9781484244760",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Spring 6: An In-Depth Guide to the Spring Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484286401/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484286401/",
       "isbn": "9781484286401",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Building Applications with Spring 5 and Vue.js 2",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788836968/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788836968/",
       "isbn": "9781788836968",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On High Performance with Spring 5",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788838382/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788838382/",
       "isbn": "9781788838382",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring: Developing Java Applications for the Enterprise",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787127555/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787127555/",
       "isbn": "9781787127555",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring 5.0 Projects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788390415/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788390415/",
       "isbn": "9781788390415",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring 5 Recipes: A Problem-Solution Approach",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484227909/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484227909/",
       "isbn": "9781484227909",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Spring 5: An In-Depth Guide to the Spring Framework and Its Tools",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484228081/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484228081/",
       "isbn": "9781484228081",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Building Microservices with Spring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789955644/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789955644/",
       "isbn": "9781789955644",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Java Clustering and Scalability: Building Real-Time Apps with Spring, Cassandra, Redis, WebSocket and RabbitMQ",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484229859/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484229859/",
       "isbn": "9781484229859",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Software Architecture with Spring 5.0",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788992992/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788992992/",
       "isbn": "9781788992992",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring 5.0 By Example",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788624398/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788624398/",
       "isbn": "9781788624398",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Spring Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788475433/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788475433/",
       "isbn": "9781788475433",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Microservices in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617293986/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617293986/",
       "isbn": "9781617293986",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring 5.0 Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787128316/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787128316/",
       "isbn": "9781787128316",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Diagnosing and Changing Organizational Culture: Based on the Competing Values Framework, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470650264/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470650264/",
       "isbn": "9780470650264",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring 5.0 Microservices - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787127685/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787127685/",
       "isbn": "9781787127685",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Learn Spring for Android Application Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789349252/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789349252/",
       "isbn": "9781789349252",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Spring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118892923/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118892923/",
       "isbn": "9781118892923",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Spring 5.0",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787123175/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787123175/",
       "isbn": "9781787123175",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Full Stack Development with JHipster",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788476317/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788476317/",
       "isbn": "9781788476317",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
+    },
+    {
+      "title": "Pivotal Certified Professional Spring Developer Exam: A Study Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484208113/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484208113/",
+      "isbn": "9781484208113",
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Building Applications with Spring 5 and Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788394802/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788394802/",
       "isbn": "9781788394802",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484256268/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484256268/",
       "isbn": "9781484256268",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786466686/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786466686/",
       "isbn": "9781786466686",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Building Web Apps with Spring 5 and Angular",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787284661/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787284661/",
       "isbn": "9781787284661",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Building RESTful Web Services with Spring 5 - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788475891/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788475891/",
       "isbn": "9781788475891",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring REST",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484208236/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484208236/",
       "isbn": "9781484208236",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Spring 5: From Novice to Professional",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484244869/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484244869/",
       "isbn": "9781484244869",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Spring Boot",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484214312/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484214312/",
       "isbn": "9781484214312",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781783985807/",
       "url": "https://learning.oreilly.com/api/v1/book/9781783985807/",
       "isbn": "9781783985807",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Recipes: A Problem-Solution Approach, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430259091/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430259091/",
       "isbn": "9781430259091",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring MVC Beginner's Guide - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785880636/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785880636/",
       "isbn": "9781785880636",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Introducing Spring Framework: A Primer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430265337/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430265337/",
       "isbn": "9781430265337",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
+    },
+    {
+      "title": "Pivotal Certified Spring Web Application Developer Exam: A Study Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484208083/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484208083/",
+      "isbn": "9781484208083",
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Spring,Fourth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430261520/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430261520/",
       "isbn": "9781430261520",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Spring Application Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781783987320/",
       "url": "https://learning.oreilly.com/api/v1/book/9781783987320/",
       "isbn": "9781783987320",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Building a RESTful Web Service with Spring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785285714/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785285714/",
       "isbn": "9781785285714",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring in Action, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781935182351/",
       "url": "https://learning.oreilly.com/api/v1/book/9781935182351/",
       "isbn": "9781935182351",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Practical Spring LDAP: Enterprise Java LDAP Development Made Easy",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430263975/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430263975/",
       "isbn": "9781430263975",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise Application Development with Ext JS and Spring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781783285457/",
       "url": "https://learning.oreilly.com/api/v1/book/9781783285457/",
       "isbn": "9781783285457",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring in Practice",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781935182054/",
       "url": "https://learning.oreilly.com/api/v1/book/9781935182054/",
       "isbn": "9781935182054",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Just Spring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449311278/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449311278/",
       "isbn": "9781449306403",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Roo in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781935182962/",
       "url": "https://learning.oreilly.com/api/v1/book/9781935182962/",
       "isbn": "9781935182962",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "AspectJ in Action, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781933988054/",
       "url": "https://learning.oreilly.com/api/v1/book/9781933988054/",
       "isbn": "9781933988054",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Getting Started with Roo",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449311247/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449311247/",
       "isbn": "9781449315306",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Spring 2.5",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781590599211/",
       "url": "https://learning.oreilly.com/api/v1/book/9781590599211/",
       "isbn": "9781590599211",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Dynamic Modules in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781935182306/",
       "url": "https://learning.oreilly.com/api/v1/book/9781935182306/",
       "isbn": "9781935182306",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Spring 3",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430241072/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430241072/",
       "isbn": "9781430241072",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Wicket in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781932394986/",
       "url": "https://learning.oreilly.com/api/v1/book/9781932394986/",
       "isbn": "9781932394986",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Recipes, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430224990/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430224990/",
       "isbn": "9781430224990",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Enterprise Recipes: A Problem-Solution Approach",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430224976/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430224976/",
       "isbn": "9781430224976",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "BizTalk 2010 Recipes: A Problem-Solution Approach",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430232643/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430232643/",
       "isbn": "9781430232643",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Microsystems for Bioelectronics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781437778403/",
       "url": "https://learning.oreilly.com/api/v1/book/9781437778403/",
       "isbn": "9781437778410",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Java™ and Flex: Migrating Java, Spring, Hibernate, and Maven Developers to Adobe Flex",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430223856/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430223856/",
       "isbn": "9781430223856",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Java™ EE Spring Patterns: Best Practices and Design Strategies Implementing Java™ EE Patterns with the Spring Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430210092/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430210092/",
       "isbn": "9781430210092",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring 2.5 Aspect Oriented Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781847194022/",
       "url": "https://learning.oreilly.com/api/v1/book/9781847194022/",
       "isbn": "9781847194022",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring Persistence: A Running Start",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430218777/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430218777/",
       "isbn": "9781430218777",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Professional Java™ Development with the Spring Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780764574832/",
       "url": "https://learning.oreilly.com/api/v1/book/9780764574832/",
       "isbn": "9780764574832",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Pro Spring Dynamic Modules for OSGi™ Service Platforms",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430216124/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430216124/",
       "isbn": "9781430216124",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring in Action, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781933988139/",
       "url": "https://learning.oreilly.com/api/v1/book/9781933988139/",
       "isbn": "9781933988139",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Spring Framework 2",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470101612/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470101612/",
       "isbn": "9780470101612",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "A Guide to Job Analysis—Measurement & Evaluation",
       "id": "https://www.safaribooksonline.com/api/v1/book/750506/",
       "url": "https://learning.oreilly.com/api/v1/book/750506/",
       "isbn": "9781562863937",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Spring: A Developer's Notebook",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596009100/",
       "url": "https://learning.oreilly.com/api/v1/book/0596009100/",
       "isbn": "9780596553098",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "IBM Workplace Client Technology Micro Edition Version 5.7.1: Application Development and Case Study",
       "id": "https://www.safaribooksonline.com/api/v1/book/0738491071/",
       "url": "https://learning.oreilly.com/api/v1/book/0738491071/",
       "isbn": "0738491071",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "Influence Gaining Commitment, Getting Results",
       "id": "https://www.safaribooksonline.com/api/v1/book/1882197828/",
       "url": "https://learning.oreilly.com/api/v1/book/1882197828/",
       "isbn": "9781882197828",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     },
     {
       "title": "eClient 101 Customization and Integration",
       "id": "https://www.safaribooksonline.com/api/v1/book/0738499196/",
       "url": "https://learning.oreilly.com/api/v1/book/0738499196/",
       "isbn": "0738499196",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Spring",
+      "secondary_topics": []
     }
   ]
 }

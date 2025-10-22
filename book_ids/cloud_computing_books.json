@@ -1,847 +1,1096 @@
 {
   "skill_name": "Cloud Computing",
-  "discovery_timestamp": 1760820562.571249,
-  "total_books": 120,
+  "discovery_timestamp": "2025-10-19 16:50:23",
+  "total_books": 121,
   "books": [
     {
       "title": "Cloud FinOps, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492098348/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492098348/",
       "isbn": "9781492098355",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing: Concepts, Technology, Security, and Architecture, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780138052287/",
       "url": "https://learning.oreilly.com/api/v1/book/9780138052287/",
       "isbn": "9780138052287",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Reliability Engineering in the Cloud: Strategies and Practices for AI-Powered Cloud-Based Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135395806/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135395806/",
       "isbn": "9780135395806",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Cloud Computing Journey",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781805122289/",
       "url": "https://learning.oreilly.com/api/v1/book/9781805122289/",
       "isbn": "9781805122289",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Self-Taught Cloud Computing Engineer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781805123705/",
       "url": "https://learning.oreilly.com/api/v1/book/9781805123705/",
       "isbn": "9781805123705",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Scaling Cloud FinOps: Proven Strategies to Accelerate Financial Success",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868803888/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868803888/",
       "isbn": "9798868803888",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Native Data Center Networking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492045595/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492045595/",
       "isbn": "9781492045601",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Cloud Leader’s Handbook: Strategically Innovate, Transform, and Scale Organizations",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484295267/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484295267/",
       "isbn": "9781484295267",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing For Dummies, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119546658/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119546658/",
       "isbn": "9781119546658",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Fog Computing for Intelligent Cloud IoT Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394174614/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394174614/",
       "isbn": "9781394174614",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "An Insiders Guide to Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137935819/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137935819/",
       "isbn": "9780137935819",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Bloom Filter",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128236468/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128236468/",
       "isbn": "9780128236468",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Technology Operating Models for Cloud and Edge",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837631391/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837631391/",
       "isbn": "9781837631391",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Native",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492053811/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492053811/",
       "isbn": "9781492053828",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing Demystified for Aspiring Professionals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803243313/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803243313/",
       "isbn": "9781803243313",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud and Edge Networking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789451283/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789451283/",
       "isbn": "9781789451283",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000338058/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000338058/",
       "isbn": "9781000338058",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Convergence of Cloud with AI for Big Data Analytics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119904885/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119904885/",
       "isbn": "9781119904885",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781284233988/",
       "url": "https://learning.oreilly.com/api/v1/book/9781284233988/",
       "isbn": "9781284233988",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "AWS Cloud Computing Concepts and Tech Analogies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804611425/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804611425/",
       "isbn": "9781804611425",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "What Is Cloud-Managed Networking?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098164942/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098164942/",
       "isbn": "9781098164935",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud FinOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492054610/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492054610/",
       "isbn": "9781492054573",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "HPC, Big Data, and AI Convergence Towards Exascale",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000485172/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000485172/",
       "isbn": "9781000485172",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Building a Future-Proof Cloud Infrastructure: A Unified Architecture for Network, Security, and Storage Services",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780136624226/",
       "url": "https://learning.oreilly.com/api/v1/book/9780136624226/",
       "isbn": "9780136624226",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing in Smart Energy Meter Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394193653/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394193653/",
       "isbn": "9781394193653",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Analytics for Industry 4.0",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110771664/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110771664/",
       "isbn": "9783110771664",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Overcoming IT Complexity",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492098485/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492098485/",
       "isbn": "9781492098492",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Adoption for Mission-Critical Workloads",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098149529/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098149529/",
       "isbn": "9781098149512",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Accelerating Cloud Adoption",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492055945/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492055945/",
       "isbn": "9781492055952",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Confident Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398616233/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398616233/",
       "isbn": "9781398616233",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "IT Necessities for a Distributed World",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098112158/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098112158/",
       "isbn": "9781098112141",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Architecting Modern Data Platforms",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491969267/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491969267/",
       "isbn": "9781491969229",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Service management and scheduling in cloud manufacturing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110470369/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110470369/",
       "isbn": "9783110470369",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128128114/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128128114/",
       "isbn": "9780128128114",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing Enabled Big-Data Analytics in Wireless Ad-hoc Networks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000539493/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000539493/",
       "isbn": "9781000539493",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "What Is the Cloud?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492052913/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492052913/",
       "isbn": "9781492052906",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Integration of Cloud Computing with Internet of Things",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119768876/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119768876/",
       "isbn": "9781119768876",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Fog Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119551690/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119551690/",
       "isbn": "9781119551690",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing: Concepts, Technology & Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133387568/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133387568/",
       "isbn": "9780133387568",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Building Intelligent Cloud Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492052319/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492052319/",
       "isbn": "9781492052272",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Enterprise Path to Service Mesh Architectures",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492041795/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492041795/",
       "isbn": "9781492041788",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "AI and Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128211489/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128211489/",
       "isbn": "9780128211489",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Modern Cloud Data Platform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492087953/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492087953/",
       "isbn": "9781492087946",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Beyond the Twelve-Factor App",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492042631/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492042631/",
       "isbn": "9781491944035",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Value of Open Source in the Cloud Era",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098103286/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098103286/",
       "isbn": "9781098103279",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing for Data Analysis",
       "id": "https://www.safaribooksonline.com/api/v1/book/20201229PAIML/",
       "url": "https://learning.oreilly.com/api/v1/book/20201229PAIML/",
       "isbn": "20201229PAIML",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439856420/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439856420/",
       "isbn": "9781351833097",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Read Aloud Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119677628/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119677628/",
       "isbn": "9781119677628",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Fog and Fogonomics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119501091/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119501091/",
       "isbn": "9781119501091",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Assured Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119428633/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119428633/",
       "isbn": "9781119428633",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Cloud-Based Demand-Driven Supply Chain",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119477334/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119477334/",
       "isbn": "9781119477334",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Control Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128187029/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128187029/",
       "isbn": "9780128187029",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing Design Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133858624/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133858624/",
       "isbn": "9780133858624",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Native Development Patterns and Best Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788473927/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788473927/",
       "isbn": "9781788473927",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
+    },
+    {
+      "title": "Cloud Computing Basics: A Non-Technical Introduction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484269213/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484269213/",
+      "isbn": "9781484269213",
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Federal Cloud Computing, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128096871/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128096871/",
       "isbn": "9780128096871",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "DBA Transformations: Building Your Career in the Transition to On-Demand Cloud Computing and Extreme Automation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484232439/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484232439/",
       "isbn": "9781484232439",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Mobile Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128096444/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128096444/",
       "isbn": "9780128096444",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118501214/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118501214/",
       "isbn": "9781118501214",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Big-Data Analytics for Cloud, IoT and Cognitive Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119247029/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119247029/",
       "isbn": "9781119247029",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439806814/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439806814/",
       "isbn": "9781351615365",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781315354927/",
       "url": "https://learning.oreilly.com/api/v1/book/9781315354927/",
       "isbn": "9781315354927",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Working in the Cloud: Using Web-Based Applications and Tools to Collaborate Online",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134788494/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134788494/",
       "isbn": "9780134788494",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Managing cloud native applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492037071/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492037071/",
       "isbn": "9781492037064",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "10 Steps to a Digital Practice in the Cloud, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781941651513/",
       "url": "https://learning.oreilly.com/api/v1/book/9781941651513/",
       "isbn": "9781941651513",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Customer Obsessed",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119326038/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119326038/",
       "isbn": "9781119326038",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Enterprise Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491907832/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491907832/",
       "isbn": "9781491907849",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Essentials of Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482205435/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482205435/",
       "isbn": "9781482205442",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Scalable Cloud Ops with Fugue",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680502671/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680502671/",
       "isbn": "9781680504606",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Networking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128007280/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128007280/",
       "isbn": "9780128008164",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Basics of Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124059320/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124059320/",
       "isbn": "9780124055216",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing with e-Science Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466591158/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466591158/",
       "isbn": "9781351831543",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "CSA Guide to Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124201255/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124201255/",
       "isbn": "9780124201859",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Take Control of the Cloud, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781947282858/",
       "url": "https://learning.oreilly.com/api/v1/book/9781947282858/",
       "isbn": "9781947282032",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Guide to Cloud Computing for Business and Technology Managers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482219227/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482219227/",
       "isbn": "9781482219234",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124046276/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124046276/",
       "isbn": "9780124046412",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Trustworthy Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119113508/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119113508/",
       "isbn": "9781119113508",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Distributed and Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123858801/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123858801/",
       "isbn": "9780128002049",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing: A Practical Approach for Learning and Implementation by Pearson",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781306983426/",
       "url": "https://learning.oreilly.com/api/v1/book/9781306983426/",
       "isbn": "9781306983426",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing Networking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482254822/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482254822/",
       "isbn": "9781482254822",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Open by Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492048398/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492048398/",
       "isbn": "9781492048398",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Mobile Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781498777230/",
       "url": "https://learning.oreilly.com/api/v1/book/9781498777230/",
       "isbn": "9781498777230",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9789332537439/",
       "url": "https://learning.oreilly.com/api/v1/book/9789332537439/",
       "isbn": "9789332537439",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing: Principles and Paradigms",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470887998/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470887998/",
       "isbn": "9780470887998",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Advances in Mobile Cloud Computing Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781498715140/",
       "url": "https://learning.oreilly.com/api/v1/book/9781498715140/",
       "isbn": "9781498715140",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Optimized Cloud Resource Management and Scheduling",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128014769/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128014769/",
       "isbn": "9780128016459",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing: Assessing the Risks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849283618/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849283618/",
       "isbn": "9781849283618",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Business Intelligence and the Cloud: Strategic Implementation Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118631720/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118631720/",
       "isbn": "9781118631720",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Capacity Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430249238/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430249238/",
       "isbn": "9781430249238",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Collaboration with Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124170407/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124170407/",
       "isbn": "9780124171237",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Reliability Assurance of Big Data in the Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128025727/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128025727/",
       "isbn": "9780128026687",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing Bible",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470903568/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470903568/",
       "isbn": "9780470903568",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Moving To The Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597497251/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597497251/",
       "isbn": "9781597497268",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124114548/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124114548/",
       "isbn": "9780124095397",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Database Development and Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466565050/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466565050/",
       "isbn": "9781466565050",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Spatial Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466593169/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466593169/",
       "isbn": "9781466593169",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Availability and Capacity Management in the Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849285513/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849285513/",
       "isbn": "9781849285513",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing: Automating the Virtualized Data Center",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132604000/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132604000/",
       "isbn": "9780132604000",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing and Digital Media",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466569188/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466569188/",
       "isbn": "9781466569188",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Federal Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597497374/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597497374/",
       "isbn": "9781597497398",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Web Services, Service-Oriented Architectures, and Cloud Computing, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123983572/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123983572/",
       "isbn": "9780124072008",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449647407/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449647407/",
       "isbn": "9781449647407",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloudonomics: The Business Value of Cloud Computing, + Website",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118282885/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118282885/",
       "isbn": "9781118229965",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780171302/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780171302/",
       "isbn": "9781780171319",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Economics of Cloud Computing: An Overview For Decision Makers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132904186/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132904186/",
       "isbn": "9780132904186",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Transitioning the Supply Network of Chennai Engineering Ltd to Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133585971/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133585971/",
       "isbn": "9780133585971",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Temporal QOS Management in Scientific Cloud Workflow Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123970107/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123970107/",
       "isbn": "9780123972958",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Business Models for the Social Mobile Cloud: Transform Your Business Using Social Media, Mobile Internet, and Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118494196/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118494196/",
       "isbn": "9781118494196",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "The Cloud at Your Service",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781935182528/",
       "url": "https://learning.oreilly.com/api/v1/book/9781935182528/",
       "isbn": "9781935182528",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Building Applications in the Cloud: Concepts, Patterns, and Projects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132107891/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132107891/",
       "isbn": "9780132107891",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Standards: Agreements That Hold Together Clouds",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430241102/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430241102/",
       "isbn": "9781430241102",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "To the Cloud: Cloud Powering an Enterprise",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071792219/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071792219/",
       "isbn": "9780071792219",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Developing and Securing the Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439862919/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439862919/",
       "isbn": "9781439862926",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing, A Practical Approach",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071626941/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071626941/",
       "isbn": "9780071626941",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Surfing: A New Way to Think About Risk, Innovation, Scale, and Success",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781937134105/",
       "url": "https://learning.oreilly.com/api/v1/book/9781937134105/",
       "isbn": "9781937134099",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing For Dummies®",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470484708/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470484708/",
       "isbn": "9780470484708",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Silver Clouds, Dark Linings: A Concise Guide to Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132599672/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132599672/",
       "isbn": "9780132599672",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Above the Clouds: Managing Risk in the World of Cloud Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849280310/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849280310/",
       "isbn": "9781849280310",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing: Web-Based Applications That Change the Way You Work and Collaborate Online",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780768686227/",
       "url": "https://learning.oreilly.com/api/v1/book/9780768686227/",
       "isbn": "9780768686227",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing with the Windows® Azure™ Platform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470506387/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470506387/",
       "isbn": "9780470506387",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Computing and SOA Convergence in Your Enterprise: A Step-by-Step Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321659392/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321659392/",
       "isbn": "9780321659392",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Cloud Computing",
+      "secondary_topics": []
     }
   ]
 }

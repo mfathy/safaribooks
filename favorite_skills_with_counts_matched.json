@@ -1,0 +1,1204 @@
+{
+  "metadata": {
+    "total_favorite_skills": 298,
+    "total_oreilly_skills_json": 1000,
+    "total_oreilly_skills_txt": 1680,
+    "total_oreilly_skills_merged": 1680,
+    "matched_skills": 297,
+    "skipped_empty_skills": 0,
+    "skipped_zero_books": 12,
+    "matching_threshold": 0.5,
+    "generated_at": "2025-10-19T12:45:54.173541Z",
+    "description": "Favorite skills matched with O'Reilly book counts using enhanced fuzzy matching from multiple data sources"
+  },
+  "skills": [
+    {
+      "title": "Business",
+      "books": 16462
+    },
+    {
+      "title": "Software Development",
+      "books": 9068
+    },
+    {
+      "title": "Data Engineering",
+      "books": 3470
+    },
+    {
+      "title": "Web & Mobile",
+      "books": 3005
+    },
+    {
+      "title": "Business Strategy",
+      "books": 2697
+    },
+    {
+      "title": "Web Development",
+      "books": 2456
+    },
+    {
+      "title": "Soft Skills",
+      "books": 2424
+    },
+    {
+      "title": "Leadership and Management",
+      "books": 2366
+    },
+    {
+      "title": "Data Science",
+      "books": 2236
+    },
+    {
+      "title": "AI & ML",
+      "books": 1663
+    },
+    {
+      "title": "Project & Product Management",
+      "books": 1228
+    },
+    {
+      "title": "Business / Personal Technology",
+      "books": 1120
+    },
+    {
+      "title": "Organizational Leadership",
+      "books": 1062
+    },
+    {
+      "title": "Professional Development",
+      "books": 991
+    },
+    {
+      "title": "Machine Learning",
+      "books": 958
+    },
+    {
+      "title": "Cloud Computing",
+      "books": 937
+    },
+    {
+      "title": "Java",
+      "books": 920
+    },
+    {
+      "title": "Professional Communication",
+      "books": 920
+    },
+    {
+      "title": "Computer Networking",
+      "books": 916
+    },
+    {
+      "title": "Artificial Intelligence (AI)",
+      "books": 704
+    },
+    {
+      "title": "Project Management",
+      "books": 700
+    },
+    {
+      "title": "Python",
+      "books": 666
+    },
+    {
+      "title": "Software Collaboration",
+      "books": 615
+    },
+    {
+      "title": "Internet of Things (IoT)",
+      "books": 601
+    },
+    {
+      "title": "Software Architecture",
+      "books": 547
+    },
+    {
+      "title": "Mobile Development",
+      "books": 544
+    },
+    {
+      "title": "Product Design",
+      "books": 522
+    },
+    {
+      "title": "Product Management",
+      "books": 462
+    },
+    {
+      "title": "Career Development",
+      "books": 430
+    },
+    {
+      "title": "Entrepreneurship",
+      "books": 416
+    },
+    {
+      "title": "DevOps",
+      "books": 402
+    },
+    {
+      "title": "Computer Science",
+      "books": 401
+    },
+    {
+      "title": "Personal Finance",
+      "books": 395
+    },
+    {
+      "title": "Computer-Aided Design (CAD)",
+      "books": 370
+    },
+    {
+      "title": "Agile",
+      "books": 291
+    },
+    {
+      "title": "Business Intelligence",
+      "books": 291
+    },
+    {
+      "title": "Coding Practices",
+      "books": 286
+    },
+    {
+      "title": "Trading Stocks",
+      "books": 282
+    },
+    {
+      "title": "Containers",
+      "books": 262
+    },
+    {
+      "title": "Deep Learning",
+      "books": 235
+    },
+    {
+      "title": "Web & Application Servers",
+      "books": 221
+    },
+    {
+      "title": "Blockchain / Decentralized Apps",
+      "books": 220
+    },
+    {
+      "title": "Blockchain",
+      "books": 216
+    },
+    {
+      "title": "Native Android Development",
+      "books": 213
+    },
+    {
+      "title": "Culture in Business",
+      "books": 206
+    },
+    {
+      "title": "Video Production",
+      "books": 199
+    },
+    {
+      "title": "Executive Coaching",
+      "books": 173
+    },
+    {
+      "title": "Shell Scripting",
+      "books": 170
+    },
+    {
+      "title": "Content Management",
+      "books": 169
+    },
+    {
+      "title": "Confidence / Motivation",
+      "books": 166
+    },
+    {
+      "title": "Natural Language Processing",
+      "books": 165
+    },
+    {
+      "title": "Generative AI",
+      "books": 160
+    },
+    {
+      "title": "Cloud Architecture",
+      "books": 156
+    },
+    {
+      "title": "Strategic Thinking",
+      "books": 156
+    },
+    {
+      "title": "Spring",
+      "books": 154
+    },
+    {
+      "title": "Technical Analysis",
+      "books": 152
+    },
+    {
+      "title": "Configuration Management",
+      "books": 150
+    },
+    {
+      "title": "Reviews & Metrics",
+      "books": 147
+    },
+    {
+      "title": "Lean",
+      "books": 145
+    },
+    {
+      "title": "Business Ethics",
+      "books": 144
+    },
+    {
+      "title": "Emotional Intelligence",
+      "books": 139
+    },
+    {
+      "title": "Algorithms",
+      "books": 138
+    },
+    {
+      "title": "Native iOS Development",
+      "books": 137
+    },
+    {
+      "title": "Renewable Energy",
+      "books": 127
+    },
+    {
+      "title": "Monitoring",
+      "books": 123
+    },
+    {
+      "title": "Video Editing",
+      "books": 122
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "books": 120
+    },
+    {
+      "title": "Life-Work Balance",
+      "books": 118
+    },
+    {
+      "title": "Creative Writing",
+      "books": 110
+    },
+    {
+      "title": "Kubernetes",
+      "books": 109
+    },
+    {
+      "title": "Presentation Skills",
+      "books": 108
+    },
+    {
+      "title": "React",
+      "books": 108
+    },
+    {
+      "title": "Nanotechnology",
+      "books": 106
+    },
+    {
+      "title": "Personal Productivity",
+      "books": 106
+    },
+    {
+      "title": "Business Negotiation",
+      "books": 105
+    },
+    {
+      "title": "Customer Experience",
+      "books": 104
+    },
+    {
+      "title": "Public Relations",
+      "books": 104
+    },
+    {
+      "title": "Computer Vision",
+      "books": 98
+    },
+    {
+      "title": "Architectural Patterns",
+      "books": 97
+    },
+    {
+      "title": "Design Process",
+      "books": 95
+    },
+    {
+      "title": "Systems Engineering",
+      "books": 93
+    },
+    {
+      "title": "Critical Thinking",
+      "books": 91
+    },
+    {
+      "title": "Fraud Prevention",
+      "books": 86
+    },
+    {
+      "title": "Communication Strategy",
+      "books": 85
+    },
+    {
+      "title": "Application Programming Interface (API)",
+      "books": 83
+    },
+    {
+      "title": "Application Security",
+      "books": 83
+    },
+    {
+      "title": "Microservices",
+      "books": 83
+    },
+    {
+      "title": "AI Principles",
+      "books": 82
+    },
+    {
+      "title": "Design Patterns",
+      "books": 82
+    },
+    {
+      "title": "Angular",
+      "books": 80
+    },
+    {
+      "title": "Cryptocurrency",
+      "books": 80
+    },
+    {
+      "title": "Stress Management",
+      "books": 79
+    },
+    {
+      "title": "Docker",
+      "books": 78
+    },
+    {
+      "title": "Business Architecture",
+      "books": 75
+    },
+    {
+      "title": "Technical Writing",
+      "books": 75
+    },
+    {
+      "title": "Software Estimation",
+      "books": 72
+    },
+    {
+      "title": "Interviewing for a Job",
+      "books": 70
+    },
+    {
+      "title": "Process Management",
+      "books": 70
+    },
+    {
+      "title": "Python Web Frameworks",
+      "books": 70
+    },
+    {
+      "title": "Google Cloud",
+      "books": 69
+    },
+    {
+      "title": "Go",
+      "books": 67
+    },
+    {
+      "title": "Enterprise Architecture",
+      "books": 66
+    },
+    {
+      "title": "TensorFlow",
+      "books": 66
+    },
+    {
+      "title": "Web Performance",
+      "books": 65
+    },
+    {
+      "title": "Kotlin",
+      "books": 62
+    },
+    {
+      "title": "Consulting",
+      "books": 60
+    },
+    {
+      "title": "Git",
+      "books": 60
+    },
+    {
+      "title": "Program Management",
+      "books": 60
+    },
+    {
+      "title": "Large Language Models (LLMs)",
+      "books": 59
+    },
+    {
+      "title": "Public Speaking",
+      "books": 59
+    },
+    {
+      "title": "Goals",
+      "books": 55
+    },
+    {
+      "title": "Internet Protocols",
+      "books": 52
+    },
+    {
+      "title": "AWS Certifications",
+      "books": 51
+    },
+    {
+      "title": "Meetings",
+      "books": 51
+    },
+    {
+      "title": "Collaboration",
+      "books": 50
+    },
+    {
+      "title": "FinTech",
+      "books": 50
+    },
+    {
+      "title": "Service-Oriented Architecture (SOA)",
+      "books": 50
+    },
+    {
+      "title": "Urban Planning",
+      "books": 49
+    },
+    {
+      "title": "Conflict Resolution",
+      "books": 48
+    },
+    {
+      "title": "Parallel Computing",
+      "books": 48
+    },
+    {
+      "title": "Design Thinking",
+      "books": 46
+    },
+    {
+      "title": "Problem Solving",
+      "books": 45
+    },
+    {
+      "title": "Disaster Recovery",
+      "books": 44
+    },
+    {
+      "title": "Django",
+      "books": 43
+    },
+    {
+      "title": "Memory Improvement / Mental Exercise",
+      "books": 41
+    },
+    {
+      "title": "OpenCV",
+      "books": 40
+    },
+    {
+      "title": "Scrum",
+      "books": 40
+    },
+    {
+      "title": "Distributed Systems",
+      "books": 39
+    },
+    {
+      "title": "GPT",
+      "books": 37
+    },
+    {
+      "title": "Proposal Writing",
+      "books": 37
+    },
+    {
+      "title": "Chatbots",
+      "books": 36
+    },
+    {
+      "title": "Industrial Design",
+      "books": 34
+    },
+    {
+      "title": "Infrastructure as Code",
+      "books": 34
+    },
+    {
+      "title": "Computer Forensics",
+      "books": 33
+    },
+    {
+      "title": "Programming Fundamentals",
+      "books": 33
+    },
+    {
+      "title": "Social Engineering",
+      "books": 33
+    },
+    {
+      "title": "Enterprise Service Bus",
+      "books": 31
+    },
+    {
+      "title": "Test-Driven Development (TDD)",
+      "books": 31
+    },
+    {
+      "title": "Web Mapping",
+      "books": 31
+    },
+    {
+      "title": "Functional Programming",
+      "books": 30
+    },
+    {
+      "title": "Diversity and Inclusion",
+      "books": 29
+    },
+    {
+      "title": "Object-Oriented Architecture",
+      "books": 28
+    },
+    {
+      "title": "Engineering Leadership",
+      "books": 27
+    },
+    {
+      "title": "Incident Response",
+      "books": 27
+    },
+    {
+      "title": "Regression Analysis",
+      "books": 27
+    },
+    {
+      "title": "Elasticsearch",
+      "books": 26
+    },
+    {
+      "title": "Ethereum",
+      "books": 26
+    },
+    {
+      "title": "Reinforcement Learning",
+      "books": 26
+    },
+    {
+      "title": "Usability",
+      "books": 26
+    },
+    {
+      "title": "Resumes & Cover Letters",
+      "books": 25
+    },
+    {
+      "title": "Serverless Architecture",
+      "books": 25
+    },
+    {
+      "title": "Autonomous Vehicles",
+      "books": 24
+    },
+    {
+      "title": "Web Scraping",
+      "books": 24
+    },
+    {
+      "title": "bash",
+      "books": 23
+    },
+    {
+      "title": "Concurrency",
+      "books": 23
+    },
+    {
+      "title": "Data Science as a Profession",
+      "books": 23
+    },
+    {
+      "title": "Graph Analytics",
+      "books": 23
+    },
+    {
+      "title": "Web 2.0",
+      "books": 23
+    },
+    {
+      "title": "Enterprise Data Strategy",
+      "books": 22
+    },
+    {
+      "title": "Remote Work Management",
+      "books": 22
+    },
+    {
+      "title": "Terraform",
+      "books": 22
+    },
+    {
+      "title": "AdWords",
+      "books": 21
+    },
+    {
+      "title": "Bitcoin",
+      "books": 21
+    },
+    {
+      "title": "Drones",
+      "books": 21
+    },
+    {
+      "title": "Observability",
+      "books": 21
+    },
+    {
+      "title": "Refactoring",
+      "books": 21
+    },
+    {
+      "title": "AI Governance",
+      "books": 20
+    },
+    {
+      "title": "Continuous Delivery",
+      "books": 20
+    },
+    {
+      "title": "Domain-Driven Design",
+      "books": 20
+    },
+    {
+      "title": "Flutter",
+      "books": 20
+    },
+    {
+      "title": "GitHub",
+      "books": 20
+    },
+    {
+      "title": "Graph Databases",
+      "books": 20
+    },
+    {
+      "title": "React Native",
+      "books": 20
+    },
+    {
+      "title": "RESTful API",
+      "books": 20
+    },
+    {
+      "title": "English & Prose",
+      "books": 19
+    },
+    {
+      "title": "MLOps",
+      "books": 18
+    },
+    {
+      "title": "Conducting Job Interviews",
+      "books": 17
+    },
+    {
+      "title": "Crowdsourcing",
+      "books": 17
+    },
+    {
+      "title": "Fundamental Analysis",
+      "books": 17
+    },
+    {
+      "title": "Regular Expressions",
+      "books": 17
+    },
+    {
+      "title": "Remote Work",
+      "books": 16
+    },
+    {
+      "title": "Software Defined Networking",
+      "books": 16
+    },
+    {
+      "title": "Automated Build Tools",
+      "books": 15
+    },
+    {
+      "title": "AWS Lambda",
+      "books": 15
+    },
+    {
+      "title": "CISSP (Certified Information Systems Security Professional)",
+      "books": 15
+    },
+    {
+      "title": "DevSecOps",
+      "books": 15
+    },
+    {
+      "title": "Pattern Recognition",
+      "books": 14
+    },
+    {
+      "title": "A/B Testing",
+      "books": 13
+    },
+    {
+      "title": "Enterprise Resource Planning",
+      "books": 13
+    },
+    {
+      "title": "Prompt Engineering",
+      "books": 13
+    },
+    {
+      "title": "Continuous Integration",
+      "books": 12
+    },
+    {
+      "title": "Parenting",
+      "books": 12
+    },
+    {
+      "title": "Project Management Professional (PMP)",
+      "books": 12
+    },
+    {
+      "title": "Domain Specific Languages",
+      "books": 11
+    },
+    {
+      "title": "Fraud Detection",
+      "books": 11
+    },
+    {
+      "title": "Computer Game AI",
+      "books": 10
+    },
+    {
+      "title": "Dart",
+      "books": 10
+    },
+    {
+      "title": "Feature Engineering",
+      "books": 10
+    },
+    {
+      "title": "Google App Engine",
+      "books": 10
+    },
+    {
+      "title": "Google BigQuery",
+      "books": 10
+    },
+    {
+      "title": "Progressive Web Apps",
+      "books": 10
+    },
+    {
+      "title": "Automation Tools",
+      "books": 9
+    },
+    {
+      "title": "Border Gateway Protocol",
+      "books": 9
+    },
+    {
+      "title": "Computer Numerical Control (CNC)",
+      "books": 9
+    },
+    {
+      "title": "Kanban",
+      "books": 9
+    },
+    {
+      "title": "Reputation Systems",
+      "books": 9
+    },
+    {
+      "title": "Chaos Engineering",
+      "books": 8
+    },
+    {
+      "title": "Computer Processors",
+      "books": 8
+    },
+    {
+      "title": "Decentralized Finance (DeFi)",
+      "books": 8
+    },
+    {
+      "title": "Documentation",
+      "books": 8
+    },
+    {
+      "title": "Generative Models",
+      "books": 8
+    },
+    {
+      "title": "OpenAI",
+      "books": 8
+    },
+    {
+      "title": "Processing (programming language)",
+      "books": 8
+    },
+    {
+      "title": "Prototyping Tools",
+      "books": 8
+    },
+    {
+      "title": "RabbitMQ",
+      "books": 8
+    },
+    {
+      "title": "Software Design",
+      "books": 8
+    },
+    {
+      "title": "Unsupervised Learning",
+      "books": 8
+    },
+    {
+      "title": "AI Security",
+      "books": 7
+    },
+    {
+      "title": "Dall-E",
+      "books": 7
+    },
+    {
+      "title": "Extreme Programming",
+      "books": 7
+    },
+    {
+      "title": "Google Apps Script",
+      "books": 7
+    },
+    {
+      "title": "Software Planning",
+      "books": 7
+    },
+    {
+      "title": "Software Reverse Engineering",
+      "books": 7
+    },
+    {
+      "title": "Web Scalability",
+      "books": 7
+    },
+    {
+      "title": "Clean Code",
+      "books": 6
+    },
+    {
+      "title": "COBOL",
+      "books": 6
+    },
+    {
+      "title": "gRPC",
+      "books": 6
+    },
+    {
+      "title": "Load Balancing",
+      "books": 6
+    },
+    {
+      "title": "Object-Oriented Programming",
+      "books": 6
+    },
+    {
+      "title": "Palo Alto Networks",
+      "books": 6
+    },
+    {
+      "title": "Play Framework",
+      "books": 6
+    },
+    {
+      "title": "User Acceptance Testing",
+      "books": 6
+    },
+    {
+      "title": "Wireframes & Prototypes",
+      "books": 6
+    },
+    {
+      "title": "Business Software",
+      "books": 5
+    },
+    {
+      "title": "Evolutionary Architecture",
+      "books": 5
+    },
+    {
+      "title": "Generative Adversarial Networks (GANs)",
+      "books": 5
+    },
+    {
+      "title": "LangChain",
+      "books": 5
+    },
+    {
+      "title": "Lean UX",
+      "books": 5
+    },
+    {
+      "title": "Mind Mapping",
+      "books": 5
+    },
+    {
+      "title": "Redux",
+      "books": 5
+    },
+    {
+      "title": "Software as a Service (SaaS)",
+      "books": 5
+    },
+    {
+      "title": "WebSocket",
+      "books": 5
+    },
+    {
+      "title": "Appium",
+      "books": 4
+    },
+    {
+      "title": "Business Law",
+      "books": 4
+    },
+    {
+      "title": "Certified Associate in Project Management Exam (CAPM)",
+      "books": 4
+    },
+    {
+      "title": "CISM (Certified Information Security Manager)",
+      "books": 4
+    },
+    {
+      "title": "Construction Project Management",
+      "books": 4
+    },
+    {
+      "title": "Environmental Science",
+      "books": 4
+    },
+    {
+      "title": "Event-Driven Architecture",
+      "books": 4
+    },
+    {
+      "title": "Event-Driven Microservices",
+      "books": 4
+    },
+    {
+      "title": "GitHub Copilot",
+      "books": 4
+    },
+    {
+      "title": "Microstrategy",
+      "books": 4
+    },
+    {
+      "title": "Mockito",
+      "books": 4
+    },
+    {
+      "title": "WebRTC",
+      "books": 4
+    },
+    {
+      "title": "AutoML",
+      "books": 3
+    },
+    {
+      "title": "Certified Business Analysis Professional (CBAP)",
+      "books": 3
+    },
+    {
+      "title": "Connected Device Design",
+      "books": 3
+    },
+    {
+      "title": "Design Sprints",
+      "books": 3
+    },
+    {
+      "title": "AWS AI & Machine Learning",
+      "books": 2
+    },
+    {
+      "title": "Continuous Deployment",
+      "books": 2
+    },
+    {
+      "title": "Decentralized Applications",
+      "books": 2
+    },
+    {
+      "title": "Jetpack Compose",
+      "books": 2
+    },
+    {
+      "title": "Midjourney",
+      "books": 2
+    },
+    {
+      "title": "ML & AI",
+      "books": 2
+    },
+    {
+      "title": "Pair Programming",
+      "books": 2
+    },
+    {
+      "title": "Program Management Professional (PgMP)",
+      "books": 2
+    },
+    {
+      "title": "Software Supply Chain Security",
+      "books": 2
+    },
+    {
+      "title": "AI Agents",
+      "books": 1
+    },
+    {
+      "title": "AI Ethics",
+      "books": 1
+    },
+    {
+      "title": "AI for Every Day",
+      "books": 1
+    },
+    {
+      "title": "Business Rules Engine",
+      "books": 1
+    },
+    {
+      "title": "Certified Chief Information Security Officer (CISO)",
+      "books": 1
+    },
+    {
+      "title": "Coding Standards",
+      "books": 1
+    },
+    {
+      "title": "Commodities Trading",
+      "books": 1
+    },
+    {
+      "title": "Component-Based Architecture",
+      "books": 1
+    },
+    {
+      "title": "Developer Advocacy",
+      "books": 1
+    },
+    {
+      "title": "Event-Driven Data Mesh",
+      "books": 1
+    },
+    {
+      "title": "Gemini",
+      "books": 1
+    },
+    {
+      "title": "GitHub Actions",
+      "books": 1
+    },
+    {
+      "title": "Job Scheduling",
+      "books": 1
+    },
+    {
+      "title": "Mikado Method",
+      "books": 1
+    },
+    {
+      "title": "Minimum Viable Product",
+      "books": 1
+    },
+    {
+      "title": "Platform Engineering",
+      "books": 1
+    },
+    {
+      "title": "Protocol Buffers",
+      "books": 1
+    },
+    {
+      "title": "Reactive Programming",
+      "books": 1
+    },
+    {
+      "title": "Algorithmic Stock Trading",
+      "books": 0
+    },
+    {
+      "title": "Certified Kubernetes Application Developer (CKAD)",
+      "books": 0
+    },
+    {
+      "title": "Certified ScrumMaster Exam",
+      "books": 0
+    },
+    {
+      "title": "Certified Technology Specialist (CTS)",
+      "books": 0
+    },
+    {
+      "title": "ChatGPT",
+      "books": 0
+    },
+    {
+      "title": "Fullstack Web Development",
+      "books": 0
+    },
+    {
+      "title": "Grid Computing",
+      "books": 0
+    },
+    {
+      "title": "Quantum Computing Fundamentals",
+      "books": 0
+    },
+    {
+      "title": "Reactive Spring",
+      "books": 0
+    },
+    {
+      "title": "Release Management",
+      "books": 0
+    },
+    {
+      "title": "Software Freelancing",
+      "books": 0
+    },
+    {
+      "title": "System Design",
+      "books": 0
+    }
+  ]
+}

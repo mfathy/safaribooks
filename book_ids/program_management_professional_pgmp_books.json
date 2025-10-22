@@ -1,6 +1,6 @@
 {
   "skill_name": "Program Management Professional (PgMP)",
-  "discovery_timestamp": 1760820647.4217432,
+  "discovery_timestamp": "2025-10-19 15:38:59",
   "total_books": 3,
   "books": [
     {
@@ -8,21 +8,27 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9780117094604/",
       "url": "https://learning.oreilly.com/api/v1/book/9780117094604/",
       "isbn": "9780117094604",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Program Management Professional (PgMP)",
+      "secondary_topics": []
     },
     {
       "title": "Road Passenger Transport Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749497026/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749497026/",
       "isbn": "9780749497026",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Program Management Professional (PgMP)",
+      "secondary_topics": []
     },
     {
       "title": "Transport Operator Licensing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749480547/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749480547/",
       "isbn": "9780749480547",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Program Management Professional (PgMP)",
+      "secondary_topics": []
     }
   ]
 }

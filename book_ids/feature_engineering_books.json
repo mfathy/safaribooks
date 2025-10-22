@@ -1,6 +1,6 @@
 {
   "skill_name": "Feature Engineering",
-  "discovery_timestamp": 1760820589.401925,
+  "discovery_timestamp": "2025-10-19 17:22:30",
   "total_books": 10,
   "books": [
     {
@@ -8,70 +8,90 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617299797/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617299797/",
       "isbn": "9781617299797",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Feature Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Python Feature Engineering Cookbook - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804611302/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804611302/",
       "isbn": "9781804611302",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Feature Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Feature Engineering for Machine Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491953235/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491953235/",
       "isbn": "9781491953242",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Feature Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Python Feature Engineering Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789806311/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789806311/",
       "isbn": "9781789806311",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Feature Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Learning Technology",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398608764/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398608764/",
       "isbn": "9781398608764",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Feature Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Feature Engineering Made Easy",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787287600/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787287600/",
       "isbn": "9781787287600",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Feature Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Feature Extraction and Image Processing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780080506258/",
       "url": "https://learning.oreilly.com/api/v1/book/9780080506258/",
       "isbn": "9780080506258",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Feature Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Modeling Software Behavior",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781420080766/",
       "url": "https://learning.oreilly.com/api/v1/book/9781420080766/",
       "isbn": "9781420080766",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Feature Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Foundations of Instructional and Performance Technology",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781599961361/",
       "url": "https://learning.oreilly.com/api/v1/book/9781599961361/",
       "isbn": "9781599961361",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Feature Engineering",
+      "secondary_topics": []
     },
     {
       "title": "Benchmarking—Evaluation & Research",
       "id": "https://www.safaribooksonline.com/api/v1/book/759801/",
       "url": "https://learning.oreilly.com/api/v1/book/759801/",
       "isbn": "759801",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Feature Engineering",
+      "secondary_topics": []
     }
   ]
 }

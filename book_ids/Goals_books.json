@@ -1,357 +1,484 @@
 {
   "skill_name": "Goals",
-  "discovery_timestamp": 1760820597.299671,
-  "total_books": 50,
+  "discovery_timestamp": "2025-10-19 17:23:09",
+  "total_books": 53,
   "books": [
     {
       "title": "Big Goals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394273317/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394273317/",
       "isbn": "9781394273317",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Driving Value with Sprint Goals: Humble Plans, Exceptional Results",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137381876/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137381876/",
       "isbn": "9780137381876",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "What Works",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119906070/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119906070/",
       "isbn": "9781119906070",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "A Career Is a Promise",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000993561/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000993561/",
       "isbn": "9781000993561",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Stretch",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119087250/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119087250/",
       "isbn": "9781119087250",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Business Schools, Leadership and the Sustainable Development Goals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000831788/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000831788/",
       "isbn": "9781000831788",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Developing a Successful Subsidiary Strategy",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000936063/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000936063/",
       "isbn": "9781000936063",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Strategic Workforce Planning, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398607286/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398607286/",
       "isbn": "9781398607286",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "House Goals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000710588/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000710588/",
       "isbn": "9781000710588",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
+    },
+    {
+      "title": "An Introduction to Cybernetic Synergy",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000377064/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000377064/",
+      "isbn": "9781000377064",
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Inflection Points",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119887386/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119887386/",
       "isbn": "9781119887386",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "The Courage to Lead through Values",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000092899/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000092899/",
       "isbn": "9781000092899",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "The Big Stretch: 90 Days to Expand Your Dreams, Crush Your Goals, and Create Your Own Success",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781260456813/",
       "url": "https://learning.oreilly.com/api/v1/book/9781260456813/",
       "isbn": "9781260456813",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Nine Things Successful People Do Differently",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633695702/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633695702/",
       "isbn": "9781633695702",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to OKRs",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781491971475/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781491971475/",
+      "isbn": "9781491960271",
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "How to Organize Yourself, 7th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398606333/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398606333/",
       "isbn": "9781398606333",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Keeping Score",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439886854/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439886854/",
       "isbn": "9781439886854",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Turning Goals into Results (Harvard Business Review Classics)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633692596/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633692596/",
       "isbn": "9781633692596",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Objectives and Key Results",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119252399/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119252399/",
       "isbn": "9781119252399",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "You Lead",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789666267/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789666267/",
       "isbn": "9781789666267",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Clocking Out",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781586446567/",
       "url": "https://learning.oreilly.com/api/v1/book/9781586446567/",
       "isbn": "9781586446567",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "The Rules of Success",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781351183284/",
       "url": "https://learning.oreilly.com/api/v1/book/9781351183284/",
       "isbn": "9781351183284",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "It All Matters",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119417064/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119417064/",
       "isbn": "9781119417064",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Real Ambition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780857086631/",
       "url": "https://learning.oreilly.com/api/v1/book/9780857086631/",
       "isbn": "9780857086631",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Fear",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781632650115/",
       "url": "https://learning.oreilly.com/api/v1/book/9781632650115/",
       "isbn": "9781632650115",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
+    },
+    {
+      "title": "5% More",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119281863/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119281863/",
+      "isbn": "9781119281863",
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "People with Purpose",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749476960/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749476960/",
       "isbn": "9780749476960",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Goals-Based Wealth Management: An Integrated and Practical Approach to Changing the Structure of Wealth Advisory Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118995938/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118995938/",
       "isbn": "9781118995907",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Unstoppable: Using the Power of Focus to Take Action and Achieve your Goals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780857085832/",
       "url": "https://learning.oreilly.com/api/v1/book/9780857085832/",
       "isbn": "9780857085825",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "In Quest of the Last Victory, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9789332558304/",
       "url": "https://learning.oreilly.com/api/v1/book/9789332558304/",
       "isbn": "9789332558304",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Leading Your Business Forward: Aligning Goals, People, and Systems for Sustainable Success",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071817134/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071817134/",
       "isbn": "9780071817141",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Yes, I Can!: Using Visualization To Achieve Your Goals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780857083258/",
       "url": "https://learning.oreilly.com/api/v1/book/9780857083258/",
       "isbn": "9780857083258",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Make It Fly!",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780273785392/",
       "url": "https://learning.oreilly.com/api/v1/book/9780273785392/",
       "isbn": "9780273794547",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Perfect Phrases for Setting Performance Goals, Second Edition, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071745055/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071745055/",
       "isbn": "9780071759335",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "One Word that will Change Your Life",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118548899/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118548899/",
       "isbn": "9781118542415",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Best Practices: Achieving Goals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780061738913/",
       "url": "https://learning.oreilly.com/api/v1/book/9780061738913/",
       "isbn": "9780061738913",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Establishing Goals for Living Rich",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132616058/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132616058/",
       "isbn": "9780132616058",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Nine Things Successful People Do Differently",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781422185612/",
       "url": "https://learning.oreilly.com/api/v1/book/9781422185612/",
       "isbn": "9781422193402",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "The Greater Goal",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781609942885/",
       "url": "https://learning.oreilly.com/api/v1/book/9781609942885/",
       "isbn": "9781609942892",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Setting Performance Targets",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781606491379/",
       "url": "https://learning.oreilly.com/api/v1/book/9781606491379/",
       "isbn": "9781606491386",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Think Yourself Successful: Rewire Your Mind, Become Confident, and Achieve Your Goals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071741248/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071741248/",
       "isbn": "9780071741248",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Goals and Games: Designing Your Employee’s Goals Like Game Designers Design Video Games",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132143400/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132143400/",
       "isbn": "9780132143400",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Goal Setting, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780814401699/",
       "url": "https://learning.oreilly.com/api/v1/book/9780814401699/",
       "isbn": "9780814410479",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "In Quest of the Last Victory",
       "id": "https://www.safaribooksonline.com/api/v1/book/9788131761205/",
       "url": "https://learning.oreilly.com/api/v1/book/9788131761205/",
       "isbn": "9788131761205",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Motivating Those You Lead",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132180085/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132180085/",
       "isbn": "9780132180085",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Setting Goals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781422172667/",
       "url": "https://learning.oreilly.com/api/v1/book/9781422172667/",
       "isbn": "9781422172667",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Consider Your Goals When Writing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132159616/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132159616/",
       "isbn": "9780132159616",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Shared Goals, Shared Knowledge, and Mutual Respect = A Shared Mission",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132312806/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132312806/",
       "isbn": "9780132312806",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Commitment and Performance: Make Your Failures Pay Off for You!",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137040384/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137040384/",
       "isbn": "9780137040384",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Want It, See It, Get It!: Visualize Your Way to Success",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780814413036/",
       "url": "https://learning.oreilly.com/api/v1/book/9780814413036/",
       "isbn": "9780814413036",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Relevance: Hitting Your Goals by Knowing What Matters",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780787997595/",
       "url": "https://learning.oreilly.com/api/v1/book/9780787997595/",
       "isbn": "9780787997595",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Managing Brand YOU: Seven Steps to Creating Your Most Successful Self",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780814410691/",
       "url": "https://learning.oreilly.com/api/v1/book/9780814410691/",
       "isbn": "9780814410691",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     },
     {
       "title": "Reaching Your Development Goals",
       "id": "https://www.safaribooksonline.com/api/v1/book/1882197372/",
       "url": "https://learning.oreilly.com/api/v1/book/1882197372/",
       "isbn": "9781604917307",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Goals",
+      "secondary_topics": []
     }
   ]
 }

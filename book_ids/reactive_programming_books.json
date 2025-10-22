@@ -1,6 +1,6 @@
 {
   "skill_name": "Reactive Programming",
-  "discovery_timestamp": 1760820655.973081,
+  "discovery_timestamp": "2025-10-19 14:33:39",
   "total_books": 1,
   "books": [
     {
@@ -8,7 +8,9 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633430105/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633430105/",
       "isbn": "9781633430105",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Reactive Programming",
+      "secondary_topics": []
     }
   ]
 }

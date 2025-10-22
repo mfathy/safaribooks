@@ -1,6 +1,6 @@
 {
   "skill_name": "Clean Code",
-  "discovery_timestamp": 1760820559.058906,
+  "discovery_timestamp": "2025-10-19 14:49:26",
   "total_books": 6,
   "books": [
     {
@@ -8,42 +8,54 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098144715/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098144715/",
       "isbn": "9781098144722",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Clean Code",
+      "secondary_topics": []
     },
     {
       "title": "Clean Code with C# - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837635191/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837635191/",
       "isbn": "9781837635191",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Clean Code",
+      "secondary_topics": []
     },
     {
       "title": "The Art of Clean Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098141349/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098141349/",
       "isbn": "9781718502185",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Clean Code",
+      "secondary_topics": []
     },
     {
       "title": "Implementing Effective Code Reviews: How to Build and Maintain Clean Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484261620/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484261620/",
       "isbn": "9781484261620",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Clean Code",
+      "secondary_topics": []
     },
     {
       "title": "Clean Code: A Handbook of Agile Software Craftsmanship, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135398586/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135398586/",
       "isbn": "9780135398586",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Clean Code",
+      "secondary_topics": []
     },
     {
       "title": "Clean Coder, The: A Code of Conduct for Professional Programmers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132542913/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132542913/",
       "isbn": "9780132542913",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Clean Code",
+      "secondary_topics": []
     }
   ]
 }

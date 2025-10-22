@@ -29,12 +29,29 @@ python3 discover_book_ids_v2.py
 - Take several hours to complete
 - Save progress automatically
 
+## Skills File Options
+
+The script can read from two different skills files:
+
+1. **Default:** `favorite_skills_with_counts.json` (includes expected book counts)
+2. **Alternative:** `skills_facets.json` (simple skill list)
+
+To use `skills_facets.json`:
+```bash
+python3 discover_book_ids_v2.py --config config_skills_facets.json
+```
+
 ## Common Use Cases
 
 ### 1. Discover Specific Topics
 
 ```bash
 python3 discover_book_ids_v2.py --skills "Python" "Machine Learning" "Data Science"
+```
+
+Or with skills_facets.json:
+```bash
+python3 discover_book_ids_v2.py --config config_skills_facets.json --skills "Go" "Rust"
 ```
 
 ### 2. Parallel Discovery (Faster)
@@ -146,4 +163,5 @@ Or view the summary:
 ```bash
 cat discovery_summary_v2.txt
 ```
+
 

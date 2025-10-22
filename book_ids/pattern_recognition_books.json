@@ -1,98 +1,133 @@
 {
   "skill_name": "Pattern Recognition",
-  "discovery_timestamp": 1760820626.771188,
-  "total_books": 13,
+  "discovery_timestamp": "2025-10-19 16:58:00",
+  "total_books": 14,
   "books": [
     {
       "title": "Pattern Recognition, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783111339412/",
       "url": "https://learning.oreilly.com/api/v1/book/9783111339412/",
       "isbn": "9783111339412",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Process Mining Techniques for Pattern Recognition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000540598/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000540598/",
       "isbn": "9781000540598",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Image Pattern Recognition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000460971/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000460971/",
       "isbn": "9781000460971",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Pattern Recognition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110537963/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110537963/",
       "isbn": "9783110537963",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Face Detection and Recognition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482226577/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482226577/",
       "isbn": "9781482226577",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Pattern Recognition and Machine Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780120588305/",
       "url": "https://learning.oreilly.com/api/v1/book/9780120588305/",
       "isbn": "9780080513638",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Pattern Recognition on Oriented Matroids",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110530841/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110530841/",
       "isbn": "9783110530841",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Graphs for Pattern Recognition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110480306/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110480306/",
       "isbn": "9783110480306",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Strategic Reward and Recognition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749472528/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749472528/",
       "isbn": "9780749472535",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Internet-Scale Pattern Recognition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466510975/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466510975/",
       "isbn": "9781466510975",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Rough-Fuzzy Pattern Recognition: Applications in Bioinformatics and Medical Imaging",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118119716/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118119716/",
       "isbn": "9781118004401",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Pattern Recognition, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597492720/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597492720/",
       "isbn": "9781597492720",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to Pattern Recognition: A Matlab Approach",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780123744869/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780123744869/",
+      "isbn": "9780080922751",
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     },
     {
       "title": "Cutting-Edge Patterns and Textures",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781592534289/",
       "url": "https://learning.oreilly.com/api/v1/book/9781592534289/",
       "isbn": "9781616736507",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Pattern Recognition",
+      "secondary_topics": []
     }
   ]
 }

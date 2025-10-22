@@ -1,6 +1,6 @@
 {
   "skill_name": "Application Security",
-  "discovery_timestamp": 1760820545.801538,
+  "discovery_timestamp": "2025-10-19 17:21:27",
   "total_books": 67,
   "books": [
     {
@@ -8,469 +8,603 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098143923/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098143923/",
       "isbn": "9781098143930",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "A Beginner's Guide To Web Application Penetration Testing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394295593/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394295593/",
       "isbn": "9781394295593",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Grokking Web Application Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633438262/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633438262/",
       "isbn": "9781633438262",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Computer Security Fundamentals, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137984756/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137984756/",
       "isbn": "9780137984756",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "97 Things Every Application Security Professional Should Know",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098152161/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098152161/",
       "isbn": "9781098169459",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Database and Application Security: A Practitioner's Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780138073725/",
       "url": "https://learning.oreilly.com/api/v1/book/9780138073725/",
       "isbn": "9780138073725",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Application Security Program Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633439818/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633439818/",
       "isbn": "9781633439818",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Alice and Bob Learn Application Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119687351/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119687351/",
       "isbn": "9781119687351",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Attacking and Exploiting Modern Web Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801816298/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801816298/",
       "isbn": "9781801816298",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Practical Vulnerability Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098125707/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098125707/",
       "isbn": "9781593279882",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Web Application Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492053101/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492053101/",
       "isbn": "9781492053118",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Zed Attack Proxy Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801817332/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801817332/",
       "isbn": "9781801817332",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Internet and Web Application Security, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781284206173/",
       "url": "https://learning.oreilly.com/api/v1/book/9781284206173/",
       "isbn": "9781284206173",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Shifting Left for Application Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098127350/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098127350/",
       "isbn": "9781098127343",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Cyber Security Foundations",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398614734/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398614734/",
       "isbn": "9781398614734",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Supply Chain Software Security: AI, IoT, and Application Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868807992/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868807992/",
       "isbn": "9798868807992",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Computer Security Fundamentals, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135774854/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135774854/",
       "isbn": "9780135774854",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Agile Application Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491938836/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491938836/",
       "isbn": "9781491938799",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Practical Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680506679/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680506679/",
       "isbn": "9781680506341",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Serverless Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492082538/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492082538/",
       "isbn": "9781492082538",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "10 Steps Every CISO Should Take to Secure Next-Gen Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492082910/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492082910/",
       "isbn": "9781492082903",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Understanding Cyberrisks in IoT",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781948976657/",
       "url": "https://learning.oreilly.com/api/v1/book/9781948976657/",
       "isbn": "9781948976657",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "The Basics of Cyber Safety",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124166394/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124166394/",
       "isbn": "9780124166394",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Pro iOS Security and Forensics: Enterprise iPhone and iPad Safety",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484237571/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484237571/",
       "isbn": "9781484237571",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "iOS Application Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781457198830/",
       "url": "https://learning.oreilly.com/api/v1/book/9781457198830/",
       "isbn": "9781593276010",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "The Mobile Application Hacker's Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118958513/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118958513/",
       "isbn": "9781118958506",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Mobile Application Penetration Testing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785883378/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785883378/",
       "isbn": "9781785883378",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Securing Web Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492040279/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492040279/",
       "isbn": "9781492040279",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Android Hacker's Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118608647/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118608647/",
       "isbn": "9781118608647",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Web Application Security, A Beginner's Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071776165/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071776165/",
       "isbn": "9780071776127",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Securing Node Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491982426/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491982426/",
       "isbn": "9781491952412",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Application Security in the ISO 27001:2013 Environment",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849287692/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849287692/",
       "isbn": "9781849287692",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "The Manager’s Guide to Web Application Security: A Concise Guide to the Weaker Side of the Web",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484201480/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484201480/",
       "isbn": "9781484201480",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Learning iOS Penetration Testing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785883255/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785883255/",
       "isbn": "9781785883255",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "XSS Attacks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780080553405/",
       "url": "https://learning.oreilly.com/api/v1/book/9780080553405/",
       "isbn": "9780080553405",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Application of Big Data for National Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128019672/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128019672/",
       "isbn": "9780128019733",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "The Tangled Web",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781593273880/",
       "url": "https://learning.oreilly.com/api/v1/book/9781593273880/",
       "isbn": "9781593273880",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Reduce Risk and Improve Security on IBM Mainframes: Volume 3 Mainframe Subsystem and Application Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780738441023/",
       "url": "https://learning.oreilly.com/api/v1/book/9780738441023/",
       "isbn": "9780738441023",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Web Application Security is a Stack: How to CYA (Cover Your Apps) Completely",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849287050/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849287050/",
       "isbn": "9781849287050",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "How to Attack and Defend Your Website",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128027325/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128027325/",
       "isbn": "9780128027547",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Web Application Defender's Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118417058/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118417058/",
       "isbn": "9781118417058",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Oracle Application Express Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118686133/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118686133/",
       "isbn": "9781118686133",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Hacking Web Apps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597499514/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597499514/",
       "isbn": "9781597499569",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Securing WebLogic Server 12c",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849687782/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849687782/",
       "isbn": "9781849687782",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Client-Side Attacks and Defense",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597495905/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597495905/",
       "isbn": "9781597495912",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Applied Cyber Security and the Smart Grid",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597499989/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597499989/",
       "isbn": "9780124046382",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470170779/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470170779/",
       "isbn": "9780470170779",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Computer Security Fundamentals, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132828284/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132828284/",
       "isbn": "9780132828284",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Expert Oracle Application Express Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430247319/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430247319/",
       "isbn": "9781430247319",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Android Apps Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430240624/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430240624/",
       "isbn": "9781430240624",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Web Application Obfuscation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597496049/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597496049/",
       "isbn": "9781597496056",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Pro PHP Security: From Application Security Principles to the Implementation of XSS Defenses, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430233183/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430233183/",
       "isbn": "9781430233183",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Mobile Application Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071633567/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071633567/",
       "isbn": "9780071633567",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Developer's Guide to Web Application Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597490610/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597490610/",
       "isbn": "9780080504094",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Application Security for the Android Platform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449322250/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449322250/",
       "isbn": "9781449315078",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Web Application Vulnerabilities",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597492096/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597492096/",
       "isbn": "9780080556642",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Security Strategies in Web Applications and Social Networking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780763791957/",
       "url": "https://learning.oreilly.com/api/v1/book/9780763791957/",
       "isbn": "9780763791964",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Security Testing Handbook for Banking Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849281089/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849281089/",
       "isbn": "9781849281089",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Web Security Testing Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596514839/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596514839/",
       "isbn": "9780596514839",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Seven Deadliest Web Application Attacks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781597495431/",
       "url": "https://learning.oreilly.com/api/v1/book/9781597495431/",
       "isbn": "9781597495448",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Security Testing Handbook for Banking Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781905356829/",
       "url": "https://learning.oreilly.com/api/v1/book/9781905356829/",
       "isbn": "9781905356829",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Core Security Patterns: Best Practices and Strategies for J2EE™, Web Services, and Identity Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131463071/",
       "url": "https://learning.oreilly.com/api/v1/book/0131463071/",
       "isbn": "0131463071",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Information Security Management Metrics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781420052862/",
       "url": "https://learning.oreilly.com/api/v1/book/9781420052862/",
       "isbn": "9781420052862",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Hunting Security Bugs",
       "id": "https://www.safaribooksonline.com/api/v1/book/073562187X/",
       "url": "https://learning.oreilly.com/api/v1/book/073562187X/",
       "isbn": "9780735621879",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Oracle E-Business Suite Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780072262766/",
       "url": "https://learning.oreilly.com/api/v1/book/9780072262766/",
       "isbn": "9780071631716",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "HP NonStop Server Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781555583149/",
       "url": "https://learning.oreilly.com/api/v1/book/9781555583149/",
       "isbn": "9780080491493",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     },
     {
       "title": "Developing Secure Applications with Visual Basic",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672318369/",
       "url": "https://learning.oreilly.com/api/v1/book/0672318369/",
       "isbn": "0672318369",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Application Security",
+      "secondary_topics": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skill_name": "AI Security",
-  "discovery_timestamp": 1760820541.4626718,
+  "discovery_timestamp": "2025-10-19 14:13:00",
   "total_books": 7,
   "books": [
     {
@@ -8,49 +8,63 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098162191/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098162191/",
       "isbn": "9781098162207",
-      "format": "book"
+      "format": "book",
+      "main_topic": "AI Security",
+      "secondary_topics": []
     },
     {
       "title": "Beyond the Algorithm: AI, Security, Privacy, and Ethics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780138268442/",
       "url": "https://learning.oreilly.com/api/v1/book/9780138268442/",
       "isbn": "9780138268442",
-      "format": "book"
+      "format": "book",
+      "main_topic": "AI Security",
+      "secondary_topics": []
     },
     {
       "title": "Privacy and Security for Large Language Models",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098160838/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098160838/",
       "isbn": "9781098160845",
-      "format": "book"
+      "format": "book",
+      "main_topic": "AI Security",
+      "secondary_topics": []
     },
     {
       "title": "Intelligent Continuous Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341615908/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341615908/",
       "isbn": "9798341615915",
-      "format": "book"
+      "format": "book",
+      "main_topic": "AI Security",
+      "secondary_topics": []
     },
     {
       "title": "Privacy in the Age of Innovation: AI Solutions for Information Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868804618/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868804618/",
       "isbn": "9798868804618",
-      "format": "book"
+      "format": "book",
+      "main_topic": "AI Security",
+      "secondary_topics": []
     },
     {
       "title": "Post-Quantum Security for AI: Resilient Digital Security in the Age of Artificial General Intelligence and Technological Singularity",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135436004/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135436004/",
       "isbn": "9780135436004",
-      "format": "book"
+      "format": "book",
+      "main_topic": "AI Security",
+      "secondary_topics": []
     },
     {
       "title": "Winning the National Security AI Competition: A Practical Guide for Government and Industry Leaders",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484288146/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484288146/",
       "isbn": "9781484288146",
-      "format": "book"
+      "format": "book",
+      "main_topic": "AI Security",
+      "secondary_topics": []
     }
   ]
 }

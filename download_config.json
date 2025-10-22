@@ -17,8 +17,5 @@
   "max_retries": 3,
   "retry_delay": 10,
   "exclude_skills": [],
-  "priority_skills": [
-    "Soft Skills",
-    "Productivity"
-  ]
+  "priority_skills": []
 }

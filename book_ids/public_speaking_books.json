@@ -1,413 +1,538 @@
 {
   "skill_name": "Public Speaking",
-  "discovery_timestamp": 1760820653.315069,
-  "total_books": 58,
+  "discovery_timestamp": "2025-10-19 17:23:58",
+  "total_books": 59,
   "books": [
     {
       "title": "Storytelling with You",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394160303/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394160303/",
       "isbn": "9781394160303",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Principles of Public Speaking, 21st Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781003860457/",
       "url": "https://learning.oreilly.com/api/v1/book/9781003860457/",
       "isbn": "9781003860457",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Natural Bridges in Interpersonal Communication, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781003852490/",
       "url": "https://learning.oreilly.com/api/v1/book/9781003852490/",
       "isbn": "9781003852490",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Speak with Confidence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394159741/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394159741/",
       "isbn": "9781394159741",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Painless Presentations: The Proven, Stress-Free Way to Successful Public Speaking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118431498/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118431498/",
       "isbn": "9781118431498",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "The Stage Manager's Toolkit, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000287639/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000287639/",
       "isbn": "9781000287639",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "HBR's 10 Must Reads on Public Speaking and Presenting (with featured article \"How to Give a Killer Presentation\" By Chris Anderson)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633698840/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633698840/",
       "isbn": "9781633698840",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "The Motivated Speaker",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394338030/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394338030/",
       "isbn": "9781394338030",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Speak Out, Listen Up, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781292736150/",
       "url": "https://learning.oreilly.com/api/v1/book/9781292736150/",
       "isbn": "9781292736150",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Now We're Talking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781292727240/",
       "url": "https://learning.oreilly.com/api/v1/book/9781292727240/",
       "isbn": "9781292727240",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Interactive Lecturing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119277309/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119277309/",
       "isbn": "9781119277309",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Public Speaking Skills For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119335573/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119335573/",
       "isbn": "9781119335573",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "How To Present To Absolutely Anyone",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780857087737/",
       "url": "https://learning.oreilly.com/api/v1/book/9780857087737/",
       "isbn": "9780857087737",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "ASTD Handbook: The Definitive Reference for Training & Development (2nd Edition)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781607285618/",
       "url": "https://learning.oreilly.com/api/v1/book/9781607285618/",
       "isbn": "9781607285618",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Speak for a Living: The Insider's Guide to Building a Speaking Career",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781562860936/",
       "url": "https://learning.oreilly.com/api/v1/book/9781562860936/",
       "isbn": "9781562860912",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "How to Run Seminars and Workshops, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119374343/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119374343/",
       "isbn": "9781119374343",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "How to Speak So People Really Listen",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780857087201/",
       "url": "https://learning.oreilly.com/api/v1/book/9780857087201/",
       "isbn": "9780857087201",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Scared Speechless",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781632650429/",
       "url": "https://learning.oreilly.com/api/v1/book/9781632650429/",
       "isbn": "9781632650429",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Public Speaking Kaleidoscope",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781631576508/",
       "url": "https://learning.oreilly.com/api/v1/book/9781631576508/",
       "isbn": "9781631576508",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Voice and Speaking Skills For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119943822/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119943822/",
       "isbn": "9781118943822",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Speaker, Leader, Champion: Succeed at Work Through the Power of Public Speaking, featuring the prize-winning speeches of Toastmasters World Champions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071831048/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071831048/",
       "isbn": "9780071831048",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "How to Speak so People Listen",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780273786375/",
       "url": "https://learning.oreilly.com/api/v1/book/9780273786375/",
       "isbn": "9780273788614",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Your Perfect Presentation: Speak in Front of Any Audience Anytime Anywhere and Never Be Nervous Again",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071825009/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071825009/",
       "isbn": "9780071825016",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Speak for Yourself",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780273785385/",
       "url": "https://learning.oreilly.com/api/v1/book/9780273785385/",
       "isbn": "9780273788850",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "How to Be Brilliant at Public Speaking, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781292087993/",
       "url": "https://learning.oreilly.com/api/v1/book/9781292087993/",
       "isbn": "9781292087993",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "A Novice’s Guide to Speaking in Public: 10 Steps to Help You Succeed in Your Next Presentation... Without Years of Training!",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134194448/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134194448/",
       "isbn": "9780134194448",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Domino",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119083061/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119083061/",
       "isbn": "9781119083061",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Pragmatics of Discourse",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110375022/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110375022/",
       "isbn": "9783110375022",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "The Virtual Training Guidebook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781607286486/",
       "url": "https://learning.oreilly.com/api/v1/book/9781607286486/",
       "isbn": "9781607286486",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Mensch und Computer 2015 – Workshopband",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110435580/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110435580/",
       "isbn": "9783110435580",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Winning Strategies for Power Presentations: Jerry Weissman Delivers Lessons from the World’s Best Presenters",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133121131/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133121131/",
       "isbn": "9780133121131",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Speaker Camp: A Self-paced Workshop for Planning, Pitching, Preparing, and Presenting at Conferences",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133551662/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133551662/",
       "isbn": "9780133551662",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Confessions of a Public Speaker",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596806927/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596806927/",
       "isbn": "9781449388706",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "The Four Conversations",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781576759219/",
       "url": "https://learning.oreilly.com/api/v1/book/9781576759219/",
       "isbn": "9781576759219",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "The Art of Speeches and Presentations: The Secrets of Making People Remember What You Say",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470711958/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470711958/",
       "isbn": "9780470711958",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "How to Be Brilliant at Public Speaking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780273755210/",
       "url": "https://learning.oreilly.com/api/v1/book/9780273755210/",
       "isbn": "9780273755395",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Connecting with Your Audience",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132763776/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132763776/",
       "isbn": "9780132763776",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Using Body Language in Your Presentation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132763912/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132763912/",
       "isbn": "0132763893",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Amazing Animal Insights",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132686259/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132686259/",
       "isbn": "9780132686259",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Speak to Win",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780814401576/",
       "url": "https://learning.oreilly.com/api/v1/book/9780814401576/",
       "isbn": "9780814401828",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Grab Your Audience’s Attention: First Impressions Set the Presentation On—or Off—Course",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132124263/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132124263/",
       "isbn": "9780132124263",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "The Truth About Confident Presenting",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780768681949/",
       "url": "https://learning.oreilly.com/api/v1/book/9780768681949/",
       "isbn": "9780768681949",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Listening Skills Training",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781562865023/",
       "url": "https://learning.oreilly.com/api/v1/book/9781562865023/",
       "isbn": "9781562865023",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Speak for a Living: The Insider's Guide to Building a Speaking Career",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781562865085/",
       "url": "https://learning.oreilly.com/api/v1/book/9781562865085/",
       "isbn": "9781562865085",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "101 Ways to Captivate a Business Audience",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780814437780/",
       "url": "https://learning.oreilly.com/api/v1/book/9780814437780/",
       "isbn": "9780814437780",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Compendium of Icebreakers Volume 3: Beginnings and Endings",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781599960692/",
       "url": "https://learning.oreilly.com/api/v1/book/9781599960692/",
       "isbn": "9781599960692",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Compendium of Icebreakers Volume 2 Connections: 125 Activities for Faultless Training",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781599960685/",
       "url": "https://learning.oreilly.com/api/v1/book/9781599960685/",
       "isbn": "9781599960685",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Crash and Learn: 600+ Road-Tested Tips to Keep Audiences Fired Up and Engaged!",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781562864651/",
       "url": "https://learning.oreilly.com/api/v1/book/9781562864651/",
       "isbn": "9781562864651",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "In the Line of Fire: How to Handle Tough Questions...When It Counts",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131855174/",
       "url": "https://learning.oreilly.com/api/v1/book/0131855174/",
       "isbn": "0131855174",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "101 More Games for Trainers: A Collection of the Best Activities from Creative Training Techniques Newsletter",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780943210445/",
       "url": "https://learning.oreilly.com/api/v1/book/9780943210445/",
       "isbn": "9780943210445",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Give Your Speech, Change the World: How To Move Your Audience to Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781625276292/",
       "url": "https://learning.oreilly.com/api/v1/book/9781625276292/",
       "isbn": "9781625276292",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "1,001 Ways to Make More Money as a Speaker, Consultant or Trainer: Plus 300 Rainmaking Strategies for Dry Times",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071457309/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071457309/",
       "isbn": "9780071457309",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Trainer Basics",
       "id": "https://www.safaribooksonline.com/api/v1/book/1562863509/",
       "url": "https://learning.oreilly.com/api/v1/book/1562863509/",
       "isbn": "1562863509",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Smart Videoconferencing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781605096117/",
       "url": "https://learning.oreilly.com/api/v1/book/9781605096117/",
       "isbn": "9781605096117",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "The Lost Art of the Great Speech: How to Write It * How to Deliver It",
       "id": "https://www.safaribooksonline.com/api/v1/book/0814470548/",
       "url": "https://learning.oreilly.com/api/v1/book/0814470548/",
       "isbn": "0814470548",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "Listening to Learn; Learning to Listen",
       "id": "https://www.safaribooksonline.com/api/v1/book/758806/",
       "url": "https://learning.oreilly.com/api/v1/book/758806/",
       "isbn": "758806",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "The Manager's Pocket Guide to Public Presentations",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780874254709/",
       "url": "https://learning.oreilly.com/api/v1/book/9780874254709/",
       "isbn": "9780874254709",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     },
     {
       "title": "How To Be An Effective Facilitator",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780761214113/",
       "url": "https://learning.oreilly.com/api/v1/book/9780761214113/",
       "isbn": "9780761214113",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
+    },
+    {
+      "title": "A Compendium of Icebreakers, Energizers and Introductions",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780874251975/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780874251975/",
+      "isbn": "9780874251975",
+      "format": "book",
+      "main_topic": "Public Speaking",
+      "secondary_topics": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skill_name": "Palo Alto Networks",
-  "discovery_timestamp": 1760820624.54635,
+  "discovery_timestamp": "2025-10-19 14:04:25",
   "total_books": 6,
   "books": [
     {
@@ -8,42 +8,54 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781836644811/",
       "url": "https://learning.oreilly.com/api/v1/book/9781836644811/",
       "isbn": "9781836644811",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Palo Alto Networks",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Palo Alto Networks - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803241418/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803241418/",
       "isbn": "9781803241418",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Palo Alto Networks",
+      "secondary_topics": []
     },
     {
       "title": "Implementing Palo Alto Networks Prisma® Access",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835081006/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835081006/",
       "isbn": "9781835081006",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Palo Alto Networks",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Palo Alto Networks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789956375/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789956375/",
       "isbn": "9781789956375",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Palo Alto Networks",
+      "secondary_topics": []
     },
     {
       "title": "Palo Alto Networks from Policy to Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835881286/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835881286/",
       "isbn": "9781835881286",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Palo Alto Networks",
+      "secondary_topics": []
     },
     {
       "title": "Securing Remote Access in Palo Alto Networks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801077446/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801077446/",
       "isbn": "9781801077446",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Palo Alto Networks",
+      "secondary_topics": []
     }
   ]
 }

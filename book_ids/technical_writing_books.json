@@ -1,511 +1,664 @@
 {
   "skill_name": "Technical Writing",
-  "discovery_timestamp": 1760820669.141168,
-  "total_books": 72,
+  "discovery_timestamp": "2025-10-19 17:23:51",
+  "total_books": 73,
   "books": [
     {
       "title": "Technical Writing For Dummies, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394176755/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394176755/",
       "isbn": "9781394176755",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Docs for Developers: An Engineer’s Field Guide to Technical Writing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484272176/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484272176/",
       "isbn": "9781484272176",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Technical Writing, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780429884498/",
       "url": "https://learning.oreilly.com/api/v1/book/9780429884498/",
       "isbn": "9780429884498",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "The FT Essential Guide to Writing a Business Plan, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781292416168/",
       "url": "https://learning.oreilly.com/api/v1/book/9781292416168/",
       "isbn": "9781292416168",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Technical Writing for Business People",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780174464/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780174464/",
       "isbn": "9781780174488",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Process Downtime Reduction",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000959222/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000959222/",
       "isbn": "9781000959222",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Ultimate Guide to Business Writing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000348163/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000348163/",
       "isbn": "9781000348163",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Writing for Interactive Media, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000963601/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000963601/",
       "isbn": "9781000963601",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "English for Journalists, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000895407/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000895407/",
       "isbn": "9781000895407",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
+    },
+    {
+      "title": "An Introduction to Literary Studies, 4th Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781000901733/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781000901733/",
+      "isbn": "9781000901733",
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Beyond Continuity, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000856156/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000856156/",
       "isbn": "9781000856156",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "How to Write Effective Business English, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398609969/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398609969/",
       "isbn": "9781398609969",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "How to Write Reports and Proposals, 6th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398606357/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398606357/",
       "isbn": "9781398606357",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Developing Quality Technical Information: A Handbook for Writers and Editors, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133119046/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133119046/",
       "isbn": "9780133119046",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Business Writing for Technical People",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780174457/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780174457/",
       "isbn": "9781780174433",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Model Business Letters, Emails and Other Business Documents, 7th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781292127644/",
       "url": "https://learning.oreilly.com/api/v1/book/9781292127644/",
       "isbn": "9781292127644",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Writing for Journalists, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781317394198/",
       "url": "https://learning.oreilly.com/api/v1/book/9781317394198/",
       "isbn": "9781317394198",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Writing for Journalists, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000405484/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000405484/",
       "isbn": "9781000405484",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Technical Writing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466503090/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466503090/",
       "isbn": "9781466503090",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Broadcast News Writing, Reporting, and Producing, 8th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000347753/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000347753/",
       "isbn": "9781000347753",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Style Guide for Business Writing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781547400232/",
       "url": "https://learning.oreilly.com/api/v1/book/9781547400232/",
       "isbn": "9781547400232",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Business Writing For Dummies, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119369004/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119369004/",
       "isbn": "9781119369004",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Business Report Guides",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781631574184/",
       "url": "https://learning.oreilly.com/api/v1/book/9781631574184/",
       "isbn": "9781631574184",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Corporate Media Production, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000076776/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000076776/",
       "isbn": "9781000076776",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Broadcast Announcing Worktext, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000062434/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000062434/",
       "isbn": "9781000062434",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Better Broadcast Writing, Better Broadcast News",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781317349907/",
       "url": "https://learning.oreilly.com/api/v1/book/9781317349907/",
       "isbn": "9781317349907",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Designing the Editorial Experience",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781592538959/",
       "url": "https://learning.oreilly.com/api/v1/book/9781592538959/",
       "isbn": "9781627880497",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Persuasive Copywriting, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749483678/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749483678/",
       "isbn": "9780749483678",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "A Guide to Writing as an Engineer, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118300275/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118300275/",
       "isbn": "9781118300275",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Writing for the Workplace",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781631572326/",
       "url": "https://learning.oreilly.com/api/v1/book/9781631572326/",
       "isbn": "9781631572333",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Producing Written and Oral Business Reports",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781631574160/",
       "url": "https://learning.oreilly.com/api/v1/book/9781631574160/",
       "isbn": "9781631574160",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Persuasive Writing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780273746133/",
       "url": "https://learning.oreilly.com/api/v1/book/9780273746133/",
       "isbn": "9780273746164",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "FranklinCovey® Style Guide™: For Business and Technical Communication, Fifth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133092387/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133092387/",
       "isbn": "9780133092387",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "A Practical Guide To Business Writing: Writing In English For Non-Native Speakers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118410790/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118410790/",
       "isbn": "9781118410790",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Writing Online",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781606497814/",
       "url": "https://learning.oreilly.com/api/v1/book/9781606497814/",
       "isbn": "9781606497814",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "A Guide to Publishing for Academics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482256260/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482256260/",
       "isbn": "9781482256277",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Business Writing For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118583623/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118583623/",
       "isbn": "9781118583647",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Maker Pro",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781457186172/",
       "url": "https://learning.oreilly.com/api/v1/book/9781457186172/",
       "isbn": "9781457186141",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Writing for Interaction",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123948137/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123948137/",
       "isbn": "9780123948441",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Brilliant Business Writing, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780273744580/",
       "url": "https://learning.oreilly.com/api/v1/book/9780273744580/",
       "isbn": "9780273744566",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Microsoft® Manual of Style, Fourth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780735669833/",
       "url": "https://learning.oreilly.com/api/v1/book/9780735669833/",
       "isbn": "9780735669833",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "The Truth About the New Rules of Business Writing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137015436/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137015436/",
       "isbn": "9780137015436",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Writing Feature Articles, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780240516912/",
       "url": "https://learning.oreilly.com/api/v1/book/9780240516912/",
       "isbn": "9781136025532",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Technological Change & Productivity Growth",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780415269292/",
       "url": "https://learning.oreilly.com/api/v1/book/9780415269292/",
       "isbn": "9781136458088",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "The AMA Handbook of Business Letters, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780814420126/",
       "url": "https://learning.oreilly.com/api/v1/book/9780814420126/",
       "isbn": "9780814420133",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "The Global English Style Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781599946573/",
       "url": "https://learning.oreilly.com/api/v1/book/9781599946573/",
       "isbn": "9781599948423",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Business Communication, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9788131718728/",
       "url": "https://learning.oreilly.com/api/v1/book/9788131718728/",
       "isbn": "9789332520806",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Plain Language in Government Writing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781523096060/",
       "url": "https://learning.oreilly.com/api/v1/book/9781523096060/",
       "isbn": "9781523096060",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Advanced Communication Skills Laboratory Manual",
       "id": "https://www.safaribooksonline.com/api/v1/book/9788131734476/",
       "url": "https://learning.oreilly.com/api/v1/book/9788131734476/",
       "isbn": "9788131799185",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Simple Strategies for Developing and Writing Effective E-Newsletters",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132553872/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132553872/",
       "isbn": "9780132553872",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "The Strategic Planning Workbook, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749465001/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749465001/",
       "isbn": "9780749465018",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Writing for Readability",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781562867270/",
       "url": "https://learning.oreilly.com/api/v1/book/9781562867270/",
       "isbn": "9781562867270",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Researching and Writing Dissertations, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781843983231/",
       "url": "https://learning.oreilly.com/api/v1/book/9781843983231/",
       "isbn": "9781843983231",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "How to Write Articles and Get them Published",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132550802/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132550802/",
       "isbn": "9780132550802",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Writing E-mails That Have a Clear Purpose",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132159364/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132159364/",
       "isbn": "9780132159364",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Some Essential Grammar Tips for More Effective Business Writing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780131388390/",
       "url": "https://learning.oreilly.com/api/v1/book/9780131388390/",
       "isbn": "9780131388390",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Organize Your E-mail Before You Write",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132159654/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132159654/",
       "isbn": "9780132159654",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Plain Style",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780814424292/",
       "url": "https://learning.oreilly.com/api/v1/book/9780814424292/",
       "isbn": "9780814424292",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Three Fast and Easy Ways to Edit Your E-mails",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132159333/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132159333/",
       "isbn": "9780132159333",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "The Encyclopedia of Business Letters, Faxes, and E-mail",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781601630292/",
       "url": "https://learning.oreilly.com/api/v1/book/9781601630292/",
       "isbn": "9781601630292",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Executive Writing Skills for Managers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749455187/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749455187/",
       "isbn": "9780749458492",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Make an Impact with Your Written English",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749455194/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749455194/",
       "isbn": "9780749458485",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "THE BEST SOFTWARE WRITING I",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781590595008/",
       "url": "https://learning.oreilly.com/api/v1/book/9781590595008/",
       "isbn": "9781590595008",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Writing for Business: Expert Solutions to Everyday Challenges",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781422163771/",
       "url": "https://learning.oreilly.com/api/v1/book/9781422163771/",
       "isbn": "9781422114728",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Developing Quality Technical Information: A Handbook for Writers and Editors, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131477498/",
       "url": "https://learning.oreilly.com/api/v1/book/0131477498/",
       "isbn": "0131477498",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Broadcast News Writing, Reporting, and Producing, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780240806594/",
       "url": "https://learning.oreilly.com/api/v1/book/9780240806594/",
       "isbn": "9780240806594",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Write to the Point",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781564146397/",
       "url": "https://learning.oreilly.com/api/v1/book/9781564146397/",
       "isbn": "9781564146397",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Read Me First!: A Style Guide for the Computer Industry, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131428993/",
       "url": "https://learning.oreilly.com/api/v1/book/0131428993/",
       "isbn": "0131428993",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Broadcast Announcing Worktext, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780240805696/",
       "url": "https://learning.oreilly.com/api/v1/book/9780240805696/",
       "isbn": "9781136036255",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "The Web Content Style Guide: An Essential Reference for Online Writers, Editors, and Managers",
       "id": "https://www.safaribooksonline.com/api/v1/book/0273656058/",
       "url": "https://learning.oreilly.com/api/v1/book/0273656058/",
       "isbn": "0273656058",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "How To Sharpen Your Business Writing Skills, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780761213857/",
       "url": "https://learning.oreilly.com/api/v1/book/9780761213857/",
       "isbn": "9780761213857",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Grammar and Proofreading Course",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780761214137/",
       "url": "https://learning.oreilly.com/api/v1/book/9780761214137/",
       "isbn": "9780761214137",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     },
     {
       "title": "Fundamentals of Business Writing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780761213710/",
       "url": "https://learning.oreilly.com/api/v1/book/9780761213710/",
       "isbn": "9780761213710",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Technical Writing",
+      "secondary_topics": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skill_name": "Coding Standards",
-  "discovery_timestamp": 1760820563.046775,
+  "discovery_timestamp": "2025-10-19 15:31:13",
   "total_books": 2,
   "books": [
     {
@@ -8,14 +8,18 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000850598/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000850598/",
       "isbn": "9781000850598",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Standards",
+      "secondary_topics": []
     },
     {
       "title": "Implementing Standardized Work",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466563643/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466563643/",
       "isbn": "9781466563643",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Standards",
+      "secondary_topics": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "skill_name": "Continuous Delivery",
-  "discovery_timestamp": 1760820571.511403,
+  "discovery_timestamp": "2025-10-19 16:05:21",
   "total_books": 20,
   "books": [
     {
@@ -8,140 +8,180 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803237480/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803237480/",
       "isbn": "9781803237480",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Grokking Continuous Delivery",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617298257/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617298257/",
       "isbn": "9781617298257",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Shipping Go",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617299506/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617299506/",
       "isbn": "9781617299506",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Strategizing Continuous Delivery in the Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837637539/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837637539/",
       "isbn": "9781837637539",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Operating Continuously",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098117283/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098117283/",
       "isbn": "9781098117290",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "CI/CD Unleashed: Turbocharging Software Deployment for Quicker Delivery",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868812095/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868812095/",
       "isbn": "9798868812095",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Continuous Delivery in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491986011/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491986011/",
       "isbn": "9781491986028",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Continuous Delivery with Spinnaker",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492035527/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492035527/",
       "isbn": "9781492035510",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Continuous Delivery for Mobile with fastlane",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788398510/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788398510/",
       "isbn": "9781788398510",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Continuous Delivery in the Wild",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492077701/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492077701/",
       "isbn": "9781492077695",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Continuous Delivery with Docker and Jenkins",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787125230/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787125230/",
       "isbn": "9781787125230",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321670250/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321670250/",
       "isbn": "9780321670250",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Continuous Integration, Delivery, and Deployment",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787286610/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787286610/",
       "isbn": "9781787286610",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "A Practical Guide to Continuous Delivery",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134691626/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134691626/",
       "isbn": "9780134691626",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Navigating the Continuous Delivery Pipeline",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492031949/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492031949/",
       "isbn": "9781492031932",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Exploring IBM Db2 for z/OS Continuous Delivery",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780738456713/",
       "url": "https://learning.oreilly.com/api/v1/book/9780738456713/",
       "isbn": "9780738456713",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Containerizing Continuous Delivery in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491986851/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491986851/",
       "isbn": "9781491986851",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Continuous Delivery with Visual Studio ALM 2015",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484212721/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484212721/",
       "isbn": "9781484212721",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Using Liberty for DevOps, Continuous Delivery, and Deployment",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780738441160/",
       "url": "https://learning.oreilly.com/api/v1/book/9780738441160/",
       "isbn": "9780738441160",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     },
     {
       "title": "Shipping Greatness",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449336585/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449336585/",
       "isbn": "9781449336608",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Continuous Delivery",
+      "secondary_topics": []
     }
   ]
 }

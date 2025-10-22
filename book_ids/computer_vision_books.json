@@ -1,378 +1,502 @@
 {
   "skill_name": "Computer Vision",
-  "discovery_timestamp": 1760820568.2840672,
-  "total_books": 53,
+  "discovery_timestamp": "2025-10-19 17:23:17",
+  "total_books": 55,
   "books": [
     {
       "title": "Modern Computer Vision with PyTorch - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803231334/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803231334/",
       "isbn": "9781803231334",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Practical Machine Learning for Computer Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098102357/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098102357/",
       "isbn": "9781098102364",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Building Computer Vision Applications Using Artificial Neural Networks: With Examples in OpenCV and TensorFlow with Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484298664/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484298664/",
       "isbn": "9781484298664",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Integrating Metaheuristics in Computer Vision for Real-World Optimization Problems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394230921/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394230921/",
       "isbn": "9781394230921",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Modern Computer Vision with PyTorch",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781839213472/",
       "url": "https://learning.oreilly.com/api/v1/book/9781839213472/",
       "isbn": "9781839213472",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Advanced Methods and Deep Learning in Computer Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128221495/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128221495/",
       "isbn": "9780128221495",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Computer Vision with Detectron2",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800561625/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800561625/",
       "isbn": "9781800561625",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Intelligent Systems and Applications in Computer Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000985863/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000985863/",
       "isbn": "9781000985863",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Vision Language Models",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341624030/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341624030/",
       "isbn": "9798341624047",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110756821/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110756821/",
       "isbn": "9783110756821",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer Vision Projects with PyTorch: Design and Develop Production-Grade Models",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484282731/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484282731/",
       "isbn": "9781484282731",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer Vision on AWS",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801078689/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801078689/",
       "isbn": "9781801078689",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Feature Extraction and Image Processing for Computer Vision, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128149775/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128149775/",
       "isbn": "9780128149775",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Computer Vision with TensorFlow 2.x",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838827069/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838827069/",
       "isbn": "9781838827069",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer Vision with Maker Tech: Detecting People With a Raspberry Pi, a Thermal Camera, and Machine Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484268216/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484268216/",
       "isbn": "9781484268216",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer Vision Using Deep Learning: Neural Network Architectures with Python and Keras",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484266168/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484266168/",
       "isbn": "9781484266168",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Building Computer Vision Applications Using Artificial Neural Networks: With Step-by-Step Examples in OpenCV and TensorFlow with Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484258873/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484258873/",
       "isbn": "9781484258873",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Applied Deep Learning and Computer Vision for Self-Driving Cars",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838646301/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838646301/",
       "isbn": "9781838646301",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Advanced Machine Vision Paradigms for Medical Image Analysis",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128192962/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128192962/",
       "isbn": "9780128192962",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning on Windows: Building Deep Learning Computer Vision Systems on Microsoft Windows",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484264317/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484264317/",
       "isbn": "9781484264317",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Multimodal Scene Understanding",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128173596/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128173596/",
       "isbn": "9780128173596",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "The Computer Vision Workshop",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800201774/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800201774/",
       "isbn": "9781800201774",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Computer Vision with SAS",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781642959178/",
       "url": "https://learning.oreilly.com/api/v1/book/9781642959178/",
       "isbn": "9781642959178",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Computer Vision with TensorFlow 2",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788830645/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788830645/",
       "isbn": "9781788830645",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Java Deep Learning for Computer Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789613964/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789613964/",
       "isbn": "9781789613964",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "TensorFlow 2.0 Computer Vision Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838829131/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838829131/",
       "isbn": "9781838829131",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Practical Computer Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788297684/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788297684/",
       "isbn": "9781788297684",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Machine Vision Inspection Systems, Image Processing, Concepts, Methodologies, and Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119681809/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119681809/",
       "isbn": "9781119681809",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer Vision Projects with OpenCV and Python 3",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789954555/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789954555/",
       "isbn": "9781789954555",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Handbook of Machine and Computer Vision, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783527413393/",
       "url": "https://learning.oreilly.com/api/v1/book/9783527413393/",
       "isbn": "9783527413393",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Practical Computer Vision Applications Using Deep Learning with CNNs: With Detailed Examples in Python Using TensorFlow and Kivy",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484241677/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484241677/",
       "isbn": "9781484241677",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Synthetic Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781501506291/",
       "url": "https://learning.oreilly.com/api/v1/book/9781501506291/",
       "isbn": "9781501506291",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Learning Microsoft Cognitive Services - Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789800616/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789800616/",
       "isbn": "9781789800616",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Microsoft Computer Vision APIs Distilled: Getting Started with Cognitive Services",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484233429/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484233429/",
       "isbn": "9781484233429",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer Vision in Vehicle Technology",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118868072/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118868072/",
       "isbn": "9781118868072",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Classification, Parameter Estimation and State Estimation, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119152439/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119152439/",
       "isbn": "9781119152439",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Programming Computer Vision with Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449341916/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449341916/",
       "isbn": "9781449316549",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
+    },
+    {
+      "title": "Practical Guide to Machine Vision Software: An Introduction with LabVIEW",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9783527337569/",
+      "url": "https://learning.oreilly.com/api/v1/book/9783527337569/",
+      "isbn": "9783527337569",
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Visual Perception from a Computer Graphics Perspective",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439865491/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439865491/",
       "isbn": "9781439865491",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Architectures for Computer Vision: From Algorithm to Chip with Verilog",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118659236/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118659236/",
       "isbn": "9781118659236",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Emerging Trends in Image Processing, Computer Vision and Pattern Recognition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128020456/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128020456/",
       "isbn": "9780128020920",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "OpenCV Computer Vision with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781783283972/",
       "url": "https://learning.oreilly.com/api/v1/book/9781783283972/",
       "isbn": "9781783283972",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Image Analysis, Classification and Change Detection in Remote Sensing, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466570375/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466570375/",
       "isbn": "9781466570382",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer Vision Metrics: Survey, Taxonomy, and Analysis",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430259299/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430259299/",
       "isbn": "9781430259299",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
+    },
+    {
+      "title": "Learning-Based Local Visual Representation and Indexing",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780128024096/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780128024096/",
+      "isbn": "9780128026205",
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer and Machine Vision, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123869913/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123869913/",
       "isbn": "9780123869913",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Selective Visual Attention: Computational Models and Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118060056/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118060056/",
       "isbn": "9780470828120",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computational Vision and Medical Image Processing IV",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781138000810/",
       "url": "https://learning.oreilly.com/api/v1/book/9781138000810/",
       "isbn": "9781315812922",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Practical Computer Vision with SimpleCV",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449337865/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449337865/",
       "isbn": "9781449343835",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Background Modeling and Foreground Detection for Video Surveillance",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482205374/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482205374/",
       "isbn": "9781482205381",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer Vision Technology in the Food and Beverage Industries",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780857090362/",
       "url": "https://learning.oreilly.com/api/v1/book/9780857090362/",
       "isbn": "9780857095770",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Computer Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439817124/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439817124/",
       "isbn": "9781439817131",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Emerging Topics in Computer Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131013661/",
       "url": "https://learning.oreilly.com/api/v1/book/0131013661/",
       "isbn": "0131013661",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Machine Vision, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780122060939/",
       "url": "https://learning.oreilly.com/api/v1/book/9780122060939/",
       "isbn": "9780080473246",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124448162/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124448162/",
       "isbn": "9780080527604",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Computer Vision",
+      "secondary_topics": []
     }
   ]
 }

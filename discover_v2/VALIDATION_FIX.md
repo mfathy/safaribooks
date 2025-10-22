@@ -166,3 +166,4 @@ This fix should also be applied to the V1 discovery script for consistency.
 **Status:** ✅ Tested and Working  
 **Result:** 27/27 books discovered correctly
 
+

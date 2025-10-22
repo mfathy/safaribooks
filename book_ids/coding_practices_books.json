@@ -1,882 +1,1141 @@
 {
   "skill_name": "Coding Practices",
-  "discovery_timestamp": 1760820562.926835,
-  "total_books": 125,
+  "discovery_timestamp": "2025-10-19 17:23:21",
+  "total_books": 126,
   "books": [
     {
       "title": "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135956977/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135956977/",
       "isbn": "9780135956977",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Tidy First?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098151232/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098151232/",
       "isbn": "9781098151249",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "\"Looks Good to Me\"",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633438125/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633438125/",
       "isbn": "9781633438125",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "We, Programmers: A Chronicle of Coders from Ada to AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135344248/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135344248/",
       "isbn": "9780135344248",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Lead Developer Career Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633438071/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633438071/",
       "isbn": "9781633438071",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Fundamentals of Software Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098143220/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098143220/",
       "isbn": "9781098143237",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "System Programming Essentials with Go",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837634132/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837634132/",
       "isbn": "9781837634132",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Art of Computer Programming, Volume 4, Fascicle 7, The: Constraint Satisfaction",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135328262/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135328262/",
       "isbn": "9780135328262",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Your Code as a Crime Scene, Second Edition, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798888650837/",
       "url": "https://learning.oreilly.com/api/v1/book/9798888650837/",
       "isbn": "9798888650325",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Code That Fits in Your Head: Heuristics for Software Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137464302/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137464302/",
       "isbn": "9780137464302",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Software Engineering, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119901709/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119901709/",
       "isbn": "9781119901709",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Rules of Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098133108/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098133108/",
       "isbn": "9781098133115",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Technical Writing for Software Developers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835080405/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835080405/",
       "isbn": "9781835080405",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Good News Factory",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098170158/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098170158/",
       "isbn": "9781098170141",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Programmer's Brain",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617298677/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617298677/",
       "isbn": "9781617298677",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Nature of Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098182212/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098182212/",
       "isbn": "9781718503700",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Missing README",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098129064/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098129064/",
       "isbn": "9781098129064",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Skills of a Successful Software Engineer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617299704/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617299704/",
       "isbn": "9781617299704",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Democratizing No-Code Application Development with Bubble",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804610947/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804610947/",
       "isbn": "9781804610947",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Understanding Software Dynamics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137589692/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137589692/",
       "isbn": "9780137589692",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Street Coder",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617298370/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617298370/",
       "isbn": "9781617298370",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Clean Craftsmanship: Disciplines, Standards, and Ethics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780136915805/",
       "url": "https://learning.oreilly.com/api/v1/book/9780136915805/",
       "isbn": "9780136915805",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Kill It with Fire",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098128883/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098128883/",
       "isbn": "9781098128883",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Creative Programmer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633439054/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633439054/",
       "isbn": "9781633439054",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Good Code, Bad Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617298936/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617298936/",
       "isbn": "9781617298936",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Mistakes and Tradeoffs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617299209/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617299209/",
       "isbn": "9781617299209",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Rational Software Engineer: Strategies for a Fulfilling Career in Tech",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484297957/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484297957/",
       "isbn": "9781484297957",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Automated Code Remediation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098150884/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098150884/",
       "isbn": "9781098150877",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Low-Code Application Development with Appian",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800205628/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800205628/",
       "isbn": "9781800205628",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Modern Front-end Architecture: Optimize Your Front-end Development with Components, Storybook, and Mise en Place Philosophy",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484266250/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484266250/",
       "isbn": "9781484266250",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Open Source Projects - Beyond Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837636884/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837636884/",
       "isbn": "9781837636884",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "What Is Trunk-Based Development?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098146658/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098146658/",
       "isbn": "9781098146641",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Fundamentals for Self-Taught Programmers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801812115/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801812115/",
       "isbn": "9781801812115",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "A Friendly Guide to Software Development: What You Should Know Without Being a Developer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484289693/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484289693/",
       "isbn": "9781484289693",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Hardware and Software Projects Troubleshooting: How Effective Requirements Writing Can Save the Day",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484298305/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484298305/",
       "isbn": "9781484298305",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "A Software Engineer’s Guide to Seniority: A Guide to Technical Leadership",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484287835/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484287835/",
       "isbn": "9781484287835",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Quality Assurance",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118501825/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118501825/",
       "isbn": "9781118501825",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Writing Great Specifications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617294105/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617294105/",
       "isbn": "9781617294105",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Effective Software Engineer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341638167/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341638167/",
       "isbn": "9798341638174",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Tidy Together",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098178758/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098178758/",
       "isbn": "9781098178765",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Programming Interviews Exposed, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119418474/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119418474/",
       "isbn": "9781119418474",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "arc42 by Example",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781839214356/",
       "url": "https://learning.oreilly.com/api/v1/book/9781839214356/",
       "isbn": "9781839214356",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Secret Life of Programs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098122515/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098122515/",
       "isbn": "9781593279707",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Computer Science From Scratch",
       "id": "https://www.safaribooksonline.com/api/v1/book/0642572230142/",
       "url": "https://learning.oreilly.com/api/v1/book/0642572230142/",
       "isbn": "9781718504301",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Lean Software Systems Engineering for Developers: Managing Requirements, Complexity, Teams, and Change Like a Champ",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484269336/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484269336/",
       "isbn": "9781484269336",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Delivering Digital Solutions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780177137/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780177137/",
       "isbn": "9781780177137",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Engineering Made Easy: A Comprehensive Reference Guide for Writing Good Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868813863/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868813863/",
       "isbn": "9798868813863",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "simplicity",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798888651704/",
       "url": "https://learning.oreilly.com/api/v1/book/9798888651704/",
       "isbn": "9798888651704",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Building a Career in Software: A Comprehensive Guide to Success in the Software Industry",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484261477/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484261477/",
       "isbn": "9781484261477",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Development in Practice",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780174990/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780174990/",
       "isbn": "9781780174990",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Write Great Code, Volume 3",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098125660/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098125660/",
       "isbn": "9781098125660",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Programming with Types",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296413/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296413/",
       "isbn": "9781617296413",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Strategic Software Engineering: Software Engineering Beyond the Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868809958/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868809958/",
       "isbn": "9798868809958",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Developer Relations: How to Build and Grow a Successful Developer Program",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484271643/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484271643/",
       "isbn": "9781484271643",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Low-Code and the Democratization of Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098112592/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098112592/",
       "isbn": "9781098112585",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Managing Technical Debt: Reducing Friction in Software Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135646052/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135646052/",
       "isbn": "9780135646052",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Creating the Virtuous Cycle with Headless, Hybrid, and Low Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098130589/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098130589/",
       "isbn": "9781098130572",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Seriously Good Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296291/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296291/",
       "isbn": "9781617296291",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Kollected Kode Vicious",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780136869955/",
       "url": "https://learning.oreilly.com/api/v1/book/9780136869955/",
       "isbn": "9780136869955",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Improving the Quality of ABAP Code: Striving for Perfection",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484267110/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484267110/",
       "isbn": "9781484267110",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Developer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780175034/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780175034/",
       "isbn": "9781780175034",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Managing Feature Flags",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492028598/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492028598/",
       "isbn": "9781492028581",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Formal Verification",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128008157/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128008157/",
       "isbn": "9780128008157",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Design X-Rays",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680505795/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680505795/",
       "isbn": "9781680505801",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Code with the Wisdom of the Crowd",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680506297/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680506297/",
       "isbn": "9781680506303",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself Beginning Programming in 24 Hours, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135895610/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135895610/",
       "isbn": "9780135895610",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Practical Software Development Techniques: Tools and Techniques for Building Enterprise Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484206201/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484206201/",
       "isbn": "9781484206201",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Write Your Way To Success: Lessons Learned on my Path from Ordinary Developer to Author of Programming Books That Sell",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484239704/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484239704/",
       "isbn": "9781484239704",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Skill Up: A Software Developer's Guide to Life and Career",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787287037/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787287037/",
       "isbn": "9781787287037",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Bad Programming Practices 101: Become a Better Coder by Learning How (Not) to Program",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484234112/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484234112/",
       "isbn": "9781484234112",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Error Correction Coding, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119567479/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119567479/",
       "isbn": "9781119567479",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "How Software Works",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781457189968/",
       "url": "https://learning.oreilly.com/api/v1/book/9781457189968/",
       "isbn": "9781593276669",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Software Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118969175/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118969175/",
       "isbn": "9781118969144",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "97 Things Every Programmer Should Know",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596809515/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596809515/",
       "isbn": "9780596809485",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Maintenance Success Recipes",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439851678/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439851678/",
       "isbn": "9781466513129",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Becoming a Better Programmer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491905562/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491905562/",
       "isbn": "9781491905579",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Art of Readable Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449318482/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449318482/",
       "isbn": "9781449314217",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Coding Interviews: Questions, Analysis & Solutions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430247616/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430247616/",
       "isbn": "9781430247616",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Real-World Maintainable Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492042853/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492042853/",
       "isbn": "9781491958582",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Your Code as a Crime Scene",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680500813/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680500813/",
       "isbn": "9781680505207",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Getting a Coding Job For Dummies®",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119050940/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119050940/",
       "isbn": "9781119050940",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Team Geek",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449329839/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449329839/",
       "isbn": "9781449302443",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Programming Beyond Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491943816/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491943816/",
       "isbn": "9781491943823",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Code Complete, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0735619670/",
       "url": "https://learning.oreilly.com/api/v1/book/0735619670/",
       "isbn": "9780735619678",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Practical Software Development Techniques: Tools and Techniques for Building Enterprise Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484207284/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484207284/",
       "isbn": "9781484207284",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Pragmatic Thinking and Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680500196/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680500196/",
       "isbn": "9781680504224",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Making Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596808310/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596808310/",
       "isbn": "9781449397760",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Code Simplicity",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449314750/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449314750/",
       "isbn": "9781449334697",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Head First Software Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596527358/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596527358/",
       "isbn": "9780596527358",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Hackers & Painters",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596006624/",
       "url": "https://learning.oreilly.com/api/v1/book/0596006624/",
       "isbn": "9781449389550",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Programming in Go: Creating Applications for the 21st Century",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132764100/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132764100/",
       "isbn": "9780132764100",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Why Programs Fail, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123745156/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123745156/",
       "isbn": "9780080923000",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Coders at Work: Reflections on the Craft of Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430219484/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430219484/",
       "isbn": "9781430219484",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Code Leader: Using People, Tools, and Processes to Build Successful Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470259245/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470259245/",
       "isbn": "9780470259245",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Codermetrics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449312664/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449312664/",
       "isbn": "9781449315337",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Beautiful Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596510046/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596510046/",
       "isbn": "9780596510046",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Solid Code: Optimizing the Software Development Life Cycle",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780735625921/",
       "url": "https://learning.oreilly.com/api/v1/book/9780735625921/",
       "isbn": "9780735625921",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Masterminds of Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596801670/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596801670/",
       "isbn": "9780596555504",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Growing Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781593271831/",
       "url": "https://learning.oreilly.com/api/v1/book/9781593271831/",
       "isbn": "9781593271831",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Code Craft",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781593271190/",
       "url": "https://learning.oreilly.com/api/v1/book/9781593271190/",
       "isbn": "9781593271190",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Debug It!",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680500110/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680500110/",
       "isbn": "9781934356289",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "PIC Projects for Non-Programmers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781856176033/",
       "url": "https://learning.oreilly.com/api/v1/book/9781856176033/",
       "isbn": "9780080879376",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Design Methodology",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780750660754/",
       "url": "https://learning.oreilly.com/api/v1/book/9780750660754/",
       "isbn": "9780080454962",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Emergent Design: The Evolutionary Nature of Professional Software Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321553720/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321553720/",
       "isbn": "9780321553720",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Handbook of Constraint Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780444527264/",
       "url": "https://learning.oreilly.com/api/v1/book/9780444527264/",
       "isbn": "9780080463803",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Developing Real World Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780763773199/",
       "url": "https://learning.oreilly.com/api/v1/book/9780763773199/",
       "isbn": "9781449600211",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Use Case Modeling",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201709139/",
       "url": "https://learning.oreilly.com/api/v1/book/0201709139/",
       "isbn": "0201709139",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Code Quality",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321166078/",
       "url": "https://learning.oreilly.com/api/v1/book/0321166078/",
       "isbn": "0321166078",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Requirement Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780735623989/",
       "url": "https://learning.oreilly.com/api/v1/book/9780735623989/",
       "isbn": "9780735623989",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Secrets of the Rock Star Programmers: Riding the IT Crest",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071490832/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071490832/",
       "isbn": "9780071490832",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Find the Bug A Book of Incorrect Programs",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321223918/",
       "url": "https://learning.oreilly.com/api/v1/book/0321223918/",
       "isbn": "0321223918",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Write Great Code, Volume 2",
       "id": "https://www.safaribooksonline.com/api/v1/book/1593270658/",
       "url": "https://learning.oreilly.com/api/v1/book/1593270658/",
       "isbn": "1593270658",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "The Practice of Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133133448/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133133448/",
       "isbn": "9780133133448",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Fit for Developing Software: Framework for Integrated Tests",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321269349/",
       "url": "https://learning.oreilly.com/api/v1/book/0321269349/",
       "isbn": "9780321269348",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Design for Engineers and Scientists",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780750660808/",
       "url": "https://learning.oreilly.com/api/v1/book/9780750660808/",
       "isbn": "9780080474403",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Code Reading: The Open Source Perspective",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201799405/",
       "url": "https://learning.oreilly.com/api/v1/book/0201799405/",
       "isbn": "0201799405",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "JOEL ON SOFTWARE: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781590593899/",
       "url": "https://learning.oreilly.com/api/v1/book/9781590593899/",
       "isbn": "9781590593899",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Hunt/The Pragmatic Programmer, First Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/020161622X/",
       "url": "https://learning.oreilly.com/api/v1/book/020161622X/",
       "isbn": "9780201616224",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Practical Development Environments",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596007965/",
       "url": "https://learning.oreilly.com/api/v1/book/0596007965/",
       "isbn": "0596007965",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Write Great Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/1593270038/",
       "url": "https://learning.oreilly.com/api/v1/book/1593270038/",
       "isbn": "1593270038",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Craftsmanship: The New Imperative",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201733862/",
       "url": "https://learning.oreilly.com/api/v1/book/0201733862/",
       "isbn": "0201733862",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Jess in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781930110892/",
       "url": "https://learning.oreilly.com/api/v1/book/9781930110892/",
       "isbn": "9781930110892",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Software Development: Building Reliable Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130812463/",
       "url": "https://learning.oreilly.com/api/v1/book/0130812463/",
       "isbn": "0130812463",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Peopleware Papers: Notes on the Human Side of Software, The",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130601233/",
       "url": "https://learning.oreilly.com/api/v1/book/0130601233/",
       "isbn": "9780130601230",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     },
     {
       "title": "Practical IDL Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781558607002/",
       "url": "https://learning.oreilly.com/api/v1/book/9781558607002/",
       "isbn": "9780080514444",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to the Personal Software Process(SM)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780768685855/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780768685855/",
+      "isbn": "9780768685855",
+      "format": "book",
+      "main_topic": "Coding Practices",
+      "secondary_topics": []
     }
   ]
 }

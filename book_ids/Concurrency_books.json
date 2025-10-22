@@ -1,154 +1,205 @@
 {
   "skill_name": "Concurrency",
-  "discovery_timestamp": 1760820568.643036,
-  "total_books": 21,
+  "discovery_timestamp": "2025-10-19 17:13:56",
+  "total_books": 22,
   "books": [
     {
       "title": "Asynchronous Programming with C++",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835884249/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835884249/",
       "isbn": "9781835884249",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "C# Concurrency",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633438651/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633438651/",
       "isbn": "9781633438651",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Java Concurrency and Parallelism",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781805129264/",
       "url": "https://learning.oreilly.com/api/v1/book/9781805129264/",
       "isbn": "9781805129264",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Grokking Concurrency",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633439771/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633439771/",
       "isbn": "9781633439771",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Parallel Programming with C# and .NET: Fundamentals of Concurrency and Asynchrony Behind Fast-Paced Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868804885/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868804885/",
       "isbn": "9798868804885",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Effective Concurrency in Go",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804619070/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804619070/",
       "isbn": "9781804619070",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Modern Concurrency on Apple Platforms: Using async/await with Swift",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484286951/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484286951/",
       "isbn": "9781484286951",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Asynchronicity",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783111329192/",
       "url": "https://learning.oreilly.com/api/v1/book/9783111329192/",
       "isbn": "9783111329192",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Queueing Theory 1",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789450019/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789450019/",
       "isbn": "9781789450019",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Seven Concurrency Models in Seven Weeks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781941222737/",
       "url": "https://learning.oreilly.com/api/v1/book/9781941222737/",
       "isbn": "9781941222737",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Discrete Time Branching Processes in Random Environment",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786302526/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786302526/",
       "isbn": "9781786302526",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Creating Components",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780203491324/",
       "url": "https://learning.oreilly.com/api/v1/book/9780203491324/",
       "isbn": "9781135505905",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Android™ Concurrency",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134177618/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134177618/",
       "isbn": "9780134177618",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Concurrency in C# Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491906675/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491906675/",
       "isbn": "9781491906675",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "C++ Concurrency in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781933988771/",
       "url": "https://learning.oreilly.com/api/v1/book/9781933988771/",
       "isbn": "9781933988771",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Mastering C# Concurrency",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785286650/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785286650/",
       "isbn": "9781785286650",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Programming Concurrency on the JVM",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781941222973/",
       "url": "https://learning.oreilly.com/api/v1/book/9781941222973/",
       "isbn": "9781941222973",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Asynchronous Android",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781783286874/",
       "url": "https://learning.oreilly.com/api/v1/book/9781783286874/",
       "isbn": "9781783286874",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "The Art of Concurrency",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596802424/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596802424/",
       "isbn": "9780596521530",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to Concurrency in Programming Languages",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781420072143/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781420072143/",
+      "isbn": "9781420072143",
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Concurrent Programming on Windows",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321434821/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321434821/",
       "isbn": "9780321434821",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     },
     {
       "title": "Programming with POSIX ® Threads",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201633922/",
       "url": "https://learning.oreilly.com/api/v1/book/0201633922/",
       "isbn": "0201633922",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Concurrency",
+      "secondary_topics": []
     }
   ]
 }

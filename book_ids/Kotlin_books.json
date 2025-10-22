@@ -1,6 +1,6 @@
 {
   "skill_name": "Kotlin",
-  "discovery_timestamp": 1760820603.667525,
+  "discovery_timestamp": "2025-10-19 15:12:50",
   "total_books": 62,
   "books": [
     {
@@ -8,434 +8,558 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617299605/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617299605/",
       "isbn": "9781617299605",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Software Architecture with Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835461860/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835461860/",
       "isbn": "9781835461860",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin from Scratch",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098182526/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098182526/",
       "isbn": "9781718503526",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Kotlin for Android 14",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837631711/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837631711/",
       "isbn": "9781837631711",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Design Patterns and Best Practices - Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781805127765/",
       "url": "https://learning.oreilly.com/api/v1/book/9781805127765/",
       "isbn": "9781805127765",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Thriving in Android Development Using Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837631292/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837631292/",
       "isbn": "9781837631292",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "How to Build Android Apps with Kotlin - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837634934/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837634934/",
       "isbn": "9781837634934",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "From Objects to Functions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798888650455/",
       "url": "https://learning.oreilly.com/api/v1/book/9798888650455/",
       "isbn": "9781680508451",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Java to Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492082262/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492082262/",
       "isbn": "9781492082279",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kickstart Modern Android Development with Jetpack and Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801811071/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801811071/",
       "isbn": "9781801811071",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Programming Android with Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492062998/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492062998/",
       "isbn": "9781492063001",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Programming: The Big Nerd Ranch Guide, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780136870494/",
       "url": "https://learning.oreilly.com/api/v1/book/9780136870494/",
       "isbn": "9780136870494",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Frontend Development with JavaFX and Kotlin: Build State-of-the-Art Kotlin GUI Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484297179/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484297179/",
       "isbn": "9781484297179",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Functional Programming in Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617297168/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617297168/",
       "isbn": "9781617297168",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Pro Kotlin Web Apps from Scratch: Building Production-Ready Web Apps Without a Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484290576/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484290576/",
       "isbn": "9781484290576",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Design Patterns and Best Practices - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801815727/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801815727/",
       "isbn": "9781801815727",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Head First Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491996683/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491996683/",
       "isbn": "9781491996690",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Simplifying Application Development with Kotlin Multiplatform Mobile",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801812580/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801812580/",
       "isbn": "9781801812580",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Pro Android with Kotlin: Developing Modern Mobile Apps with Kotlin and Jetpack",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484287453/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484287453/",
       "isbn": "9781484287453",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Programming Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680507287/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680507287/",
       "isbn": "9781680507294",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Programming DSLs in Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680508253/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680508253/",
       "isbn": "9781680508253",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Simplifying Android Development with Coroutines and Flows",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801816243/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801816243/",
       "isbn": "9781801816243",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Android Studio Arctic Fox Essentials - Kotlin Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803247458/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803247458/",
       "isbn": "9781803247458",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Android Programming with Kotlin for Beginners",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789615401/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789615401/",
       "isbn": "9781789615401",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Mastery: A Comprehensive Guide for Java Developers and New Programmers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868816185/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868816185/",
       "isbn": "9798868816185",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin and Android Development featuring Jetpack",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680508673/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680508673/",
       "isbn": "9781680508680",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "How to Build Android Applications with Kotlin - Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835882764/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835882764/",
       "isbn": "9781835882764",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Coroutine Confidence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798888651834/",
       "url": "https://learning.oreilly.com/api/v1/book/9798888651834/",
       "isbn": "9798888651834",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492046660/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492046660/",
       "isbn": "9781492046639",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Numerical Methods Using Kotlin: For Data Science, Analysis, and Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484288269/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484288269/",
       "isbn": "9781484288269",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Kotlin: Build Applications with Better Code, Productivity, and Performance",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484286982/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484286982/",
       "isbn": "9781484286982",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "How to Build Android Apps with Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838984113/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838984113/",
       "isbn": "9781838984113",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617293290/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617293290/",
       "isbn": "9781617293290",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "The Joy of Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617295362/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617295362/",
       "isbn": "9781617295362",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838555726/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838555726/",
       "isbn": "9781838555726",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Learning Concurrency in Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788627160/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788627160/",
       "isbn": "9781788627160",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Object-Oriented Programming with Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789617726/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789617726/",
       "isbn": "9781789617726",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Learn to Program with Kotlin: From the Basics to Projects with Text and Image Processing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484268155/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484268155/",
       "isbn": "9781484268155",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin for Android App Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134854281/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134854281/",
       "isbn": "9780134854281",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Learn Kotlin for Android Development: The Next Generation Language for Modern Android Apps Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484244678/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484244678/",
       "isbn": "9781484244678",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Data Structures and Algorithms with Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788994019/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788994019/",
       "isbn": "9781788994019",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Android Studio 4.1 Development Essentials – Kotlin Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801815987/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801815987/",
       "isbn": "9781801815987",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin for Enterprise Applications using Java EE",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788997270/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788997270/",
       "isbn": "9781788997270",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Programming: The Big Nerd Ranch Guide, First Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135165188/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135165188/",
       "isbn": "9780135165188",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Quick Start Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789344189/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789344189/",
       "isbn": "9781789344189",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Android Studio 4.0 Development Essentials - Kotlin Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800560437/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800560437/",
       "isbn": "9781800560437",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Mastering High Performance with Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788996648/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788996648/",
       "isbn": "9781788996648",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Programming Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787126367/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787126367/",
       "isbn": "9781787126367",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Reactive Programming in Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788473026/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788473026/",
       "isbn": "9781788473026",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Functional Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788476485/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788476485/",
       "isbn": "9781788476485",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Android Studio 3.6 Development Essentials - Kotlin Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800567665/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800567665/",
       "isbn": "9781800567665",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Programming By Example",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788474542/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788474542/",
       "isbn": "9781788474542",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Design Patterns with Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788998017/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788998017/",
       "isbn": "9781788998017",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Standard Library Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788837668/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788837668/",
       "isbn": "9781788837668",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Microservices with Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788471459/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788471459/",
       "isbn": "9781788471459",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Serverless Applications with Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788993708/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788993708/",
       "isbn": "9781788993708",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Blueprints",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788390804/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788390804/",
       "isbn": "9781788390804",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Kotlin Programming Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788472142/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788472142/",
       "isbn": "9781788472142",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Android Development with Kotlin",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787123687/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787123687/",
       "isbn": "9781787123687",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Learn Android Studio 3 with Kotlin: Efficient Android App Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484239070/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484239070/",
       "isbn": "9781484239070",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Pro Android with Kotlin: Developing Modern Mobile Apps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484238202/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484238202/",
       "isbn": "9781484238202",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     },
     {
       "title": "Learn Kotlin Programming - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789802351/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789802351/",
       "isbn": "9781789802351",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Kotlin",
+      "secondary_topics": []
     }
   ]
 }

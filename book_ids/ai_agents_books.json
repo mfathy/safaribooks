@@ -1,6 +1,6 @@
 {
   "skill_name": "AI Agents",
-  "discovery_timestamp": 1760820537.010085,
+  "discovery_timestamp": "2025-10-19 13:56:25",
   "total_books": 1,
   "books": [
     {
@@ -8,7 +8,9 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341639546/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341639546/",
       "isbn": "9798341639553",
-      "format": "book"
+      "format": "book",
+      "main_topic": "AI Agents",
+      "secondary_topics": []
     }
   ]
 }

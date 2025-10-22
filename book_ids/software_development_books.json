@@ -1,6 +1,6 @@
 {
   "skill_name": "Software Development",
-  "discovery_timestamp": 1760820663.3573189,
+  "discovery_timestamp": "2025-10-19 17:13:38",
   "total_books": 17,
   "books": [
     {
@@ -8,119 +8,153 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492082781/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492082781/",
       "isbn": "9781492082798",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Balancing Coupling in Software Design: Universal Design Principles for Architecting Modular Software Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137353514/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137353514/",
       "isbn": "9780137353514",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Righting Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780136524007/",
       "url": "https://learning.oreilly.com/api/v1/book/9780136524007/",
       "isbn": "9780136524007",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Follow the Money",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341661349/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341661349/",
       "isbn": "9798341661356",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Peopleware: Productive Projects and Teams, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133440706/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133440706/",
       "isbn": "9780133440706",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "The Software Craftsman: Professionalism, Pragmatism, Pride",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134052625/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134052625/",
       "isbn": "9780134052625",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "The Nature of Software Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680500721/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680500721/",
       "isbn": "9781680505085",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Working with Coders: A Guide to Software Development for the Perplexed Non-Techie",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484227008/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484227008/",
       "isbn": "9781484227008",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Understanding Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788628815/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788628815/",
       "isbn": "9781788628815",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Exercises in Programming Style",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482227376/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482227376/",
       "isbn": "9781482227376",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "The MMIX Supplement: Supplement to The Art of Computer Programming Volumes 1, 2, 3 by Donald E. Knuth",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133992892/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133992892/",
       "isbn": "9780133992892",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Trends Shaping the London Tech Scene",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492051732/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492051732/",
       "isbn": "9781492051732",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Hackers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449390259/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449390259/",
       "isbn": "9781449393748",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "The New Kingmakers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449368036/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449368036/",
       "isbn": "9781449367916",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Implementing Lean Software Development: From Concept to Cash",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321437381/",
       "url": "https://learning.oreilly.com/api/v1/book/0321437381/",
       "isbn": "0321437381",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Facts and Fallacies of Software Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321117425/",
       "url": "https://learning.oreilly.com/api/v1/book/0321117425/",
       "isbn": "0321117425",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     },
     {
       "title": "Software Engineering and Computer Games",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201767910/",
       "url": "https://learning.oreilly.com/api/v1/book/0201767910/",
       "isbn": "0201767910",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Software Development",
+      "secondary_topics": []
     }
   ]
 }

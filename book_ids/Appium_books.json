@@ -1,6 +1,6 @@
 {
   "skill_name": "Appium",
-  "discovery_timestamp": 1760820544.034322,
+  "discovery_timestamp": "2025-10-19 15:26:51",
   "total_books": 4,
   "books": [
     {
@@ -8,28 +8,36 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484281970/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484281970/",
       "isbn": "9781484281970",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Appium",
+      "secondary_topics": []
     },
     {
       "title": "Mobile Test Automation with Appium",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787280168/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787280168/",
       "isbn": "9781787280168",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Appium",
+      "secondary_topics": []
     },
     {
       "title": "Appium Recipes",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484224182/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484224182/",
       "isbn": "9781484224182",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Appium",
+      "secondary_topics": []
     },
     {
       "title": "Appium Essentials",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781784392482/",
       "url": "https://learning.oreilly.com/api/v1/book/9781784392482/",
       "isbn": "9781784392482",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Appium",
+      "secondary_topics": []
     }
   ]
 }

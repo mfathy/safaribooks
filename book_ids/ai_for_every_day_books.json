@@ -1,6 +1,6 @@
 {
   "skill_name": "AI for Every Day",
-  "discovery_timestamp": 1760820538.0150452,
+  "discovery_timestamp": "2025-10-19 13:38:34",
   "total_books": 1,
   "books": [
     {
@@ -8,7 +8,9 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868804472/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868804472/",
       "isbn": "9798868804472",
-      "format": "book"
+      "format": "book",
+      "main_topic": "AI for Every Day",
+      "secondary_topics": []
     }
   ]
 }

@@ -1,2555 +1,3292 @@
 {
   "skill_name": "Artificial Intelligence (AI)",
-  "discovery_timestamp": 1760820535.039785,
-  "total_books": 364,
+  "discovery_timestamp": "2025-10-19 17:23:13",
+  "total_books": 365,
   "books": [
     {
       "title": "AI Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098166298/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098166298/",
       "isbn": "9781098166304",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Agents in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633436343/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633436343/",
       "isbn": "9781633436343",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "How AI Works",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098168568/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098168568/",
       "isbn": "9781718503724",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence: Beyond Classical AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9789357053778/",
       "url": "https://learning.oreilly.com/api/v1/book/9789357053778/",
       "isbn": "9789357053778",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Adversarial AI Attacks, Mitigations, and Defense Strategies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835087985/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835087985/",
       "isbn": "9781835087985",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
+    },
+    {
+      "title": "Artificial Intelligence Basics: A Non-Technical Introduction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484250280/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484250280/",
+      "isbn": "9781484250280",
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "​AI Strategies for Web Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835886304/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835886304/",
       "isbn": "9781835886304",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence Programming with Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119820864/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119820864/",
       "isbn": "9781119820864",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Revealed",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781501520631/",
       "url": "https://learning.oreilly.com/api/v1/book/9781501520631/",
       "isbn": "9781501520631",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Your AI Roadmap",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394298013/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394298013/",
       "isbn": "9781394298013",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence-Enabled Businesses",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394233977/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394233977/",
       "isbn": "9781394233977",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Building AI Applications with Microsoft Semantic Kernel",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835463703/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835463703/",
       "isbn": "9781835463703",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI for Good",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394235872/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394235872/",
       "isbn": "9781394235872",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Decision Intelligence Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098139643/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098139643/",
       "isbn": "9781098139650",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Cybersecurity",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781805124962/",
       "url": "https://learning.oreilly.com/api/v1/book/9781805124962/",
       "isbn": "9781805124962",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Writing AI Prompts For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394244669/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394244669/",
       "isbn": "9781394244669",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Upskilling AI Professionals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098172046/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098172046/",
       "isbn": "9781098172039",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI and the Future of Education",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394219247/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394219247/",
       "isbn": "9781394219247",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Coding with AI For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394249138/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394249138/",
       "isbn": "9781394249138",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI-Powered Leadership: Mastering the Synergy of Technology and Human Expertise",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135429549/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135429549/",
       "isbn": "9780135429549",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The AI Revolution in Networking, Cybersecurity, and Emerging Technologies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780138293703/",
       "url": "https://learning.oreilly.com/api/v1/book/9780138293703/",
       "isbn": "9780138293703",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Explained",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837028313/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837028313/",
       "isbn": "9781837028313",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI at the Edge",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098120191/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098120191/",
       "isbn": "9781098120207",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence and Machine Learning Foundations, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780176758/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780176758/",
       "isbn": "9781780176758",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Definitive Guide to Google Vertex AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801815260/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801815260/",
       "isbn": "9781801815260",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Startup Strategy: A Blueprint to Building Successful Artificial Intelligence Products from Inception to Exit",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484295021/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484295021/",
       "isbn": "9781484295021",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Sustainable AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098155506/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098155506/",
       "isbn": "9781098155513",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The AI Value Playbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835461754/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835461754/",
       "isbn": "9781835461754",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Generative AI in Practice",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394245567/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394245567/",
       "isbn": "9781394245567",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence and Cybersecurity in Healthcare",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394229796/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394229796/",
       "isbn": "9781394229796",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Applying Artificial Intelligence in Cybersecurity Analytics and Cyber Threat Detection",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394196449/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394196449/",
       "isbn": "9781394196449",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI in Digital Marketing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781501519185/",
       "url": "https://learning.oreilly.com/api/v1/book/9781501519185/",
       "isbn": "9781501519185",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI for Absolute Beginners: A Clear Guide to Tomorrow",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835886526/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835886526/",
       "isbn": "9781835886526",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Understanding AI, IoT, 6G and The Infrastructure Revolution",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781501520075/",
       "url": "https://learning.oreilly.com/api/v1/book/9781501520075/",
       "isbn": "9781501520075",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Handbook of Geospatial Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781003814955/",
       "url": "https://learning.oreilly.com/api/v1/book/9781003814955/",
       "isbn": "9781003814955",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Neuro-Symbolic AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804617625/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804617625/",
       "isbn": "9781804617625",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Doctor",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394240166/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394240166/",
       "isbn": "9781394240166",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Grant Writing with AI For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394305865/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394305865/",
       "isbn": "9781394305865",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Designing Autonomous AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098110741/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098110741/",
       "isbn": "9781098110758",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Conversational Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394200566/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394200566/",
       "isbn": "9781394200566",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Generative Artificial Intelligence in Finance",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394271047/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394271047/",
       "isbn": "9781394271047",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Multimodal Data Fusion for Bioinformatics Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394269938/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394269938/",
       "isbn": "9781394269938",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Smart Factories for Industry 5.0 Transformation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394199952/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394199952/",
       "isbn": "9781394199952",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Exploring Deepfakes",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801810692/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801810692/",
       "isbn": "9781801810692",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Causal Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394184132/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394184132/",
       "isbn": "9781394184132",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI for Retail",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394184699/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394184699/",
       "isbn": "9781394184699",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Scalable AI and Design Patterns: Design, Develop, and Deploy Scalable AI Solutions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868801587/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868801587/",
       "isbn": "9798868801587",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise AI in the Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394213054/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394213054/",
       "isbn": "9781394213054",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Infinite Retina - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781836204831/",
       "url": "https://learning.oreilly.com/api/v1/book/9781836204831/",
       "isbn": "9781836204831",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Deep Dive",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119933243/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119933243/",
       "isbn": "9781119933243",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Diffusions in Architecture: Artificial Intelligence and Image Generators",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394191772/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394191772/",
       "isbn": "9781394191772",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Finance",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492055426/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492055426/",
       "isbn": "9781492055433",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI First, Human Always",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394189823/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394189823/",
       "isbn": "9781394189823",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Secrets of AI Value Creation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394233625/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394233625/",
       "isbn": "9781394233625",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Business",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000968880/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000968880/",
       "isbn": "9781000968880",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence For Dummies, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119796763/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119796763/",
       "isbn": "9781119796763",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Information Visualization for Intelligent Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394305780/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394305780/",
       "isbn": "9781394305780",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Ethics in Online AI-Based Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780443188503/",
       "url": "https://learning.oreilly.com/api/v1/book/9780443188503/",
       "isbn": "9780443188503",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence of Things (AIoT)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780443264832/",
       "url": "https://learning.oreilly.com/api/v1/book/9780443264832/",
       "isbn": "9780443264832",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Welcome to AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781647827533/",
       "url": "https://learning.oreilly.com/api/v1/book/9781647827533/",
       "isbn": "9781647827533",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Computational Intelligence Methods for Sentiment Analysis in Natural Language Processing Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780443220104/",
       "url": "https://learning.oreilly.com/api/v1/book/9780443220104/",
       "isbn": "9780443220104",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Wellness Management Powered by AI Technologies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394286997/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394286997/",
       "isbn": "9781394286997",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI and the Law: A Practical Guide to Using Artificial Intelligence Safely",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868804007/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868804007/",
       "isbn": "9798868804007",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI HORIZONS",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781501518485/",
       "url": "https://learning.oreilly.com/api/v1/book/9781501518485/",
       "isbn": "9781501518485",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Decision Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394185061/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394185061/",
       "isbn": "9781394185061",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783111344171/",
       "url": "https://learning.oreilly.com/api/v1/book/9783111344171/",
       "isbn": "9783111344171",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Not with a Bug, But with a Sticker",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119883982/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119883982/",
       "isbn": "9781119883982",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI & Data Literacy",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835083505/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835083505/",
       "isbn": "9781835083505",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Semantic AI in Knowledge Graphs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000911220/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000911220/",
       "isbn": "9781000911220",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Inside AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633437722/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633437722/",
       "isbn": "9781633437722",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Innovative Engineering with AI Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119791638/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119791638/",
       "isbn": "9781119791638",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Behavioral AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394196869/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394196869/",
       "isbn": "9781394196869",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence and Human Evolution: Contextualizing AI in Human History",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484298077/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484298077/",
       "isbn": "9781484298077",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Virtual Reality and Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781003846031/",
       "url": "https://learning.oreilly.com/api/v1/book/9781003846031/",
       "isbn": "9781003846031",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence and Software Testing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780175782/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780175782/",
       "isbn": "9781780175782",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Creation of a Conscious Machine",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781501518331/",
       "url": "https://learning.oreilly.com/api/v1/book/9781501518331/",
       "isbn": "9781501518331",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Inclusion Equation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394294510/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394294510/",
       "isbn": "9781394294510",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Business, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780136556565/",
       "url": "https://learning.oreilly.com/api/v1/book/9780136556565/",
       "isbn": "9780136556565",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Human-Centered Metaverse",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780443219979/",
       "url": "https://learning.oreilly.com/api/v1/book/9780443219979/",
       "isbn": "9780443219979",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The AI Ladder",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492073420/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492073420/",
       "isbn": "9781492073437",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Mechanism Design, Behavioral Science and Artificial Intelligence in International Relations",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780443239830/",
       "url": "https://learning.oreilly.com/api/v1/book/9780443239830/",
       "isbn": "9780443239830",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "LLM Adoption in the Enterprise",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098151652/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098151652/",
       "isbn": "9781098151645",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Challenge to AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781501518461/",
       "url": "https://learning.oreilly.com/api/v1/book/9781501518461/",
       "isbn": "9781501518461",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Generative AI Tools for Developers: A Practical Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781925836592/",
       "url": "https://learning.oreilly.com/api/v1/book/9781925836592/",
       "isbn": "9781925836592",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence Enabled Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783111173252/",
       "url": "https://learning.oreilly.com/api/v1/book/9783111173252/",
       "isbn": "9783111173252",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Augmentation Technologies and Artificial Intelligence in Technical Communication",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000889246/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000889246/",
       "isbn": "9781000889246",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Toward Artificial General Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783111324166/",
       "url": "https://learning.oreilly.com/api/v1/book/9783111324166/",
       "isbn": "9783111324166",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Predicting the Unknown: The History and Future of Data Science and Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484295052/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484295052/",
       "isbn": "9781484295052",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence of Things (AIoT)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781003854272/",
       "url": "https://learning.oreilly.com/api/v1/book/9781003854272/",
       "isbn": "9781003854272",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Convergence: Artificial Intelligence and Quantum Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394174102/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394174102/",
       "isbn": "9781394174102",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Topics in Artificial Intelligence Applied to Industry 4.0",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394216116/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394216116/",
       "isbn": "9781394216116",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "A Roadmap for Enabling Industry 4.0 by Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119904854/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119904854/",
       "isbn": "9781119904854",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Operating AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119833192/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119833192/",
       "isbn": "9781119833192",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "All-in On AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781647824709/",
       "url": "https://learning.oreilly.com/api/v1/book/9781647824709/",
       "isbn": "9781647824709",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence Foundations",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780175300/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780175300/",
       "isbn": "9781780175300",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Optimized Computational Intelligence Driven Decision-Making",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394242535/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394242535/",
       "isbn": "9781394242535",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Factory",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000865073/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000865073/",
       "isbn": "9781000865073",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Language of Deception",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394222544/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394222544/",
       "isbn": "9781394222544",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Swarm Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119865063/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119865063/",
       "isbn": "9781119865063",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Precision Health and Artificial Intelligence: With Privacy, Ethics, Bias, Health Equity, Best Practices, and Case Studies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484291627/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484291627/",
       "isbn": "9781484291627",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "HBR's 10 Must Reads on AI (with bonus article \"How to Win with Machine Learning\" by Ajay Agrawal, Joshua Gans, and Avi Goldfarb)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781647825850/",
       "url": "https://learning.oreilly.com/api/v1/book/9781647825850/",
       "isbn": "9781647825850",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Bone Disorder",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394230884/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394230884/",
       "isbn": "9781394230884",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI in Healthcare",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119680017/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119680017/",
       "isbn": "9781119680017",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence and Machine Learning for EDGE Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128240557/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128240557/",
       "isbn": "9780128240557",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Prediction Machines, Updated and Expanded",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781647824686/",
       "url": "https://learning.oreilly.com/api/v1/book/9781647824686/",
       "isbn": "9781647824686",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise AIOps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098107291/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098107291/",
       "isbn": "9781098107284",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Healthcare",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128184394/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128184394/",
       "isbn": "9780128184394",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Managing AI in the Enterprise: Succeeding with AI Projects and MLOps to Build Sustainable AI Organizations",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484278246/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484278246/",
       "isbn": "9781484278246",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI and UX: Why Artificial Intelligence Needs User Experience",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484257753/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484257753/",
       "isbn": "9781484257753",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Sustainable Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394174584/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394174584/",
       "isbn": "9781394174584",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Brain-Computer Interface",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119857204/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119857204/",
       "isbn": "9781119857204",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Managing AI Projects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341641006/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341641006/",
       "isbn": "9798341641013",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The De Gruyter Handbook of Artificial Intelligence, Identity and Technology Studies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110721843/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110721843/",
       "isbn": "9783110721843",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Delightful Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098180829/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098180829/",
       "isbn": "9781098180836",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Our Planet Powered by AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394180608/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394180608/",
       "isbn": "9781394180608",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "TRIVERGENCE",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394226610/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394226610/",
       "isbn": "9781394226610",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Practical Explainable AI Using Python: Artificial Intelligence Model Explanations Using Python-based Libraries, Extensions, and Frameworks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484271582/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484271582/",
       "isbn": "9781484271582",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Building Social Equity with AI: Validating User Transactions with AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868800917/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868800917/",
       "isbn": "9798868800917",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI-Driven Testing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098105983/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098105983/",
       "isbn": "9781098105976",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Responsible Artificial Intelligence Re-engineering the Global Public Health Ecosystem",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780443215964/",
       "url": "https://learning.oreilly.com/api/v1/book/9780443215964/",
       "isbn": "9780443215964",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Performance-Driven Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394172061/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394172061/",
       "isbn": "9781394172061",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Artificial Intelligence for Cybersecurity",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789804027/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789804027/",
       "isbn": "9781789804027",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "System Innovation for an Artificial Intelligence Era",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781040261415/",
       "url": "https://learning.oreilly.com/api/v1/book/9781040261415/",
       "isbn": "9781040261415",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise Transformation to Artificial Intelligence and the Metaverse",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781501518478/",
       "url": "https://learning.oreilly.com/api/v1/book/9781501518478/",
       "isbn": "9781501518478",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI-Ready Data Blueprints",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341631786/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341631786/",
       "isbn": "9798341631793",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Risk Modeling",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119824930/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119824930/",
       "isbn": "9781119824930",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Getting Started with Artificial Intelligence, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492083443/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492083443/",
       "isbn": "9781492083436",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Intelligent Manufacturing Management Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119836247/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119836247/",
       "isbn": "9781119836247",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence, Machine Learning, and Mental Health in Pandemics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780323915557/",
       "url": "https://learning.oreilly.com/api/v1/book/9780323915557/",
       "isbn": "9780323915557",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence Business: How you can profit from AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800566514/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800566514/",
       "isbn": "9781800566514",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Medical Sciences and Psychology: With Application of Machine Language, Computer Vision, and NLP Techniques",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484282175/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484282175/",
       "isbn": "9781484282175",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Healthcare and COVID-19",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780323905732/",
       "url": "https://learning.oreilly.com/api/v1/book/9780323905732/",
       "isbn": "9780323905732",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Artificial Intelligence for IoT - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788836067/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788836067/",
       "isbn": "9781788836067",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI-Powered Digital Cyber Resilience",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135408599/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135408599/",
       "isbn": "9780135408599",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Neuromorphic Devices for Brain-inspired Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783527349791/",
       "url": "https://learning.oreilly.com/api/v1/book/9783527349791/",
       "isbn": "9783527349791",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence and Computational Dynamics for Biomedical Research",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110762082/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110762082/",
       "isbn": "9783110762082",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Industry 4.0 and 5G Technology",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119798767/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119798767/",
       "isbn": "9781119798767",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial intelligence, Big data, blockchain and 5G for the digital transformation of the healthcare industry",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780443215995/",
       "url": "https://learning.oreilly.com/api/v1/book/9780443215995/",
       "isbn": "9780443215995",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Operationalizing AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098101329/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098101329/",
       "isbn": "9781098101329",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Democratizing Artificial Intelligence with UiPath",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801817653/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801817653/",
       "isbn": "9781801817653",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Machine Learning for Auditors: Automating Fraud Investigations Through Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484280515/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484280515/",
       "isbn": "9781484280515",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Becoming An AI Orchestrator: A Knowledge Worker's Guide to Leading, Creating, and Thriving in the Age of Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135344613/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135344613/",
       "isbn": "9780135344613",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence-based Infrared Thermal Image Processing and its Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000688450/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000688450/",
       "isbn": "9781000688450",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Structured for Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341653009/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341653009/",
       "isbn": "9798341652996",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Fairness",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492077664/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492077664/",
       "isbn": "9781492077657",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Systems Performance Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341627772/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341627772/",
       "isbn": "9798341627789",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Adaptive Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394389049/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394389049/",
       "isbn": "9781394389049",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Intelligent Universe",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394355488/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394355488/",
       "isbn": "9781394355488",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence Applications and Reconfigurable Architectures",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119857297/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119857297/",
       "isbn": "9781119857297",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence Applications in Aeronautical and Aerospace Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394268764/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394268764/",
       "isbn": "9781394268764",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "What Is Artificial Intelligence?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492029779/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492029779/",
       "isbn": "9781491965399",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Creative Machines",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394316267/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394316267/",
       "isbn": "9781394316267",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Autonomous Minds",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394350100/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394350100/",
       "isbn": "9781394350100",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Year in Tech, 2026",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798892791984/",
       "url": "https://learning.oreilly.com/api/v1/book/9798892791984/",
       "isbn": "9798892791984",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Creators of Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804616482/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804616482/",
       "isbn": "9781804616482",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Show AI--Don't Tell It",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394336913/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394336913/",
       "isbn": "9781394336913",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Profitable AI Advantage",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781836205890/",
       "url": "https://learning.oreilly.com/api/v1/book/9781836205890/",
       "isbn": "9781836205890",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Advances in Artificial Intelligence Applications in Industrial and Systems Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394257065/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394257065/",
       "isbn": "9781394257065",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Secure Energy Optimization",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394271818/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394271818/",
       "isbn": "9781394271818",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Architectures for the Intelligent AI-Ready Enterprise",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781806117154/",
       "url": "https://learning.oreilly.com/api/v1/book/9781806117154/",
       "isbn": "9781806117154",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for HR, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398622760/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398622760/",
       "isbn": "9781398622760",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Competing in the Age of AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633697638/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633697638/",
       "isbn": "9781633697638",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Handbook of Intelligent Automation Systems Using Computer Vision and Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394302673/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394302673/",
       "isbn": "9781394302673",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The AI-Powered Workplace: How Artificial Intelligence, Data, and Messaging Platforms Are Defining the Future of Work",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484254769/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484254769/",
       "isbn": "9781484254769",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Ethical Decision-Making Using Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394275281/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394275281/",
       "isbn": "9781394275281",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Internal Communication in the Age of Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781637426050/",
       "url": "https://learning.oreilly.com/api/v1/book/9781637426050/",
       "isbn": "9781637426050",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Intelligent Automation with End-User Computing Solutions: A Guide to Empowering Efficiency",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868813122/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868813122/",
       "isbn": "9798868813122",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI for Nonprofits",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394298419/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394298419/",
       "isbn": "9781394298419",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Neurological Disorders",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394347506/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394347506/",
       "isbn": "9781394347506",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence-Based Brain-Computer Interface",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780323914123/",
       "url": "https://learning.oreilly.com/api/v1/book/9780323914123/",
       "isbn": "9780323914123",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence-Driven Models for Environmental Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394282524/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394282524/",
       "isbn": "9781394282524",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Integrating Neurocomputing with Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394335688/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394335688/",
       "isbn": "9781394335688",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Remote Sensing for Disaster Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394287192/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394287192/",
       "isbn": "9781394287192",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence and Machine Learning for Industry 4.0",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394275045/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394275045/",
       "isbn": "9781394275045",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Mem-elements for Neuromorphic Circuits with Artificial Intelligence Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128232026/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128232026/",
       "isbn": "9780128232026",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence All-in-One For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394341726/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394341726/",
       "isbn": "9781394341726",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI First",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781647829667/",
       "url": "https://learning.oreilly.com/api/v1/book/9781647829667/",
       "isbn": "9781647829667",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The AI Pocket Book",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633435759/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633435759/",
       "isbn": "9781633435759",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Practical AI for Business Leaders, Product Managers, and Entrepreneurs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781501505843/",
       "url": "https://learning.oreilly.com/api/v1/book/9781501505843/",
       "isbn": "9781501505843",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Rise of the Machines",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394303717/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394303717/",
       "isbn": "9781394303717",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Designing for Human Intelligence in an Artificial Intelligence World: Understanding Human Cognition to Design for Humans",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868814181/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868814181/",
       "isbn": "9798868814181",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Power and Prediction",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781647824204/",
       "url": "https://learning.oreilly.com/api/v1/book/9781647824204/",
       "isbn": "9781647824204",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Art of AI Product Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633437050/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633437050/",
       "isbn": "9781633437050",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Medicine",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110717921/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110717921/",
       "isbn": "9783110717921",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Fashion: How AI is Revolutionizing the Fashion Industry",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484239315/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484239315/",
       "isbn": "9781484239315",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "​Hands-On Artificial Intelligence for IoT - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835467183/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835467183/",
       "isbn": "9781835467183",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Nonprofit AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394316649/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394316649/",
       "isbn": "9781394316649",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Rise of AI-Powered Companies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110775198/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110775198/",
       "isbn": "9783110775198",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Age of Invisible Machines, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394321551/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394321551/",
       "isbn": "9781394321551",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Math Optimization for Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783111436241/",
       "url": "https://learning.oreilly.com/api/v1/book/9783111436241/",
       "isbn": "9783111436241",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Healthcare",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783111549842/",
       "url": "https://learning.oreilly.com/api/v1/book/9783111549842/",
       "isbn": "9783111549842",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The AI Book",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119551904/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119551904/",
       "isbn": "9781119551904",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Business",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398618015/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398618015/",
       "isbn": "9781398618015",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Edge of Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394314379/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394314379/",
       "isbn": "9781394314379",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "More Human",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798892790635/",
       "url": "https://learning.oreilly.com/api/v1/book/9798892790635/",
       "isbn": "9798892790635",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Artificial Intelligence for Beginners",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788991063/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788991063/",
       "isbn": "9781788991063",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Age of Invisible Machines",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119899921/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119899921/",
       "isbn": "9781119899921",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI-Powered Commerce",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803248981/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803248981/",
       "isbn": "9781803248981",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Audit, Forensic Accounting, and Valuation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119601883/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119601883/",
       "isbn": "9781119601883",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Radically Human",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781647821098/",
       "url": "https://learning.oreilly.com/api/v1/book/9781647821098/",
       "isbn": "9781647821098",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "I, Human",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781647820565/",
       "url": "https://learning.oreilly.com/api/v1/book/9781647820565/",
       "isbn": "9781647820565",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Causal AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633439917/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633439917/",
       "isbn": "9781633439917",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Humanizing Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783111007595/",
       "url": "https://learning.oreilly.com/api/v1/book/9783111007595/",
       "isbn": "9783111007595",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Virtual Reality",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110713855/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110713855/",
       "isbn": "9783110713855",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The New Advanced Society",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119824473/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119824473/",
       "isbn": "9781119824473",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Emerging Technologies in Healthcare 4.0: AI and IoT Solutions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868810145/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868810145/",
       "isbn": "9798868810145",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Practice",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119548218/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119548218/",
       "isbn": "9781119548218",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Recommender System with Machine Learning and Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119711575/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119711575/",
       "isbn": "9781119711575",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Smart Nonprofit",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119818120/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119818120/",
       "isbn": "9781119818120",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Architecting Enterprise AI Applications: A Guide to Designing Reliable, Scalable, and Secure Enterprise-Grade AI Solutions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868809026/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868809026/",
       "isbn": "9798868809026",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI in Talent Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781950496327/",
       "url": "https://learning.oreilly.com/api/v1/book/9781950496327/",
       "isbn": "9781950496327",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Cybersecurity Trinity: Artificial Intelligence, Automation, and Active Cyber Defense",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868809477/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868809477/",
       "isbn": "9798868809477",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for IoT Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838981983/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838981983/",
       "isbn": "9781838981983",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI for Utilities: Reimagining the Future Energy System",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868802027/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868802027/",
       "isbn": "9798868802027",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Redefining Cross-Border Financial Flows: Transforming Remittances with AI and Other Technologies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868810640/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868810640/",
       "isbn": "9798868810640",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Digital Holographic Imaging",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470647509/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470647509/",
       "isbn": "9780470647509",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Cyber-Physical Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119836193/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119836193/",
       "isbn": "9781119836193",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Asset Management and Investment",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119601821/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119601821/",
       "isbn": "9781119601821",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Organizing for Generative AI and the Productivity Revolution: Reshaping Organizational Roles in the Age of Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868809590/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868809590/",
       "isbn": "9798868809590",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligent Techniques for Wireless Communication and Networking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119821274/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119821274/",
       "isbn": "9781119821274",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence and Data Science in Environmental Sensing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780323905077/",
       "url": "https://learning.oreilly.com/api/v1/book/9780323905077/",
       "isbn": "9780323905077",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence By Example - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781839211539/",
       "url": "https://learning.oreilly.com/api/v1/book/9781839211539/",
       "isbn": "9781839211539",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Era of Artificial Intelligence, Machine Learning, and Data Science in the Pharmaceutical Industry",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128204498/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128204498/",
       "isbn": "9780128204498",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Confident AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398616219/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398616219/",
       "isbn": "9781398616219",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000216868/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000216868/",
       "isbn": "9781000216868",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Learning, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398615762/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398615762/",
       "isbn": "9781398615762",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Business",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119651734/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119651734/",
       "isbn": "9781119651734",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence, Cybersecurity and Cyber Defence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786304674/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786304674/",
       "isbn": "9781786304674",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise Artificial Intelligence Transformation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119665939/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119665939/",
       "isbn": "9781119665939",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Artificial Intelligence for Banking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788830782/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788830782/",
       "isbn": "9781788830782",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Smart Cyber Ecosystem for Sustainable Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119761648/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119761648/",
       "isbn": "9781119761648",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Solar Photovoltaic Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000618464/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000618464/",
       "isbn": "9781000618464",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Novel AI and Data Science Advancements for Sustainability in the Era of COVID-19",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780323903783/",
       "url": "https://learning.oreilly.com/api/v1/book/9780323903783/",
       "isbn": "9780323903783",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Talent Acquisition Excellence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398614178/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398614178/",
       "isbn": "9781398614178",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633697904/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633697904/",
       "isbn": "9781633697904",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise AI For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119696292/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119696292/",
       "isbn": "9781119696292",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Automation and Computational Intelligence for Road Maintenance and Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119800644/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119800644/",
       "isbn": "9781119800644",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI as a Service",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296154/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296154/",
       "isbn": "9781617296154",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Four Laws for the Artificially Intelligent",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781637421604/",
       "url": "https://learning.oreilly.com/api/v1/book/9781637421604/",
       "isbn": "9781637421604",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Own the A.I. Revolution: Unlock Your Artificial Intelligence Strategy to Disrupt Your Competition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781260458381/",
       "url": "https://learning.oreilly.com/api/v1/book/9781260458381/",
       "isbn": "9781260458381",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Human Communication Technology",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119750598/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119750598/",
       "isbn": "9781119750598",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119467656/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119467656/",
       "isbn": "9781119467656",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Grow Your Business with AI: A First Principles Approach for Scaling Artificial Intelligence in the Enterprise",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484296691/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484296691/",
       "isbn": "9781484296691",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Artificial Intelligence Infrastructure Workshop",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800209848/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800209848/",
       "isbn": "9781800209848",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Live Longer with AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838646158/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838646158/",
       "isbn": "9781838646158",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence-Aided Materials Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000541335/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000541335/",
       "isbn": "9781000541335",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Advanced Healthcare Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119768869/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119768869/",
       "isbn": "9781119768869",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Year in Tech 2022: The Insights You Need from Harvard Business Review",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781647821760/",
       "url": "https://learning.oreilly.com/api/v1/book/9781647821760/",
       "isbn": "9781647821760",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "A Developer's Guide to Building AI Applications, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492080619/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492080619/",
       "isbn": "9781492080602",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Applied Artificial Intelligence Workshop",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800205819/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800205819/",
       "isbn": "9781800205819",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Predicting Personality",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119630999/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119630999/",
       "isbn": "9781119630999",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Smart and Intelligent Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000455649/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000455649/",
       "isbn": "9781000455649",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Towards Sustainable Artificial Intelligence: A Framework to Create Value and Understand Risk",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484272145/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484272145/",
       "isbn": "9781484272145",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Architects of Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789131512/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789131512/",
       "isbn": "9781789131512",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence of Things in Smart Environments",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110760491/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110760491/",
       "isbn": "9783110760491",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "How to Compete in the Age of Artificial Intelligence: Implementing a Collaborative Human-Machine Strategy for Your Business",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484238080/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484238080/",
       "isbn": "9781484238080",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Azure Cognitive Services: Data-Driven Decision Making Through Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484271766/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484271766/",
       "isbn": "9781484271766",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Risk Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781949443523/",
       "url": "https://learning.oreilly.com/api/v1/book/9781949443523/",
       "isbn": "9781949443523",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The AI Ladder",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492073130/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492073130/",
       "isbn": "9781492073123",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Keeping Your AI Under Control: A Pragmatic Guide to Identifying, Evaluating, and Quantifying Risks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484254677/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484254677/",
       "isbn": "9781484254677",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Accelerating AI with Synthetic Data",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492045991/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492045991/",
       "isbn": "9781492045984",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence to Solve Pervasive Internet of Things Issues",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128196984/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128196984/",
       "isbn": "9780128196984",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Monster",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119785910/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119785910/",
       "isbn": "9781119785910",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Agile Artificial Intelligence in Pharo: Implementing Neural Networks, Genetic Algorithms, and Neuroevolution",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484253847/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484253847/",
       "isbn": "9781484253847",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Fighting Financial Crimes with Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492052678/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492052678/",
       "isbn": "9781492052661",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781951527273/",
       "url": "https://learning.oreilly.com/api/v1/book/9781951527273/",
       "isbn": "9781951527273",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Big Data",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788472173/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788472173/",
       "isbn": "9781788472173",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Marketing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119406334/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119406334/",
       "isbn": "9781119406334",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Adoption in the Enterprise 2021",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098109196/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098109196/",
       "isbn": "9781098109196",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492042075/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492042075/",
       "isbn": "9781492042075",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Mobile Artificial Intelligence Projects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789344073/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789344073/",
       "isbn": "9781789344073",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Blueprints",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788992879/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788992879/",
       "isbn": "9781788992879",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for the Internet of Everything",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128176375/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128176375/",
       "isbn": "9780128176375",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI and Analytics at Scale",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492094388/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492094388/",
       "isbn": "9781492094371",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Data-Driven Medical Diagnosis",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110668384/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110668384/",
       "isbn": "9783110668384",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Orchestration Methodologies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492091806/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492091806/",
       "isbn": "9781492091790",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "My Robot Gets Me",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633694439/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633694439/",
       "isbn": "9781633694439",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI-Driven Analytics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492055785/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492055785/",
       "isbn": "9781492055792",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Platform and Collective Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786304926/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786304926/",
       "isbn": "9781786304926",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Data Democracy",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128189399/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128189399/",
       "isbn": "9780128189399",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Future of Analytics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492091769/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492091769/",
       "isbn": "9781492091752",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Ascend AI Processor Architecture and Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128234891/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128234891/",
       "isbn": "9780128234891",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence Design and Solution for Risk and Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781951527495/",
       "url": "https://learning.oreilly.com/api/v1/book/9781951527495/",
       "isbn": "9781951527495",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Getting Your Data Ready for AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492042419/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492042419/",
       "isbn": "9781492042426",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Adoption in the Enterprise",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492051800/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492051800/",
       "isbn": "9781492051800",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Communicating with Your Customers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492073260/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492073260/",
       "isbn": "9781492073253",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Practical Artificial Intelligence: Machine Learning, Bots, and Agent Solutions Using C#",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484233573/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484233573/",
       "isbn": "9781484233573",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Building Intelligent Apps with Cognitive APIs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492058632/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492058632/",
       "isbn": "9781492058625",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "HBR's 10 Must Reads on AI, Analytics, and the New Machine Age (with bonus article \"Why Every Company Needs an Augmented Reality Strategy\" by Michael E. Porter and James E. Heppelmann)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633696853/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633696853/",
       "isbn": "9781633696853",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Intelligent Systems for Engineers and Scientists, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000484120/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000484120/",
       "isbn": "9781000484120",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Human + Machine",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633693876/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633693876/",
       "isbn": "9781633693876",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Computational Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110668339/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110668339/",
       "isbn": "9783110668339",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence By Example",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788990547/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788990547/",
       "isbn": "9781788990547",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Strategic Foresight",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110672923/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110672923/",
       "isbn": "9783110672923",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "AI Concepts for Business Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781949991697/",
       "url": "https://learning.oreilly.com/api/v1/book/9781949991697/",
       "isbn": "9781949991697",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Reengineering Patient Care with Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492083337/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492083337/",
       "isbn": "9781492083320",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Hybrid Computational Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128187005/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128187005/",
       "isbn": "9780128187005",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Beyond Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786303592/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786303592/",
       "isbn": "9781786303592",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Achieving Real Business Outcomes from Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492038214/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492038214/",
       "isbn": "9781492038214",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Intelligent Multimedia Data Analysis",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110550337/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110550337/",
       "isbn": "9783110550337",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Opinion Analysis in Interactions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786304193/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786304193/",
       "isbn": "9781786304193",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Implementing AI Systems: Transform Your Business in 6 Steps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484263853/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484263853/",
       "isbn": "9781484263853",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "A Developer's Guide to Building AI Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492037835/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492037835/",
       "isbn": "9781492037828",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise Interoperability: Smart Services and Business Impact of Enterprise Interoperability",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786303738/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786303738/",
       "isbn": "9781786303738",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Strategic Intelligence for the Future 1",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786302311/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786302311/",
       "isbn": "9781786302311",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence Across Industries",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491991046/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491991046/",
       "isbn": "9781491991046",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Virtual Local Manufacturing Communities",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781948580731/",
       "url": "https://learning.oreilly.com/api/v1/book/9781948580731/",
       "isbn": "9781948580731",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence Now",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492049210/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492049210/",
       "isbn": "9781492049210",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Implementing a Smart Data Platform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491983492/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491983492/",
       "isbn": "9781491983485",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Solving Quality and Maintenance Problems with AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491999561/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491999561/",
       "isbn": "9781491999554",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Economic Renaissance In the Age of Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781947843950/",
       "url": "https://learning.oreilly.com/api/v1/book/9781947843950/",
       "isbn": "9781947843950",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Smart Computing Applications in Crowdfunding",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781351265065/",
       "url": "https://learning.oreilly.com/api/v1/book/9781351265065/",
       "isbn": "9781351265065",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Business Strategy in the Artificial Intelligence Economy",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781948198998/",
       "url": "https://learning.oreilly.com/api/v1/book/9781948198998/",
       "isbn": "9781948198998",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Artificial Intelligence for Search",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789611151/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789611151/",
       "isbn": "9781789611151",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Prediction Machines",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633695689/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633695689/",
       "isbn": "9781633695689",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence: Teaching Machines to Think Like People",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491990681/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491990681/",
       "isbn": "9781491974933",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Intelligent Transport Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118894781/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118894781/",
       "isbn": "9781118894781",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Social Machines: The Coming Collision of Artificial Intelligence, Social Networking, and Humanity",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484211564/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484211564/",
       "isbn": "9781484211564",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Paradigms of Artificial Intelligence Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780080571157/",
       "url": "https://learning.oreilly.com/api/v1/book/9780080571157/",
       "isbn": "9780080571157",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Using Artificial Intelligence in Marketing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749483401/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749483401/",
       "isbn": "9780749483401",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Super You: How Technology is Revolutionizing What It Means to Be Human",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133790696/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133790696/",
       "isbn": "9780133790696",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Practical Artificial Intelligence in the Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492049814/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492049814/",
       "isbn": "9781492049814",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Superintelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482234442/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482234442/",
       "isbn": "9781482234442",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Probabilistic Reasoning in Intelligent Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780080514895/",
       "url": "https://learning.oreilly.com/api/v1/book/9780080514895/",
       "isbn": "9780080514895",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The New Artificial Intelligence Market",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492048978/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492048978/",
       "isbn": "9781491962329",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Future X Network",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781498759274/",
       "url": "https://learning.oreilly.com/api/v1/book/9781498759274/",
       "isbn": "9781498765459",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Computers as Theatre, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133390889/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133390889/",
       "isbn": "9780133390889",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Competitive Intelligence for Information Professionals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780081002063/",
       "url": "https://learning.oreilly.com/api/v1/book/9780081002063/",
       "isbn": "9780081002438",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781351384384/",
       "url": "https://learning.oreilly.com/api/v1/book/9781351384384/",
       "isbn": "9781351384384",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Future of Machine Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492042334/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492042334/",
       "isbn": "9781491932285",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Cognitive Computing and Big Data Analytics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118896624/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118896624/",
       "isbn": "9781118896624",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Power System Optimization",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466573420/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466573420/",
       "isbn": "9781466573420",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence in Basic",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781483141435/",
       "url": "https://learning.oreilly.com/api/v1/book/9781483141435/",
       "isbn": "9781483141435",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Readings in Distributed Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781483214443/",
       "url": "https://learning.oreilly.com/api/v1/book/9781483214443/",
       "isbn": "9781483214443",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Optimizing Decision Making in the Apparel Supply Chain Using Artificial Intelligence (AI)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780857097798/",
       "url": "https://learning.oreilly.com/api/v1/book/9780857097798/",
       "isbn": "9780857097842",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Express Learning - Artificial Intelligence by Pearson",
       "id": "https://www.safaribooksonline.com/api/v1/book/9789353948320/",
       "url": "https://learning.oreilly.com/api/v1/book/9789353948320/",
       "isbn": "9789353948320",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Readings in Artificial Intelligence and Software Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780934613125/",
       "url": "https://learning.oreilly.com/api/v1/book/9780934613125/",
       "isbn": "9781483214429",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Practical Planning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780080514475/",
       "url": "https://learning.oreilly.com/api/v1/book/9780080514475/",
       "isbn": "9780080514475",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The U.S. Technology Skills Gap: What Every Technology Executive Must Know to Save America's Future, + Website",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118660447/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118660447/",
       "isbn": "9781118660447",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Uncertainty in Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781483214511/",
       "url": "https://learning.oreilly.com/api/v1/book/9781483214511/",
       "isbn": "9781483214511",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Uncertainty in Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781483298603/",
       "url": "https://learning.oreilly.com/api/v1/book/9781483298603/",
       "isbn": "9781483298603",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence for Games, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123747310/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123747310/",
       "isbn": "9780123747310",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Uncertainty in Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781483298566/",
       "url": "https://learning.oreilly.com/api/v1/book/9781483298566/",
       "isbn": "9781483298566",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Computational Intelligence in Industrial Application",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781315684581/",
       "url": "https://learning.oreilly.com/api/v1/book/9781315684581/",
       "isbn": "9781315684581",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Efficient Computation of Argumentation Semantics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124104068/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124104068/",
       "isbn": "9780124104518",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Soft Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9789332524224/",
       "url": "https://learning.oreilly.com/api/v1/book/9789332524224/",
       "isbn": "9789332513976",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Markov Decision Processes in Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118620106/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118620106/",
       "isbn": "9781118620106",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Coverbal Synchrony in Human-Machine Interaction",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466598256/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466598256/",
       "isbn": "9781466598256",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Distributed Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780323137591/",
       "url": "https://learning.oreilly.com/api/v1/book/9780323137591/",
       "isbn": "9780323137591",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Neural Network Computing for the Electric Power Industry",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780805814675/",
       "url": "https://learning.oreilly.com/api/v1/book/9780805814675/",
       "isbn": "9781134781973",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Computational Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781558607590/",
       "url": "https://learning.oreilly.com/api/v1/book/9781558607590/",
       "isbn": "9780080553832",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Contemporary Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466573192/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466573192/",
       "isbn": "9781466559400",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Mobile Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470195550/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470195550/",
       "isbn": "9780470195550",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "ON THE DEVELOPMENT OF CHINA'S INFORMATION TECHNOLOGY INDUSTRY",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123813695/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123813695/",
       "isbn": "9780123813701",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Inmates Are Running the Asylum, The: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672326140/",
       "url": "https://learning.oreilly.com/api/v1/book/0672326140/",
       "isbn": "0672326140",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Human-Centric Interfaces for Ambient Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123747082/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123747082/",
       "isbn": "9780080878508",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Smart Sensor Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470866917/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470866917/",
       "isbn": "9780470866917",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Information Flow and Knowledge Sharing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780444529350/",
       "url": "https://learning.oreilly.com/api/v1/book/9780444529350/",
       "isbn": "9780444529350",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Knowledge Representation and Reasoning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781558609327/",
       "url": "https://learning.oreilly.com/api/v1/book/9781558609327/",
       "isbn": "9780080489322",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Intelligent Wearable Interfaces",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470179277/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470179277/",
       "isbn": "9780470179277",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "The Craft of Information Visualization",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781558609150/",
       "url": "https://learning.oreilly.com/api/v1/book/9781558609150/",
       "isbn": "9780080503288",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Itanium Rising: Breaking Through Moore's Second Law of Computing Power",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130464155/",
       "url": "https://learning.oreilly.com/api/v1/book/0130464155/",
       "isbn": "0130464155",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781558604674/",
       "url": "https://learning.oreilly.com/api/v1/book/9781558604674/",
       "isbn": "9780080499451",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Swarm Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781558605954/",
       "url": "https://learning.oreilly.com/api/v1/book/9781558605954/",
       "isbn": "9780080518268",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     },
     {
       "title": "Intelligent Environments",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780444823328/",
       "url": "https://learning.oreilly.com/api/v1/book/9780444823328/",
       "isbn": "9780080534848",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Artificial Intelligence (AI)",
+      "secondary_topics": []
     }
   ]
 }

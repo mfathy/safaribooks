@@ -1,6 +1,6 @@
 {
   "skill_name": "Observability",
-  "discovery_timestamp": 1760820622.337675,
+  "discovery_timestamp": "2025-10-19 14:38:58",
   "total_books": 13,
   "books": [
     {
@@ -8,91 +8,117 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492076438/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492076438/",
       "isbn": "9781492076445",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "Observability with Grafana",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803248004/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803248004/",
       "isbn": "9781803248004",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "Modern Network Observability",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835081068/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835081068/",
       "isbn": "9781835081068",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "Fundamentals of Data Observability",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098133283/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098133283/",
       "isbn": "9781098133290",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Observability in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633439597/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633439597/",
       "isbn": "9781633439597",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "AWS Observability Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804616710/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804616710/",
       "isbn": "9781804616710",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "What Is Data Observability?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098120993/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098120993/",
       "isbn": "9781098120986",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "Security Observability with eBPF",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492096719/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492096719/",
       "isbn": "9781492096702",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "Implementing Enterprise Observability for Success",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804615690/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804615690/",
       "isbn": "9781804615690",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "Observability Engineering, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098179915/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098179915/",
       "isbn": "9781098179922",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "Distributed Systems Observability",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492033431/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492033431/",
       "isbn": "9781492033424",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "Open Source Observability",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341622135/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341622135/",
       "isbn": "9798341622128",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     },
     {
       "title": "Filling the Observability Gap",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098105877/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098105877/",
       "isbn": "9781098105860",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Observability",
+      "secondary_topics": []
     }
   ]
 }

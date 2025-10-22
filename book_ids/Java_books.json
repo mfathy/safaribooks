@@ -1,3570 +1,4804 @@
 {
   "skill_name": "Java",
-  "discovery_timestamp": 1760820611.2654002,
-  "total_books": 509,
+  "discovery_timestamp": "2025-10-19 17:23:58",
+  "total_books": 533,
   "books": [
     {
       "title": "Head First Java, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492091646/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492091646/",
       "isbn": "9781491910771",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Java, 6th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098145521/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098145521/",
       "isbn": "9781098145538",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: The Complete Reference, Thirteenth Edition, 13th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781265062705/",
       "url": "https://learning.oreilly.com/api/v1/book/9781265062705/",
       "isbn": "9781265062705",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java, Volume I: Fundamentals, 13th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135328385/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135328385/",
       "isbn": "9780135328385",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "OCP Oracle Certified Professional Java SE 17 Developer Study Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119864585/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119864585/",
+      "isbn": "9781119864585",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java for the Impatient, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135404522/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135404522/",
       "isbn": "9780135404522",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Modern Concurrency in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098165406/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098165406/",
       "isbn": "9781098165413",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Effective Java, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134686097/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134686097/",
       "isbn": "9780134686097",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Well-Grounded Java Developer, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617298875/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617298875/",
       "isbn": "9781617298875",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Cookbook, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098169961/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098169961/",
       "isbn": "9781098169978",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Generics and Collections, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098136710/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098136710/",
       "isbn": "9781098136727",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Real-World Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394275724/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394275724/",
       "isbn": "9781394275724",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "High Performance with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835469736/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835469736/",
       "isbn": "9781835469736",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java with Projects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837637188/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837637188/",
       "isbn": "9781837637188",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Optimizing Cloud Native Java, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098149338/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098149338/",
       "isbn": "9781098149345",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JVM Performance Engineering: Inside OpenJDK and the HotSpot Java Virtual Machine",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134659954/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134659954/",
       "isbn": "9780134659954",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "OCP Oracle Certified Professional Java SE 17 Developer Practice Tests",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781119864615/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781119864615/",
+      "isbn": "9781119864615",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java in a Nutshell, 8th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098130992/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098130992/",
       "isbn": "9781098131005",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Functional Programming in Java, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798888650424/",
       "url": "https://learning.oreilly.com/api/v1/book/9798888650424/",
       "isbn": "9781680509793",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Applied AI for Enterprise Java Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098174491/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098174491/",
       "isbn": "9781098174507",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Designing Hexagonal Architecture with Java - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837635115/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837635115/",
       "isbn": "9781837635115",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java, Volume II: Advanced Features, 13th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135371671/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135371671/",
       "isbn": "9780135371671",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Complete Coding Interview Guide in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781839212062/",
       "url": "https://learning.oreilly.com/api/v1/book/9781839212062/",
       "isbn": "9781839212062",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Get Your Hands Dirty on Clean Architecture - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781805128373/",
       "url": "https://learning.oreilly.com/api/v1/book/9781805128373/",
       "isbn": "9781805128373",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: A Beginner's Guide, Ninth Edition, 9th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781260463569/",
       "url": "https://learning.oreilly.com/api/v1/book/9781260463569/",
       "isbn": "9781260463569",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Coding Problems - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837633944/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837633944/",
       "isbn": "9781837633944",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "A Functional Approach to Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098109912/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098109912/",
       "isbn": "9781098109929",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Practical Design Patterns for Java Developers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804614679/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804614679/",
       "isbn": "9781804614679",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Virtual Threads, Structured Concurrency, and Scoped Values: Explore Java’s New Threading Model",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868805004/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868805004/",
       "isbn": "9798868805004",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java For Dummies, 9th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394289240/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394289240/",
       "isbn": "9781394289240",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Troubleshooting Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617299773/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617299773/",
       "isbn": "9781617299773",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "100 Java Mistakes and How to Avoid Them",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633437968/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633437968/",
       "isbn": "9781633437968",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Software Architecture with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800207301/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800207301/",
       "isbn": "9781800207301",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Essentials For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394296972/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394296972/",
       "isbn": "9781394296972",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Memory Management",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801812856/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801812856/",
       "isbn": "9781801812856",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mastering the Java Virtual Machine",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835467961/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835467961/",
       "isbn": "9781835467961",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Modern Java in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617293566/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617293566/",
       "isbn": "9781617293566",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Java Objects: From Concepts to Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484290606/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484290606/",
       "isbn": "9781484290606",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: The Complete Reference, Twelfth Edition, 12th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781260463422/",
       "url": "https://learning.oreilly.com/api/v1/book/9781260463422/",
       "isbn": "9781260463422",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn JavaFX 17: Building User Experience and Interfaces with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484278482/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484278482/",
       "isbn": "9781484278482",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Cryptography and Cryptanalysis in Java: Creating and Programming Advanced Algorithms with Java SE 21 LTS and Jakarta EE 11",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868804410/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868804410/",
       "isbn": "9798868804410",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java for the Impatient, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780138051846/",
       "url": "https://learning.oreilly.com/api/v1/book/9780138051846/",
       "isbn": "9780138051846",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Iron-Clad Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071835886/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071835886/",
       "isbn": "9780071835893",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java, Volume I: Fundamentals, 12th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137673810/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137673810/",
       "isbn": "9780137673810",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Reactive Systems in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492091714/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492091714/",
       "isbn": "9781492091721",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Performance, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492056102/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492056102/",
       "isbn": "9781492056119",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Scalable Data Architecture with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801073080/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801073080/",
       "isbn": "9781801073080",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Java 17 Fundamentals: Object-Oriented Programming in Java 17",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484273074/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484273074/",
       "isbn": "9781484273074",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JAVA Basics Using ChatGPT/GPT-4",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781501518973/",
       "url": "https://learning.oreilly.com/api/v1/book/9781501518973/",
       "isbn": "9781501518973",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java, Vol. II-Advanced Features, 12th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137870899/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137870899/",
       "isbn": "9780137870899",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java and Algorithmic Thinking for the Complete Beginner",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781836200130/",
       "url": "https://learning.oreilly.com/api/v1/book/9781836200130/",
       "isbn": "9781836200130",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Persistence Best Practices for Java Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837631278/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837631278/",
       "isbn": "9781837631278",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java® Volume I—Fundamentals, Tenth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134177335/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134177335/",
       "isbn": "9780134177335",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Definitive Guide to Modern Java Clients with JavaFX 17: Cross-Platform Mobile and Cloud Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484272688/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484272688/",
       "isbn": "9781484272688",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java For Dummies, 8th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119861645/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119861645/",
       "isbn": "9781119861645",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "More Java 17: An In-Depth Exploration of the Java Language and Its Features",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484271353/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484271353/",
       "isbn": "9781484271353",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Coding Problems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789801415/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789801415/",
       "isbn": "9781789801415",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java 17 Programming - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803241432/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803241432/",
       "isbn": "9781803241432",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Programming, 1st Edition by Pearson",
       "id": "https://www.safaribooksonline.com/api/v1/book/9789332517868/",
       "url": "https://learning.oreilly.com/api/v1/book/9789332517868/",
       "isbn": "9789332517868",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 17 Recipes: A Problem-Solution Approach",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484279632/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484279632/",
       "isbn": "9781484279632",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "97 Things Every Java Programmer Should Know",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491952689/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491952689/",
       "isbn": "9781491952696",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Designing Hexagonal Architecture with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801816489/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801816489/",
       "isbn": "9781801816489",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: A Beginner's Guide, Eighth Edition, 8th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781260440225/",
       "url": "https://learning.oreilly.com/api/v1/book/9781260440225/",
       "isbn": "9781260440225",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Object Oriented Programming Through Java by Pearson",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781299445253/",
       "url": "https://learning.oreilly.com/api/v1/book/9781299445253/",
       "isbn": "9781299445253",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Interactive Object-Oriented Programming in Java: Learn and Test Your Programming Skills",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484254042/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484254042/",
       "isbn": "9781484254042",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Quarkus Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492062646/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492062646/",
       "isbn": "9781492062653",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Programming by Pearson",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781299486539/",
       "url": "https://learning.oreilly.com/api/v1/book/9781299486539/",
       "isbn": "9781299486539",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Think Java, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492072492/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492072492/",
       "isbn": "9781492072454",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ How To Program (Early Objects), Tenth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133813036/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133813036/",
       "isbn": "9780133813036",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Classic Computer Science Problems in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617297601/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617297601/",
       "isbn": "9781617297601",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Transitioning to Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804614013/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804614013/",
       "isbn": "9781804614013",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 17 for Absolute Beginners: Learn the Fundamentals of Java Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484270806/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484270806/",
       "isbn": "9781484270806",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to Java Through Game Development: Learn Java Programming Skills by Working with Video Games",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484289518/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484289518/",
+      "isbn": "9781484289518",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Java, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492056263/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492056263/",
       "isbn": "9781492056270",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Optimizing Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492039259/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492039259/",
       "isbn": "9781492025795",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java in a Nutshell, 7th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492037248/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492037248/",
       "isbn": "9781492037255",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise Social for the Java Platform: Shares, Mashups, Likes, and Ways to Integrate Social Media into Your Cloud Native Enterprise Java Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484295717/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484295717/",
       "isbn": "9781484295717",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Get Your Hands Dirty on Clean Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781839211966/",
       "url": "https://learning.oreilly.com/api/v1/book/9781839211966/",
       "isbn": "9781839211966",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Programming Basics: Getting Started with Java, C#, and Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484272862/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484272862/",
       "isbn": "9781484272862",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: The Complete Reference, Eleventh Edition, 11th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781260440249/",
       "url": "https://learning.oreilly.com/api/v1/book/9781260440249/",
       "isbn": "9781260440249",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Modernizing Enterprise Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098102135/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098102135/",
       "isbn": "9781098102142",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning jOOQ: Learn to Write Efficient and Effective Java-Based SQL Database Operations",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484274316/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484274316/",
       "isbn": "9781484274316",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Cookbook, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492072577/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492072577/",
       "isbn": "9781492072584",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Real-World Software Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491967164/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491967164/",
       "isbn": "9781491967171",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself Java in 21 Days (Covers Java 11/12), 8th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134663661/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134663661/",
       "isbn": "9780134663661",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Programming with Java For Dummies, 6th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119806912/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119806912/",
       "isbn": "9781119806912",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java, Vol. I: Fundamentals, 14th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135558553/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135558553/",
       "isbn": "9780135558553",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java, Volume II: Advanced Features, 14th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135558775/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135558775/",
       "isbn": "9780135558775",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Introducing Blockchain with Java: Program, Implement, and Extend Blockchains with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484279274/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484279274/",
       "isbn": "9781484279274",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Job Ready Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119775645/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119775645/",
       "isbn": "9781119775645",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mastering RESTful Web Services with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835466100/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835466100/",
       "isbn": "9781835466100",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Illuminated, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781284141092/",
       "url": "https://learning.oreilly.com/api/v1/book/9781284141092/",
       "isbn": "9781284141092",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781806118434/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781806118434/",
+      "isbn": "9781806118434",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java for Programmers: with Generative AI, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137574834/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137574834/",
       "isbn": "9780137574834",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Cryptography and Cryptanalysis in Java: Creating and Programming Advanced Algorithms with Java SE 17 LTS and Jakarta EE 10",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484281055/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484281055/",
       "isbn": "9781484281055",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Cruising Along with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798888651674/",
       "url": "https://learning.oreilly.com/api/v1/book/9798888651674/",
       "isbn": "9798888651674",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java By Comparison",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680505887/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680505887/",
       "isbn": "9781680502879",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Numerical Methods Using Java: For Data Science, Analysis, and Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484267974/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484267974/",
       "isbn": "9781484267974",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Professional Java EE Design Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118843451/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118843451/",
       "isbn": "9781118843413",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Program Design: Principles, Polymorphism, and Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484241431/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484241431/",
       "isbn": "9781484241431",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Java MVC 1.0: Model View Controller Development to Build Web, Cloud, and Microservices Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484262801/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484262801/",
       "isbn": "9781484262801",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 23 for Absolute Beginners: Learn the Fundamentals of Java Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868810411/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868810411/",
       "isbn": "9798868810411",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "AI Solutions for the United Nations Sustainable Development Goals (UN SDGs) : A Practical Approach Using JavaScript",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868805363/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868805363/",
       "isbn": "9798868805363",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Definitive Guide to Modern Java Clients with JavaFX: Cross-Platform Mobile and Cloud Development Updated for JavaFX 21 and 23",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868809989/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868809989/",
       "isbn": "9798868809989",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Spring AI: The Java Developer’s Guide for Large Language Models and Generative AI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868810015/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868810015/",
       "isbn": "9798868810015",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Modern Java Recipes",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491973165/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491973165/",
       "isbn": "9781491973172",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Java by Building Android Games - Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800565869/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800565869/",
       "isbn": "9781800565869",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Jakarta EE: Enterprise Edition for Java: From Novice to Professional",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484250792/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484250792/",
       "isbn": "9781484250792",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java Fundamentals: A Primer for Java Development and Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868803512/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868803512/",
       "isbn": "9798868803512",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Neural Networks with Java: Tools for Building Neural Network Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484273685/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484273685/",
       "isbn": "9781484273685",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Testing Java Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617292897/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617292897/",
       "isbn": "9781617292897",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java All-in-One For Dummies, 6th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119680451/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119680451/",
       "isbn": "9781119680451",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Introducing Jakarta EE CDI: Contexts and Dependency Injection for Enterprise Java Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484256428/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484256428/",
       "isbn": "9781484256428",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 17 Quick Syntax Reference: A Pocket Guide to the Java SE Language, APIs, and Library",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484273715/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484273715/",
       "isbn": "9781484273715",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Full Stack Development with JHipster - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838824983/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838824983/",
       "isbn": "9781838824983",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java for Absolute Beginners: Learn to Program the Fundamentals the Java 9+ Way",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484237786/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484237786/",
       "isbn": "9781484237786",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Essential Java for AP CompSci: From Programming to Computer Science",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484261835/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484261835/",
       "isbn": "9781484261835",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Java Data Structures and Algorithms",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789537178/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789537178/",
       "isbn": "9781789537178",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Language Features: With Modules, Streams, Threads, I/O, and Lambda Expressions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484233481/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484233481/",
       "isbn": "9781484233481",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "RESTful Java Web Services - Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788294041/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788294041/",
       "isbn": "9781788294041",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Deep Learning Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788995207/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788995207/",
       "isbn": "9781788995207",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: A Beginner's Guide, 7th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781259589324/",
       "url": "https://learning.oreilly.com/api/v1/book/9781259589324/",
       "isbn": "9781259589324",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java Workshop",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838986698/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838986698/",
       "isbn": "9781838986698",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java for Android Development: Migrating Java SE Programming Skills to Mobile Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484259436/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484259436/",
       "isbn": "9781484259436",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Functional Interfaces in Java: Fundamentals and Examples",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484242780/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484242780/",
       "isbn": "9781484242780",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Projects - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789131895/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789131895/",
       "isbn": "9781789131895",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Nature-Inspired Optimization Algorithms with Java: A Look at Optimization Techniques",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484274019/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484274019/",
       "isbn": "9781484274019",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Microservices for Java Developers, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492038290/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492038290/",
       "isbn": "9781492038283",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Rapid Modernization of Java Applications: Practical Business and Technical Solutions for Upgrading Your Enterprise Portfolio",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071842044/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071842044/",
       "isbn": "9780071842044",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java® Tutorial: A Short Course on the Basics, 6th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134034706/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134034706/",
       "isbn": "9780134034706",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Fundamentals",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789801736/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789801736/",
       "isbn": "9781789801736",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: The Complete Reference, 10th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781259589348/",
       "url": "https://learning.oreilly.com/api/v1/book/9781259589348/",
       "isbn": "9781259589348",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Android Software Internals Quick Reference: A Field Manual and Security Reference Guide to Java-based Android Components",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484269145/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484269145/",
       "isbn": "9781484269145",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Java, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449372477/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449372477/",
       "isbn": "9781449319243",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Machine Learning: End-to-End guide for Java developers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788622219/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788622219/",
       "isbn": "9781788622219",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Automation Testing with Java for Beginners",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789534603/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789534603/",
       "isbn": "9781789534603",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Concurrent Patterns and Best Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788627900/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788627900/",
       "isbn": "9781788627900",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Threads and the Concurrency Utilities",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484217009/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484217009/",
       "isbn": "9781484217009",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Cloud Native Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449374631/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449374631/",
       "isbn": "9781449374594",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to Programming in Java: An Interdisciplinary Approach, second edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780134512389/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780134512389/",
+      "isbn": "9780134512389",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java with Math: Using Fun Projects and Games",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484252093/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484252093/",
       "isbn": "9781484252093",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "What's New in Java 11?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492047575/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492047575/",
       "isbn": "9781492047551",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: Data Science Made Easy",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788475655/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788475655/",
       "isbn": "9781788475655",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Data Structures and Algorithms in Java, 6th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118771334/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118771334/",
       "isbn": "9781118771334",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java the Easy Way",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492067535/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492067535/",
       "isbn": "9781593278465",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Practical Java Programming for IoT, AI, and Blockchain",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119560012/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119560012/",
       "isbn": "9781119560012",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Programming for Beginners",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788296298/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788296298/",
       "isbn": "9781788296298",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Definitive Guide to Modern Java Clients with JavaFX: Cross-Platform Mobile and Cloud Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484249260/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484249260/",
       "isbn": "9781484249260",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Concurrency in Practice",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321349601/",
       "url": "https://learning.oreilly.com/api/v1/book/0321349601/",
       "isbn": "0321349601",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 11 Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789132359/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789132359/",
       "isbn": "9781789132359",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java, Volume II--Advanced Features, 11th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135167175/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135167175/",
       "isbn": "9780135167175",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Modern Programming Made Easy: Using Java, Scala, Groovy, and JavaScript",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484255698/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484255698/",
       "isbn": "9781484255698",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Challenges: 100+ Proven Tasks that Will Prepare You for Anything",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484273951/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484273951/",
       "isbn": "9781484273951",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Artificial Intelligence with Java for Beginners",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789537550/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789537550/",
       "isbn": "9781789537550",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java, Volume I Fundamentals, 11th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135167199/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135167199/",
       "isbn": "9780135167199",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 11 and 12 – New Features",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789133271/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789133271/",
       "isbn": "9781789133271",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mastering JavaFX 10",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788293822/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788293822/",
       "isbn": "9781788293822",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Go for Java Programmers: Learn the Google Go Programming Language",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484271995/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484271995/",
       "isbn": "9781484271995",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Natural Language Processing with Java - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788993494/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788993494/",
       "isbn": "9781788993494",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 13 Revealed: For Early Adoption and Migration",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484254073/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484254073/",
       "isbn": "9781484254073",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 9 Concurrency Cookbook - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787124417/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787124417/",
       "isbn": "9781787124417",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java I/O, NIO and NIO.2",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484215654/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484215654/",
       "isbn": "9781484215654",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Building Maintainable Software, Java Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491955987/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491955987/",
       "isbn": "9781491953495",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Quick Syntax Reference",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484234419/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484234419/",
       "isbn": "9781484234419",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Pocket Guide, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491938683/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491938683/",
       "isbn": "9781491938645",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Programming Interviews Exposed",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118722886/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118722886/",
       "isbn": "9781118722886",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaFX Rich Client Programming on the NetBeans Platform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133430066/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133430066/",
       "isbn": "9780133430066",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Object-Oriented Data Structures Using Java, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781284089103/",
       "url": "https://learning.oreilly.com/api/v1/book/9781284089103/",
       "isbn": "9781284089103",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Troubleshooting Java Performance: Detecting Anti-Patterns with Open Source Tools",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484229798/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484229798/",
       "isbn": "9781484229798",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Performance: The Definitive Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449363512/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449363512/",
       "isbn": "9781449358457",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Building observable systems in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492037118/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492037118/",
       "isbn": "9781492037101",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Java Machine Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785880513/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785880513/",
       "isbn": "9781785880513",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Network Programming, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449365936/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449365936/",
       "isbn": "9781449365950",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Natural Language Processing with Java Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789801156/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789801156/",
       "isbn": "9781789801156",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Think Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491929551/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491929551/",
       "isbn": "9781491929568",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Professional Java for Web Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118909317/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118909317/",
       "isbn": "9781118909317",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Java 11 - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789137613/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789137613/",
       "isbn": "9781789137613",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java EE Web Application Primer: Building Bullhorn: A Messaging App with JSP, Servlets, JavaScript, Bootstrap and Oracle",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484231951/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484231951/",
       "isbn": "9781484231951",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "What's New in Java 12?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492058243/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492058243/",
       "isbn": "9781492058236",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Java for Data Science",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781782174271/",
       "url": "https://learning.oreilly.com/api/v1/book/9781782174271/",
       "isbn": "9781782174271",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaFX 9 by Example",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484219614/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484219614/",
       "isbn": "9781484219614",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Microservices for Java Developers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492042228/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492042228/",
       "isbn": "9781491962077",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Data Science Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787122536/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787122536/",
       "isbn": "9781787122536",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java, Volume II—Advanced Features, Tenth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134177878/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134177878/",
       "isbn": "9780134177878",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java For Everyone: Compatible with Java 5, 6, and 7, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118063316/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118063316/",
       "isbn": "9781118063316",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Big Data Analytics with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787288980/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787288980/",
       "isbn": "9781787288980",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Java Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118739495/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118739495/",
       "isbn": "9781118739495",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java How To Program, Late Objects, 11th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137464180/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137464180/",
       "isbn": "9780137464180",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java for Data Science",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785280115/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785280115/",
       "isbn": "9781785280115",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java® Performance Companion",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133796896/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133796896/",
       "isbn": "9780133796896",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Java by Building Android Games - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788839150/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788839150/",
       "isbn": "9781788839150",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Data Analysis",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787285651/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787285651/",
       "isbn": "9781787285651",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself Java in 24 Hours, Eighth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134663647/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134663647/",
       "isbn": "9780134663647",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Network Programming with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785885471/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785885471/",
       "isbn": "9781785885471",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Pro JavaFX 9: A Definitive Guide to Building Desktop, Mobile, and Embedded Java Clients",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484230428/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484230428/",
       "isbn": "9781484230428",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: The Complete Reference, Ninth Edition, 9th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071808552/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071808552/",
       "isbn": "9780071823500",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "OCA/OCP Java SE 7 Programmer I & II Study Guide (Exams 1Z0-803 & 1Z0-804)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071772006/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071772006/",
+      "isbn": "9780071772006",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Web Services: Up and Running, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449373856/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449373856/",
       "isbn": "9781449373870",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Introducing JavaFX 8 Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071842563/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071842563/",
       "isbn": "9780071842563",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mastering JavaServer Faces 2.2",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781782176466/",
       "url": "https://learning.oreilly.com/api/v1/book/9781782176466/",
       "isbn": "9781782176466",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java 12 Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789957051/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789957051/",
       "isbn": "9781789957051",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Design Patterns with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789809770/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789809770/",
       "isbn": "9781789809770",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Artificial Neural Networks with Java: Tools for Building Neural Network Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484244210/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484244210/",
       "isbn": "9781484244210",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "RESTful Java Web Services, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781784399092/",
       "url": "https://learning.oreilly.com/api/v1/book/9781784399092/",
       "isbn": "9781784399092",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 9 Programming Blueprints",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786460196/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786460196/",
       "isbn": "9781786460196",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Programming with Java For Dummies, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119235538/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119235538/",
       "isbn": "9781119235538",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: The Legend",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492048299/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492048299/",
       "isbn": "9781491934661",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Programming 24-Hour Trainer, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118951576/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118951576/",
       "isbn": "9781118951453",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "JavaServer Faces: Introduction By Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484208380/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484208380/",
+      "isbn": "9781484208380",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Ratpack",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491921654/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491921654/",
       "isbn": "9781491921616",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Java Functional Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781783558483/",
       "url": "https://learning.oreilly.com/api/v1/book/9781783558483/",
       "isbn": "9781783558483",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java All-in-One For Dummies, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119247791/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119247791/",
       "isbn": "9781119247791",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java for Web Development: Modern Java Web Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430259831/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430259831/",
       "isbn": "9781430259831",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java For Dummies, 7th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119235552/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119235552/",
       "isbn": "9781119235552",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: A Beginner's Guide, Sixth Edition, 6th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071809252/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071809252/",
       "isbn": "9780071823593",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java in a Nutshell, 6th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449371296/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449371296/",
       "isbn": "9781449370824",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Functional Programming in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781941222690/",
       "url": "https://learning.oreilly.com/api/v1/book/9781941222690/",
       "isbn": "9781941222690",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Systems Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128008171/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128008171/",
       "isbn": "9780128008171",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java FX 8 Essentials",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781784398026/",
       "url": "https://learning.oreilly.com/api/v1/book/9781784398026/",
       "isbn": "9781784398026",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java Volume I--Fundamentals, 9th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137082346/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137082346/",
       "isbn": "9780137082346",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java EE 7: The Big Picture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071837347/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071837347/",
       "isbn": "9780071837347",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java APIs, Extensions and Libraries: With JavaFX, JDBC, jmod, jlink, Networking, and the Process API",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484235461/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484235461/",
       "isbn": "9781484235461",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Modern Java EE Design Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492042266/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492042266/",
       "isbn": "9781492042266",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Coding Guidelines: 75 Recommendations for Reliable and Secure Programs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133439526/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133439526/",
       "isbn": "9780133439526",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Programming for Android Developers For Dummies, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119301080/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119301080/",
       "isbn": "9781119301080",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Art of Image Processing with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439865590/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439865590/",
       "isbn": "9781439865590",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "JavaFX 8: Introduction by Example, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430264606/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430264606/",
+      "isbn": "9781430264606",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "OCM Java EE 6 Enterprise Architect Exam Guide (Exams 1Z0-807, 1Z0-865 & 1Z0-866), 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071826785/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071826785/",
       "isbn": "9780071826747",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "SOA with Java: Realizing Service-Orientation with Java Technologies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133859096/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133859096/",
       "isbn": "9780133859096",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Cookbook, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449338794/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449338794/",
       "isbn": "9781449337049",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Deep Learning Essentials",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785282195/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785282195/",
       "isbn": "9781785282195",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java® for the Impatient",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133791563/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133791563/",
       "isbn": "9780133791563",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaFX For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118417430/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118417430/",
       "isbn": "9781118385340",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Pro JavaFX 8",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430265757/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430265757/",
       "isbn": "9781430265757",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java How to Program, Early Objects, 11th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134751962/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134751962/",
       "isbn": "9780134743356",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 7 for Absolute Beginners",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430236863/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430236863/",
       "isbn": "9781430236863",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ for Programmers: Deitel Developer Series, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132821575/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132821575/",
       "isbn": "9780132821575",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "OpenJDK Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849698405/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849698405/",
       "isbn": "9781849698405",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mastering JavaFX 8 Controls",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071833776/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071833776/",
       "isbn": "9780071833783",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Big Java, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470509487/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470509487/",
       "isbn": "9780470509487",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java EE 7 Tutorial: Volume 1, Fifth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133901603/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133901603/",
       "isbn": "9780133901603",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java EE 7 Recipes: A Problem-Solution Approach",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430244257/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430244257/",
       "isbn": "9781430244257",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java For Dummies Quick Reference",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118239742/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118239742/",
       "isbn": "9781118168233",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mastering XPages: A Step-by-Step Guide to XPages Application Development and the XSP Language, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133373417/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133373417/",
       "isbn": "9780133373417",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java, A Beginner's Guide, 5th Edition, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071606325/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071606325/",
       "isbn": "9780071606332",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to Compiler Construction in a Java World",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781482215076/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781482215076/",
+      "isbn": "9781482215076",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Stripes by Example",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484209806/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484209806/",
       "isbn": "9781484209806",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "RESTful Java Web Services Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781783980109/",
       "url": "https://learning.oreilly.com/api/v1/book/9781783980109/",
       "isbn": "9781783980109",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning JSP, JSF and Tomcat: Java Web Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430246237/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430246237/",
       "isbn": "9781430246237",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071633604/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071633604/",
       "isbn": "9780071633611",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Ivor Horton's Beginning Java®, Java 7 Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118173411/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118173411/",
       "isbn": "9781118173411",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Performance",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132905244/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132905244/",
       "isbn": "9780132905244",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Advanced Topics in Java: Core Concepts in Data Structures",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430266198/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430266198/",
       "isbn": "9781430266198",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Natural Language Processing with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781784391799/",
       "url": "https://learning.oreilly.com/api/v1/book/9781784391799/",
       "isbn": "9781784391799",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java® Language Specification, Java SE 7 Edition, Fourth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133260335/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133260335/",
       "isbn": "9780133260335",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Java by Building Android Games",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781784398859/",
       "url": "https://learning.oreilly.com/api/v1/book/9781784398859/",
       "isbn": "9781784398859",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "A Concise Introduction to Data Structures using Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781466589902/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781466589902/",
+      "isbn": "9781498759816",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Art of Multiprocessor Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123705914/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123705914/",
       "isbn": "9780080569581",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Introducing Data Structures with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9788131758649/",
       "url": "https://learning.oreilly.com/api/v1/book/9788131758649/",
       "isbn": "9788131758649",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java for Android Development, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430264545/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430264545/",
       "isbn": "9781430264545",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Algorithms in Java, Third Edition, Part 5: Graph Algorithms",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201361213/",
+      "url": "https://learning.oreilly.com/api/v1/book/0201361213/",
+      "isbn": "0201361213",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java How to Program (early objects), 9/e",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132770873/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132770873/",
       "isbn": "9780132770873",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Java Through Games",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466593312/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466593312/",
       "isbn": "9781466593329",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JAVA Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9789332524514/",
       "url": "https://learning.oreilly.com/api/v1/book/9789332524514/",
       "isbn": "9789332524514",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java EE 7 Tutorial, Volume 2, Fifth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133901634/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133901634/",
       "isbn": "9780133901634",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9788131733110/",
       "url": "https://learning.oreilly.com/api/v1/book/9788131733110/",
       "isbn": "9788131733110",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Illuminated, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781284045314/",
       "url": "https://learning.oreilly.com/api/v1/book/9781284045314/",
       "isbn": "9781284079722",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Introducing Java EE 7: A Look at What's New",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430258483/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430258483/",
       "isbn": "9781430258483",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "PeopleSoft PeopleTools Tips & Techniques",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071664936/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071664936/",
       "isbn": "9780071664929",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java All-in-One For Dummies, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118417652/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118417652/",
       "isbn": "9781118417652",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java for Android Development, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430257226/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430257226/",
       "isbn": "9781430257226",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java® Tutorial: A Short Course on the Basics, Fifth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132761987/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132761987/",
       "isbn": "9780132761987",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Continuous Enterprise Development in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449332082/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449332082/",
       "isbn": "9781449332105",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "OCA Java SE 7 Programmer I Certification Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781617291043/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781617291043/",
+      "isbn": "9781617291043",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java For Dummies, 6th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118417645/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118417645/",
       "isbn": "9781118407806",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Virtualizing and Tuning Large-Scale Java Platforms",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133491425/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133491425/",
       "isbn": "9780133491425",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Java 7",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430239093/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430239093/",
       "isbn": "9781430239093",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java The Complete Reference, 8th Edition, 8th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071606301/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071606301/",
       "isbn": "9780071606301",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java, Volume II--Advanced Features, 9th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137082391/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137082391/",
       "isbn": "9780137082391",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Play for Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617290909/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617290909/",
       "isbn": "9781617290909",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Quick Start Guide to JavaFX",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071808965/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071808965/",
       "isbn": "9780071808972",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Data Structures and the Java Collections Framework, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470482674/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470482674/",
       "isbn": "9780470482674",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Well-Grounded Java Developer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617290060/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617290060/",
       "isbn": "9781617290060",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "SCJP: Sun Certified Programmer for Java® Platform, SE6, Study Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780470417973/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780470417973/",
+      "isbn": "9780470417973",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Message Service, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596802264/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596802264/",
       "isbn": "9780596555603",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "IBM CICS and the JVM server: Developing and Deploying Java Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/0738438332/",
       "url": "https://learning.oreilly.com/api/v1/book/0738438332/",
       "isbn": "0738438332",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Object-oriented Programming Using C++ and Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9788131754559/",
       "url": "https://learning.oreilly.com/api/v1/book/9788131754559/",
       "isbn": "9788131754559",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaMail API",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449367237/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449367237/",
       "isbn": "9781449367237",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java EE 6 Tutorial: Advanced Topics, Fourth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137084005/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137084005/",
       "isbn": "9780137084005",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 7 Pocket Guide, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449343743/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449343743/",
       "isbn": "9781449343569",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Programming with Java® For Dummies®, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470371749/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470371749/",
       "isbn": "9780470371749",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Java with WebSphere",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430263012/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430263012/",
       "isbn": "9781430263012",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Object-Oriented Computation in C++ and Java: A Practical Guide to Design Patterns for Object-Oriented Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133489262/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133489262/",
       "isbn": "9780133489262",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Quick Syntax Reference",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430262862/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430262862/",
       "isbn": "9781430262862",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Pro Java 7 NIO.2",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430240112/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430240112/",
       "isbn": "9781430240112",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "BPEL and Java Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781849689205/",
       "url": "https://learning.oreilly.com/api/v1/book/9781849689205/",
       "isbn": "9781849689205",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java SE 7 Programming Essentials",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118416952/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118416952/",
       "isbn": "9781118416952",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java® Virtual Machine Specification, Java SE 7 Edition, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133260496/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133260496/",
       "isbn": "9780133260496",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Head First Java, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596009208/",
       "url": "https://learning.oreilly.com/api/v1/book/0596009208/",
       "isbn": "9780596009205",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Data Structures Using Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449628079/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449628079/",
       "isbn": "9781449628086",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java EE 6 Pocket Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449338329/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449338329/",
       "isbn": "9781449338343",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java NIO",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596002882/",
       "url": "https://learning.oreilly.com/api/v1/book/0596002882/",
       "isbn": "9780596002886",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself Java in 21 Days, Sixth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132841641/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132841641/",
       "isbn": "9780132841641",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Effective Java, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137150021/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137150021/",
       "isbn": "9780137150021",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java For Dummies, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118128329/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118128329/",
       "isbn": "9780470371732",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Pro Java ME Apps",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430233275/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430233275/",
       "isbn": "9781430233275",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ for Programmers: Deitel",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137018529/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137018529/",
       "isbn": "9780137018529",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "OCA Java SE 7 Programmer I Study Guide (Exam 1Z0-803), 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071789424/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071789424/",
+      "isbn": "9780071789448",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Object-Oriented Data Structures Using Java, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449613549/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449613549/",
       "isbn": "9781449613556",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself Java™ in 24 Hours, Sixth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132841702/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132841702/",
       "isbn": "9780132841702",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "SCJP Sun Certified Programmer for Java 6 Study Guide",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071591065/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071591065/",
+      "isbn": "9780071591065",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Generics and Collections",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596527756/",
       "url": "https://learning.oreilly.com/api/v1/book/0596527756/",
       "isbn": "9780596527754",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beginning JavaFX™",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430271994/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430271994/",
       "isbn": "9781430271994",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Pro JavaFX 2: A Definitive Guide to Rich Clients with Java Technology",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430268727/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430268727/",
       "isbn": "9781430268727",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Building Mobile Applications with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449312718/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449312718/",
       "isbn": "9781449308230",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Programming GPS and OpenStreetMap Applications with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466507203/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466507203/",
       "isbn": "9781466507203",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JasperReports 3.5 for Java Developers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781847198082/",
       "url": "https://learning.oreilly.com/api/v1/book/9781847198082/",
       "isbn": "9781847198082",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Expert Oracle and Java Security: Programming Secure Oracle Database Applications with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430238317/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430238317/",
       "isbn": "9781430238317",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java® Programming 24-Hour Trainer",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470889640/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470889640/",
       "isbn": "9780470889640",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Illuminated, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449604387/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449604387/",
       "isbn": "9781449604394",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Data Structures and Algorithms Using Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780763757564/",
       "url": "https://learning.oreilly.com/api/v1/book/9780763757564/",
       "isbn": "9781449612863",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "JavaFX 2.0: Introduction by Example",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781430242574/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781430242574/",
+      "isbn": "9781430242574",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 7 Recipes: A Problem-Solution Approach",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430240563/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430240563/",
       "isbn": "9781430240563",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "What's New in Java 7",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449318581/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449318581/",
       "isbn": "9781449318567",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Concurrency: State Models and Java Programs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470093559/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470093559/",
       "isbn": "9780470093559",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "SCJA Sun Certified Java Associate Study Guide (Exam CX-310-019)",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071490030/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071490030/",
+      "isbn": "9780071490030",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaFX™ Developer’s Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321648983/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321648983/",
       "isbn": "9780321648983",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Sun Certified Enterprise Architect for Java EE Study Guide (Exam 310-051), 2nd Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780071488617/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780071488617/",
+      "isbn": "9780071510936",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java EE 6 Tutorial: Basic Concepts, Fourth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137084296/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137084296/",
       "isbn": "9780137084296",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The class of Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9788131755400/",
       "url": "https://learning.oreilly.com/api/v1/book/9788131755400/",
       "isbn": "9788131755440",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaFX A Beginners Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780071742412/",
       "url": "https://learning.oreilly.com/api/v1/book/9780071742412/",
       "isbn": "9780071742412",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Flex on Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781933988795/",
       "url": "https://learning.oreilly.com/api/v1/book/9781933988795/",
       "isbn": "9781933988795",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "OCP Java SE 6 Programmer Practice Exams (Exam 310-065)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780072260885/",
       "url": "https://learning.oreilly.com/api/v1/book/9780072260885/",
       "isbn": "9780071702867",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learn Java for Android Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430231561/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430231561/",
       "isbn": "9781430231561",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java: The Good Parts",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449382322/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449382322/",
       "isbn": "9780596803735",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java SOA Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596156091/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596156091/",
       "isbn": "9780596520724",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Power Tools",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596527938/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596527938/",
       "isbn": "9781491954546",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java® and Mac OS® X",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470525111/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470525111/",
       "isbn": "9780470525111",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "THE Java™ Programming Language, Fourth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321349806/",
       "url": "https://learning.oreilly.com/api/v1/book/0321349806/",
       "isbn": "0321349806",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself Java™ in 24 Hours, Fifth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780768689228/",
       "url": "https://learning.oreilly.com/api/v1/book/9780768689228/",
       "isbn": "9780768689228",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Programming with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9788131720806/",
       "url": "https://learning.oreilly.com/api/v1/book/9788131720806/",
       "isbn": "9788131785560",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Web Services: Up and Running",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596157708/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596157708/",
       "isbn": "9780596521127",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "A Programmer’s Guide to Java™ SCJP Certification: A Comprehensive Primer, Third Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780321585738/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780321585738/",
+      "isbn": "9780321585738",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaFX in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781933988993/",
       "url": "https://learning.oreilly.com/api/v1/book/9781933988993/",
       "isbn": "9781933988993",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "A Practical Guide to Data Structures and Algorithms using Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781420010336/",
       "url": "https://learning.oreilly.com/api/v1/book/9781420010336/",
       "isbn": "9781420010336",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaFX™: Developing Rich Internet Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137013524/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137013524/",
       "isbn": "9780137013524",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Real-Time Java™ Programming with Java RTS",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137153626/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137153626/",
       "isbn": "9780137153626",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java in a Nutshell, 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596007736/",
       "url": "https://learning.oreilly.com/api/v1/book/0596007736/",
       "isbn": "9780596007737",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Puzzlers: Traps, Pitfalls, and Corner Cases",
       "id": "https://www.safaribooksonline.com/api/v1/book/032133678X/",
       "url": "https://learning.oreilly.com/api/v1/book/032133678X/",
       "isbn": "032133678X",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Professional BlazeDS: Creating Rich Internet Applications with Flex® and Java®",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470464892/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470464892/",
       "isbn": "9780470464892",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Implementing SOA Using Java™ EE",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137151585/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137151585/",
       "isbn": "9780137151585",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Essential JavaFX™",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137044559/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137044559/",
       "isbn": "9780137044559",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Threads, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596007825/",
       "url": "https://learning.oreilly.com/api/v1/book/0596007825/",
       "isbn": "9781449366667",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java® and Flex® Integration Bible",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470400746/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470400746/",
       "isbn": "9780470400746",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Professional Java User Interfaces",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780471486961/",
       "url": "https://learning.oreilly.com/api/v1/book/9780471486961/",
       "isbn": "9780471486961",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java ME on Symbian OS: Inside the Smartphone Model",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470743188/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470743188/",
       "isbn": "9780470743188",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Professional Java® JDK®, 6th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780471777106/",
       "url": "https://learning.oreilly.com/api/v1/book/9780471777106/",
       "isbn": "9780471777106",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Scripting in Java™: Languages, Frameworks, and Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321321930/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321321930/",
       "isbn": "9780321321930",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Killer Game Programming in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596007302/",
       "url": "https://learning.oreilly.com/api/v1/book/0596007302/",
       "isbn": "9780596552909",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Filthy Rich Clients: Developing Animated and Graphical Effects for Desktop Java™ Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132413930/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132413930/",
       "isbn": "9780132413930",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Thinking Recursively with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780471701460/",
       "url": "https://learning.oreilly.com/api/v1/book/9780471701460/",
       "isbn": "9780471701460",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Phrasebook",
       "id": "https://www.safaribooksonline.com/api/v1/book/0768668255/",
       "url": "https://learning.oreilly.com/api/v1/book/0768668255/",
       "isbn": "0768668255",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring: Improving the Design of Existing Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201485672/",
       "url": "https://learning.oreilly.com/api/v1/book/0201485672/",
       "isbn": "0201485672",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ How to Program, Seventh Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780136085676/",
       "url": "https://learning.oreilly.com/api/v1/book/9780136085676/",
       "isbn": "9780136085676",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java I/O, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596527500/",
       "url": "https://learning.oreilly.com/api/v1/book/0596527500/",
       "isbn": "9780596527501",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Swing, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596004087/",
       "url": "https://learning.oreilly.com/api/v1/book/0596004087/",
       "isbn": "9780596004088",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Ant in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781932394801/",
       "url": "https://learning.oreilly.com/api/v1/book/9781932394801/",
       "isbn": "9781932394801",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "SOA Using Java™ Web Services",
       "id": "https://www.safaribooksonline.com/api/v1/book/0132394057/",
       "url": "https://learning.oreilly.com/api/v1/book/0132394057/",
       "isbn": "0132394057",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Pocket Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596514198/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596514198/",
       "isbn": "9780596514198",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ CAPS Basics: Implementing Common EAI Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137146130/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137146130/",
       "isbn": "9780137146130",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java™ Volume II–Advanced Features, Eighth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137144488/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137144488/",
       "isbn": "9780137144488",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Computer Graphics for Java Programmers, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470031605/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470031605/",
       "isbn": "9780470031605",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 6 Illuminated: An Active Learning Approach, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780763749637/",
       "url": "https://learning.oreilly.com/api/v1/book/9780763749637/",
       "isbn": "9780763762001",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "iText in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781932394795/",
       "url": "https://learning.oreilly.com/api/v1/book/9781932394795/",
       "isbn": "9781932394795",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Program Development in Java: Abstraction, Specification, and Object-Oriented Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780768685299/",
       "url": "https://learning.oreilly.com/api/v1/book/9780768685299/",
       "isbn": "9780768685299",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Network Programming, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596007213/",
       "url": "https://learning.oreilly.com/api/v1/book/0596007213/",
       "isbn": "0596007213",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Darkstar: The Java Game Server",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596514846/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596514846/",
       "isbn": "9780596514846",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaFX™ Script: Dynamic Java™ Scripting for Rich Internet/Client-Side Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781590599457/",
       "url": "https://learning.oreilly.com/api/v1/book/9781590599457/",
       "isbn": "9781590599457",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java™ Tutorial Fourth Edition: A Short Course on the Basics",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321334205/",
       "url": "https://learning.oreilly.com/api/v1/book/0321334205/",
       "isbn": "0321334205",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Enterprise Best Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596003846/",
       "url": "https://learning.oreilly.com/api/v1/book/0596003846/",
       "isbn": "9780596003845",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself Java™ 6 in 21 Days",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780672329432/",
       "url": "https://learning.oreilly.com/api/v1/book/9780672329432/",
       "isbn": "9780672329432",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Checking Java Programs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596510237/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596510237/",
       "isbn": "9780596510237",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Wicked Cool Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/1593270615/",
       "url": "https://learning.oreilly.com/api/v1/book/1593270615/",
       "isbn": "9781593270612",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Garage",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321246233/",
       "url": "https://learning.oreilly.com/api/v1/book/0321246233/",
       "isbn": "9780321246233",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Just Java™ 2",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131482114/",
       "url": "https://learning.oreilly.com/api/v1/book/0131482114/",
       "isbn": "0131482114",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Language Specification, Third Edition, The",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321246780/",
       "url": "https://learning.oreilly.com/api/v1/book/0321246780/",
       "isbn": "0321246780",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Building Web Services with Java: Making Sense of XML, SOAP, WSDL, and UDDI, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672326418/",
       "url": "https://learning.oreilly.com/api/v1/book/0672326418/",
       "isbn": "0672326418",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "The Java™ EE 5 Tutorial, Third Edition: For Sun Java System Application Server Platform Edition 9",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321490290/",
       "url": "https://learning.oreilly.com/api/v1/book/0321490290/",
       "isbn": "0321490290",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Covert Java™: Techniques for Decompiling, Patching, and Reverse Engineering",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672326388/",
       "url": "https://learning.oreilly.com/api/v1/book/0672326388/",
       "isbn": "0672326388",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaServer Pages, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596005636/",
       "url": "https://learning.oreilly.com/api/v1/book/0596005636/",
       "isbn": "9780596005634",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Ivor Horton's Beginning Java™ 2, JDK™ 5th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780764568749/",
       "url": "https://learning.oreilly.com/api/v1/book/9780764568749/",
       "isbn": "9780764568749",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Ant: The Definitive Guide, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596006098/",
       "url": "https://learning.oreilly.com/api/v1/book/0596006098/",
       "isbn": "9780596552534",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "UML FOR JAVA™ PROGRAMMERS",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131428489/",
       "url": "https://learning.oreilly.com/api/v1/book/0131428489/",
       "isbn": "0131428489",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Decompiling Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430207399/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430207399/",
       "isbn": "9781430207399",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java™ 2 Volume II - Advanced Features, Seventh Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131118269/",
       "url": "https://learning.oreilly.com/api/v1/book/0131118269/",
       "isbn": "0131118269",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Java, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596008732/",
       "url": "https://learning.oreilly.com/api/v1/book/0596008732/",
       "isbn": "9780596008734",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "C# for Java Developers",
       "id": "https://www.safaribooksonline.com/api/v1/book/0735617791/",
       "url": "https://learning.oreilly.com/api/v1/book/0735617791/",
       "isbn": "0735617791",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Security, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596001576/",
       "url": "https://learning.oreilly.com/api/v1/book/0596001576/",
       "isbn": "9780596001575",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java™ 2 Volume I - Fundamentals, Seventh Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131482025/",
       "url": "https://learning.oreilly.com/api/v1/book/0131482025/",
       "isbn": "9780131482029",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "J2EE™ and Beyond: Design, Develop, and Deploy World-Class Java™ Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131417452/",
       "url": "https://learning.oreilly.com/api/v1/book/0131417452/",
       "isbn": "9780131417458",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "IBM Rational ClearCase, Ant, and CruiseControl: The Java Developers Guide to Accelerating and Automating the Build Process",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321356993/",
       "url": "https://learning.oreilly.com/api/v1/book/0321356993/",
       "isbn": "0321356993",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Jakarta Commons Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/059600706X/",
       "url": "https://learning.oreilly.com/api/v1/book/059600706X/",
       "isbn": "9780596007065",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Java",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781558609099/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781558609099/",
+      "isbn": "9780080509563",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Application Development on Linux®",
       "id": "https://www.safaribooksonline.com/api/v1/book/013143697X/",
       "url": "https://learning.oreilly.com/api/v1/book/013143697X/",
       "isbn": "013143697X",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Effective Enterprise Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321130006/",
       "url": "https://learning.oreilly.com/api/v1/book/0321130006/",
       "isbn": "0321130006",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Better, Faster, Lighter Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596006764/",
       "url": "https://learning.oreilly.com/api/v1/book/0596006764/",
       "isbn": "9780596006761",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise Java™ Security: Building Secure J2EE™ Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321118898/",
       "url": "https://learning.oreilly.com/api/v1/book/0321118898/",
       "isbn": "0321118898",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Examples in a Nutshell, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596006209/",
       "url": "https://learning.oreilly.com/api/v1/book/0596006209/",
       "isbn": "9780596006204",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Enterprise in a Nutshell, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596101422/",
       "url": "https://learning.oreilly.com/api/v1/book/0596101422/",
       "isbn": "9780596101428",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java and SOAP",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596001754/",
       "url": "https://learning.oreilly.com/api/v1/book/0596001754/",
       "isbn": "0596001754",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Concurrent and Distributed Computing in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780471432302/",
       "url": "https://learning.oreilly.com/api/v1/book/9780471432302/",
       "isbn": "9780471432302",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Beyond Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596100949/",
       "url": "https://learning.oreilly.com/api/v1/book/0596100949/",
       "isbn": "9780596100940",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "SAMS Teach Yourself Programming with Java™ in 24 Hours, FOURTH EDITION",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672328445/",
       "url": "https://learning.oreilly.com/api/v1/book/0672328445/",
       "isbn": "0672328445",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Swing Hacks",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596009070/",
       "url": "https://learning.oreilly.com/api/v1/book/0596009070/",
       "isbn": "9780596009076",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Technical Java™: Developing Scientific and Engineering Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131018159/",
       "url": "https://learning.oreilly.com/api/v1/book/0131018159/",
       "isbn": "9780131018150",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Web Services Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781558609006/",
       "url": "https://learning.oreilly.com/api/v1/book/9781558609006/",
       "isbn": "9780080509570",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Cookbook, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596007019/",
       "url": "https://learning.oreilly.com/api/v1/book/0596007019/",
       "isbn": "0596007019",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ After Hours: 10 Projects You'll Never Do at Work",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672327473/",
       "url": "https://learning.oreilly.com/api/v1/book/0672327473/",
       "isbn": "0672327473",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Concurrent Programming in Java™: Design Principles and Patterns, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201310090/",
       "url": "https://learning.oreilly.com/api/v1/book/0201310090/",
       "isbn": "0201310090",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "InstallAnywhere Tutorial and Reference Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321246101/",
       "url": "https://learning.oreilly.com/api/v1/book/0321246101/",
       "isbn": "9780321246103",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Effective Java™: Programming Language Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201310058/",
       "url": "https://learning.oreilly.com/api/v1/book/0201310058/",
       "isbn": "9780201310054",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Transitioning: Informix 4GL to Enterprise Generation Language (EGL)",
       "id": "https://www.safaribooksonline.com/api/v1/book/0738491055/",
       "url": "https://learning.oreilly.com/api/v1/book/0738491055/",
       "isbn": "0738491055",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Hardcore Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596005687/",
       "url": "https://learning.oreilly.com/api/v1/book/0596005687/",
       "isbn": "9780596005689",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Database Best Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596005229/",
       "url": "https://learning.oreilly.com/api/v1/book/0596005229/",
       "isbn": "0596005229",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "From Java to C#: A Developer's Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321136225/",
       "url": "https://learning.oreilly.com/api/v1/book/0321136225/",
       "isbn": "0321136225",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Developing Scalable Series 40 Applications: A Guide for Java Developers",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321268636/",
       "url": "https://learning.oreilly.com/api/v1/book/0321268636/",
       "isbn": "9780321268631",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Performance Tuning, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596003773/",
       "url": "https://learning.oreilly.com/api/v1/book/0596003773/",
       "isbn": "9780596003777",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Oracle® Database Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130462187/",
       "url": "https://learning.oreilly.com/api/v1/book/0130462187/",
       "isbn": "9780130462183",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Apache Jakarta Commons: Reusable Java™ Components",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131478303/",
       "url": "https://learning.oreilly.com/api/v1/book/0131478303/",
       "isbn": "9780131478305",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 5.0 Tiger: A Developer's Notebook",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596007388/",
       "url": "https://learning.oreilly.com/api/v1/book/0596007388/",
       "isbn": "9780596007386",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Apache Jakarta and Beyond: A Java Programmer’s Introduction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0321237714/",
+      "url": "https://learning.oreilly.com/api/v1/book/0321237714/",
+      "isbn": "9780321237712",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Building Scalable and High-Performance Java™ Web Applications Using J2EE™ Technology",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201729563/",
       "url": "https://learning.oreilly.com/api/v1/book/0201729563/",
       "isbn": "0201729563",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "QuickTime for Java: A Developer's Notebook",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596008228/",
       "url": "https://learning.oreilly.com/api/v1/book/0596008228/",
       "isbn": "9780596008222",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise J2ME™: Developing Mobile Java™ Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131405306/",
       "url": "https://learning.oreilly.com/api/v1/book/0131405306/",
       "isbn": "0131405306",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Extreme Programming Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596003870/",
       "url": "https://learning.oreilly.com/api/v1/book/0596003870/",
       "isbn": "9780596003876",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ and JMX: Building Manageable Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672324083/",
       "url": "https://learning.oreilly.com/api/v1/book/0672324083/",
       "isbn": "0672324083",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself J2EE™ in 21 Days, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672325586/",
       "url": "https://learning.oreilly.com/api/v1/book/0672325586/",
       "isbn": "0672325586",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Programming with Oracle SQLJ",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596000871/",
       "url": "https://learning.oreilly.com/api/v1/book/0596000871/",
       "isbn": "9780596000875",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Learning Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565927184/",
       "url": "https://learning.oreilly.com/api/v1/book/1565927184/",
       "isbn": "9781565927186",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Applied Java™ Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130935387/",
       "url": "https://learning.oreilly.com/api/v1/book/0130935387/",
       "isbn": "0130935387",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Media APIs: Cross-Platform Imaging, Media, and Visualization",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672320940/",
       "url": "https://learning.oreilly.com/api/v1/book/0672320940/",
       "isbn": "0672320940",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Inside Java™ 2 Platform Security: Architecture, API Design, and Implementation, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201787911/",
       "url": "https://learning.oreilly.com/api/v1/book/0201787911/",
       "isbn": "0201787911",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Sun™ Certification Training Guide (310-080): Java™ 2 Enterprise Edition (J2EE™) Web Component Developer Exam",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0789728214/",
+      "url": "https://learning.oreilly.com/api/v1/book/0789728214/",
+      "isbn": "9780789728210",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Web Services in a Nutshell",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596003994/",
       "url": "https://learning.oreilly.com/api/v1/book/0596003994/",
       "isbn": "9780596003999",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaServer Pages™, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321150791/",
       "url": "https://learning.oreilly.com/api/v1/book/0321150791/",
       "isbn": "9780321150790",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Programmer's Guide to Java™ Certification, A: A Comprehensive Primer, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201728281/",
+      "url": "https://learning.oreilly.com/api/v1/book/0201728281/",
+      "isbn": "9780201728286",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Java™ Data Objects",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131407317/",
       "url": "https://learning.oreilly.com/api/v1/book/0131407317/",
       "isbn": "9780131407312",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596001703/",
       "url": "https://learning.oreilly.com/api/v1/book/0596001703/",
       "isbn": "9780596001704",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Message Service (JMS) for J2EE",
       "id": "https://www.safaribooksonline.com/api/v1/book/0735712557/",
       "url": "https://learning.oreilly.com/api/v1/book/0735712557/",
       "isbn": "9780735712553",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Building Parsers with Java™",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201719622/",
       "url": "https://learning.oreilly.com/api/v1/book/0201719622/",
       "isbn": "9780201719628",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ for ColdFusion® Developers",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130461806/",
       "url": "https://learning.oreilly.com/api/v1/book/0130461806/",
       "isbn": "0130461806",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Connector Architecture: Building Custom Connectors and Adapters",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672323109/",
       "url": "https://learning.oreilly.com/api/v1/book/0672323109/",
       "isbn": "0672323109",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Ant Developer’s Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672324261/",
       "url": "https://learning.oreilly.com/api/v1/book/0672324261/",
       "isbn": "0672324261",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
+    },
+    {
+      "title": "Sun Certification Training Guide (310-025, 310-027): Java™ 2 Programmer and Developer Exams",
+      "id": "https://www.safaribooksonline.com/api/v1/book/078972765X/",
+      "url": "https://learning.oreilly.com/api/v1/book/078972765X/",
+      "isbn": "9780789727657",
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "C# For Java Programmers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781931836548/",
       "url": "https://learning.oreilly.com/api/v1/book/9781931836548/",
       "isbn": "9780080476353",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Network Programming and Distributed Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201710374/",
       "url": "https://learning.oreilly.com/api/v1/book/0201710374/",
       "isbn": "0201710374",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Mac OS X for Java Geeks",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596004001/",
       "url": "https://learning.oreilly.com/api/v1/book/0596004001/",
       "isbn": "9780596004002",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Design: Objects, UML, and Process",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201750449/",
       "url": "https://learning.oreilly.com/api/v1/book/0201750449/",
       "isbn": "9780201750447",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself J2EE™ in 21 Days",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672323842/",
       "url": "https://learning.oreilly.com/api/v1/book/0672323842/",
       "isbn": "9780672323843",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Building Java Enterprise Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596001231/",
       "url": "https://learning.oreilly.com/api/v1/book/0596001231/",
       "isbn": "0596001231",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Security Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672316021/",
       "url": "https://learning.oreilly.com/api/v1/book/0672316021/",
       "isbn": "9780672316029",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ 2 Enterprise Edition (J2EE™) Web Component Developer Exam Cram™ 2 (Exam 310-080)",
       "id": "https://www.safaribooksonline.com/api/v1/book/0789728621/",
       "url": "https://learning.oreilly.com/api/v1/book/0789728621/",
       "isbn": "9780789728623",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Data Objects",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596002769/",
       "url": "https://learning.oreilly.com/api/v1/book/0596002769/",
       "isbn": "0596002769",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Message Service",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596000685/",
       "url": "https://learning.oreilly.com/api/v1/book/0596000685/",
       "isbn": "9780596000684",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Programming Wireless Devices with the Java™ 2 Platform, Micro Edition, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321197984/",
       "url": "https://learning.oreilly.com/api/v1/book/0321197984/",
       "isbn": "0321197984",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Web Services",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596002696/",
       "url": "https://learning.oreilly.com/api/v1/book/0596002696/",
       "isbn": "0596002696",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JMX: Managing J2EE with Java™ Management Extensions",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672322889/",
       "url": "https://learning.oreilly.com/api/v1/book/0672322889/",
       "isbn": "9780672322884",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Data Objects",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321123808/",
       "url": "https://learning.oreilly.com/api/v1/book/0321123808/",
       "isbn": "0321123808",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Just Java™ 2, Fifth Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130320722/",
       "url": "https://learning.oreilly.com/api/v1/book/0130320722/",
       "isbn": "0130320722",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 2™ Programmer Exam Cram™ 2 (Exam CX-310-035)",
       "id": "https://www.safaribooksonline.com/api/v1/book/0789728613/",
       "url": "https://learning.oreilly.com/api/v1/book/0789728613/",
       "isbn": "9780789728616",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Developing Applications with Java™ and UML",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201702525/",
       "url": "https://learning.oreilly.com/api/v1/book/0201702525/",
       "isbn": "0201702525",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Web Services Unleashed",
       "id": "https://www.safaribooksonline.com/api/v1/book/067232363X/",
       "url": "https://learning.oreilly.com/api/v1/book/067232363X/",
       "isbn": "067232363X",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Number Cruncher: The Java Programmer's Guide to Numerical Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130460419/",
       "url": "https://learning.oreilly.com/api/v1/book/0130460419/",
       "isbn": "0130460419",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java and XSLT",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596001436/",
       "url": "https://learning.oreilly.com/api/v1/book/0596001436/",
       "isbn": "9780596001438",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Enhydra XMLC™ Java™ Presentation Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672322110/",
       "url": "https://learning.oreilly.com/api/v1/book/0672322110/",
       "isbn": "9780672322112",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaServer Pages, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/059600317X/",
       "url": "https://learning.oreilly.com/api/v1/book/059600317X/",
       "isbn": "9780596003173",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Developing Enterprise Java Applications with J2EE™ and UML",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201738295/",
       "url": "https://learning.oreilly.com/api/v1/book/0201738295/",
       "isbn": "0201738295",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java I/O",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565924851/",
       "url": "https://learning.oreilly.com/api/v1/book/1565924851/",
       "isbn": "9781565924857",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself JavaServer Pages™ in 21 Days",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672324490/",
       "url": "https://learning.oreilly.com/api/v1/book/0672324490/",
       "isbn": "0672324490",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ 2 Micro Edition Application Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672320959/",
       "url": "https://learning.oreilly.com/api/v1/book/0672320959/",
       "isbn": "9780672320958",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Component Development for the Java™ Platform",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201753065/",
       "url": "https://learning.oreilly.com/api/v1/book/0201753065/",
       "isbn": "0201753065",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Management Extensions",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596002459/",
       "url": "https://learning.oreilly.com/api/v1/book/0596002459/",
       "isbn": "0596002459",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java RMI",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565924525/",
       "url": "https://learning.oreilly.com/api/v1/book/1565924525/",
       "isbn": "9781565924529",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Performance Tuning",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596000154/",
       "url": "https://learning.oreilly.com/api/v1/book/0596000154/",
       "isbn": "0596000154",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Special Edition Using Enterprise JavaBeans™ 2.0",
       "id": "https://www.safaribooksonline.com/api/v1/book/0789725673/",
       "url": "https://learning.oreilly.com/api/v1/book/0789725673/",
       "isbn": "9780789725677",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Real-Time Java™ Platform Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130282618/",
       "url": "https://learning.oreilly.com/api/v1/book/0130282618/",
       "isbn": "9780130282613",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Building Java™ Enterprise Systems with J2EE™",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672317958/",
       "url": "https://learning.oreilly.com/api/v1/book/0672317958/",
       "isbn": "0672317958",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Cryptography",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565924029/",
       "url": "https://learning.oreilly.com/api/v1/book/1565924029/",
       "isbn": "9781565924024",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Special Edition Using Java 2 Standard Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0789724685/",
       "url": "https://learning.oreilly.com/api/v1/book/0789724685/",
       "isbn": "9780789724687",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ 2 by Example, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0789725932/",
       "url": "https://learning.oreilly.com/api/v1/book/0789725932/",
       "isbn": "0789725932",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "J2ME in a Nutshell",
       "id": "https://www.safaribooksonline.com/api/v1/book/059600253X/",
       "url": "https://learning.oreilly.com/api/v1/book/059600253X/",
       "isbn": "9780596002534",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java 2D Graphics",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565924843/",
       "url": "https://learning.oreilly.com/api/v1/book/1565924843/",
       "isbn": "9781565924840",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Native Interface: Programmer’s Guide and Specification, The",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201325772/",
       "url": "https://learning.oreilly.com/api/v1/book/0201325772/",
       "isbn": "0201325772",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Special Edition Using Java™ 2 Enterprise Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0789725037/",
       "url": "https://learning.oreilly.com/api/v1/book/0789725037/",
       "isbn": "9780789725035",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "java.rmi: The Remote Method Invocation Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201700433/",
       "url": "https://learning.oreilly.com/api/v1/book/0201700433/",
       "isbn": "0201700433",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Deployment with JNLP™ and Webstart™",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672321823/",
       "url": "https://learning.oreilly.com/api/v1/book/0672321823/",
       "isbn": "0672321823",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core Servlets and JavaServer Pages™",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130893404/",
       "url": "https://learning.oreilly.com/api/v1/book/0130893404/",
       "isbn": "9780130893406",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Web Services: A Java™ Developer’s Guide Using E-Speak",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130623385/",
       "url": "https://learning.oreilly.com/api/v1/book/0130623385/",
       "isbn": "9780130623386",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Wireless Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596002432/",
       "url": "https://learning.oreilly.com/api/v1/book/0596002432/",
       "isbn": "9780596002435",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Gently, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201710501/",
       "url": "https://learning.oreilly.com/api/v1/book/0201710501/",
       "isbn": "0201710501",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Programming Open Service Gateways with Java Embedded Server™ Technology",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201711028/",
       "url": "https://learning.oreilly.com/api/v1/book/0201711028/",
       "isbn": "0201711028",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Network Programming, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565928709/",
       "url": "https://learning.oreilly.com/api/v1/book/1565928709/",
       "isbn": "1565928709",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Programming for the Java™ Virtual Machine",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201309726/",
       "url": "https://learning.oreilly.com/api/v1/book/0201309726/",
       "isbn": "9780201309720",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "J2EE™ Technology in Practice: Building Business Applications With the Java™ 2 Platform, Enterprise Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201746220/",
       "url": "https://learning.oreilly.com/api/v1/book/0201746220/",
       "isbn": "9780201746228",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Building Java Applications for the iSeries Server with VisualAge for Java 3.5",
       "id": "https://www.safaribooksonline.com/api/v1/book/0738421642/",
       "url": "https://learning.oreilly.com/api/v1/book/0738421642/",
       "isbn": "9780738421643",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Advanced JavaServer Pages™",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130307041/",
       "url": "https://learning.oreilly.com/api/v1/book/0130307041/",
       "isbn": "9780130307040",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Threads, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565924185/",
       "url": "https://learning.oreilly.com/api/v1/book/1565924185/",
       "isbn": "9781565924185",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself Java 2 in 21 Days, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672319586/",
       "url": "https://learning.oreilly.com/api/v1/book/0672319586/",
       "isbn": "9780672319587",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java GUI Development: The Authoritative Solution",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672315467/",
       "url": "https://learning.oreilly.com/api/v1/book/0672315467/",
       "isbn": "0672315467",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "LDAP Programming with Java™",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201657589/",
       "url": "https://learning.oreilly.com/api/v1/book/0201657589/",
       "isbn": "9780201657586",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Enterprise in a Nutshell, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596001525/",
       "url": "https://learning.oreilly.com/api/v1/book/0596001525/",
       "isbn": "9780596001520",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Multithreaded Programming with JAVA™ Technology",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130170070/",
       "url": "https://learning.oreilly.com/api/v1/book/0130170070/",
       "isbn": "0130170070",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Core SWING advanced programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130832928/",
       "url": "https://learning.oreilly.com/api/v1/book/0130832928/",
       "isbn": "0130832928",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Foundation Classes in a Nutshell",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596805364/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596805364/",
       "isbn": "9780596805364",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Advanced JAVA Networking",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130844667/",
       "url": "https://learning.oreilly.com/api/v1/book/0130844667/",
       "isbn": "9780130844668",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaBeans Unleashed",
       "id": "https://www.safaribooksonline.com/api/v1/book/067231424X/",
       "url": "https://learning.oreilly.com/api/v1/book/067231424X/",
       "isbn": "067231424X",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Creating Effective JavaHelp",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565927192/",
       "url": "https://learning.oreilly.com/api/v1/book/1565927192/",
       "isbn": "1565927192",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Swing",
       "id": "https://www.safaribooksonline.com/api/v1/book/156592455X/",
       "url": "https://learning.oreilly.com/api/v1/book/156592455X/",
       "isbn": "9781565924550",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "e-Commerce Applications Using Oracle8i and Java from Scratch",
       "id": "https://www.safaribooksonline.com/api/v1/book/0789723387/",
       "url": "https://learning.oreilly.com/api/v1/book/0789723387/",
       "isbn": "9780789723383",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Thread Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672315858/",
       "url": "https://learning.oreilly.com/api/v1/book/0672315858/",
       "isbn": "0672315858",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java™ Performance and Scalability, Volume 1: Server-Side Programming Techniques",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201704293/",
       "url": "https://learning.oreilly.com/api/v1/book/0201704293/",
       "isbn": "9780201704297",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "JavaSpaces™ Principles, Patterns, and Practice",
       "id": "https://www.safaribooksonline.com/api/v1/book/0201309556/",
       "url": "https://learning.oreilly.com/api/v1/book/0201309556/",
       "isbn": "0201309556",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "VisualAge for Java Version 3: Persistence Builder with GUIs, Servlets, and Java Server Pages",
       "id": "https://www.safaribooksonline.com/api/v1/book/0738415820/",
       "url": "https://learning.oreilly.com/api/v1/book/0738415820/",
       "isbn": "0738415820",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Security",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565924037/",
       "url": "https://learning.oreilly.com/api/v1/book/1565924037/",
       "isbn": "9781565924031",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "PURE Java™ 2",
       "id": "https://www.safaribooksonline.com/api/v1/book/0672316544/",
       "url": "https://learning.oreilly.com/api/v1/book/0672316544/",
       "isbn": "9780672316548",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Sams Teach Yourself Java™ 2 Platform in 21 Days Professional Reference Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/067231438X/",
       "url": "https://learning.oreilly.com/api/v1/book/067231438X/",
       "isbn": "067231438X",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Servlet Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/156592391X/",
       "url": "https://learning.oreilly.com/api/v1/book/156592391X/",
       "isbn": "9781565923911",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Developing Java Beans",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565922891/",
       "url": "https://learning.oreilly.com/api/v1/book/1565922891/",
       "isbn": "1565922891",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Graphic Java™ 1.2, Volume I: AWT, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130796662/",
       "url": "https://learning.oreilly.com/api/v1/book/0130796662/",
       "isbn": "0130796662",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java AWT Reference",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781565922402/",
       "url": "https://learning.oreilly.com/api/v1/book/9781565922402/",
       "isbn": "9781565922402",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Using VisualAge for Java Enterprise Version 2 to Develop CORBA and EJB Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/0738410543/",
       "url": "https://learning.oreilly.com/api/v1/book/0738410543/",
       "isbn": "0738410543",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "Java Distributed Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/1565922069/",
       "url": "https://learning.oreilly.com/api/v1/book/1565922069/",
       "isbn": "9781565922068",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     },
     {
       "title": "50 Activities for Achieving Change",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780874252118/",
       "url": "https://learning.oreilly.com/api/v1/book/9780874252118/",
       "isbn": "9780874252118",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Java",
+      "secondary_topics": []
     }
   ]
 }

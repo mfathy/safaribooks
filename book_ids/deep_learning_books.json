@@ -1,875 +1,1141 @@
 {
   "skill_name": "Deep Learning",
-  "discovery_timestamp": 1760820529.546624,
-  "total_books": 124,
+  "discovery_timestamp": "2025-10-19 16:38:12",
+  "total_books": 126,
   "books": [
     {
       "title": "Math and Architectures of Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296482/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296482/",
       "isbn": "9781617296482",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Graph Neural Networks in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617299056/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617299056/",
       "isbn": "9781617299056",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with JAX",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633438880/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633438880/",
       "isbn": "9781633438880",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning and AI Superhero",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837025879/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837025879/",
       "isbn": "9781837025879",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135116821/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135116821/",
       "isbn": "9780135116821",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098129019/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098129019/",
       "isbn": "9781718500723",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Applied Deep Learning on Graphs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835885963/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835885963/",
       "isbn": "9781835885963",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Time Series Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781805129233/",
       "url": "https://learning.oreilly.com/api/v1/book/9781805129233/",
       "isbn": "9781805129233",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Math for Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098129101/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098129101/",
       "isbn": "9781718501904",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning at Scale",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098145279/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098145279/",
       "isbn": "9781098145286",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, NLP, and Transformers using TensorFlow",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137470198/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137470198/",
       "isbn": "9780137470198",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Designing Deep Learning Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633439863/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633439863/",
       "isbn": "9781633439863",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Modern Deep Learning for Tabular Data: Novel Approaches to Common Modeling Problems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484286920/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484286920/",
       "isbn": "9781484286920",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Fundamentals of Deep Learning, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492082170/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492082170/",
       "isbn": "9781492082187",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with R, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633439849/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633439849/",
       "isbn": "9781633439849",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Inside Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617298639/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617298639/",
       "isbn": "9781617298639",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Python Deep Learning - Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837638505/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837638505/",
       "isbn": "9781837638505",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Grokking Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617293702/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617293702/",
       "isbn": "9781617293702",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Enhancing Deep Learning with Bayesian Inference",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803246888/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803246888/",
       "isbn": "9781803246888",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning from Scratch",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492041405/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492041405/",
       "isbn": "9781492041412",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Genomics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804615447/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804615447/",
       "isbn": "9781804615447",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Evolutionary Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617299520/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617299520/",
       "isbn": "9781617299520",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "The Deep Learning Architect's Handbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803243795/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803243795/",
       "isbn": "9781803243795",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "neuroAI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394261963/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394261963/",
       "isbn": "9781394261963",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Practical Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098128470/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098128470/",
       "isbn": "9781718500747",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Vision Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296192/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296192/",
       "isbn": "9781617296192",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Synthetic Data for Deep Learning: Generate Synthetic Data for Decision Making and Applications with Python and R",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484285879/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484285879/",
       "isbn": "9781484285879",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning Techniques for Automation and Industrial Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781394234240/",
       "url": "https://learning.oreilly.com/api/v1/book/9781394234240/",
       "isbn": "9781394234240",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Mathematics for Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838647292/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838647292/",
       "isbn": "9781838647292",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Computational Intelligence and Deep Learning Methods for Neuro-rehabilitation Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780443137730/",
       "url": "https://learning.oreilly.com/api/v1/book/9780443137730/",
       "isbn": "9780443137730",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Fundamentals and Methods of Machine and Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119821250/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119821250/",
       "isbn": "9781119821250",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617294433/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617294433/",
       "isbn": "9781617294433",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Neural Networks and Numerical Analysis",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110783261/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110783261/",
       "isbn": "9783110783261",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Experiential Learning: Experience as the Source of Learning and Development, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133892512/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133892512/",
       "isbn": "9780133892512",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "How Algorithms Create and Prevent Fake News: Exploring the Impacts of Social Media, Deepfakes, GPT-3, and More",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484271551/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484271551/",
       "isbn": "9781484271551",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Multimedia Processing Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781003828082/",
       "url": "https://learning.oreilly.com/api/v1/book/9781003828082/",
       "isbn": "9781003828082",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning Patterns and Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617298264/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617298264/",
       "isbn": "9781617298264",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning from the Basics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800206137/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800206137/",
       "isbn": "9781800206137",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Production-Ready Applied Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803243665/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803243665/",
       "isbn": "9781803243665",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with MXNet Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800569607/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800569607/",
       "isbn": "9781800569607",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Neural networks and deep learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492037354/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492037354/",
       "isbn": "9781492037347",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Practical Deep Learning for Cloud, Mobile, and Edge",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492034858/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492034858/",
       "isbn": "9781492034865",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with Python, Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633436589/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633436589/",
       "isbn": "9781633436589",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Multimedia Processing Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781003827962/",
       "url": "https://learning.oreilly.com/api/v1/book/9781003827962/",
       "isbn": "9781003827962",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119543046/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119543046/",
       "isbn": "9781119543046",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with Structured Data",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296727/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296727/",
       "isbn": "9781617296727",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Probabilistic Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296079/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296079/",
       "isbn": "9781617296079",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Automated Deep Learning Using Neural Network Intelligence: Develop and Design PyTorch and TensorFlow Models Using Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484281499/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484281499/",
       "isbn": "9781484281499",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning and the Game of Go",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617295324/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617295324/",
       "isbn": "9781617295324",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Modern Deep Learning Design and Application Development: Versatile Tools to Solve Deep Learning Problems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484274132/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484274132/",
       "isbn": "9781484274132",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Advanced Analytics and Deep Learning Models",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119791751/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119791751/",
       "isbn": "9781119791751",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Practical Deep Learning, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341655119/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341655119/",
       "isbn": "9781718504202",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Generative Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492041931/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492041931/",
       "isbn": "9781492041948",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "State of the Art in Neural Networks and Their Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128199121/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128199121/",
       "isbn": "9780128199121",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning-Based Forward Modeling and Inversion Techniques for Computational Physics Problems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000896671/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000896671/",
       "isbn": "9781000896671",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-on Deep Learning: A Guide to Deep Learning with Projects and Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868810350/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868810350/",
       "isbn": "9798868810350",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Building Scalable Deep Learning Pipelines on AWS: Develop, Train, and Deploy Deep Learning Models",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868810176/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868810176/",
       "isbn": "9798868810176",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Beginners",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838640859/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838640859/",
       "isbn": "9781838640859",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with fastai Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800208100/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800208100/",
       "isbn": "9781800208100",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Python Deep Learning - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789348460/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789348460/",
       "isbn": "9781789348460",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Advanced Applied Deep Learning: Convolutional Neural Networks and Object Detection",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484249765/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484249765/",
       "isbn": "9781484249765",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491924570/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491924570/",
       "isbn": "9781491914250",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning in Visual Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000625455/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000625455/",
       "isbn": "9781000625455",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning and Its Applications for Vehicle Networks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000877250/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000877250/",
       "isbn": "9781000877250",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Chest Radiographs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780323906869/",
       "url": "https://learning.oreilly.com/api/v1/book/9780323906869/",
       "isbn": "9780323906869",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Q-Learning with Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789345803/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789345803/",
       "isbn": "9781789345803",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Cognitive Computing Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110750614/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110750614/",
       "isbn": "9783110750614",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Artificial Intelligence on Amazon Web Services",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789534146/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789534146/",
       "isbn": "9781789534146",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Computational Analysis and Deep Learning for Medical Care",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119785729/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119785729/",
       "isbn": "9781119785729",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Deep Learning Algorithms with Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789344158/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789344158/",
       "isbn": "9781789344158",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Trends in Deep Learning Methodologies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128232682/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128232682/",
       "isbn": "9780128232682",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Fundamentals of Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491925607/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491925607/",
       "isbn": "9781491925614",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Remote Sensing Images with Open Source Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000093612/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000093612/",
       "isbn": "9781000093612",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Reactive Distillation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110656411/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110656411/",
       "isbn": "9783110656411",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Deep Learning with R",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788996839/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788996839/",
       "isbn": "9781788996839",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Codeless Deep Learning with KNIME",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800566613/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800566613/",
       "isbn": "9781800566613",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Computer Vision",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788295628/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788295628/",
       "isbn": "9781788295628",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Strengthening Deep Neural Networks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492044949/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492044949/",
       "isbn": "9781492044956",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Practical Convolutional Neural Networks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788392303/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788392303/",
       "isbn": "9781788392303",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Applied Deep Learning: A Case-Based Approach to Understanding Deep Neural Networks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484237908/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484237908/",
       "isbn": "9781484237908",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "The Deep Learning Workshop",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781839219856/",
       "url": "https://learning.oreilly.com/api/v1/book/9781839219856/",
       "isbn": "9781839219856",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with R",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617295546/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617295546/",
       "isbn": "9781617295546",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with R Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789805673/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789805673/",
       "isbn": "9781789805673",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110670929/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110670929/",
       "isbn": "9783110670929",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Neuro-Fuzzy Systems with Python: With Case Studies and Applications from the Industry",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484253618/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484253618/",
       "isbn": "9781484253618",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning Essentials",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781785880360/",
       "url": "https://learning.oreilly.com/api/v1/book/9781785880360/",
       "isbn": "9781785880360",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Deep Learning for Games",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788994071/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788994071/",
       "isbn": "9781788994071",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Beginning Anomaly Detection Using Python-Based Deep Learning: With Keras and PyTorch",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484251775/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484251775/",
       "isbn": "9781484251775",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Neural Networks Modeling and Control",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128170793/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128170793/",
       "isbn": "9780128170793",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Advanced Deep Learning with R",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789538779/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789538779/",
       "isbn": "9781789538779",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Deep Learning with Go",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789340990/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789340990/",
       "isbn": "9781789340990",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Neural Networks with R",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788397872/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788397872/",
       "isbn": "9781788397872",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Applying Deep Learning in Business",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492039211/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492039211/",
       "isbn": "9781492039204",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Medical Image Analysis",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128104095/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128104095/",
       "isbn": "9780128104095",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with R for Beginners",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838642709/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838642709/",
       "isbn": "9781838642709",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning through Sparse and Low-Rank Modeling",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128136607/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128136607/",
       "isbn": "9780128136607",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Neural Network Programming with C#",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789612011/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789612011/",
       "isbn": "9781789612011",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning By Example",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788399906/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788399906/",
       "isbn": "9781788399906",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning: Practical Neural Networks with Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788470315/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788470315/",
       "isbn": "9781788470315",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to Deep Learning Using R: A Step-by-Step Guide to Learning and Implementing Deep Learning Models Using R",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484227343/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484227343/",
+      "isbn": "9781484227343",
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Belief Nets in C++ and CUDA C: Volume 2: Autoencoding in the Complex Domain",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484236468/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484236468/",
       "isbn": "9781484236468",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491995839/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491995839/",
       "isbn": "9781491995792",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with Microsoft Cognitive Toolkit Quick Start Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789802993/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789802993/",
       "isbn": "9781789802993",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning Quick Reference",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788837996/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788837996/",
       "isbn": "9781788837996",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
+    },
+    {
+      "title": "Neural Networks for Electronics Hobbyists: A Non-Technical Project-Based Introduction",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9781484235072/",
+      "url": "https://learning.oreilly.com/api/v1/book/9781484235072/",
+      "isbn": "9781484235072",
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "R Deep Learning Essentials - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788992893/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788992893/",
       "isbn": "9781788992893",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Java Deep Learning Projects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788997454/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788997454/",
       "isbn": "9781788997454",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning for Numerical Applications with SAS",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781635266771/",
       "url": "https://learning.oreilly.com/api/v1/book/9781635266771/",
       "isbn": "9781635266771",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Advanced Deep Learning with Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789956177/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789956177/",
       "isbn": "9781789956177",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Blind Equalization in Neural Networks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110449679/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110449679/",
       "isbn": "9783110449679",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Python Deep Learning Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787125193/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787125193/",
       "isbn": "9781787125193",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Wearable Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118864579/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118864579/",
       "isbn": "9781118864579",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "R Deep Learning Projects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788478403/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788478403/",
       "isbn": "9781788478403",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Getting started with deep learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492037330/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492037330/",
       "isbn": "9781492037330",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Deep Learning for IoT",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789616132/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789616132/",
       "isbn": "9781789616132",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Caffe2 Quick Start Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789137750/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789137750/",
       "isbn": "9781789137750",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Neural Networks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788992596/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788992596/",
       "isbn": "9781788992596",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Deep Learning Architectures with Python",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788998086/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788998086/",
       "isbn": "9781788998086",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "R Deep Learning Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787121089/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787121089/",
       "isbn": "9781787121089",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Deep Learning with Azure: Building and Deploying Artificial Intelligence Solutions on the Microsoft AI Platform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484236796/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484236796/",
       "isbn": "9781484236796",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Event-Based Neuromorphic Systems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470018491/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470018491/",
       "isbn": "9780470018491",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Fuzzy Neural Networks for Real Time Control Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128027035/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128027035/",
       "isbn": "9780128027035",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Practical Neural Network Recipies in C++",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780080514338/",
       "url": "https://learning.oreilly.com/api/v1/book/9780080514338/",
       "isbn": "9780080514338",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Exploring Neural Networks with C#",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482233391/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482233391/",
       "isbn": "9781482233407",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Human Memory Modeled with Standard Analog and Digital Circuits: Inspiration for Man-made Computers",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470424353/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470424353/",
       "isbn": "9780470424353",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     },
     {
       "title": "Networked Collaborative Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781843345022/",
       "url": "https://learning.oreilly.com/api/v1/book/9781843345022/",
       "isbn": "9781780631646",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Deep Learning",
+      "secondary_topics": []
     }
   ]
 }

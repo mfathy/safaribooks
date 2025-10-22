@@ -1,6 +1,6 @@
 {
   "skill_name": "Business Rules Engine",
-  "discovery_timestamp": 1760820553.7224278,
+  "discovery_timestamp": "2025-10-19 17:08:28",
   "total_books": 2,
   "books": [
     {
@@ -8,14 +8,18 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123850515/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123850515/",
       "isbn": "9780123850522",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Business Rules Engine",
+      "secondary_topics": []
     },
     {
       "title": "How to Build a Business Rules Engine",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781558609181/",
       "url": "https://learning.oreilly.com/api/v1/book/9781558609181/",
       "isbn": "9780080491479",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Business Rules Engine",
+      "secondary_topics": []
     }
   ]
 }

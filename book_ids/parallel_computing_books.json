@@ -1,315 +1,421 @@
 {
   "skill_name": "Parallel Computing",
-  "discovery_timestamp": 1760820625.529296,
-  "total_books": 44,
+  "discovery_timestamp": "2025-10-19 17:22:09",
+  "total_books": 46,
   "books": [
     {
       "title": "Programming Massively Parallel Processors, 4th Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780323984638/",
       "url": "https://learning.oreilly.com/api/v1/book/9780323984638/",
       "isbn": "9780323984638",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Parallel and High Performance Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296468/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296468/",
       "isbn": "9781617296468",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "High Performance Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124202153/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124202153/",
       "isbn": "9780124202153",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Theory of Structured Parallel Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780443248153/",
       "url": "https://learning.oreilly.com/api/v1/book/9780443248153/",
       "isbn": "9780443248153",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Programming Massively Parallel Processors, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128119877/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128119877/",
       "isbn": "9780128119877",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Professional CUDA C Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118739310/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118739310/",
       "isbn": "9781118739310",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "High Performance Parallel Runtimes",
       "id": "https://www.safaribooksonline.com/api/v1/book/9783110632897/",
       "url": "https://learning.oreilly.com/api/v1/book/9783110632897/",
       "isbn": "9783110632897",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Parallel Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128044865/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128044865/",
       "isbn": "9780128044865",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Multicore and GPU Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124171374/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124171374/",
       "isbn": "9780124171404",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Heterogeneous Computing with OpenCL 2.0",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128016497/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128016497/",
       "isbn": "9780128016497",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Contemporary High Performance Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466568358/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466568358/",
       "isbn": "9781466568358",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "GPU Pro 2",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439865606/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439865606/",
       "isbn": "9781439865606",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
+    },
+    {
+      "title": "CUDA by Example: An Introduction to General-Purpose GPU Programming",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780132180160/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780132180160/",
+      "isbn": "9780132180160",
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Fundamentals of Parallel Multicore Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482211191/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482211191/",
       "isbn": "9781482211191",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "GPU Pro 7",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781498742542/",
       "url": "https://learning.oreilly.com/api/v1/book/9781498742542/",
       "isbn": "9781498742542",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Parallel Computing for Data Science",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466587014/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466587014/",
       "isbn": "9781466587038",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Parallel Programming with OpenACC",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124104594/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124104594/",
       "isbn": "9780124104594",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Topics in Parallel and Distributed Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128039380/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128039380/",
       "isbn": "9780128039380",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "GPU-based Parallel Implementation of Swarm Intelligence Algorithms",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128093641/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128093641/",
       "isbn": "9780128093641",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Multicore Software Development Techniques",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128010372/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128010372/",
       "isbn": "9780128010372",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Structured Parallel Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124159938/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124159938/",
       "isbn": "9780123914439",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "High Performance Parallelism Pearls Volume One",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128021187/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128021187/",
       "isbn": "9780128021996",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "High Performance Parallelism Pearls Volume Two",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128038901/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128038901/",
       "isbn": "9780128038901",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "High Performance Parallel I/O",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466582347/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466582347/",
       "isbn": "9781466582354",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "GPU Pro 5",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482208641/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482208641/",
       "isbn": "9781482208641",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Heterogeneous Computing with OpenCL, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124058941/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124058941/",
       "isbn": "9780124055209",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Programming Massively Parallel Processors, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780124159921/",
       "url": "https://learning.oreilly.com/api/v1/book/9780124159921/",
       "isbn": "9780123914187",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Multithreading for Visual Effects",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781482243567/",
       "url": "https://learning.oreilly.com/api/v1/book/9781482243567/",
       "isbn": "9781482243574",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "OpenCL Programming Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780132488006/",
       "url": "https://learning.oreilly.com/api/v1/book/9780132488006/",
       "isbn": "9780132488006",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "OpenCL in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617290176/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617290176/",
       "isbn": "9781617290176",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "GPU Computing Gems Jade Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123859631/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123859631/",
       "isbn": "9780123859648",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "High Performance Programming for Soft Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781466586017/",
       "url": "https://learning.oreilly.com/api/v1/book/9781466586017/",
       "isbn": "9781466586024",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "High Performance Visualization",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439875735/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439875735/",
       "isbn": "9781439875735",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Heterogeneous Computing with OpenCL",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123877666/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123877666/",
       "isbn": "9780123877673",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Algorithms and Parallel Computing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470934630/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470934630/",
       "isbn": "9780470934630",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Parallel Programming with Intel® Parallel Studio XE",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470891650/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470891650/",
       "isbn": "9780470891650",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
+    },
+    {
+      "title": "Introduction to Parallel Computing, Second Edition",
+      "id": "https://www.safaribooksonline.com/api/v1/book/0201648652/",
+      "url": "https://learning.oreilly.com/api/v1/book/0201648652/",
+      "isbn": "0201648652",
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Fundamentals of Multicore Software Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781439812747/",
       "url": "https://learning.oreilly.com/api/v1/book/9781439812747/",
       "isbn": "9781439812747",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Parallel R",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449317850/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449317850/",
       "isbn": "9781449320331",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Multicore Application Programming: For Windows, Linux, and Oracle® Solaris",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321711441/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321711441/",
       "isbn": "9780321711441",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Patterns for Parallel Programming",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321228111/",
       "url": "https://learning.oreilly.com/api/v1/book/0321228111/",
       "isbn": "9780321228116",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Parallel and Distributed Programming Using C++",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131013769/",
       "url": "https://learning.oreilly.com/api/v1/book/0131013769/",
       "isbn": "0131013769",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "GPU Gems: Programming Techniques, Tips and Tricks for Real-Time Graphics",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321545404/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321545404/",
       "isbn": "9780321545404",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "UPC: DISTRIBUTED SHARED MEMORY PROGRAMMING",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780471220480/",
       "url": "https://learning.oreilly.com/api/v1/book/9780471220480/",
       "isbn": "9780471220480",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Parallel Computer Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780080573076/",
       "url": "https://learning.oreilly.com/api/v1/book/9780080573076/",
       "isbn": "9780080573076",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     },
     {
       "title": "Solutions to Parallel and Distributed Computing Problems: Lessons from Biological Sciences",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780471353522/",
       "url": "https://learning.oreilly.com/api/v1/book/9780471353522/",
       "isbn": "9780471353522",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Parallel Computing",
+      "secondary_topics": []
     }
   ]
 }

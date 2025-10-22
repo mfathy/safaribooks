@@ -1,6 +1,6 @@
 {
   "skill_name": "Microservices",
-  "discovery_timestamp": 1760820614.283078,
+  "discovery_timestamp": "2025-10-19 15:28:51",
   "total_books": 79,
   "books": [
     {
@@ -8,553 +8,711 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098170776/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098170776/",
       "isbn": "9781098170783",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617294549/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617294549/",
       "isbn": "9781617294549",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Microservices with JavaScript",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788625401/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788625401/",
       "isbn": "9781788625401",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservice APIs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617298417/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617298417/",
       "isbn": "9781617298417",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Bootstrapping Microservices, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633438569/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633438569/",
       "isbn": "9781633438569",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484274682/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484274682/",
       "isbn": "9781484274682",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Monolith to Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492047834/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492047834/",
       "isbn": "9781492047841",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Enabling Microservice Success",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098130787/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098130787/",
       "isbn": "9781098130794",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Pragmatic Microservices with C# and Azure",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835088296/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835088296/",
       "isbn": "9781835088296",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices with Go",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804617007/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804617007/",
       "isbn": "9781804617007",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Practical Microservices with Dapr and .NET - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803248127/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803248127/",
       "isbn": "9781803248127",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Designing Microservices Platforms with NATS",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801072212/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801072212/",
       "isbn": "9781801072212",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices Design Patterns in .NET",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804610305/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804610305/",
       "isbn": "9781804610305",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices in .NET, Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617297922/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617297922/",
       "isbn": "9781617297922",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137355600/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137355600/",
       "isbn": "9780137355600",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Building Microservices with Micronaut®",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800564237/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800564237/",
       "isbn": "9781800564237",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Bootstrapping Microservices with Docker, Kubernetes, and Terraform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617297212/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617297212/",
       "isbn": "9781617297212",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Building and Delivering Microservices on AWS",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803238203/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803238203/",
       "isbn": "9781803238203",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices: Up and Running",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492075448/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492075448/",
       "isbn": "9781492075455",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Traefik API Gateway for Microservices: With Java and Python Microservices Deployed in Kubernetes",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484263761/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484263761/",
       "isbn": "9781484263761",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Developing Microservices Architecture on Microsoft Azure with Open Source Technologies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780136819295/",
       "url": "https://learning.oreilly.com/api/v1/book/9780136819295/",
       "isbn": "9780136819295",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "SRE with Java Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492073918/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492073918/",
       "isbn": "9781492073925",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Kubernetes Application Developer: Develop Microservices and Design a Software Solution on the Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484280324/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484280324/",
       "isbn": "9781484280324",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Practical Microservices Architectural Patterns: Event-Based Java Microservices with Spring Boot and Spring Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484245019/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484245019/",
       "isbn": "9781484245019",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617294457/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617294457/",
       "isbn": "9781617294457",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Azure Kubernetes Services with Microservices: Understanding Its Patterns and Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484278093/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484278093/",
       "isbn": "9781484278093",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices for the Enterprise: Designing, Developing, and Deploying",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484238585/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484238585/",
       "isbn": "9781484238585",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Practical Serverless and Microservices with C#",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781836642015/",
       "url": "https://learning.oreilly.com/api/v1/book/9781836642015/",
       "isbn": "9781836642015",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "AI and Microservices: Integrating AI into API Design and Distributed Microservice Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868813061/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868813061/",
       "isbn": "9798868813061",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices with Go - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781836207337/",
       "url": "https://learning.oreilly.com/api/v1/book/9781836207337/",
       "isbn": "9781836207337",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Embracing Microservices Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801818384/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801818384/",
       "isbn": "9781801818384",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "The Art of Decoding Microservices: An In-Depth Exploration of Modern Software Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868812675/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868812675/",
       "isbn": "9798868812675",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Helidon Revealed: A Practical Guide to Oracle’s Microservices Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868802942/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868802942/",
       "isbn": "9798868802942",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Monitoring Microservices and Containerized Applications: Deployment, Configuration, and Best Practices for Prometheus and Alert Manager",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484262160/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484262160/",
       "isbn": "9781484262160",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Cloud-Based Microservices: Techniques, Challenges, and Solutions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484265642/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484265642/",
       "isbn": "9781484265642",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Practical Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680507782/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680507782/",
       "isbn": "9781680506457",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Production-Ready Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491965962/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491965962/",
       "isbn": "9781491965924",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Microservices with Java - Third Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789530728/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789530728/",
       "isbn": "9781789530728",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Responsible Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492085294/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492085294/",
       "isbn": "9781492085294",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Enterprise Java Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617294242/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617294242/",
       "isbn": "9781617294242",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Practical NATS: From Beginner to Pro",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484235706/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484235706/",
       "isbn": "9781484235706",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Practical Microservices with Dapr and .NET",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800568372/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800568372/",
       "isbn": "9781800568372",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Microservices with Kubernetes",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789805468/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789805468/",
       "isbn": "9781789805468",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Testing Microservices with Mountebank",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617294778/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617294778/",
       "isbn": "9781617294778",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Microservices ??? Monitoring and Testing",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789133608/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789133608/",
       "isbn": "9781789133608",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Control of Standalone Microgrid",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128234310/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128234310/",
       "isbn": "9780128234310",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservice Patterns and Best Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788474030/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788474030/",
       "isbn": "9781788474030",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices: Flexible Software Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134650449/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134650449/",
       "isbn": "9780134650449",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices Development Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788479509/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788479509/",
       "isbn": "9781788479509",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Building Microservices Applications on Microsoft Azure: Designing, Developing, Deploying, and Monitoring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484248287/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484248287/",
       "isbn": "9781484248287",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Building Microservices with Go",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786468666/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786468666/",
       "isbn": "9781786468666",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "What Are Microservices?, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492074946/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492074946/",
       "isbn": "9781492074939",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservice Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491956328/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491956328/",
       "isbn": "9781491956250",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Building Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491950340/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491950340/",
       "isbn": "9781491950357",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices AntiPatterns and Pitfalls",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492042716/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492042716/",
       "isbn": "9781491963319",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices Adoption in 2020",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492091929/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492091929/",
       "isbn": "9781492091912",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Building Microservices, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492034018/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492034018/",
       "isbn": "9781492034025",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "The Tao of Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617293146/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617293146/",
       "isbn": "9781617293146",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "What Are Miniservices?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492073505/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492073505/",
       "isbn": "9781492073499",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices vs. Service-Oriented Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491975657/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491975657/",
       "isbn": "9781491941607",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Reactive Microsystems",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491994368/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491994368/",
       "isbn": "9781491994351",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Migrating to Microservice Databases",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492048824/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492048824/",
       "isbn": "9781491971864",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Enterprise Java Microservices with Eclipse MicroProfile",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781838643102/",
       "url": "https://learning.oreilly.com/api/v1/book/9781838643102/",
       "isbn": "9781838643102",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices From Day One: Build robust and scalable software from the start",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484219379/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484219379/",
       "isbn": "9781484219379",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Building Reactive Microservices in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491986295/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491986295/",
       "isbn": "9781491986288",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices and Containers, First edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134591728/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134591728/",
       "isbn": "9780134591728",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Advanced Microservices: A Hands-on Approach to Microservice Infrastructure and Tooling",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484228869/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484228869/",
       "isbn": "9781484228869",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices Best Practices for Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780738442273/",
       "url": "https://learning.oreilly.com/api/v1/book/9780738442273/",
       "isbn": "9780738442273",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Reactive Microservices Architecture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491975664/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491975664/",
       "isbn": "9781491957790",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Microservices with C#",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789533682/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789533682/",
       "isbn": "9781789533682",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Securing Microservice APIs",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492027140/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492027140/",
       "isbn": "9781492027133",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Deploying Reactive Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492049289/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492049289/",
       "isbn": "9781491981504",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Developing Reactive Microservices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491975640/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491975640/",
       "isbn": "9781491960639",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices for Modern Commerce",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492049135/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492049135/",
       "isbn": "9781491970874",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "What are microservices?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491965252/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491965252/",
       "isbn": "9781491966129",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices Deployment Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786469434/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786469434/",
       "isbn": "9781786469434",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Evolve the Monolith to Microservices with Java and Node",
       "id": "https://www.safaribooksonline.com/api/v1/book/0783442119/",
       "url": "https://learning.oreilly.com/api/v1/book/0783442119/",
       "isbn": "0783442119",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices from Theory to Practice: Creating Applications in IBM Bluemix Using the Microservices Approach",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780738440811/",
       "url": "https://learning.oreilly.com/api/v1/book/9780738440811/",
       "isbn": "9780738440811",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     },
     {
       "title": "Microservices in Production",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492042846/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492042846/",
       "isbn": "9781491972977",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Microservices",
+      "secondary_topics": []
     }
   ]
 }

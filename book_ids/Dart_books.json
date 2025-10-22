@@ -1,6 +1,6 @@
 {
   "skill_name": "Dart",
-  "discovery_timestamp": 1760820575.767665,
+  "discovery_timestamp": "2025-10-19 16:23:26",
   "total_books": 10,
   "books": [
     {
@@ -8,70 +8,90 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484255629/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484255629/",
       "isbn": "9781484255629",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Dart",
+      "secondary_topics": []
     },
     {
       "title": "The Dart Programming Language",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133429961/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133429961/",
       "isbn": "9780133429961",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Dart",
+      "secondary_topics": []
     },
     {
       "title": "Dart: Scalable Application Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787288027/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787288027/",
       "isbn": "9781787288027",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Dart",
+      "secondary_topics": []
     },
     {
       "title": "Write Web Apps with Dart: Develop and Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134214290/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134214290/",
       "isbn": "9780134214290",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Dart",
+      "secondary_topics": []
     },
     {
       "title": "Dart for Absolute Beginners",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430264828/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430264828/",
       "isbn": "9781430264828",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Dart",
+      "secondary_topics": []
     },
     {
       "title": "Web Programming with Dart",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484205563/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484205563/",
       "isbn": "9781484205563",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Dart",
+      "secondary_topics": []
     },
     {
       "title": "Dart 1 for Everyone",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680500479/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680500479/",
       "isbn": "9781941222256",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Dart",
+      "secondary_topics": []
     },
     {
       "title": "Dart: Up and Running",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449330880/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449330880/",
       "isbn": "9781449330859",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Dart",
+      "secondary_topics": []
     },
     {
       "title": "Dart in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617290862/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617290862/",
       "isbn": "9781617290862",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Dart",
+      "secondary_topics": []
     },
     {
       "title": "What is Dart?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449333164/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449333164/",
       "isbn": "9781449332327",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Dart",
+      "secondary_topics": []
     }
   ]
 }

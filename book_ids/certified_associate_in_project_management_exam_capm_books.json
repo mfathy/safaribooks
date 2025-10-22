@@ -1,6 +1,6 @@
 {
   "skill_name": "Certified Associate in Project Management Exam (CAPM)",
-  "discovery_timestamp": 1760820554.984662,
+  "discovery_timestamp": "2025-10-19 14:18:13",
   "total_books": 4,
   "books": [
     {
@@ -8,28 +8,36 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137918102/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137918102/",
       "isbn": "9780137918102",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Certified Associate in Project Management Exam (CAPM)",
+      "secondary_topics": []
     },
     {
       "title": "Mastering the NEW PMI Certified Associate in Project Management (CAPM)® Exam (2023 Version)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781003856337/",
       "url": "https://learning.oreilly.com/api/v1/book/9781003856337/",
       "isbn": "9781003856337",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Certified Associate in Project Management Exam (CAPM)",
+      "secondary_topics": []
     },
     {
       "title": "Certified Associate in Project Management (CAPM)® Exam Crash Course",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780135440445/",
       "url": "https://learning.oreilly.com/api/v1/book/9780135440445/",
       "isbn": "9780135440445",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Certified Associate in Project Management Exam (CAPM)",
+      "secondary_topics": []
     },
     {
       "title": "CAPM Certified Associate in Project Management Practice Exams",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781260440492/",
       "url": "https://learning.oreilly.com/api/v1/book/9781260440492/",
       "isbn": "9781260440492",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Certified Associate in Project Management Exam (CAPM)",
+      "secondary_topics": []
     }
   ]
 }

@@ -1,36 +1,36 @@
 O'REILLY BOOKS DISCOVERY SUMMARY (V2 API - No Auth)
 ==================================================
 
-Total Skills Processed: 286
-Successful Skills: 283
-Failed Skills: 3
-Total Books Discovered: 15,132
-Total Books Expected: 74,994
-Difference: -59,862 books
+Total Skills Processed: 221
+Successful Skills: 206
+Failed Skills: 15
+Total Books Discovered: 56,130
+Total Books Expected: 0
+Difference: +56,130 books
 
 TOP SKILLS BY BOOK COUNT:
 ------------------------------
-Python: 624 books
-Business Strategy: 612 books
-Java: 509 books
-Project Management: 505 books
-Entrepreneurship: 413 books
-Personal Finance: 393 books
-Artificial Intelligence (AI): 364 books
-Machine Learning: 310 books
-Leadership and Management: 309 books
-Professional Development: 302 books
-Trading Stocks: 277 books
-Career Development: 274 books
-Professional Communication: 248 books
-Agile: 229 books
-Culture in Business: 202 books
-Data Science: 190 books
-Native Android Development: 185 books
-Executive Coaching: 171 books
-Confidence / Motivation: 159 books
-Internet of Things (IoT): 157 books
-... and 263 more skills
+Project Management: 1,089 books
+Business Strategy: 1,063 books
+Team Management: 926 books
+Emotional Intelligence: 834 books
+Business Intelligence: 815 books
+Personal Finance: 739 books
+Communication Strategy: 717 books
+Microstrategy: 703 books
+Personal Productivity: 699 books
+Product Management: 687 books
+Stress Management: 663 books
+Culture in Business: 653 books
+Professional Communication: 651 books
+Unsupervised Learning: 645 books
+Change Management: 644 books
+Coding Standards: 643 books
+Machine Learning Tools: 639 books
+Deep Learning: 638 books
+Machine Learning: 638 books
+Machine Learning Methods: 638 books
+... and 186 more skills
 
 Detailed results available in: discovery_results_v2.json
 Individual skill files in: book_ids/

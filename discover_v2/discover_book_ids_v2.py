@@ -26,6 +26,10 @@ class BookIDDiscovererV2:
         self.config = self._load_config(config_file)
         self.setup_logging()
         self.update_mode = update_mode  # Whether to re-discover already discovered skills
+        # Lenient mode toggled when using skills_facets.json (no expected counts, broader matching)
+        self.lenient_mode = False
+        # Catalog of known skill names (used for variant matching when in lenient_mode)
+        self.skills_catalog: List[str] = []
         
         # Create output directory
         self.output_dir = Path(self.config.get('book_ids_directory', 'book_ids'))
@@ -50,21 +54,14 @@ class BookIDDiscovererV2:
             'max_workers': 3,
             'discovery_delay': 1,  # Less delay since no auth needed
             'resume': True,
-            'skills_file': '../favorite_skills_with_counts.json',
+            'skills_file': '../favorite_skills_with_counts.json',  # or '../skills_facets.json'
             'progress_file': 'output/discovery_progress.json',
             'verbose': False,
             'retry_failed': True,
             'max_retries': 3,
             'retry_delay': 5,
             'exclude_skills': [],
-            'priority_skills': [
-                "Python",
-                "Machine Learning", 
-                "AI & ML",
-                "Data Science",
-                "Deep Learning",
-                "Artificial Intelligence (AI)"
-            ]
+            'priority_skills': []
         }
         
         if config_file and os.path.exists(config_file):
@@ -123,7 +120,23 @@ class BookIDDiscovererV2:
             self.logger.error(f"Could not save progress: {e}")
     
     def load_favorite_skills(self) -> List[Dict]:
-        """Load favorite skills from JSON file with book counts"""
+        """Load favorite skills from JSON file (supports two formats)
+        
+        Format 1: favorite_skills_with_counts.json
+        {
+            "skills": [
+                {"title": "Python", "books": 666},
+                ...
+            ]
+        }
+        
+        Format 2: skills_facets.json
+        {
+            "Python": "Python",
+            "Machine Learning": "Machine Learning",
+            ...
+        }
+        """
         skills_file = self.config['skills_file']
         if not os.path.exists(skills_file):
             raise FileNotFoundError(f"Skills file not found: {skills_file}")
@@ -131,14 +144,80 @@ class BookIDDiscovererV2:
         with open(skills_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
-        skills = data.get('skills', [])
-        self.logger.info(f"Loaded {len(skills)} favorite skills from JSON")
+        # Detect format and parse accordingly
+        if 'skills' in data and isinstance(data['skills'], list):
+            # Format 1: favorite_skills_with_counts.json
+            skills = data.get('skills', [])
+            self.logger.info(f"Loaded {len(skills)} favorite skills from JSON (with counts)")
+            
+            # Log total expected books
+            total_books = sum(skill.get('books', 0) for skill in skills)
+            if total_books > 0:
+                self.logger.info(f"Total expected books across all skills: {total_books:,}")
+            # Strict mode (default) when counts are present
+            self.lenient_mode = False
+            self.skills_catalog = [s.get('title', '') for s in skills]
+            
+            return skills
         
-        # Log total expected books
-        total_books = sum(skill['books'] for skill in skills)
-        self.logger.info(f"Total expected books across all skills: {total_books:,}")
+        elif isinstance(data, dict):
+            # Format 2: skills_facets.json (simple key-value pairs)
+            skills = [
+                {'title': skill_name, 'books': None}
+                for skill_name in data.values()
+            ]
+            self.logger.info(f"Loaded {len(skills)} skills from JSON (without counts)")
+            self.logger.info(f"Note: No expected book counts available for these skills")
+            # Enable lenient mode for facets (no counts)
+            self.lenient_mode = True
+            self.skills_catalog = list(data.values())
+            
+            return skills
         
-        return skills
+        else:
+            raise ValueError(f"Unknown skills file format in {skills_file}")
+
+    def _get_topic_candidates(self, skill_name: str) -> List[str]:
+        """Return a list of topic candidates to query for a given skill name.
+        In lenient mode, we try variant names (e.g., ChatGPT -> GPT).
+        """
+        candidates: List[str] = []
+        seen: Set[str] = set()
+        def add_candidate(name: str):
+            key = name.strip()
+            if key and key not in seen:
+                seen.add(key)
+                candidates.append(key)
+
+        # Always try the exact skill name first
+        add_candidate(skill_name)
+
+        # Built-in alias map for common variants
+        builtin_aliases = {
+            'ChatGPT': ['GPT'],
+            'GPT': ['ChatGPT'],
+            'Web APIs': ['RESTful API', 'Application Programming Interface (API)', 'API'],
+            'RESTful API': ['Web APIs', 'API', 'Application Programming Interface (API)'],
+            'Application Programming Interface (API)': ['API', 'RESTful API', 'Web APIs'],
+            'AI for Every Day': ['AI & ML', 'Artificial Intelligence (AI)'],
+        }
+        if self.lenient_mode:
+            aliases = builtin_aliases.get(skill_name, [])
+            for alias in aliases:
+                add_candidate(alias)
+
+            # Heuristic: if skill contains a shorter token that exists in catalog, try it
+            skill_lower = skill_name.lower()
+            tokens = [t for t in [skill_lower.replace('&', ' ').replace('/', ' ')]][0].split()
+            # Prefer 3+ char tokens
+            tokens = [t for t in tokens if len(t) >= 3]
+            for catalog_name in self.skills_catalog:
+                catalog_lower = catalog_name.lower()
+                # If catalog term is a meaningful substring of the skill or vice-versa, consider it
+                if any(tok in catalog_lower for tok in tokens) or any(tok in skill_lower for tok in catalog_lower.split()):
+                    add_candidate(catalog_name)
+
+        return candidates[:5]  # limit to avoid excessive queries
     
     def _search_oreilly_v2_api(self, skill_name: str, page: int = 0, limit: int = 100) -> Dict:
         """Search O'Reilly v2 API for books in a specific skill/topic (NO AUTH REQUIRED)
@@ -199,7 +278,6 @@ class BookIDDiscovererV2:
         try:
             all_books = []
             book_ids_set = set()  # Use set to avoid duplicates
-            page = 0  # v2 API uses 0-based pagination
             limit = 100  # v2 API supports up to 100 results per page
             
             # Calculate estimated pages needed based on expected count
@@ -210,162 +288,162 @@ class BookIDDiscovererV2:
             else:
                 estimated_pages = 50  # Default max if no expectation
             
-            # Paginate through all results
-            while True:
-                self.logger.debug(f"Fetching page {page}")
-                
-                # Make API request
-                response_data = self._search_oreilly_v2_api(skill_name, page=page, limit=limit)
-                
-                # v2 API returns results in 'results' array
-                results = response_data.get('results', [])
-                total_available = response_data.get('total', 0)
-                
-                # Log total available on first page
-                if page == 0 and total_available:
-                    self.logger.info(f"📚 '{skill_name}': Total available from API: {total_available}")
-                
-                # Stop if no results found
-                if not results:
-                    self.logger.info(f"📄 Page {page} of '{skill_name}': No more results found, stopping pagination")
-                    break
-                
-                # Log progress
-                if expected_book_count:
-                    self.logger.info(f"📄 Page {page} of '{skill_name}': Found {len(results)} books (Total so far: {len(all_books)} of {expected_book_count} expected)")
-                else:
-                    self.logger.info(f"📄 Page {page} of '{skill_name}': Found {len(results)} books (Total so far: {len(all_books)})")
-                
-                # Process each book with validation
-                for book in results:
-                    # === VALIDATION RULES ===
-                    
-                    # 1. Format validation - Only books, skip videos, courses, audiobooks
-                    format_type = book.get('format', '').lower()
-                    content_format = book.get('content_format', '').lower()
-                    
-                    if format_type not in ['book', 'ebook', ''] and content_format not in ['book', 'ebook', '']:
-                        self.logger.debug(f"⏭️  Skipping {format_type or content_format}: {book.get('title', 'Unknown')}")
-                        continue
-                    
-                    # 2. Language validation - English only (including variants like en-us, en-gb)
-                    language = book.get('language', '').lower()
-                    if language and not (language.startswith('en') or language == 'english' or language == ''):
-                        self.logger.debug(f"⏭️  Skipping non-English ({language}): {book.get('title', 'Unknown')}")
-                        continue
-                    
-                    # 3. Title validation
-                    title = book.get('title', '')
-                    title_lower = title.lower()
-                    
-                    # Skip if title is too short (likely not a real book)
-                    # Exception: Allow titles >= 5 chars if they have valid ISBN
-                    isbn_check = book.get('isbn', '').strip()
-                    has_valid_isbn = isbn_check and isbn_check != '' and isbn_check.lower() not in ['n/a', 'none', 'null']
-                    
-                    if len(title.strip()) < 5:
-                        self.logger.debug(f"⏭️  Skipping very short title: {title}")
-                        continue
-                    elif len(title.strip()) < 10 and not has_valid_isbn:
-                        self.logger.debug(f"⏭️  Skipping short title without ISBN: {title}")
-                        continue
-                    
-                    # Skip chapters and non-book content (use more specific patterns)
-                    # These patterns match chapter/section markers with numbers or Roman numerals
-                    chapter_patterns = [
-                        'chapter 1:', 'chapter 2:', 'chapter 3:', 'chapter 4:', 'chapter 5:',
-                        'chapter 6:', 'chapter 7:', 'chapter 8:', 'chapter 9:', 'chapter 10:',
-                        'part i:', 'part ii:', 'part iii:', 'part iv:', 'part v:',
-                        'part 1:', 'part 2:', 'part 3:', 'part 4:', 'part 5:',
-                        'section 1:', 'section 2:', 'section 3:', 'section 4:', 'section 5:',
-                        'lesson 1:', 'lesson 2:', 'lesson 3:', 'lesson 4:', 'lesson 5:',
-                        'unit 1:', 'unit 2:', 'unit 3:', 'unit 4:', 'unit 5:',
-                        'exam ref', 'certification', 'study guide', 'practice test',
-                        'appendix', 'glossary', 'index', 'bibliography',
-                        'closing thoughts', 'conclusion', 'summary', 'wrap-up',
-                        'introduction', 'preface', 'foreword', 'acknowledgments'
-                    ]
-                    # Check if title starts with chapter/section/lesson/unit/module markers
-                    starts_with_chapter = any(title_lower.startswith(word) for word in 
-                                            ['chapter ', 'section ', 'lesson ', 'unit ', 'module '])
-                    
-                    if any(pattern in title_lower for pattern in chapter_patterns):
-                        self.logger.debug(f"⏭️  Skipping chapter/section: {title}")
-                        continue
-                    
-                    if starts_with_chapter:
-                        self.logger.debug(f"⏭️  Skipping chapter/section: {title}")
-                        continue
-                    
-                    # Skip if title is just a number or very short
-                    if len(title.strip()) <= 5 and title.strip().isdigit():
-                        self.logger.debug(f"⏭️  Skipping numeric only: {title}")
-                        continue
-                    
-                    # Skip titles starting with numbers (likely chapters) - but be specific
-                    if title.strip() and title.strip()[0].isdigit():
-                        # Only skip simple numbered items like "1. Introduction"
-                        if len(title.split()) <= 3 and ('.' in title or title.count(' ') <= 2):
-                            self.logger.debug(f"⏭️  Skipping numbered item: {title}")
-                            continue
-                    
-                    # 4. ISBN validation
-                    isbn = book.get('isbn', '').strip()
-                    has_isbn = isbn and isbn != '' and isbn.lower() not in ['n/a', 'none', 'null']
-                    
-                    # Get book ID (v2 API uses 'archive_id')
-                    book_id = book.get('archive_id') or book.get('isbn') or book.get('ourn')
-                    
-                    # If no ISBN, check if it looks like a legitimate book
-                    if not has_isbn:
-                        # Skip if it's clearly a chapter, video, course, or short content
-                        non_book_keywords = [
-                            'chapter', 'part', 'section', 'lesson', 'unit', 'module',
-                            'video', 'course', 'tutorial', 'workshop', 'webinar', 'audiobook'
-                        ]
-                        if any(keyword in title_lower for keyword in non_book_keywords) or len(title.strip()) < 15:
-                            self.logger.debug(f"⏭️  Skipping no ISBN (likely chapter/video/course): {title}")
-                            continue
+            # Determine topic candidates (variants) if in lenient mode
+            topic_candidates = self._get_topic_candidates(skill_name) if self.lenient_mode else [skill_name]
+
+            queried_topics: List[str] = []
+            for topic in topic_candidates:
+                page = 0
+                queried_topics.append(topic)
+                # Paginate through results for this topic
+                while True:
+                    self.logger.debug(f"Fetching page {page} for topic '{topic}'")
+                    # Make API request
+                    response_data = self._search_oreilly_v2_api(topic, page=page, limit=limit)
+                    # v2 API returns results in 'results' array
+                    results = response_data.get('results', [])
+                    total_available = response_data.get('total', 0)
+                    # Log total available on first page for this topic
+                    if page == 0 and total_available:
+                        if topic == skill_name:
+                            self.logger.info(f"📚 '{skill_name}': Total available from API: {total_available}")
                         else:
-                            # It might be a legitimate book without ISBN
-                            self.logger.debug(f"⚠️  Book without ISBN (keeping): {title}")
-                    
-                    # 5. Duplicate check
-                    if book_id and book_id not in book_ids_set:
-                        book_ids_set.add(book_id)
+                            self.logger.info(f"🔎 Variant topic '{topic}': Total available: {total_available}")
+                    # Stop if no results found for this topic
+                    if not results:
+                        self.logger.info(f"📄 Page {page} of '{topic}': No more results found, stopping pagination")
+                        break
+                    # Log progress
+                    if expected_book_count:
+                        self.logger.info(f"📄 Page {page} of '{topic}': Found {len(results)} books (Total so far: {len(all_books)} of {expected_book_count} expected)")
+                    else:
+                        self.logger.info(f"📄 Page {page} of '{topic}': Found {len(results)} books (Total so far: {len(all_books)})")
+                    # Process each book with validation
+                    for book in results:
+                        # === VALIDATION RULES ===
                         
-                        # Extract book info in the original format for compatibility
-                        book_info = {
-                            'title': title,
-                            'id': f"https://www.safaribooksonline.com/api/v1/book/{book_id}/",
-                            'url': book.get('url', f"https://learning.oreilly.com/api/v1/book/{book_id}/"),
-                            'isbn': isbn if has_isbn else book_id,
-                            'format': book.get('format', 'book')
-                        }
-                        all_books.append(book_info)
-                        self.logger.debug(f"✅ Added book: {title}")
-                
-                # Check if we've reached the expected count
-                if expected_book_count and len(all_books) >= expected_book_count:
-                    self.logger.debug(f"✓ '{skill_name}': Reached expected count ({len(all_books)}/{expected_book_count})")
-                
-                # Check if there's a next page
-                has_next = response_data.get('next') is not None
-                if not has_next:
-                    self.logger.info(f"📄 '{skill_name}': No next page available, completed discovery")
-                    break
-                
-                # Move to next page
-                page += 1
-                
-                # Add small delay between requests to be nice to the API
-                time.sleep(0.3)
-                
-                # Safety check: don't paginate infinitely
-                max_pages = max(estimated_pages, 100)
-                if page > max_pages:
-                    self.logger.warning(f"Reached maximum pagination limit ({max_pages} pages) for {skill_name}")
-                    break
+                        # 1. Format validation - Only books, skip videos, courses, audiobooks
+                        format_type = book.get('format', '').lower()
+                        content_format = book.get('content_format', '').lower()
+                        
+                        if format_type not in ['book', 'ebook', ''] and content_format not in ['book', 'ebook', '']:
+                            self.logger.debug(f"⏭️  Skipping {format_type or content_format}: {book.get('title', 'Unknown')}")
+                            continue
+                        
+                        # 2. Language validation - English only (including variants like en-us, en-gb)
+                        language = book.get('language', '').lower()
+                        if language and not (language.startswith('en') or language == 'english' or language == ''):
+                            self.logger.debug(f"⏭️  Skipping non-English ({language}): {book.get('title', 'Unknown')}")
+                            continue
+                        
+                        # 3. Title validation
+                        title = book.get('title', '')
+                        title_lower = title.lower()
+                        
+                        # Skip if title is too short (likely not a real book)
+                        # Exception: Allow titles >= 5 chars if they have valid ISBN
+                        isbn_check = book.get('isbn', '').strip()
+                        has_valid_isbn = isbn_check and isbn_check != '' and isbn_check.lower() not in ['n/a', 'none', 'null']
+                        
+                        if len(title.strip()) < 5:
+                            self.logger.debug(f"⏭️  Skipping very short title: {title}")
+                            continue
+                        elif len(title.strip()) < 10 and not has_valid_isbn:
+                            self.logger.debug(f"⏭️  Skipping short title without ISBN: {title}")
+                            continue
+                        
+                        # Skip chapters and non-book content (use more specific patterns)
+                        # These patterns match chapter/section markers with numbers or Roman numerals
+                        chapter_patterns = [
+                            'chapter 1:', 'chapter 2:', 'chapter 3:', 'chapter 4:', 'chapter 5:',
+                            'chapter 6:', 'chapter 7:', 'chapter 8:', 'chapter 9:', 'chapter 10:',
+                            'part i:', 'part ii:', 'part iii:', 'part iv:', 'part v:',
+                            'part 1:', 'part 2:', 'part 3:', 'part 4:', 'part 5:',
+                            'section 1:', 'section 2:', 'section 3:', 'section 4:', 'section 5:',
+                            'lesson 1:', 'lesson 2:', 'lesson 3:', 'lesson 4:', 'lesson 5:',
+                            'unit 1:', 'unit 2:', 'unit 3:', 'unit 4:', 'unit 5:',
+                            'exam ref', 'certification', 'study guide', 'practice test',
+                            'appendix', 'glossary', 'index', 'bibliography',
+                            'closing thoughts', 'conclusion', 'summary', 'wrap-up',
+                            'introduction', 'preface', 'foreword', 'acknowledgments'
+                        ]
+                        # Check if title starts with chapter/section/lesson/unit/module markers
+                        starts_with_chapter = any(title_lower.startswith(word) for word in 
+                                                ['chapter ', 'section ', 'lesson ', 'unit ', 'module '])
+                        
+                        if any(pattern in title_lower for pattern in chapter_patterns):
+                            self.logger.debug(f"⏭️  Skipping chapter/section: {title}")
+                            continue
+                        
+                        if starts_with_chapter:
+                            self.logger.debug(f"⏭️  Skipping chapter/section: {title}")
+                            continue
+                        
+                        # Skip if title is just a number or very short
+                        if len(title.strip()) <= 5 and title.strip().isdigit():
+                            self.logger.debug(f"⏭️  Skipping numeric only: {title}")
+                            continue
+                        
+                        # Skip titles starting with numbers (likely chapters) - but be specific
+                        if title.strip() and title.strip()[0].isdigit():
+                            # Only skip simple numbered items like "1. Introduction"
+                            if len(title.split()) <= 3 and ('.' in title or title.count(' ') <= 2):
+                                self.logger.debug(f"⏭️  Skipping numbered item: {title}")
+                                continue
+                        
+                        # 4. ISBN validation
+                        isbn = book.get('isbn', '').strip()
+                        has_isbn = isbn and isbn != '' and isbn.lower() not in ['n/a', 'none', 'null']
+                        
+                        # Get book ID (v2 API uses 'archive_id')
+                        book_id = book.get('archive_id') or book.get('isbn') or book.get('ourn')
+                        
+                        # If no ISBN, check if it looks like a legitimate book
+                        if not has_isbn:
+                            # Skip if it's clearly a chapter, video, course, or short content
+                            non_book_keywords = [
+                                'chapter', 'part', 'section', 'lesson', 'unit', 'module',
+                                'video', 'course', 'tutorial', 'workshop', 'webinar', 'audiobook'
+                            ]
+                            if any(keyword in title_lower for keyword in non_book_keywords) or len(title.strip()) < 15:
+                                self.logger.debug(f"⏭️  Skipping no ISBN (likely chapter/video/course): {title}")
+                                continue
+                            else:
+                                # It might be a legitimate book without ISBN
+                                self.logger.debug(f"⚠️  Book without ISBN (keeping): {title}")
+                        
+                        # 5. Duplicate check
+                        if book_id and book_id not in book_ids_set:
+                            book_ids_set.add(book_id)
+                            
+                            # Extract book info in the original format for compatibility
+                            book_info = {
+                                'title': title,
+                                'id': f"https://www.safaribooksonline.com/api/v1/book/{book_id}/",
+                                'url': book.get('url', f"https://learning.oreilly.com/api/v1/book/{book_id}/"),
+                                'isbn': isbn if has_isbn else book_id,
+                                'format': book.get('format', 'book')
+                            }
+                            all_books.append(book_info)
+                            self.logger.debug(f"✅ Added book: {title}")
+
+                    # Check if we've reached the expected count
+                    if expected_book_count and len(all_books) >= expected_book_count:
+                        self.logger.debug(f"✓ '{skill_name}': Reached expected count ({len(all_books)}/{expected_book_count})")
+                    # Check if there's a next page
+                    has_next = response_data.get('next') is not None
+                    if not has_next:
+                        self.logger.info(f"📄 '{topic}': No next page available, completed discovery for this topic")
+                        break
+                    # Move to next page
+                    page += 1
+                    # Add small delay between requests to be nice to the API
+                    time.sleep(0.3)
+                    # Safety check: don't paginate infinitely
+                    max_pages = max(estimated_pages, 100)
+                    if page > max_pages:
+                        self.logger.warning(f"Reached maximum pagination limit ({max_pages} pages) for topic '{topic}'")
+                        break
             
             # Save discovered books to skill-specific file
             self._save_skill_books(skill_name, all_books)
@@ -503,7 +581,7 @@ class BookIDDiscovererV2:
         total_results = {
             'skills_processed': 0,
             'total_books_discovered': 0,
-            'total_books_expected': sum(s['books'] for s in skills_data),
+            'total_books_expected': sum(s.get('books', 0) or 0 for s in skills_data),
             'successful_skills': 0,
             'failed_skills': 0,
             'skipped_skills': 0,
@@ -518,7 +596,7 @@ class BookIDDiscovererV2:
             # Parallel discovery
             with ThreadPoolExecutor(max_workers=self.config['max_workers']) as executor:
                 future_to_skill = {
-                    executor.submit(self.discover_books_for_skill, skill['title'], skill['books']): skill['title']
+                    executor.submit(self.discover_books_for_skill, skill['title'], skill.get('books')): skill['title']
                     for skill in skills_data
                 }
                 
@@ -553,7 +631,7 @@ class BookIDDiscovererV2:
             # Sequential discovery
             for skill_data in skills_data:
                 skill_name = skill_data['title']
-                expected_books = skill_data['books']
+                expected_books = skill_data.get('books')
                 result = self.discover_books_for_skill(skill_name, expected_books)
                 total_results['skill_results'][skill_name] = result
                 total_results['skills_processed'] += 1
@@ -685,9 +763,16 @@ Examples:
         print(f"Would discover books for {len(skills_data)} skills:")
         total_expected = 0
         for skill_data in skills_data:
-            print(f"  - {skill_data['title']} ({skill_data['books']} books)")
-            total_expected += skill_data['books']
-        print(f"\nTotal expected books: {total_expected:,}")
+            book_count = skill_data.get('books')
+            if book_count:
+                print(f"  - {skill_data['title']} ({book_count} books expected)")
+                total_expected += book_count
+            else:
+                print(f"  - {skill_data['title']} (count unknown)")
+        if total_expected > 0:
+            print(f"\nTotal expected books: {total_expected:,}")
+        else:
+            print(f"\nNo book count information available")
         return
     
     try:

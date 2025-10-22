@@ -1,140 +1,187 @@
 {
   "skill_name": "Terraform",
-  "discovery_timestamp": 1760820669.8901172,
-  "total_books": 19,
+  "discovery_timestamp": "2025-10-19 15:20:16",
+  "total_books": 20,
   "books": [
     {
       "title": "Terraform: Up and Running, 3rd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098116736/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098116736/",
       "isbn": "9781098116743",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Terraform in Depth",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633438002/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633438002/",
       "isbn": "9781633438002",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Mastering Terraform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835086018/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835086018/",
       "isbn": "9781835086018",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Terraform Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098108458/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098108458/",
       "isbn": "9781098108465",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Architecting AWS with Terraform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781803248561/",
       "url": "https://learning.oreilly.com/api/v1/book/9781803248561/",
       "isbn": "9781803248561",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Terraform in Action",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617296895/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617296895/",
       "isbn": "9781617296895",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Getting Started with Containers in Azure: Deploy Secure Cloud Applications Using Terraform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484299722/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484299722/",
       "isbn": "9781484299722",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Deep-Dive Terraform on Azure: Automated Delivery and Deployment of Azure Solutions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484273289/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484273289/",
       "isbn": "9781484273289",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
+    },
+    {
+      "title": "Reverse Engineering with Terraform: An Introduction to Infrastructure Automation, Integration, and Scalability using Terraform",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9798868800740/",
+      "url": "https://learning.oreilly.com/api/v1/book/9798868800740/",
+      "isbn": "9798868800740",
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Terraform at Scale",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341649705/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341649705/",
       "isbn": "9798341649712",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Infrastructure-as-Code Automation Using Terraform, Packer, Vault, Nomad and Consul: Hands-on Deployment, Configuration, and Best Practices",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484271292/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484271292/",
       "isbn": "9781484271292",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Terraform: Up & Running, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492046899/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492046899/",
       "isbn": "9781492046905",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Terraform Made Easy: Provisioning, Managing and Automating Cloud Infrastructure with Terraform on Google Cloud",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798868810107/",
       "url": "https://learning.oreilly.com/api/v1/book/9798868810107/",
       "isbn": "9798868810107",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Beginning HCL Programming: Using Hashicorp Language for Automation and Configuration",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484266342/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484266342/",
       "isbn": "9781484266342",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Terraform Cookbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800207554/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800207554/",
       "isbn": "9781800207554",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Terraform Cookbook - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804616420/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804616420/",
       "isbn": "9781804616420",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Getting Started with Terraform - Second Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788623537/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788623537/",
       "isbn": "9781788623537",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Terraform: Up and Running",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491977071/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491977071/",
       "isbn": "9781491977088",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "The Terraform Book",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780988820258/",
       "url": "https://learning.oreilly.com/api/v1/book/9780988820258/",
       "isbn": "9780988820258",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     },
     {
       "title": "Getting Started with Terraform",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786465108/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786465108/",
       "isbn": "9781786465108",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Terraform",
+      "secondary_topics": []
     }
   ]
 }

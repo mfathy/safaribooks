@@ -1,6 +1,6 @@
 {
   "skill_name": "Refactoring",
-  "discovery_timestamp": 1760820657.2768629,
+  "discovery_timestamp": "2025-10-19 17:12:32",
   "total_books": 21,
   "books": [
     {
@@ -8,147 +8,189 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134757681/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134757681/",
       "isbn": "9780134757681",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring with C++",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781837633777/",
       "url": "https://learning.oreilly.com/api/v1/book/9781837633777/",
       "isbn": "9781837633777",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "AI for Mass-Scale Code Refactoring and Analysis",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098175849/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098175849/",
       "isbn": "9781098175832",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring in Java",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781805126638/",
       "url": "https://learning.oreilly.com/api/v1/book/9781805126638/",
       "isbn": "9781805126638",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Five Lines of Code",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617298318/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617298318/",
       "isbn": "9781617298318",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring with C#",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835089989/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835089989/",
       "isbn": "9781835089989",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Domain-Driven Refactoring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781835889107/",
       "url": "https://learning.oreilly.com/api/v1/book/9781835889107/",
       "isbn": "9781835889107",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring at Scale",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492075523/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492075523/",
       "isbn": "9781492075530",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Software Development, Design and Coding: With Patterns, Debugging, Unit Testing, and Refactoring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484231531/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484231531/",
       "isbn": "9781484231531",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Re-Engineering Legacy Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781617292507/",
       "url": "https://learning.oreilly.com/api/v1/book/9781617292507/",
       "isbn": "9781617292507",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "CSS Refactoring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491978528/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491978528/",
       "isbn": "9781491978528",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring for Software Design Smells",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780128013977/",
       "url": "https://learning.oreilly.com/api/v1/book/9780128013977/",
       "isbn": "9780128016466",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring to Patterns",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321213351/",
       "url": "https://learning.oreilly.com/api/v1/book/0321213351/",
       "isbn": "0321213351",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring Databases: Evolutionary Database Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321293533/",
       "url": "https://learning.oreilly.com/api/v1/book/0321293533/",
       "isbn": "0321293533",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring SQL Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780596514976/",
       "url": "https://learning.oreilly.com/api/v1/book/9780596514976/",
       "isbn": "9780596551773",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Pro PHP Refactoring",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430227274/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430227274/",
       "isbn": "9781430227274",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring HTML: Improving the Design of Existing Web Applications",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321552044/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321552044/",
       "isbn": "9780321552044",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Rails Refactoring to Resources: Using CRUD and REST in Your Rails Application",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780321501745/",
       "url": "https://learning.oreilly.com/api/v1/book/9780321501745/",
       "isbn": "9780321501745",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Prefactoring",
       "id": "https://www.safaribooksonline.com/api/v1/book/0596008740/",
       "url": "https://learning.oreilly.com/api/v1/book/0596008740/",
       "isbn": "9780596514495",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring to Agility",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321486471/",
       "url": "https://learning.oreilly.com/api/v1/book/0321486471/",
       "isbn": "0321486471",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     },
     {
       "title": "Refactoring Workbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321109295/",
       "url": "https://learning.oreilly.com/api/v1/book/0321109295/",
       "isbn": "0321109295",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Refactoring",
+      "secondary_topics": []
     }
   ]
 }

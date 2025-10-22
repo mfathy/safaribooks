@@ -56,14 +56,7 @@ class BookDownloader:
             'log_file': 'logs/book_downloader.log',
             'verbose': False,
             'exclude_skills': [],
-            'priority_skills': [
-                "Python",
-                "Machine Learning", 
-                "AI & ML",
-                "Data Science",
-                "Deep Learning",
-                "Artificial Intelligence (AI)"
-            ]
+            'priority_skills': []
         }
         
         if config_file and os.path.exists(config_file):

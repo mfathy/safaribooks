@@ -66,14 +66,7 @@ class BookIDDiscoverer:
             'max_retries': 3,
             'retry_delay': 10,
             'exclude_skills': [],
-            'priority_skills': [
-                "Python",
-                "Machine Learning", 
-                "AI & ML",
-                "Data Science",
-                "Deep Learning",
-                "Artificial Intelligence (AI)"
-            ]
+            'priority_skills': []
         }
         
         if config_file and os.path.exists(config_file):
@@ -238,7 +231,7 @@ class BookIDDiscoverer:
             
             # Track consecutive pages without matching books
             consecutive_pages_without_matches = 0
-            max_consecutive_pages_without_matches = 3
+            max_consecutive_pages_without_matches = 10
             
             # Calculate estimated pages needed based on expected count
             if expected_book_count:

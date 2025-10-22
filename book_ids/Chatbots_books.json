@@ -1,6 +1,6 @@
 {
   "skill_name": "Chatbots",
-  "discovery_timestamp": 1760820557.2238982,
+  "discovery_timestamp": "2025-10-19 16:57:15",
   "total_books": 25,
   "books": [
     {
@@ -8,175 +8,225 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781780176437/",
       "url": "https://learning.oreilly.com/api/v1/book/9781780176437/",
       "isbn": "9781780176437",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Conversational AI with Rasa",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781801077057/",
       "url": "https://learning.oreilly.com/api/v1/book/9781801077057/",
       "isbn": "9781801077057",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Make Python Talk",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098129071/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098129071/",
       "isbn": "9781718501560",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Microsoft Conversational AI Platform for Developers: End-to-End Chatbot Development from Planning to Deployment",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484268377/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484268377/",
       "isbn": "9781484268377",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Building Chatbots with Python: Using Natural Language Processing and Machine Learning",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484240960/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484240960/",
       "isbn": "9781484240960",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Introducing Azure Bot Service: Building Bots for Business",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484248881/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484248881/",
       "isbn": "9781484248881",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Building an Enterprise Chatbot: Work with Protected Enterprise Data Using Open Source Frameworks",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484250341/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484250341/",
       "isbn": "9781484250341",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Designing Bots",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491974810/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491974810/",
       "isbn": "9781491974834",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Voicebot and Chatbot Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781789139624/",
       "url": "https://learning.oreilly.com/api/v1/book/9781789139624/",
       "isbn": "9781789139624",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "A Practical Guide to TPM 2.0: Using the New Trusted Platform Module in the New Age of Security Will Arthur & David Challener",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430265849/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430265849/",
       "isbn": "9781430265849",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Oracle Digital Assistant: A Guide to Enterprise-Grade Chatbots",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484254226/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484254226/",
       "isbn": "9781484254226",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Build Chatbot Interactions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680507089/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680507089/",
       "isbn": "9781680507096",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Programming the Microsoft Bot Framework: A Multiplatform Approach to Building Chatbots",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781509305001/",
       "url": "https://learning.oreilly.com/api/v1/book/9781509305001/",
       "isbn": "9781509305001",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Practical Bot Development: Designing and Building Bots with Node.js and Microsoft Bot Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484235409/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484235409/",
       "isbn": "9781484235409",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Building Telegram Bots: Develop Bots in 12 Programming Languages using the Telegram Bot API",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484241974/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484241974/",
       "isbn": "9781484241974",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Beginning AI Bot Frameworks: Getting Started with Bot Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484237540/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484237540/",
       "isbn": "9781484237540",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Build Better Chatbots: A Complete Guide to Getting Started with Chatbots",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484231111/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484231111/",
       "isbn": "9781484231111",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Uses and Risks of Business Chatbots",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781949443448/",
       "url": "https://learning.oreilly.com/api/v1/book/9781949443448/",
       "isbn": "9781949443448",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Developing Bots with QnA Maker Service: Integration with Azure Bot Service and Microsoft Bot Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484241851/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484241851/",
       "isbn": "9781484241851",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Hands-On Chatbots and Conversational UI Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781788294669/",
       "url": "https://learning.oreilly.com/api/v1/book/9781788294669/",
       "isbn": "9781788294669",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Building Bots with Microsoft Bot Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781786463104/",
       "url": "https://learning.oreilly.com/api/v1/book/9781786463104/",
       "isbn": "9781786463104",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Developing Bots with Microsoft Bots Framework: Create Intelligent Bots using MS Bot Framework and Azure Cognitive Services",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484233122/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484233122/",
       "isbn": "9781484233122",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "What Are Conversational Bots?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492042808/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492042808/",
       "isbn": "9781491972632",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Getting Started with Google Wave",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449379896/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449379896/",
       "isbn": "9781449379612",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     },
     {
       "title": "Malicious Bots",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781420069068/",
       "url": "https://learning.oreilly.com/api/v1/book/9781420069068/",
       "isbn": "9781420069068",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Chatbots",
+      "secondary_topics": []
     }
   ]
 }

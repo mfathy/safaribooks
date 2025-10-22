@@ -1,6 +1,6 @@
 {
   "skill_name": "Domain-Driven Design",
-  "discovery_timestamp": 1760820583.484458,
+  "discovery_timestamp": "2025-10-19 17:22:59",
   "total_books": 20,
   "books": [
     {
@@ -8,140 +8,180 @@
       "id": "https://www.safaribooksonline.com/api/v1/book/9781098100124/",
       "url": "https://learning.oreilly.com/api/v1/book/9781098100124/",
       "isbn": "9781098100131",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Domain-Driven Design with Golang",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781804613450/",
       "url": "https://learning.oreilly.com/api/v1/book/9781804613450/",
       "isbn": "9781804613450",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Domain-Driven Design with Java - A Practitioner’s Guide",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781800560734/",
       "url": "https://learning.oreilly.com/api/v1/book/9781800560734/",
       "isbn": "9781800560734",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "What Is Domain-Driven Design?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492057802/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492057802/",
       "isbn": "9781492057796",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Domain Modeling Made Functional",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781680505481/",
       "url": "https://learning.oreilly.com/api/v1/book/9781680505481/",
       "isbn": "9781680505498",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Domain-Driven Design Distilled, 1/e",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134434964/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134434964/",
       "isbn": "9780134434964",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, Eclipse MicroProfile, Spring Boot, and the Axon Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484245439/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484245439/",
       "isbn": "9781484245439",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Building Design Systems: Unify User Experiences through a Shared Design Language",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484245149/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484245149/",
       "isbn": "9781484245149",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Implementing Domain-Driven Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133039900/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133039900/",
       "isbn": "9780133039900",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Domain-Driven Transformation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9798341640108/",
       "url": "https://learning.oreilly.com/api/v1/book/9798341640108/",
       "isbn": "9798341640122",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Building an Application Development Framework",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781836208570/",
       "url": "https://learning.oreilly.com/api/v1/book/9781836208570/",
       "isbn": "9781836208570",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Architecture for Flow: Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137392759/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137392759/",
       "isbn": "9780137392759",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Patterns, Principles, and Practices of Domain-Driven Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118714706/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118714706/",
       "isbn": "9781118714706",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Domain-Driven Design in PHP",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781787284944/",
       "url": "https://learning.oreilly.com/api/v1/book/9781787284944/",
       "isbn": "9781787284944",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321125215/",
       "url": "https://learning.oreilly.com/api/v1/book/0321125215/",
       "isbn": "0321125215",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Applying Domain-Driven Design and Patterns: With Examples in C# and .NET",
       "id": "https://www.safaribooksonline.com/api/v1/book/0321268202/",
       "url": "https://learning.oreilly.com/api/v1/book/0321268202/",
       "isbn": "0321268202",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": ".NET Domain-Driven Design with C#: Problem – Design – Solution",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780470147566/",
       "url": "https://learning.oreilly.com/api/v1/book/9780470147566/",
       "isbn": "9780470147566",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Real-Life MDA",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780123705921/",
       "url": "https://learning.oreilly.com/api/v1/book/9780123705921/",
       "isbn": "9780080468358",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "UDDI: Building Registry-Based Web Services Solutions",
       "id": "https://www.safaribooksonline.com/api/v1/book/0130464570/",
       "url": "https://learning.oreilly.com/api/v1/book/0130464570/",
       "isbn": "9780130464576",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     },
     {
       "title": "Basics of Instructional Systems Development—Instructional Systems Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/759706/",
       "url": "https://learning.oreilly.com/api/v1/book/759706/",
       "isbn": "759706",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Domain-Driven Design",
+      "secondary_topics": []
     }
   ]
 }

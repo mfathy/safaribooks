@@ -1,322 +1,421 @@
 {
   "skill_name": "Design Thinking",
-  "discovery_timestamp": 1760820579.7474701,
-  "total_books": 45,
+  "discovery_timestamp": "2025-10-19 17:02:56",
+  "total_books": 46,
   "books": [
     {
       "title": "Design Thinking for Tech: Solving Problems and Realizing Value in 24 Hours",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780137933167/",
       "url": "https://learning.oreilly.com/api/v1/book/9780137933167/",
       "isbn": "9780137933167",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Design Thinking For Dummies",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781119593928/",
       "url": "https://learning.oreilly.com/api/v1/book/9781119593928/",
       "isbn": "9781119593928",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Design Thinking for Training and Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781950496198/",
       "url": "https://learning.oreilly.com/api/v1/book/9781950496198/",
       "isbn": "9781950496181",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Rug Tufting with SIMJI",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780760391105/",
       "url": "https://learning.oreilly.com/api/v1/book/9780760391105/",
       "isbn": "9780760391105",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Designing Transformative Experiences",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781523002641/",
       "url": "https://learning.oreilly.com/api/v1/book/9781523002641/",
       "isbn": "9781523002641",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Different Perspectives in Design Thinking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000557145/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000557145/",
       "isbn": "9781000557145",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
+    },
+    {
+      "title": "DT Method - Design Thinking Basics: an introduction to the DTMethod",
+      "id": "https://www.safaribooksonline.com/api/v1/book/9780117094222/",
+      "url": "https://learning.oreilly.com/api/v1/book/9780117094222/",
+      "isbn": "9780117094222",
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "The New Art of Ideas",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781523002092/",
       "url": "https://learning.oreilly.com/api/v1/book/9781523002092/",
       "isbn": "9781523002092",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "HBR's 10 Must Reads on Design Thinking (with featured article \"Design Thinking\" By Tim Brown)",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781633698819/",
       "url": "https://learning.oreilly.com/api/v1/book/9781633698819/",
       "isbn": "9781633698819",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Inclusion by Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781000914399/",
       "url": "https://learning.oreilly.com/api/v1/book/9781000914399/",
       "isbn": "9781000914399",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Rethinking Operating Models",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398617971/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398617971/",
       "isbn": "9781398617971",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Making Hybrid Working Work",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398619333/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398619333/",
       "isbn": "9781398619333",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "What Is Design Thinking?",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491998786/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491998786/",
       "isbn": "9781491998779",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Power Up Your Creativity",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780760376959/",
       "url": "https://learning.oreilly.com/api/v1/book/9780760376959/",
       "isbn": "9780760376959",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "100 MORE Things Every Designer Needs to Know About People",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780134196121/",
       "url": "https://learning.oreilly.com/api/v1/book/9780134196121/",
       "isbn": "9780134196121",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Adventures in Architecture for Kids",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781631599736/",
       "url": "https://learning.oreilly.com/api/v1/book/9781631599736/",
       "isbn": "9781631599736",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Product Design vs. Design Thinking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492031888/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492031888/",
       "isbn": "9781492031871",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Design Thinking in Software and AI Projects: Proving Ideas Through Rapid Prototyping",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781484261538/",
       "url": "https://learning.oreilly.com/api/v1/book/9781484261538/",
       "isbn": "9781484261538",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Employee Experience by Design, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398614376/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398614376/",
       "isbn": "9781398614376",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Happy by Design, 2nd Edition",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781003822837/",
       "url": "https://learning.oreilly.com/api/v1/book/9781003822837/",
       "isbn": "9781003822837",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Humans at Work",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398604247/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398604247/",
       "isbn": "9781398604247",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Design Thinking for Strategic Innovation: What They Can't Teach You at Business or Design School",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781118748688/",
       "url": "https://learning.oreilly.com/api/v1/book/9781118748688/",
       "isbn": "9781118748688",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Transforming an Idea Into a Business with Design Thinking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781351266543/",
       "url": "https://learning.oreilly.com/api/v1/book/9781351266543/",
       "isbn": "9781351266543",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Learning Experience Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781398602632/",
       "url": "https://learning.oreilly.com/api/v1/book/9781398602632/",
       "isbn": "9781398602632",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Articulating Design Decisions",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781491921555/",
       "url": "https://learning.oreilly.com/api/v1/book/9781491921555/",
       "isbn": "9781491921562",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Design: A Business Case",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781952538278/",
       "url": "https://learning.oreilly.com/api/v1/book/9781952538278/",
       "isbn": "9781952538278",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Why Design Thinking Is Good Business Thinking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781492026143/",
       "url": "https://learning.oreilly.com/api/v1/book/9781492026143/",
       "isbn": "9781492026136",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Innoliteracy",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781947843714/",
       "url": "https://learning.oreilly.com/api/v1/book/9781947843714/",
       "isbn": "9781947843714",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Customer-Driven Transformation",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749483029/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749483029/",
       "isbn": "9780749483029",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Service Design and Delivery",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781606497852/",
       "url": "https://learning.oreilly.com/api/v1/book/9781606497852/",
       "isbn": "9781606497852",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Learning for Organizational Development",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749477455/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749477455/",
       "isbn": "9780749477455",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Neuro Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749478896/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749478896/",
       "isbn": "9780749478896",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "In Your Creative Element",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749477332/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749477332/",
       "isbn": "9780749477332",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Too Fast to Think",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749478872/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749478872/",
       "isbn": "9780749478872",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Design Thinking for Entrepreneurs and Small Businesses: Putting the Power of Design to Work",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781430261810/",
       "url": "https://learning.oreilly.com/api/v1/book/9781430261810/",
       "isbn": "9781430261810",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "A Designer's Research Manual",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781592535576/",
       "url": "https://learning.oreilly.com/api/v1/book/9781592535576/",
       "isbn": "9781616739386",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Critiqued: Inside the Minds of 23 Leaders in Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780133260663/",
       "url": "https://learning.oreilly.com/api/v1/book/9780133260663/",
       "isbn": "9780133260663",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Zero to Maker",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781449356422/",
       "url": "https://learning.oreilly.com/api/v1/book/9781449356422/",
       "isbn": "9781449356439",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Presentation Thinking and Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781292013572/",
       "url": "https://learning.oreilly.com/api/v1/book/9781292013572/",
       "isbn": "9781292013596",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Sketchbook",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781592535217/",
       "url": "https://learning.oreilly.com/api/v1/book/9781592535217/",
       "isbn": "9781592535217",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Idealized Design: Creating an Organization’s Future",
       "id": "https://www.safaribooksonline.com/api/v1/book/0131963635/",
       "url": "https://learning.oreilly.com/api/v1/book/0131963635/",
       "isbn": "9780131963634",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Good Design",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781592535293/",
       "url": "https://learning.oreilly.com/api/v1/book/9781592535293/",
       "isbn": "9781616736231",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Design Matters: Brochures 01",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781592533985/",
       "url": "https://learning.oreilly.com/api/v1/book/9781592533985/",
       "isbn": "9781616736484",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Design Secrets: Furniture",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781592534395/",
       "url": "https://learning.oreilly.com/api/v1/book/9781592534395/",
       "isbn": "9781616736521",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "Design Evolution",
       "id": "https://www.safaribooksonline.com/api/v1/book/9781592533879/",
       "url": "https://learning.oreilly.com/api/v1/book/9781592533879/",
       "isbn": "9781616736477",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     },
     {
       "title": "The Art of Creative Thinking",
       "id": "https://www.safaribooksonline.com/api/v1/book/9780749454838/",
       "url": "https://learning.oreilly.com/api/v1/book/9780749454838/",
       "isbn": "9780749460082",
-      "format": "book"
+      "format": "book",
+      "main_topic": "Design Thinking",
+      "secondary_topics": []
     }
   ]
 }
