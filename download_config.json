@@ -6,9 +6,11 @@
   "max_pages_per_skill": 100,
   "download_delay": 10,
   "discovery_delay": 10,
-  "max_workers": 1,
+  "max_workers": 2,
   "epub_format": "dual",
   "resume": true,
+  "force_redownload": false,
+  "token_save_interval": 4,
   "skills_file": "my_favorite_skills.txt",
   "progress_file": "download_progress.json",
   "discovery_progress_file": "discovery_progress.json",
@@ -17,5 +19,7 @@
   "max_retries": 3,
   "retry_delay": 10,
   "exclude_skills": [],
-  "priority_skills": []
+  "priority_skills": [],
+  "comment_force_redownload": "Set to true to re-download books even if EPUB exists",
+  "comment_token_save_interval": "Save authentication cookies after N books (keeps tokens fresh)"
 }

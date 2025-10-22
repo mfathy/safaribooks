@@ -83,9 +83,10 @@ def main():
     print("2. Download specific skills")
     print("3. Test run (dry run)")
     print("4. Download priority skills only")
-    print("5. Custom configuration")
+    print("5. Force re-download all books (updates existing)")
+    print("6. Custom configuration")
     
-    choice = input("\nEnter your choice (1-5): ").strip()
+    choice = input("\nEnter your choice (1-6): ").strip()
     
     if choice == "1":
         print("\n📚 Downloading all discovered books...")
@@ -109,13 +110,27 @@ def main():
         cmd = 'python3 download_books.py --skills "Python" "Machine Learning" "AI & ML" "Data Science" "Deep Learning" --max-books 20'
         
     elif choice == "5":
+        print("\n🔄 Force re-downloading all books (will overwrite existing EPUBs)...")
+        confirm_force = input("Are you sure? This will re-download ALL books (y/N): ").strip().lower()
+        if confirm_force != 'y':
+            print("Cancelled.")
+            return
+        cmd = "python3 download_books.py --force"
+        
+    elif choice == "6":
         print("\n⚙️  Custom configuration options:")
         max_books = input("Max books per skill (default: all): ").strip()
         format_choice = input("EPUB format (enhanced/kindle/dual/legacy, default dual): ").strip() or "dual"
+        force_redownload = input("Force re-download existing books? (y/N): ").strip().lower()
+        token_save = input("Save tokens after N books (default: 5): ").strip()
         
         cmd = f"python3 download_books.py --format {format_choice}"
         if max_books:
             cmd += f" --max-books {max_books}"
+        if force_redownload == 'y':
+            cmd += " --force"
+        if token_save and token_save.isdigit():
+            cmd += f" --token-save-interval {token_save}"
         
     else:
         print("❌ Invalid choice")

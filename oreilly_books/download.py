@@ -20,11 +20,12 @@ from config import SAFARI_BASE_URL, API_TEMPLATE
 class BookDownloader:
     """Handles downloading and processing of book content"""
     
-    def __init__(self, session, display, book_id):
+    def __init__(self, session, display, book_id, cookie_update_callback=None):
         self.session = session
         self.display = display
         self.book_id = book_id
         self.api_url = API_TEMPLATE.format(book_id)
+        self.cookie_update_callback = cookie_update_callback
         
         # Book data
         self.book_info = {}
@@ -297,12 +298,20 @@ class BookDownloader:
         return page_css, xhtml
     
     def _make_request(self, url, **kwargs):
-        """Make HTTP request using the session"""
+        """Make HTTP request using the session and update cookies"""
         try:
             if 'stream' in kwargs and kwargs['stream']:
-                return self.session.get(url, stream=True, **{k: v for k, v in kwargs.items() if k != 'stream'})
+                response = self.session.get(url, stream=True, **{k: v for k, v in kwargs.items() if k != 'stream'})
             else:
-                return self.session.get(url, **{k: v for k, v in kwargs.items() if k != 'stream'})
+                response = self.session.get(url, **{k: v for k, v in kwargs.items() if k != 'stream'})
+            
+            # Update cookies from response (CRITICAL FIX: keeps authentication fresh)
+            if self.cookie_update_callback and hasattr(response, 'raw') and hasattr(response.raw, 'headers'):
+                set_cookie_headers = response.raw.headers.getlist("Set-Cookie")
+                if set_cookie_headers:
+                    self.cookie_update_callback(set_cookie_headers)
+            
+            return response
         except Exception as e:
             self.display.error(f"Request error: {e}")
             return 0
