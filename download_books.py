@@ -281,8 +281,14 @@ class BookDownloader:
         
         return False
     
-    def download_single_book(self, book_info: Dict, skill_name: str, skill_dir: Path) -> bool:
-        """Download a single book using shared session (FIXED: no more session recreation)"""
+    def download_single_book(self, book_info: Dict, skill_name: str, skill_dir: Path) -> tuple[bool, bool]:
+        """Download a single book using shared session (FIXED: no more session recreation)
+        
+        Returns:
+            tuple[bool, bool]: (success, was_downloaded)
+            - success: True if operation succeeded (skip or download), False if failed
+            - was_downloaded: True if actual download occurred, False if skipped
+        """
         book_id_raw = book_info.get('id', '')
         book_id = self._extract_book_id(book_id_raw)
         book_title = book_info.get('title', f'Book {book_id}')
@@ -298,12 +304,12 @@ class BookDownloader:
                 if tracking_id not in self.downloaded_books:
                     self.downloaded_books.add(tracking_id)
                     self.progress_tracker.add_completed_item(tracking_id)
-                return True
+                return True, False  # success=True, was_downloaded=False
             
             # Then check progress tracker
             if tracking_id in self.downloaded_books or book_id in self.downloaded_books:
                 self.logger.info(f"⏭️  Skipping {book_title} (already downloaded)")
-                return True
+                return True, False  # success=True, was_downloaded=False
         else:
             self.logger.info(f"🔄 Force re-downloading: {book_title}")
         
@@ -420,7 +426,7 @@ class BookDownloader:
                     self.books_downloaded_since_save = 0
                 
                 self.logger.info(f"✅ Successfully downloaded: {book_title}")
-                return True
+                return True, True  # success=True, was_downloaded=True
                 
             finally:
                 # Restore environment
@@ -435,7 +441,7 @@ class BookDownloader:
             self.logger.debug(traceback.format_exc())
             self.failed_books[tracking_id] = str(e)
             self.progress_tracker.add_failed_item(tracking_id, str(e))
-            return False
+            return False, True  # success=False, was_downloaded=True (attempted download)
     
     @staticmethod
     def _escape_dirname(dirname, clean_space=False):
@@ -479,17 +485,20 @@ class BookDownloader:
         for i, book_info in enumerate(books, 1):
             self.logger.info(f"  [{i}/{len(books)}] Processing...")
             
-            success = self.download_single_book(book_info, skill_name, skill_dir)
+            success, was_downloaded = self.download_single_book(book_info, skill_name, skill_dir)
             if success:
-                results['downloaded'] += 1
+                if was_downloaded:
+                    results['downloaded'] += 1
+                else:
+                    results['skipped'] += 1
             else:
                 results['failed'] += 1
             
             # Save progress after each book
             self._save_progress()
             
-            # Add delay between downloads (rate limiting)
-            if i < len(books):  # Don't delay after the last book
+            # Add delay between downloads (rate limiting) - only when actual download occurred
+            if was_downloaded and i < len(books):  # Don't delay after the last book
                 time.sleep(self.config['download_delay'])
         
         # Mark skill as completed

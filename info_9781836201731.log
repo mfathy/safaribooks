@@ -1,0 +1,54 @@
+[23/Oct/2025 08:20:19] ** Welcome to SafariBooks! **
+[23/Oct/2025 08:20:20] Successfully authenticated.
+[23/Oct/2025 08:20:20] Retrieving book info...
+[23/Oct/2025 08:20:20] Title: LLM Prompt Engineering for Developers
+[23/Oct/2025 08:20:20] Authors: Aymen El Amri
+[23/Oct/2025 08:20:20] Identifier: 9781836201731
+[23/Oct/2025 08:20:20] ISBN: 9781836201731
+[23/Oct/2025 08:20:20] Publishers: Packt Publishing
+[23/Oct/2025 08:20:20] Rights: 
+[23/Oct/2025 08:20:20] Description: Discover how to effectively utilize large language models with 'LLM Prompt Engineering for Developers'. This comprehensive guide takes you from the basics of NLP and prompt engineering to advanced techniques like zero-shot and few-shot learning. By acquiring skills in leveraging resources such as AutoCoT and transfer learning, you will be well-prepared to apply cutting-edge AI methods to real-world challenges.What this Book will help me doMaster the principles of natural language processing and ...
+[23/Oct/2025 08:20:20] Release Date: 2024-05-23
+[23/Oct/2025 08:20:20] URL: https://learning.oreilly.com/library/view/llm-prompt-engineering/9781836201731/
+[23/Oct/2025 08:20:20] Retrieving book chapters...
+[23/Oct/2025 08:20:20] Output directory:
+    /Users/mohammed/Work/oreilly-books/Books/LLM Prompt Engineering for Developers (9781836201731)
+[23/Oct/2025 08:20:20] Downloading book contents... (5 chapters)
+[23/Oct/2025 08:20:20] Created: cover.xhtml
+[23/Oct/2025 08:20:21] Crawler: found a new CSS at https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781836201731/files/styles/stylesheet.css
+[23/Oct/2025 08:20:21] Created: verso_page.xhtml
+[23/Oct/2025 08:20:21] Crawler: error trying to retrieve this page: copyright.xhtml (LLM Prompt Engineering For Developers)
+    From: https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781836201731/copyright.xhtml
+[23/Oct/2025 08:20:21] Last request done:
+	URL: https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781836201731/copyright.xhtml
+	DATA: None
+	OTHERS: {}
+
+	404
+	Server: istio-envoy
+	Content-Type: text/html; charset=utf-8
+	orm-service: epub_data_service
+	x-frame-options: DENY
+	Vary: Cookie, origin,Accept, Accept-Encoding
+	x-content-type-options: nosniff, nosniff
+	referrer-policy: same-origin
+	strict-transport-security: max-age=31536000; includeSubDomains
+	x-envoy-upstream-service-time: 6
+	X-Akamai-Transformed: 0 - 0 -
+	Date: Thu, 23 Oct 2025 06:20:21 GMT
+	Content-Length: 547
+	Connection: keep-alive
+	Set-Cookie: _abck=D11AB34BFCD32243092EE5CBC6CFC1A1~-1~YAAQMeYXAi/ggemZAQAAjbm5Dw6PWXqCBXjVMI3z7xUrm8ukYelulOqt+n816D05/WUCbUMZYmvI/IEn3jnflXEyxHqnOcKZy7aQocG7ydrtrqSVBmkOkEZ0SfSxot6w3QAklKpsirbrJYe9BtFUzCoS9bO9vXRcjg02GHxI3m5iIV+3IQMMVd1b26BcE83Edd1vYSiKwH896WeEM0Wz0vWcQkpk1MzK4/7Tt7bIHE9Lt0/C954y8lSB0acONgYeyhBRa676Kx6tXqCF6A9FjRpTBvhe+DWAJHteJfPv9VOudDOpb47y0toHsTI7xPW/1aqxUlnnG1u4eZe642WTtemjd/fzWXZ+klu5Wm6PKSmiqfTyVuxyKgdSfWZdKGYZgrGU+oQ1PaiLR+9ofVla3MOfVcUjhMUwgrDxJmqrMiJKpIJ6Uzxjz/nogdKrN5a7Mf/FGcEWKwWsJh1jkaTaONaDBErind4cJ8fkwapPdajjiyoXS5ONf7GCUBolQFPZtKqPTef0E09X3yHp7qUsBlXXc7/MybHnKT+6FRzTCVTropYgMDSzwoBwhv/jn41g4xqs3+BAcZ4lRxwcW4el2ADf19ZlESjGVMere55vW8x9r5+7py3kt4mjhnuM3llHOSQ6vkzz+9MsZHpugLJgsqGSlvDzdeaGpWTBgWlccGlIyuY7SffVuAAsOpvKSFbOeKxdgBYz0seuUuSCl6Lr3N3ko7YWpynHzq93OZkMU7IkPyx/Kd/dRYDeszaLMZIs0yHwGIUSLzHvEfv2xJQ8ELFHwT5hja1AWke8AImmC9iypMu8p5LYs31/HkvCnlPxy3zY3oIcipum/Q89rzpCP08c~0~-1~-1~AAQAAAAE%2f%2f%2f%2f%2fwcTqpLmjOv+BX9YJrrzNea190V030AvdZkQTVszSWABdDYeMLkwk5mMhgrp57YBYVAq5bSxTgFAOqV5jg8uvzi8OmHPkDIqo6n3~-1; Domain=.oreilly.com; Path=/; Expires=Fri, 23 Oct 2026 06:20:21 GMT; Max-Age=31536000; Secure
+
+
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Not Found</title>
+</head>
+<body>
+  <h1>Not Found</h1><p>The requested resource was not found on this server.</p>
+<script type="text/javascript"  src="/0dn4iM/Cgc5w/gHb0P/MQ/r5wEJXpQL60Ghb/GgwNV3ll/EnNwLXd/lAzo"></script><link rel="stylesheet" type="text/css"  href="/0dn4iM/Cgc5w/gHb0P/MQ/cN/HUJ8Vnll/Oy4CRQN/RaA9Y"><script  src="/0dn4iM/Cgc5w/gHb0P/MQ/cN/HUJ8Vnll/LiUwPXl/5RTwo" async defer></script><div id="sec-overlay" style="display:none;"><div id="sec-container"></div></div></body>
+</html>
+
+

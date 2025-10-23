@@ -10,7 +10,7 @@
   "epub_format": "dual",
   "resume": true,
   "force_redownload": false,
-  "token_save_interval": 4,
+  "token_save_interval": 1,
   "skills_file": "my_favorite_skills.txt",
   "progress_file": "download_progress.json",
   "discovery_progress_file": "discovery_progress.json",
