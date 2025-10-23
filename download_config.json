@@ -20,6 +20,11 @@
   "retry_delay": 10,
   "exclude_skills": [],
   "priority_skills": [],
+  "enable_sound_notifications": true,
+  "sound_file": null,
+  "progress_stats_file": "output/download_progress_live.txt",
   "comment_force_redownload": "Set to true to re-download books even if EPUB exists",
-  "comment_token_save_interval": "Save authentication cookies after N books (keeps tokens fresh)"
+  "comment_token_save_interval": "Save authentication cookies after N books (keeps tokens fresh)",
+  "comment_sound_notifications": "Play sound when book download completes (macOS afplay)",
+  "comment_progress_stats": "Real-time progress file for tail viewing in separate terminal"
 }

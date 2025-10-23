@@ -101,7 +101,8 @@ class BookDownloader:
         if response == 0 or response.status_code != 200:
             self.display.exit(
                 "Crawler: error trying to retrieve this page: %s (%s)\n    From: %s" %
-                (self.filename, self.chapter_title, url)
+                (self.filename, self.chapter_title, url),
+                raise_exception=True
             )
         
         root = None

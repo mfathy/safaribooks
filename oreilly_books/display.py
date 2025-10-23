@@ -92,17 +92,24 @@ class Display:
         output = self.SH_BG_RED + "[#]" + self.SH_DEFAULT + " %s" % error
         self.out(output)
 
-    def exit(self, error):
+    def exit(self, error, raise_exception=False):
         self.error(str(error))
         if self.output_dir_set:
             output = (self.SH_YELLOW + "[+]" + self.SH_DEFAULT +
                       " Please delete the output directory '" + self.output_dir + "'"
                       " and restart the program.")
             self.out(output)
-        output = self.SH_BG_RED + "[!]" + self.SH_DEFAULT + " Aborting..."
-        self.out(output)
-        self.save_last_request()
-        sys.exit(1)
+        
+        if raise_exception:
+            # Import here to avoid circular imports
+            from oreilly_books.exceptions import BookDownloadError
+            self.save_last_request()
+            raise BookDownloadError(str(error))
+        else:
+            output = self.SH_BG_RED + "[!]" + self.SH_DEFAULT + " Aborting..."
+            self.out(output)
+            self.save_last_request()
+            sys.exit(1)
 
     def unhandled_exception(self, _, o, tb):
         self.log("".join(traceback.format_tb(tb)))

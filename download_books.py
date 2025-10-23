@@ -24,6 +24,8 @@ from oreilly_books.core import OreillyBooks
 from oreilly_books.auth import AuthManager
 from oreilly_books.display import Display
 from progress_tracker import ProgressTracker
+from progress_stats_writer import ProgressStatsWriter
+from sound_notifier import SoundNotifier
 from config import COOKIES_FILE, PATH
 
 
@@ -50,6 +52,15 @@ class BookDownloader:
         self.downloaded_books: Set[str] = set(self.progress_tracker.data['completed_items'])
         self.failed_books: Dict[str, str] = dict(self.progress_tracker.data['failed_items'])
         
+        # Progress stats writer for live updates
+        self.stats_writer = ProgressStatsWriter(self.config.get('progress_stats_file', 'output/download_progress_live.txt'))
+        
+        # Sound notifier
+        self.sound_notifier = SoundNotifier(
+            enable_sound=self.config.get('enable_sound_notifications', True),
+            sound_file=self.config.get('sound_file')
+        )
+        
         # Thread safety for parallel downloads (CRITICAL: prevents cookie race conditions)
         self.cookie_lock = threading.Lock()  # Protects cookie updates
         self.session_lock = threading.Lock()  # Protects session operations
@@ -61,6 +72,10 @@ class BookDownloader:
         self.auth_manager = AuthManager(self.display)
         self.session = self.auth_manager.initialize_session()
         self.books_downloaded_since_save = 0
+        
+        # Consecutive failure tracking
+        self.consecutive_failures = 0
+        self.MAX_CONSECUTIVE_FAILURES = 5
         
         # Warn about parallel downloads if enabled
         max_workers = self.config.get('max_workers', 1)
@@ -87,7 +102,10 @@ class BookDownloader:
             'log_file': 'logs/book_downloader.log',
             'verbose': False,
             'exclude_skills': [],
-            'priority_skills': []
+            'priority_skills': [],
+            'enable_sound_notifications': True,
+            'sound_file': None,
+            'progress_stats_file': 'output/download_progress_live.txt'
         }
         
         if config_file and os.path.exists(config_file):
@@ -309,6 +327,8 @@ class BookDownloader:
             # Then check progress tracker
             if tracking_id in self.downloaded_books or book_id in self.downloaded_books:
                 self.logger.info(f"⏭️  Skipping {book_title} (already downloaded)")
+                # Update progress stats for skipped book
+                self.stats_writer.update_book_completed(was_downloaded=False, was_successful=True)
                 return True, False  # success=True, was_downloaded=False
         else:
             self.logger.info(f"🔄 Force re-downloading: {book_title}")
@@ -316,6 +336,9 @@ class BookDownloader:
         self.logger.info(f"📚 Downloading: {book_title} (ID: {book_id})")
         
         try:
+            # Import the custom exception
+            from oreilly_books.exceptions import BookDownloadError
+            
             # Ensure skill directory exists
             skill_dir.mkdir(parents=True, exist_ok=True)
             
@@ -413,9 +436,14 @@ class BookDownloader:
                 else:
                     epub_generator.create_epub(api_url, args.bookid, PATH)
                 
-                # Mark as downloaded
+                # Mark as downloaded and reset consecutive failures on success
                 self.downloaded_books.add(tracking_id)
                 self.progress_tracker.add_completed_item(tracking_id)
+                self.consecutive_failures = 0  # Reset on success
+                
+                # Update progress stats and play sound notification
+                self.stats_writer.update_book_completed(was_downloaded=True, was_successful=True)
+                self.sound_notifier.play_notification()
                 
                 # Save cookies every N books to keep tokens fresh (configurable)
                 self.books_downloaded_since_save += 1
@@ -435,12 +463,27 @@ class BookDownloader:
                 elif 'OREILLY_OUTPUT_PATH' in os.environ:
                     del os.environ['OREILLY_OUTPUT_PATH']
                 
+        except BookDownloadError as e:
+            # Handle book-specific download errors gracefully
+            self.consecutive_failures += 1
+            error_msg = f"Book download error: {e}"
+            self.logger.error(f"❌ {error_msg}")
+            self.failed_books[tracking_id] = error_msg
+            self.progress_tracker.add_failed_item(tracking_id, error_msg)
+            # Update progress stats for failed book
+            self.stats_writer.update_book_completed(was_downloaded=True, was_successful=False)
+            return False, True  # success=False, was_downloaded=True (attempted download)
+            
         except Exception as e:
+            # Handle other unexpected errors
+            self.consecutive_failures += 1
             self.logger.error(f"❌ Failed to download {book_title}: {e}")
             import traceback
             self.logger.debug(traceback.format_exc())
             self.failed_books[tracking_id] = str(e)
             self.progress_tracker.add_failed_item(tracking_id, str(e))
+            # Update progress stats for failed book
+            self.stats_writer.update_book_completed(was_downloaded=True, was_successful=False)
             return False, True  # success=False, was_downloaded=True (attempted download)
     
     @staticmethod
@@ -468,6 +511,9 @@ class BookDownloader:
         skill_dir = self._get_skill_directory(skill_name)
         skill_dir.mkdir(parents=True, exist_ok=True)
         
+        # Update progress stats with current skill
+        self.stats_writer.update_current_skill(skill_name)
+        
         # Limit books if specified
         max_books = self.config.get('max_books_per_skill', 1000)
         if len(books) > max_books:
@@ -493,6 +539,13 @@ class BookDownloader:
                     results['skipped'] += 1
             else:
                 results['failed'] += 1
+                
+                # Check for consecutive failure threshold
+                if self.consecutive_failures >= self.MAX_CONSECUTIVE_FAILURES:
+                    self.logger.error(f"🛑 STOPPING: {self.consecutive_failures} consecutive failures reached (threshold: {self.MAX_CONSECUTIVE_FAILURES})")
+                    self.logger.error("This may indicate a systematic issue (authentication, network, or server problems)")
+                    self.logger.error("Please check your authentication and try again later")
+                    raise Exception(f"Consecutive failure threshold reached: {self.consecutive_failures} failures")
             
             # Save progress after each book
             self._save_progress()
@@ -503,6 +556,9 @@ class BookDownloader:
         
         # Mark skill as completed
         self.progress_tracker.complete_skill(skill_name)
+        
+        # Update progress stats with skill completion
+        self.stats_writer.update_skill_completed(skill_name, results)
         
         self.logger.info(f"Completed {skill_name}: {results}")
         return results
@@ -537,6 +593,9 @@ class BookDownloader:
         self.progress_tracker.start_session(len(skill_books), total_books)
         self.progress_tracker.set_pending_skills(list(skill_books.keys()))
         
+        # Initialize progress stats writer
+        self.stats_writer.update_session_start(len(skill_books), total_books)
+        
         self.logger.info(f"Starting download for {len(skill_books)} skills ({total_books:,} total books)")
         start_time = time.time()
         
@@ -566,11 +625,44 @@ class BookDownloader:
                     self.progress_tracker.create_checkpoint()
                 
             except Exception as e:
-                self.logger.error(f"Error processing skill {skill_name}: {e}")
-                total_results['skill_results'][skill_name] = {'error': str(e)}
+                if "Consecutive failure threshold reached" in str(e):
+                    # Handle consecutive failure threshold
+                    self.logger.error(f"🛑 CONSECUTIVE FAILURE THRESHOLD REACHED")
+                    self.logger.error(f"Stopping download process due to {self.consecutive_failures} consecutive failures")
+                    self.logger.error("This indicates a systematic issue that needs attention")
+                    
+                    # Save progress and cookies before stopping
+                    self._save_progress()
+                    self._save_cookies()
+                    
+                    # Add failure summary to results
+                    total_results['skill_results'][skill_name] = {
+                        'error': f"Consecutive failure threshold reached: {self.consecutive_failures} failures",
+                        'consecutive_failures': self.consecutive_failures,
+                        'stopped_due_to_threshold': True
+                    }
+                    
+                    # Log final summary
+                    self.logger.error(f"\n{'='*60}")
+                    self.logger.error("DOWNLOAD STOPPED DUE TO CONSECUTIVE FAILURES")
+                    self.logger.error(f"{'='*60}")
+                    self.logger.error(f"Consecutive failures: {self.consecutive_failures}")
+                    self.logger.error(f"Total books processed: {len(self.downloaded_books)}")
+                    self.logger.error(f"Total failed books: {len(self.failed_books)}")
+                    self.logger.error("Please check your authentication and network connection")
+                    self.logger.error("You can resume by running the script again")
+                    
+                    break  # Stop processing more skills
+                else:
+                    # Handle other skill processing errors
+                    self.logger.error(f"Error processing skill {skill_name}: {e}")
+                    total_results['skill_results'][skill_name] = {'error': str(e)}
         
         # Mark session as completed
         self.progress_tracker.complete_session()
+        
+        # Finalize progress stats
+        self.stats_writer.finalize(total_results)
         
         # Save final cookie state (CRITICAL: persist fresh tokens)
         self._save_cookies()
@@ -636,6 +728,8 @@ Examples:
                        help='Save authentication cookies after N books (default: 5)')
     parser.add_argument('--verbose', '-v', action='store_true', help='Verbose logging')
     parser.add_argument('--dry-run', action='store_true', help='Show what would be downloaded without actually downloading')
+    parser.add_argument('--no-sound', action='store_true', help='Disable sound notifications')
+    parser.add_argument('--sound-file', help='Path to custom sound file for notifications')
     
     args = parser.parse_args()
     
@@ -653,6 +747,10 @@ Examples:
         downloader.config['token_save_interval'] = args.token_save_interval
     if args.verbose:
         downloader.config['verbose'] = True
+    if args.no_sound:
+        downloader.config['enable_sound_notifications'] = False
+    if args.sound_file:
+        downloader.config['sound_file'] = args.sound_file
     
     if args.dry_run:
         print("DRY RUN MODE - No downloads will be performed")
@@ -666,9 +764,20 @@ Examples:
         
         if len(skill_books) > 10:
             print(f"  ... and {len(skill_books) - 10} more skills")
+        
+        # Show progress stats file info
+        stats_file = downloader.config.get('progress_stats_file', 'output/download_progress_live.txt')
+        print(f"\n📊 Progress stats will be written to: {stats_file}")
+        print(f"   Run 'tail -f {stats_file}' in another terminal to monitor progress")
         return
     
     try:
+        # Show progress stats file info
+        stats_file = downloader.config.get('progress_stats_file', 'output/download_progress_live.txt')
+        print(f"📊 Progress stats will be written to: {stats_file}")
+        print(f"   Run 'tail -f {stats_file}' in another terminal to monitor progress")
+        print()
+        
         # Start the download process (serial)
         results = downloader.download_all_books(args.skills)
         
