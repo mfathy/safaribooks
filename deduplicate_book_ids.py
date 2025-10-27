@@ -82,8 +82,8 @@ def merge_book_entries(book1, book2):
     elif count_fields(book2) > count_fields(book1) + 2:
         return book2
     
-    # Otherwise, prefer the one with more important fields
-    important_fields = ['main_topic', 'secondary_topics', 'description', 'authors', 'publisher']
+    # Otherwise, prefer the one with more important fields (excluding topic fields)
+    important_fields = ['description', 'authors', 'publisher', 'format', 'url']
     book1_score = sum(1 for field in important_fields if book1.get(field))
     book2_score = sum(1 for field in important_fields if book2.get(field))
     
@@ -185,7 +185,7 @@ def merge_all_sources():
                 if not book_id:
                     continue
                 
-                # Check if book already exists
+                # Check if book already exists in this skill
                 existing_book = None
                 for i, existing in enumerate(merged_books):
                     if existing.get('id') == book_id:
@@ -193,14 +193,14 @@ def merge_all_sources():
                         break
                 
                 if existing_book:
-                    # Merge with existing book
+                    # Merge with existing book (same skill only)
                     old_book = existing_book[1]
                     new_book = merge_book_entries(old_book, book)
                     if new_book != old_book:
                         merged_books[existing_book[0]] = new_book
                         merge_stats['books_enhanced'] += 1
                 else:
-                    # Add new book
+                    # Add new book to this skill
                     merged_books.append(book)
                     merge_stats['books_merged'] += 1
         
