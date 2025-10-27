@@ -21,3 +21,5 @@ class BookDownloadError(Exception):
         if self.book_title:
             return f"{base_msg} (Book: {self.book_title})"
         return base_msg
+
+
