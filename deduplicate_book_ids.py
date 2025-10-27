@@ -52,9 +52,9 @@ def create_timestamped_backups():
     
     # Define source directories and their backup names
     sources = {
-        'main': ('/Users/mohammed/Work/oreilly-books/book_ids', f'book_ids_backup_{timestamp}'),
-        'discover_v2': ('/Users/mohammed/Work/oreilly-books/discover_v2/book_ids', f'discover_v2_backup_{timestamp}'),
-        'discover_by_page': ('/Users/mohammed/Work/oreilly-books/discover_by_page/book_ids', f'discover_by_page_backup_{timestamp}')
+        'main': ('/Users/mohammed/Work/oreilly-books/book_ids', f'book_ids_main_backup_{timestamp}'),
+        'book_ids_backup': ('/Users/mohammed/Work/oreilly-books/book_ids_backup', f'book_ids_backup_{timestamp}'),
+        'discover_v2': ('/Users/mohammed/Work/oreilly-books/discover_v2/book_ids', f'discover_v2_backup_{timestamp}')
     }
     
     print("Creating timestamped backups...")
@@ -111,7 +111,6 @@ def merge_all_sources():
     # Define source directories in processing order
     source_dirs = [
         ('/Users/mohammed/Work/oreilly-books/book_ids_backup', 'backup'),
-        ('/Users/mohammed/Work/oreilly-books/discover_by_page/book_ids', 'discover_by_page'),
         ('/Users/mohammed/Work/oreilly-books/discover_v2/book_ids', 'discover_v2')
     ]
     
@@ -223,7 +222,6 @@ def cleanup_source_directories():
     
     source_dirs = [
         '/Users/mohammed/Work/oreilly-books/book_ids_backup',
-        '/Users/mohammed/Work/oreilly-books/discover_by_page/book_ids',
         '/Users/mohammed/Work/oreilly-books/discover_v2/book_ids'
     ]
     
