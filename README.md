@@ -58,6 +58,8 @@ Book ID is the number in the URL: `https://learning.oreilly.com/library/view/boo
 ```bash
 python3 discover_book_ids.py --skills "Python" "Machine Learning"  # Specific skills
 python3 discover_book_ids.py --dry-run                             # Test run
+python3 discover_book_ids.py --skills-source all                   # Use skills/output/all_skills_organized.json
+python3 discover_book_ids.py --skills-source favorites             # Use skills/output/favorite_skills_organized.json
 ```
 
 ### Download Options

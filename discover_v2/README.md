@@ -40,7 +40,7 @@ This is a modernized version of the book discovery script that uses O'Reilly's v
 Discover all skills:
 ```bash
 cd discover_v2
-python3 discover_book_ids_v2.py
+python3 discover_book_ids_v2.py --skills-source all
 ```
 
 ### Discover Specific Skills
@@ -67,7 +67,7 @@ python3 discover_book_ids_v2.py --update
 
 See what would be discovered without actually running:
 ```bash
-python3 discover_book_ids_v2.py --dry-run
+python3 discover_book_ids_v2.py --skills-source favorites --dry-run
 ```
 
 ### Verbose Mode

@@ -49,6 +49,42 @@ class BookIDDiscoverer:
         # Load existing progress if resuming
         if self.config.get('resume', True):
             self._load_progress()
+
+    def _repo_root(self) -> Path:
+        """Locate repository root from this file."""
+        return Path(__file__).resolve().parent
+
+    def _skills_output_file_from_choice(self, choice: str) -> Path:
+        """Map skills-source choice to skills/output file path."""
+        base = self._repo_root() / 'skills' / 'output'
+        if choice == 'all':
+            return base / 'all_skills_organized.json'
+        return base / 'favorite_skills_organized.json'
+
+    def load_skills_from_output(self, choice: str) -> List[Dict]:
+        """Load skills from skills/output organized files.
+
+        Returns list of { 'title': str, 'books': int | None }
+        """
+        skills_path = self._skills_output_file_from_choice(choice)
+        if not skills_path.exists():
+            raise FileNotFoundError(f"Skills output file not found: {skills_path}")
+
+        with open(skills_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
+        skills_items = data.get('skills')
+        if isinstance(skills_items, list):
+            normalized: List[Dict] = []
+            for item in skills_items:
+                if isinstance(item, dict) and 'title' in item:
+                    normalized.append({'title': item.get('title', ''), 'books': item.get('books')})
+                elif isinstance(item, str):
+                    normalized.append({'title': item, 'books': None})
+            self.logger.info(f"Loaded {len(normalized)} skills from {skills_path.name}")
+            return normalized
+
+        raise ValueError(f"Unknown skills file format in {skills_path}")
     
     def _load_config(self, config_file: str) -> Dict:
         """Load configuration from file or use defaults"""
@@ -526,7 +562,15 @@ class BookIDDiscoverer:
     
     def discover_all_skills(self, skill_filter: List[str] = None) -> Dict:
         """Discover books for all favorite skills"""
-        skills_data = self.load_favorite_skills()
+        skills_choice = self.config.get('skills_source')
+        if skills_choice in ['all', 'favorites']:
+            try:
+                skills_data = self.load_skills_from_output(skills_choice)
+            except Exception as e:
+                self.logger.warning(f"Failed to load skills from output files ({skills_choice}): {e}. Falling back to config skills file.")
+                skills_data = self.load_favorite_skills()
+        else:
+            skills_data = self.load_favorite_skills()
         
         if skill_filter:
             skills_data = [s for s in skills_data if any(f.lower() in s['title'].lower() for f in skill_filter)]
@@ -762,6 +806,8 @@ Examples:
     
     parser.add_argument('--config', '-c', help='Configuration file path')
     parser.add_argument('--skills', '-s', nargs='+', help='Specific skills to discover (filters the list)')
+    parser.add_argument('--skills-source', choices=['all', 'favorites'], default='all',
+                        help='Source skills from skills/output organized files (default: all)')
     parser.add_argument('--max-pages', type=int, help='Maximum API pages per skill')
     parser.add_argument('--workers', type=int, help='Number of concurrent discovery threads')
     parser.add_argument('--verbose', '-v', action='store_true', help='Verbose logging')
@@ -780,10 +826,20 @@ Examples:
         discoverer.config['max_workers'] = args.workers
     if args.verbose:
         discoverer.config['verbose'] = True
+    # Configure skills source
+    if args.skills_source:
+        discoverer.config['skills_source'] = args.skills_source
     
     if args.dry_run:
         print("DRY RUN MODE - No discovery will be performed")
-        skills_data = discoverer.load_favorite_skills()
+        if discoverer.config.get('skills_source') in ['all', 'favorites']:
+            try:
+                skills_data = discoverer.load_skills_from_output(discoverer.config['skills_source'])
+            except Exception as e:
+                print(f"Warning: failed to load skills from output: {e}. Falling back to config skills file.")
+                skills_data = discoverer.load_favorite_skills()
+        else:
+            skills_data = discoverer.load_favorite_skills()
         if args.skills:
             skills_data = [s for s in skills_data if any(f.lower() in s['title'].lower() for f in args.skills)]
         

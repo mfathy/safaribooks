@@ -1,0 +1,36 @@
+O'REILLY BOOKS DISCOVERY SUMMARY (V2 API - No Auth)
+==================================================
+
+Total Skills Processed: 303
+Successful Skills: 299
+Failed Skills: 4
+Total Books Discovered: 15,393
+Total Books Expected: 75,069
+Difference: -59,676 books
+
+TOP SKILLS BY BOOK COUNT:
+------------------------------
+Python: 627 books
+Business Strategy: 613 books
+Java: 510 books
+Project Management: 506 books
+Entrepreneurship: 414 books
+Personal Finance: 393 books
+Artificial Intelligence (AI): 366 books
+Machine Learning: 310 books
+Leadership and Management: 309 books
+Professional Development: 302 books
+Trading Stocks: 277 books
+Career Development: 274 books
+Professional Communication: 248 books
+Agile: 229 books
+Culture in Business: 202 books
+Data Science: 190 books
+Native Android Development: 185 books
+Executive Coaching: 171 books
+Confidence/Motivation: 159 books
+Confidence Motivation: 159 books
+... and 279 more skills
+
+Detailed results available in: discovery_results_v2.json
+Individual skill files in: book_ids/
