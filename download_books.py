@@ -75,7 +75,7 @@ class BookDownloader:
         
         # Consecutive failure tracking
         self.consecutive_failures = 0
-        self.MAX_CONSECUTIVE_FAILURES = 5
+        self.MAX_CONSECUTIVE_FAILURES = 7
         
         # Warn about parallel downloads if enabled
         max_workers = self.config.get('max_workers', 1)
@@ -318,6 +318,8 @@ class BookDownloader:
             # First check if EPUB files exist
             if self._check_epub_exists(skill_dir, book_id, self.config['epub_format']):
                 self.logger.info(f"⏭️  Skipping {book_title} (EPUB already exists)")
+                # Reset consecutive failures on skip (successful operation)
+                self.consecutive_failures = 0
                 # Mark as downloaded in progress tracker
                 if tracking_id not in self.downloaded_books:
                     self.downloaded_books.add(tracking_id)
@@ -327,6 +329,8 @@ class BookDownloader:
             # Then check progress tracker
             if tracking_id in self.downloaded_books or book_id in self.downloaded_books:
                 self.logger.info(f"⏭️  Skipping {book_title} (already downloaded)")
+                # Reset consecutive failures on skip (successful operation)
+                self.consecutive_failures = 0
                 # Update progress stats for skipped book
                 self.stats_writer.update_book_completed(was_downloaded=False, was_successful=True)
                 return True, False  # success=True, was_downloaded=False
