@@ -75,7 +75,7 @@ class BookDownloader:
         
         # Consecutive failure tracking
         self.consecutive_failures = 0
-        self.MAX_CONSECUTIVE_FAILURES = 7
+        self.MAX_CONSECUTIVE_FAILURES = 10
         
         # Warn about parallel downloads if enabled
         max_workers = self.config.get('max_workers', 1)
