@@ -688,12 +688,12 @@ hr {
                                    "    If you want to download again all the CSSs,\n"
                                    "    please delete the output directory '" + self.book_path + "'"
                                    " and restart the program.") %
-                                  css_file)
+                                  css_file, component="EpubGenerator")
                 self.display.css_ad_info.value = 1
         else:
             response = self._make_request(url)
             if response == 0:
-                self.display.error("Error trying to retrieve this CSS: %s\n    From: %s" % (css_file, url))
+                self.display.error("Error trying to retrieve this CSS: %s\n    From: %s" % (css_file, url), component="EpubGenerator")
             
             with open(css_file, 'wb') as s:
                 s.write(response.content)
@@ -712,7 +712,7 @@ hr {
                                    "    If you want to download again all the images,\n"
                                    "    please delete the output directory '" + self.book_path + "'"
                                    " and restart the program.") %
-                                  image_name)
+                                  image_name, component="EpubGenerator")
                 self.display.images_ad_info.value = 1
         else:
             # Retry logic for failed downloads (max 3 attempts)
@@ -722,14 +722,14 @@ hr {
                     response = self._make_request(urljoin(SAFARI_BASE_URL, url), stream=True)
                     if response == 0:
                         if attempt < max_retries - 1:
-                            self.display.log(f"Retry {attempt + 1}/{max_retries} for image: {image_name}")
+                            self.display.log(f"Retry {attempt + 1}/{max_retries} for image: {image_name}", component="EpubGenerator")
                             continue
                         else:
-                            self.display.error("Error trying to retrieve this image: %s\n    From: %s" % (image_name, url))
+                            self.display.error("Error trying to retrieve this image: %s\n    From: %s" % (image_name, url), component="EpubGenerator")
                             break
                     
                     with open(image_path, 'wb') as img:
-                        for chunk in response.iter_content(1024):
+                        for chunk in response.iter_content(8192):  # Larger chunks for better performance
                             img.write(chunk)
                     
                     # Success - break retry loop
@@ -737,34 +737,40 @@ hr {
                     
                 except Exception as e:
                     if attempt < max_retries - 1:
-                        self.display.log(f"Error downloading image (attempt {attempt + 1}/{max_retries}): {e}")
+                        self.display.log(f"Error downloading image (attempt {attempt + 1}/{max_retries}): {e}", component="EpubGenerator")
                         continue
                     else:
-                        self.display.error(f"Failed to download image {image_name} after {max_retries} attempts: {e}")
+                        self.display.error(f"Failed to download image {image_name} after {max_retries} attempts: {e}", component="EpubGenerator")
         
         self.images_done_queue.put(1)
         self.display.state(len(self.images), self.images_done_queue.qsize())
     
     def collect_css(self, css_list):
         """Download all CSS files"""
-        self.css = css_list
+        # Remove duplicate URLs before downloading
+        self.css = list(set(css_list)) if css_list else []
         self.display.state_status.value = -1
         
         # Initialize queue
         self.css_done_queue = Queue(0) if "win" not in sys.platform else WinQueue()
         
-        # Single-threaded download for stability
-        for css_url in self.css:
+        # Single-threaded download for stability with progress tracking
+        total = len(self.css)
+        for idx, css_url in enumerate(self.css, 1):
             self._thread_download_css(css_url)
+            # Log progress every CSS file
+            if total > 0:
+                self.display.log(f"Downloading CSS: {idx}/{total} - {css_url.split('/')[-1]}", component="EpubGenerator")
     
     def collect_images(self, images_list):
         """Download all image files"""
-        self.images = images_list
+        # Remove duplicate URLs before downloading
+        self.images = list(set(images_list)) if images_list else []
         if self.display.book_ad_info == 2:
             self.display.info("Some of the book contents were already downloaded.\n"
                               "    If you want to be sure that all the images will be downloaded,\n"
                               "    please delete the output directory '" + self.book_path +
-                              "' and restart the program.")
+                              "' and restart the program.", component="EpubGenerator")
         
         self.display.state_status.value = -1
         
@@ -777,6 +783,8 @@ hr {
     
     def create_enhanced_epub(self, api_url, book_id, path, is_kindle=False):
         """Create enhanced EPUB file with proper naming"""
+        epub_type = "Kindle-optimized" if is_kindle else "Standard"
+        self.display.info(f"📦 Starting EPUB 3.3 generation ({epub_type})...", state=True, component="EpubGenerator")
         # Create mimetype file
         with open(os.path.join(self.book_path, "mimetype"), "w") as f:
             f.write("application/epub+zip")
@@ -784,7 +792,7 @@ hr {
         # Create META-INF directory
         meta_info = os.path.join(self.book_path, "META-INF")
         if os.path.isdir(meta_info):
-            self.display.log("META-INF directory already exists: %s" % meta_info)
+            self.display.log("META-INF directory already exists: %s" % meta_info, component="EpubGenerator")
         else:
             os.makedirs(meta_info)
         
@@ -845,8 +853,8 @@ hr {
             else:
                 return self.session.get(url, **{k: v for k, v in kwargs.items() if k != 'stream'})
         except requests.exceptions.Timeout:
-            self.display.error(f"Request timeout: {url}")
+            self.display.error(f"Request timeout: {url}", component="EpubGenerator")
             return 0
         except Exception as e:
-            self.display.error(f"Request error: {e}")
+            self.display.error(f"Request error: {e}", component="EpubGenerator")
             return 0

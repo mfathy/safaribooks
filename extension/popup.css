@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 12px;
+  width: 380px;
+  max-width: 100%;
+  font-size: 13px;
+}
+h1 {
+  font-size: 15px;
+  margin: 0 0 8px;
+}
+.hint {
+  margin: 0 0 8px;
+  color: #444;
+  line-height: 1.35;
+}
+code {
+  font-size: 12px;
+}
+.file {
+  display: block;
+  margin-bottom: 8px;
+}
+.file input {
+  position: absolute;
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+.file span {
+  display: inline-block;
+  padding: 6px 12px;
+  background: #1a73e8;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+}
+.file span:hover {
+  background: #1557b0;
+}
+.muted {
+  color: #666;
+  font-size: 12px;
+  margin: 0 0 8px;
+  word-break: break-all;
+}
+.row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+button {
+  padding: 6px 12px;
+  font-size: 13px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #f8f8f8;
+}
+button:hover {
+  background: #eee;
+}
+.log-hint {
+  margin: 10px 0 0;
+  font-size: 11px;
+  line-height: 1.4;
+  color: #333;
+}
+.log-hint code {
+  font-size: 10px;
+}
+.status {
+  margin: 0;
+  padding: 8px;
+  background: #f4f4f4;
+  border-radius: 4px;
+  font-size: 11px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  max-height: 200px;
+  overflow: auto;
+}

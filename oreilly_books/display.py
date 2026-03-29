@@ -16,11 +16,12 @@ from lxml import html
 
 
 class Display:
-    """Display and logging management"""
+    """Display and logging management with unified component-based logging"""
     
+    # Unified format: [HH:MM:SS] [COMPONENT] [LEVEL] Message
     BASE_FORMAT = logging.Formatter(
-        fmt="[%(asctime)s] %(message)s",
-        datefmt="%d/%b/%Y %H:%M:%S"
+        fmt="[%(asctime)s] [%(component)s] [%(levelname)s] %(message)s",
+        datefmt="%H:%M:%S"
     )
 
     SH_DEFAULT = "\033[0m" if "win" not in sys.platform else ""
@@ -28,25 +29,40 @@ class Display:
     SH_BG_RED = "\033[41m" if "win" not in sys.platform else ""
     SH_BG_YELLOW = "\033[43m" if "win" not in sys.platform else ""
 
-    def __init__(self, log_file, path):
+    def __init__(self, log_file, path, component="Display"):
         self.path = path
         self.output_dir = ""
         self.output_dir_set = False
+        self.default_component = component  # Default component name
         
         # Ensure logs directory exists
         log_path = os.path.join(path, "logs", log_file)
         os.makedirs(os.path.dirname(log_path), exist_ok=True)
         self.log_file = log_path
 
+        # Create logger with custom adapter for component support
         self.logger = logging.getLogger("SafariBooks")
         self.logger.setLevel(logging.INFO)
-        logs_handler = logging.FileHandler(filename=self.log_file)
-        logs_handler.setFormatter(self.BASE_FORMAT)
-        logs_handler.setLevel(logging.INFO)
-        self.logger.addHandler(logs_handler)
+        
+        # Remove existing handlers to avoid duplicates
+        self.logger.handlers = []
+        
+        # File handler
+        file_handler = logging.FileHandler(filename=self.log_file)
+        file_handler.setFormatter(self.BASE_FORMAT)
+        file_handler.setLevel(logging.INFO)
+        self.logger.addHandler(file_handler)
+        
+        # Console handler (stdout)
+        console_handler = logging.StreamHandler(sys.stdout)
+        console_handler.setFormatter(self.BASE_FORMAT)
+        console_handler.setLevel(logging.INFO)
+        self.logger.addHandler(console_handler)
 
         self.columns, _ = shutil.get_terminal_size()
-        self.logger.info("** Welcome to SafariBooks! **")
+        
+        # Log welcome message with component
+        self._log_with_component("INFO", "** Welcome to SafariBooks! **", self.default_component)
 
         self.book_ad_info = False
         self.css_ad_info = Value("i", 0)
@@ -55,6 +71,15 @@ class Display:
         self.in_error = False
         self.state_status = Value("i", 0)
         sys.excepthook = self.unhandled_exception
+    
+    def _log_with_component(self, level, message, component=None):
+        """Internal method to log with component context"""
+        if component is None:
+            component = self.default_component
+        
+        # Create a logging adapter that adds component context
+        extra = {'component': component}
+        getattr(self.logger, level.lower())(message, extra=extra)
 
     def set_output_dir(self, output_dir):
         self.info("Output directory:\n    %s" % output_dir)
@@ -65,32 +90,42 @@ class Display:
         self.logger.handlers[0].close()
         sys.excepthook = sys.__excepthook__
 
-    def log(self, message):
+    def log(self, message, component=None):
+        """Log a message with optional component tag"""
         try:
-            self.logger.info(str(message, "utf-8", "replace"))
+            msg = str(message, "utf-8", "replace")
         except (UnicodeDecodeError, Exception):
-            self.logger.info(message)
+            msg = str(message)
+        self._log_with_component("INFO", msg, component)
 
     def out(self, put):
+        """Legacy method - now logs through logger instead of direct stdout"""
+        # For backwards compatibility, but prefer using log() directly
         pattern = "\r{!s}\r{!s}\n"
         try:
             s = pattern.format(" " * self.columns, str(put, "utf-8", "replace"))
         except TypeError:
             s = pattern.format(" " * self.columns, put)
+        # Still write to stdout for backwards compatibility, but main logging goes through logger
         sys.stdout.write(s)
 
-    def info(self, message, state=False):
-        self.log(message)
-        output = (self.SH_YELLOW + "[*]" + self.SH_DEFAULT if not state else
-                  self.SH_BG_YELLOW + "[-]" + self.SH_DEFAULT) + " %s" % message
-        self.out(output)
+    def info(self, message, state=False, component=None):
+        """Log an info message with optional component tag"""
+        self.log(message, component)
+        # For visual indicators in console, we can keep some formatting but main log goes through logger
+        if state:
+            # This is for important status messages
+            pass  # Already logged via self.log()
 
-    def error(self, error):
+    def error(self, error, component=None):
+        """Log an error message with optional component tag"""
         if not self.in_error:
             self.in_error = True
-        self.log(error)
-        output = self.SH_BG_RED + "[#]" + self.SH_DEFAULT + " %s" % error
-        self.out(output)
+        try:
+            msg = str(error, "utf-8", "replace")
+        except (UnicodeDecodeError, Exception):
+            msg = str(error)
+        self._log_with_component("ERROR", msg, component)
 
     def exit(self, error, raise_exception=False):
         self.error(str(error))
@@ -112,7 +147,7 @@ class Display:
             sys.exit(1)
 
     def unhandled_exception(self, _, o, tb):
-        self.log("".join(traceback.format_tb(tb)))
+        self.log("".join(traceback.format_tb(tb)), component="Exception")
         self.exit("Unhandled Exception: %s (type: %s)" % (o, o.__class__.__name__))
 
     def save_last_request(self):
@@ -146,7 +181,7 @@ class Display:
         try:
             return html.fromstring(desc).text_content()
         except (html.etree.ParseError, html.etree.ParserError) as e:
-            self.log("Error parsing the description: %s" % e)
+            self.log("Error parsing the description: %s" % e, component="Parser")
             return "n/d"
 
     def book_info(self, info):

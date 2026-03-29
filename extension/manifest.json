@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "O'Reilly Book Queue (POC)",
+  "version": "0.1.0",
+  "description": "Serial queue: open library URLs, wait for download control, click, wait for completion text.",
+  "permissions": ["storage", "tabs", "scripting"],
+  "host_permissions": ["https://learning.oreilly.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Book Queue POC",
+    "default_popup": "popup.html"
+  }
+}

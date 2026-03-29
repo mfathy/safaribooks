@@ -109,7 +109,7 @@ class BookDownloader:
         try:
             root = html.fromstring(response.text, base_url=SAFARI_BASE_URL)
         except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
-            self.display.error(parsing_error)
+            self.display.error(parsing_error, component="BookDownloader")
             self.display.exit(
                 "Crawler: error trying to parse this page: %s (%s)\n    From: %s" %
                 (self.filename, self.chapter_title, url)
@@ -147,18 +147,18 @@ class BookDownloader:
                     
                     cover_path = os.path.join(self.images_path, f"default_cover.{file_ext}")
                     with open(cover_path, 'wb') as i:
-                        for chunk in response.iter_content(1024):
+                        for chunk in response.iter_content(8192):  # Larger chunks for better performance
                             i.write(chunk)
                     
                     # Check if we got a reasonable file size (at least 10KB)
                     if os.path.getsize(cover_path) > 10000:
-                        self.display.info(f"Downloaded high-res cover: {os.path.getsize(cover_path) // 1024}KB")
+                        self.display.info(f"Downloaded high-res cover: {os.path.getsize(cover_path) // 1024}KB", component="BookDownloader")
                         return f"default_cover.{file_ext}"
                 except Exception as e:
                     self.display.debug(f"Failed to download from {url}: {e}")
                     continue
         
-        self.display.error("Error trying to retrieve the cover: %s" % cover_url)
+        self.display.error("Error trying to retrieve the cover: %s" % cover_url, component="BookDownloader")
         return False
     
     @staticmethod
@@ -225,7 +225,7 @@ class BookDownloader:
             for chapter_css_url in self.chapter_stylesheets:
                 if chapter_css_url not in self.css:
                     self.css.append(chapter_css_url)
-                    self.display.log("Crawler: found a new CSS at %s" % chapter_css_url)
+                    self.display.log("Discovered CSS: %s" % chapter_css_url.split('/')[-1], component="BookDownloader")
                 page_css += "<link href=\"Styles/Style{0:0>2}.css\" " \
                             "rel=\"stylesheet\" type=\"text/css\" />\n".format(self.css.index(chapter_css_url))
         
@@ -236,7 +236,7 @@ class BookDownloader:
                     else urljoin(self.base_url, s.attrib["href"])
                 if css_url not in self.css:
                     self.css.append(css_url)
-                    self.display.log("Crawler: found a new CSS at %s" % css_url)
+                    self.display.log("Discovered CSS: %s" % css_url.split('/')[-1], component="BookDownloader")
                 page_css += "<link href=\"Styles/Style{0:0>2}.css\" " \
                             "rel=\"stylesheet\" type=\"text/css\" />\n".format(self.css.index(css_url))
         
@@ -249,7 +249,7 @@ class BookDownloader:
                 try:
                     page_css += html.tostring(css, method="xml", encoding='unicode') + "\n"
                 except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
-                    self.display.error(parsing_error)
+                    self.display.error(parsing_error, component="BookDownloader")
                     self.display.exit(
                         "Parser: error trying to parse one CSS found in this page: %s (%s)" %
                         (self.filename, self.chapter_title)
@@ -291,7 +291,7 @@ class BookDownloader:
             
             xhtml = html.tostring(book_content, method="xml", encoding='unicode')
         except (html.etree.ParseError, html.etree.ParserError) as parsing_error:
-            self.display.error(parsing_error)
+            self.display.error(parsing_error, component="BookDownloader")
             self.display.exit(
                 "Parser: error trying to parse HTML of this page: %s (%s)" %
                 (self.filename, self.chapter_title)
@@ -314,7 +314,7 @@ class BookDownloader:
             
             return response
         except Exception as e:
-            self.display.error(f"Request error: {e}")
+            self.display.error(f"Request error: {e}", component="BookDownloader")
             return 0
     
     def download_chapters(self, chapters_queue, base_html_template):
@@ -358,7 +358,8 @@ class BookDownloader:
                         ("File `%s` already exists.\n"
                          "    If you want to download again all the book,\n"
                          "    please delete the output directory '" + self.BOOK_PATH + "' and restart the program.")
-                         % self.filename.replace(".html", ".xhtml")
+                         % self.filename.replace(".html", ".xhtml"),
+                        component="BookDownloader"
                     )
                     self.display.book_ad_info = 2
             else:
@@ -371,4 +372,4 @@ class BookDownloader:
         self.filename = self.filename.replace(".html", ".xhtml")
         with open(os.path.join(self.BOOK_PATH, "OEBPS", self.filename), "wb") as f:
             f.write(base_html_template.format(contents[0], contents[1]).encode("utf-8", 'xmlcharrefreplace'))
-        self.display.log("Created: %s" % self.filename)
+        self.display.log("Downloaded chapter: %s" % self.filename)

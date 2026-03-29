@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Book Queue POC</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <h1>Book Queue</h1>
+  <p class="hint">Load your JSON (array of <code>url</code> / <code>title</code>), then Start.</p>
+  <label class="file">
+    <input type="file" id="file" accept=".json,application/json" />
+    <span>Choose JSON</span>
+  </label>
+  <p id="file-label" class="muted"></p>
+  <div class="row">
+    <button type="button" id="start">Start</button>
+    <button type="button" id="pause">Pause</button>
+    <button type="button" id="reset">Reset</button>
+  </div>
+  <pre id="status" class="status" aria-live="polite"></pre>
+  <p class="log-hint">
+    <strong>Where to see logs:</strong> Open <code>chrome://extensions</code> → this extension →
+    <strong>Service worker</strong> → <strong>Inspect</strong>. Page tabs do not show extension logs.
+    Popup: right‑click this panel → Inspect.
+  </p>
+  <script src="popup.js"></script>
+</body>
+</html>

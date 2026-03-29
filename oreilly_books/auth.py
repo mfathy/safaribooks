@@ -31,6 +31,16 @@ class AuthManager:
         self.session.headers.update(HEADERS)
         self.jwt = {}
         
+        # Configure HTTP connection pooling for better performance (reuse connections)
+        adapter = requests.adapters.HTTPAdapter(
+            pool_connections=20,    # Number of connection pools to cache
+            pool_maxsize=20,        # Max connections per host
+            max_retries=3,          # Max retries per request
+            pool_block=False        # Non-blocking pool
+        )
+        self.session.mount('https://', adapter)
+        self.session.mount('http://', adapter)
+        
         # Configure default timeout for all requests (connect timeout, read timeout)
         # This prevents hanging on slow/unresponsive servers
         self.default_timeout = (10, 30)  # 10s connect, 30s read
